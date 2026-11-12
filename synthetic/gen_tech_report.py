@@ -37,6 +37,8 @@ def main():
     v1mig = load(VC / "e10_full/v1_migration.json") if (VC / "e10_full/v1_migration.json").exists() else None
     stockb = load(ROOT / "data/stock_benchmark.json")
     stockres = load(VC / "stock_e8g_results.json")
+    genrec = load(VC / "gen_reconciliation.json")
+    genpair = load(VC / "gen_paired_bootstrap.json")
     fix = load(VC / "e10_full/fix_summary.json")
     reg = load(ROOT / "data/registry_v3.json")
     sha = load(ROOT / "data/sha_file_index.json")
@@ -58,7 +60,7 @@ def main():
 
 - 任务: 门店门头图像中的"左邻右舍"品牌识别(检索 + 验证),真实照片与硬负例混合语料。
 - 当前最优运行点: **E8-G 冻结融合 F1 {op['f1']:.3f}**(P {op['precision']:.3f} / R {op['recall']:.3f},thr {op['thr']:.3f},330 张盲测)。
-- VLM 四态证据层(E10): v1 模式 B F1 {modeB_v1['f1']:.3f};v2 加强指令 F1 {v2rec['modeB']['f1']:.3f}。**配对 bootstrap 显示 A/B/VLM-alone 两两差异均不显著**(B−A ΔF1 {v2pair['pairs']['B-A']['delta_f1']:+.2f} [{v2pair['pairs']['B-A']['lo']:+.2f},{v2pair['pairs']['B-A']['hi']:+.2f}])。
+- VLM 四态证据层(E10): v1 模式 B F1 {modeB_v1['f1']:.3f};v2 加强指令 F1 {v2rec['modeB']['f1']:.3f};**GEN 独立泛化集上模式 A {genrec['results']['modeA']['F1']:.3f} > 模式 B {genrec['results']['modeB']['F1']:.3f},排名跨集翻转**,全部配对差异跨零(330 与 GEN 均然)。
 - 三项不可豁免门槛: ① 全部评估为**探索性**(rights=pending_review, G0/G1 未过);② 模式间差异无统计证据,不得宣布某模式"最优";③ F1 0.86–0.95 为合成+采集域指标,**不得**解读为真实业务准确率。
 
 ## 2. 数据与治理
@@ -66,6 +68,7 @@ def main():
 | 库 | 规模 | 用途 | 权利 |
 |---|---|---|---|
 | registry_v3 | {len(reg)} 行 / {sum(1 for r in reg if r.get('is_representative'))} 代表(sha 去重) | 训练/评估语料 | 真实图 pending_review;合成 self_created |
+| registry_gen | 独立泛化集 223 图/148 店组(110 正) | 跨采集源泛化评测,sha 级独立于 330 | 真实图 pending_review |
 | renders_3d | 820 (正 360/硬负 300/竞品 96/无招牌 40/异常 24) | 合成域:融合先验+硬负模板 | self_created synthetic_train_only |
 | stock_benchmark | {stockb['n']} (B 素材/R 实拍双通道标注+仲裁) | 素材域专项负例 | 内部评估 |
 | 金标准 gold | {len(key)} (全库覆盖+边界全采) | 人工双盲标注(协议+Kappa 工具就绪) | 内部评估 |
@@ -114,7 +117,17 @@ AuPR {e8g['auprc']:.3f};P@95R {e8g['p_at_95r']:.3f};R@95P {e8g['r_at_95p']:.3f}�
 **证伪记录**: §6.1 曾据 13/13 定向回归预测 v2 模式 B F1≈0.966,全量复测未兑现({v2rec['modeB']['f1']:.3f})——13/13 是回归测试不是泛化验证。裁决迁移矩阵主项: NON_MATCH→UNKNOWN ×{v2mig['matrix'].get('NON_MATCH->UNKNOWN',0)}(加强"两证据门槛"使 VLM 更保守,UNKNOWN 回退 E8-G 兜底,模式 B 的 R 由回退机制保住)。
 配对 bootstrap: B−A {v2pair['pairs']['B-A']['delta_f1']:+.2f} [{v2pair['pairs']['B-A']['lo']:+.2f},{v2pair['pairs']['B-A']['hi']:+.2f}] 显著={str(v2pair['pairs']['B-A']['significant']).lower()};B−VLM {v2pair['pairs']['B-VLM']['delta_f1']:+.2f} 显著={str(v2pair['pairs']['B-VLM']['significant']).lower()};A−VLM {v2pair['pairs']['A-VLM']['delta_f1']:+.2f} 显著={str(v2pair['pairs']['A-VLM']['significant']).lower()}。**没有任何模式差异统计显著。**
 
-### 4.4 素材域专项(stock_benchmark 220)
+### 4.4 GEN 独立泛化集(223 图/148 店组,sha 级独立)
+| 系统 | P | R | F1 | TP/FP/FN |
+|---|---|---|---|---|
+| E8-G(冻结 thr) | {genrec['results']['e8g_pred']['P']:.3f} | {genrec['results']['e8g_pred']['R']:.3f} | {genrec['results']['e8g_pred']['F1']:.3f} | {genrec['results']['e8g_pred']['tp']}/{genrec['results']['e8g_pred']['fp']}/{genrec['results']['e8g_pred']['fn']} |
+| VLM-alone | {genrec['results']['vlm_alone']['P']:.3f} | {genrec['results']['vlm_alone']['R']:.3f} | {genrec['results']['vlm_alone']['F1']:.3f} | {genrec['results']['vlm_alone']['tp']}/{genrec['results']['vlm_alone']['fp']}/{genrec['results']['vlm_alone']['fn']} |
+| 模式 A | {genrec['results']['modeA']['P']:.3f} | {genrec['results']['modeA']['R']:.3f} | {genrec['results']['modeA']['F1']:.3f} | {genrec['results']['modeA']['tp']}/{genrec['results']['modeA']['fp']}/{genrec['results']['modeA']['fn']} |
+| 模式 B | {genrec['results']['modeB']['P']:.3f} | {genrec['results']['modeB']['R']:.3f} | {genrec['results']['modeB']['F1']:.3f} | {genrec['results']['modeB']['tp']}/{genrec['results']['modeB']['fp']}/{genrec['results']['modeB']['fn']} |
+
+**排名跨集翻转**: GEN 上模式 A({genrec['results']['modeA']['F1']:.3f}) > 模式 B({genrec['results']['modeB']['F1']:.3f}),与 330 的 v1(B>A)相反;全部配对差跨零(B−A {genpair['pairs']['modeB-modeA']['delta']:+.3f} [{genpair['pairs']['modeB-modeA']['ci'][0]:+.3f},{genpair['pairs']['modeB-modeA']['ci'][1]:+.3f}])。GEN 上 VLM 变体误拒显著(FN 18,最大模糊边界=门店样式变体)。E10 对基线的提升在真实泛化域缩水至 +0.026。
+
+### 4.5 素材域专项(stock_benchmark 220)
 | 检查 | 结果 |
 |---|---|
 | E8-G 代理误收(两通道 0.5/0.5) | **{stockres['fp']}/{stockres['n']} = {stockres['fp_rate']:.1%}** @thr {stockres['thr']} |
