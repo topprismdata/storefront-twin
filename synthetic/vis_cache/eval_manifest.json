@@ -1,0 +1,22 @@
+{
+ "baseline_version": "e1e3-visual-v1.0",
+ "models": [
+  "dinov2",
+  "clip",
+  "siglip"
+ ],
+ "views": [
+  "full",
+  "crop"
+ ],
+ "device": "mps",
+ "k": 5,
+ "split": "store_id_grouped_LOSO",
+ "governance": "exploratory_probe_rights_pending_G0_G1_not_passed",
+ "embedding_dim": {
+  "dinov2": 768,
+  "clip": 512,
+  "siglip": 768
+ },
+ "n_configs": 6
+}

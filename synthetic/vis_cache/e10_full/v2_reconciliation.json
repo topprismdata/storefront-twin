@@ -1,0 +1,47 @@
+{
+ "n_covered": 330,
+ "batches_done": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "vlm_alone": {
+  "tp": 27,
+  "fp": 3,
+  "fn": 1,
+  "precision": 0.9,
+  "recall": 0.964,
+  "f1": 0.931
+ },
+ "modeA": {
+  "tp": 27,
+  "fp": 3,
+  "fn": 1,
+  "precision": 0.9,
+  "recall": 0.964,
+  "f1": 0.931
+ },
+ "modeB": {
+  "tp": 29,
+  "fp": 1,
+  "fn": 2,
+  "precision": 0.967,
+  "recall": 0.935,
+  "f1": 0.951
+ },
+ "vlm_tn": 299,
+ "modeA_tn": 299,
+ "modeB_tn": 298,
+ "n_conflicts": 4
+}

@@ -1,0 +1,20 @@
+{
+ "cap": [
+  {
+   "url": "https://map.baidu.com/search/%E5%B7%A6%E9%82%BB%E5%8F%B3%E8%88%8D%E4%BE%BF%E5%88%A9%E5%BA%97/@13370000,3520000,12z",
+   "len": 304068,
+   "body": "<!DOCTYPE HTML>\n<html>\n<head>\n<!--STATUS OK-->\n<meta charset=\"utf-8\" />\n<meta name=\"description\" content=\"浏览地图、搜索地点、查询公交驾车线路、查看实时路况，您的出行指南、生活助手。提供地铁线路图浏览，乘车方案查询，以及准确的票价和时间信息。\" />\n<meta name=\"keywords\""
+  },
+  {
+   "url": "https://map.baidu.com/?newmap=1&qt=cen&b=13342000,3509000;13403000,3536000&l=13&dtype=1&auth=W1NZJb7HCgUANAg2eGvNvyy57O9%40vyYYuxNTEBRNzHRtdw8E62qvyuC",
+   "len": 1779,
+   "body": "/**/jsonp59484991 && /**/jsonp59484991({\"bound_rank_params\":{\"nc\":1},\"content\":{\"business\":\"\\u83ab\\u5e72\\u5c71\\u8def,\\u548c\\u7766,\\u5c0f\\u6cb3\",\"district\":false,\"name\":\"\\u676d\\u5dde\\u5e02\",\"sup_bus\":1"
+  }
+ ],
+ "embedded": {
+  "nameMatches": [],
+  "uids": [
+   "0523a14174cd4a1db23c816b"
+  ]
+ }
+}

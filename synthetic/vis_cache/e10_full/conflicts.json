@@ -1,0 +1,38 @@
+[
+ {
+  "anon": "B01_20",
+  "image_id": "img_0483",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap_072d6aa50af9_378ba89b.jpg",
+  "truth": "positive",
+  "neg_type": "",
+  "group": "store_amap_B0FFM0KX3P",
+  "e8g_score": 0.811,
+  "e8g_pred": true,
+  "vlm_verdict": "NON_MATCH",
+  "vlm_text": "左邻右舍"
+ },
+ {
+  "anon": "B09_15",
+  "image_id": "img_0488",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap_e732d4f1f113_07904ce5.jpg",
+  "truth": "positive",
+  "neg_type": "",
+  "group": "store_amap_B0KG990ZNE",
+  "e8g_score": 0.64,
+  "e8g_pred": true,
+  "vlm_verdict": "UNKNOWN",
+  "vlm_text": "无"
+ },
+ {
+  "anon": "B11_04",
+  "image_id": "img_0038",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0029_ecf2075e0201.jpg",
+  "truth": "negative",
+  "neg_type": "logo",
+  "group": "img_0038",
+  "e8g_score": 0.356,
+  "e8g_pred": false,
+  "vlm_verdict": "MATCH",
+  "vlm_text": "左邻·右舍"
+ }
+]

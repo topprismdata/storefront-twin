@@ -1,0 +1,8 @@
+{
+ "baseline_version": "e0-b0a-rule-v1.0",
+ "ocr_lang": "chi_tra",
+ "ocr_config": "--oem 3 --psm 6",
+ "detector": "hsv_red_blue_projection",
+ "thresholds_fixed_a_priori": true,
+ "governance": "real_eval_exploratory_only_G0_G1_not_passed"
+}

@@ -1,0 +1,41 @@
+{
+ "n_groups": 322,
+ "n_pos_groups": 24,
+ "n_rows": 330,
+ "n_pos": 30,
+ "bootstrap_B": 2000,
+ "bootstrap_ci": {
+  "p": {
+   "mean": 0.774,
+   "lo": 0.619,
+   "hi": 0.911
+  },
+  "r": {
+   "mean": 0.934,
+   "lo": 0.838,
+   "hi": 1.0
+  },
+  "f1": {
+   "mean": 0.844,
+   "lo": 0.737,
+   "hi": 0.932
+  },
+  "auprc": {
+   "mean": 0.924,
+   "lo": 0.833,
+   "hi": 0.981
+  }
+ },
+ "nested_loso": {
+  "precision": 0.778,
+  "recall": 0.933,
+  "f1": 0.848,
+  "tp": 28,
+  "fp": 8,
+  "fn": 2,
+  "thr_mean": 0.636,
+  "thr_std": 0.0
+ },
+ "fixed_thr": 0.636,
+ "note": "门店级Bootstrap固定阈值;嵌套LOSO每折重选阈值消除选择偏差;正例门店少→区间偏宽"
+}

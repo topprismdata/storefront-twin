@@ -1,0 +1,114 @@
+[
+ {
+  "batch": 1,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch01_g1.jpg",
+  "anon_first": "B01_01",
+  "anon_last": "B01_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch01_g2.jpg"
+ },
+ {
+  "batch": 2,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch02_g1.jpg",
+  "anon_first": "B02_01",
+  "anon_last": "B02_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch02_g2.jpg"
+ },
+ {
+  "batch": 3,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch03_g1.jpg",
+  "anon_first": "B03_01",
+  "anon_last": "B03_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch03_g2.jpg"
+ },
+ {
+  "batch": 4,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch04_g1.jpg",
+  "anon_first": "B04_01",
+  "anon_last": "B04_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch04_g2.jpg"
+ },
+ {
+  "batch": 5,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch05_g1.jpg",
+  "anon_first": "B05_01",
+  "anon_last": "B05_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch05_g2.jpg"
+ },
+ {
+  "batch": 6,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch06_g1.jpg",
+  "anon_first": "B06_01",
+  "anon_last": "B06_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch06_g2.jpg"
+ },
+ {
+  "batch": 7,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch07_g1.jpg",
+  "anon_first": "B07_01",
+  "anon_last": "B07_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch07_g2.jpg"
+ },
+ {
+  "batch": 8,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch08_g1.jpg",
+  "anon_first": "B08_01",
+  "anon_last": "B08_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch08_g2.jpg"
+ },
+ {
+  "batch": 9,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch09_g1.jpg",
+  "anon_first": "B09_01",
+  "anon_last": "B09_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch09_g2.jpg"
+ },
+ {
+  "batch": 10,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch10_g1.jpg",
+  "anon_first": "B10_01",
+  "anon_last": "B10_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch10_g2.jpg"
+ },
+ {
+  "batch": 11,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch11_g1.jpg",
+  "anon_first": "B11_01",
+  "anon_last": "B11_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch11_g2.jpg"
+ },
+ {
+  "batch": 12,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch12_g1.jpg",
+  "anon_first": "B12_01",
+  "anon_last": "B12_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch12_g2.jpg"
+ },
+ {
+  "batch": 13,
+  "n": 24,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch13_g1.jpg",
+  "anon_first": "B13_01",
+  "anon_last": "B13_24",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch13_g2.jpg"
+ },
+ {
+  "batch": 14,
+  "n": 18,
+  "g1": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch14_g1.jpg",
+  "anon_first": "B14_01",
+  "anon_last": "B14_18",
+  "g2": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_full/batch14_g2.jpg"
+ }
+]

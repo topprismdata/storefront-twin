@@ -1,0 +1,7 @@
+{
+ "experiment": "E8-F",
+ "version": "e8f-fusion-v1.0",
+ "governance": "exploratory_probe_rights_pending_G0_G1_not_passed",
+ "split": "store_id_grouped_LOSO_kNN",
+ "note": "weights grid fully reported; thresholds selected by F1 on exploratory probe only, not deployable claims"
+}

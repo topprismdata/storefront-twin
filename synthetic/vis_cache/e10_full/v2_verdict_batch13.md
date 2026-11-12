@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B13_01 | OUT_OF_SCOPE | LINGSHOUKE |
+| B13_02 | UNKNOWN | 乐洁超市 |
+| B13_03 | OUT_OF_SCOPE | 无 |
+| B13_04 | OUT_OF_SCOPE | 无 |
+| B13_05 | OUT_OF_SCOPE | 无 |
+| B13_06 | UNKNOWN | BAOTU（宝图） |
+| B13_07 | OUT_OF_SCOPE | J…物流 |
+| B13_08 | MATCH | 左邻·右舍 |
+| B13_09 | UNKNOWN | 合物品生活超市（部分可辨） |
+| B13_10 | NON_MATCH | 芙蓉兴盛（疑似） |
+| B13_11 | UNKNOWN | 无法辨认 |
+| B13_12 | OUT_OF_SCOPE | 美宜佳便利店 |
+| B13_13 | OUT_OF_SCOPE | 无法辨认 |
+| B13_14 | OUT_OF_SCOPE | 无 |
+| B13_15 | OUT_OF_SCOPE | 无 |
+| B13_16 | OUT_OF_SCOPE | 无 |
+| B13_17 | UNKNOWN | 无法辨认 |
+| B13_18 | OUT_OF_SCOPE | 左邻右舍（宣传文字） |
+| B13_19 | OUT_OF_SCOPE | 注册公司 |
+| B13_20 | MATCH | 左邻·右舍 |
+| B13_21 | OUT_OF_SCOPE | 左邻右舍 |
+| B13_22 | OUT_OF_SCOPE | 无 |
+| B13_23 | NON_MATCH | 99 |
+| B13_24 | OUT_OF_SCOPE | 无 |

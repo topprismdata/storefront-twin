@@ -1,0 +1,54 @@
+{
+ "version": "1.0",
+ "frozen_date": "2026-11-12",
+ "status": "FROZEN_FOR_INDEPENDENT_TEST",
+ "purpose": "独立新门店泛化集验收预注册；采集前冻结，禁止用新集结果回流调规则",
+ "model": {
+  "fusion": "s = 0.4*CLIP_knn + 0.4*multicrop_DINOv2(clip((x-0.3)/0.5)) + 0.2*synth_probe",
+  "threshold_unrounded": 0.636379,
+  "threshold_comparison": "strict >",
+  "e8g_exploratory_f1": 0.862,
+  "e10_instruction_version": "v1 (NOT v2 strengthened — v2 falsified/overfit)",
+  "e10_instruction_sha256_16": "3fa9ee39a152b224",
+  "modes": {
+   "A": "rejection-only: final = e8g_pred AND verdict NOT IN {NON_MATCH,OUT_OF_SCOPE}",
+   "B": "reject+rescue: MATCH->True; NON_MATCH/OUT_OF_SCOPE->False; else->e8g_pred"
+  }
+ },
+ "isolation": {
+  "store_group": "new store_id zero intersection with existing 322 groups (24 pos)",
+  "photo_family": "sha256 + 256bit dHash Hamming<=12 cross-source dedup",
+  "prompt_development": "new set NEVER used for rule development; validation only"
+ },
+ "sample_size_targets": {
+  "pos_store_groups": ">=40 (add >=16-20 new)",
+  "photos_per_store": "2-4 cross-view",
+  "negatives": ">=150",
+  "competitor_hard_neg": ">=30",
+  "same_name_unrelated": ">=20",
+  "thin_clusters_priority": [
+   "CS-02书法体",
+   "CS-06超市型"
+  ],
+  "geo_provinces": ">=4"
+ },
+ "metrics": [
+  "modeA P/R/F1 + store-Bootstrap 95%CI (B=2000 fixed seed)",
+  "modeB P/R/F1 + store-Bootstrap 95%CI",
+  "paired deltaF1 B-A + 95%CI (crosses zero?)",
+  "positive recall Wilson CI",
+  "error-cost strata: competitor-falseMATCH / logo-falseMATCH / real-store-falseREJECT / UNKNOWN-fallback-falseACCEPT"
+ ],
+ "pass_criteria_exploratory": {
+  "necessary": "modeA or modeB F1 point >=0.85 AND recall CI lower >=0.70",
+  "generalization_signal": "new-set F1 vs exploratory F1 drop NOT significant within paired CI",
+  "not_required": "B superiority over A (if crosses 0 -> equivalent, choose by business error cost)"
+ },
+ "prohibitions": [
+  "no prompt/weight tuning on new set then re-report as generalization",
+  "VLM verdicts never training/gold labels",
+  "no deploy/public accuracy claim before G0/G1"
+ ],
+ "annotation": "double-blind independent + third-party adjudication (design doc §4.4)",
+ "governance": "rights pending_review; G0/G1 gate; exploratory only"
+}

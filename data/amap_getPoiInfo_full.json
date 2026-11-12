@@ -1,0 +1,87 @@
+{
+ "code": 1,
+ "data": {
+  "base": {
+   "poiid": "B0FFM0KX3P",
+   "id": "B0FFM0KX3P",
+   "name": "左邻右舍便利超市(环镇东路店)",
+   "base_shortname": "",
+   "address": "崇正路78号",
+   "tel": "13506790136",
+   "typecode": "060200",
+   "type": "060200",
+   "newtype": "060200",
+   "adcode": "330784",
+   "citycode": "330700",
+   "cityname": "金华市",
+   "districtname": "永康市",
+   "opentime": "周一至周日 07:15-24:00",
+   "building_status": "0",
+   "classify": "便利店",
+   "end_poi_extension": "0",
+   "distance": "0",
+   "distance_display": "",
+   "x": "120.172891",
+   "y": "28.981370"
+  },
+  "score": {
+   "rating": "4.1",
+   "averagecost": "",
+   "review_total": "3"
+  },
+  "photo": {
+   "cover_url": "http://store.is.autonavi.com/showpic/072d6aa50af953e67edf30899d68a325",
+   "ai_crop_cover_16_9": [
+    "http://store.is.autonavi.com/showpic/072d6aa50af953e67edf30899d68a325",
+    "http://store.is.autonavi.com/showpic/88cc130396dfc3841f5fe0b339231aa4",
+    "http://store.is.autonavi.com/showpic/f0c81cbec4d2dbe10bb5f8ca2c711918",
+    "http://store.is.autonavi.com/showpic/c1563e1a00d92c745ce2c757ba7b7f53",
+    "http://store.is.autonavi.com/showpic/d04a5f419f94cc815891e283409f09af"
+   ],
+   "pic_total": 6,
+   "gallery": [
+    {
+     "url": "http://store.is.autonavi.com/showpic/072d6aa50af953e67edf30899d68a325",
+     "type": "环境",
+     "src_type": "xiniu_xgc_bgc",
+     "score": 0.4231082814931869,
+     "aesthetic_score": 0.2024863362312317,
+     "category": "门头"
+    },
+    {
+     "url": "http://store.is.autonavi.com/showpic/88cc130396dfc3841f5fe0b339231aa4",
+     "type": "其他",
+     "src_type": "koubei_pic_info",
+     "score": 0.29965820312499997,
+     "aesthetic_score": 0.10424977540969849,
+     "category": "货架"
+    },
+    {
+     "url": "http://store.is.autonavi.com/showpic/f0c81cbec4d2dbe10bb5f8ca2c711918",
+     "type": "其他",
+     "src_type": "koubei_pic_info",
+     "score": 0.2889892578125,
+     "aesthetic_score": 0.08524614572525024,
+     "category": "货架"
+    }
+   ]
+  },
+  "tags": {
+   "tag_show_info": [],
+   "t_tag_list": [
+    "便利店",
+    "日杂店",
+    "超市"
+   ],
+   "t_tag": "便利店",
+   "tag_display": "便利店"
+  },
+  "geo": {
+   "longitude": "120.172891",
+   "latitude": "28.981370",
+   "bound": "",
+   "entrances": []
+  }
+ },
+ "traceId": "21049b7b17943871575733362e10c1"
+}

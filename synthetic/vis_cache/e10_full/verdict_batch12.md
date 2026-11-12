@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B12_01 | NON_MATCH | KK便利店 |
+| B12_02 | NON_MATCH | 今今便利店 |
+| B12_03 | OUT_OF_SCOPE | 左邻右舍 |
+| B12_04 | MATCH | 左邻·右舍 |
+| B12_05 | NON_MATCH | 便利森 |
+| B12_06 | NON_MATCH | 生鲜厨·生鲜市集 |
+| B12_07 | UNKNOWN | 无 |
+| B12_08 | OUT_OF_SCOPE | 合纵会 |
+| B12_09 | NON_MATCH | 千百汇 |
+| B12_10 | NON_MATCH | 语竹生活超市 |
+| B12_11 | NON_MATCH | 好邻店会员店 |
+| B12_12 | OUT_OF_SCOPE | 左邻右舍 |
+| B12_13 | NON_MATCH | 百民便利店 |
+| B12_14 | NON_MATCH | 凯儿祥 |
+| B12_15 | NON_MATCH | 正华便利 |
+| B12_16 | NON_MATCH | 潮生活连锁超市 |
+| B12_17 | NON_MATCH | 壹周田园超市 |
+| B12_18 | NON_MATCH | 好又多生活超市 |
+| B12_19 | OUT_OF_SCOPE | 左邻右舍 |
+| B12_20 | NON_MATCH | 24小时便利店 |
+| B12_21 | UNKNOWN | 便利店 |
+| B12_22 | OUT_OF_SCOPE | 左邻右舍 |
+| B12_23 | NON_MATCH | 7-ELEVEN |
+| B12_24 | OUT_OF_SCOPE | 左邻·右舍 |

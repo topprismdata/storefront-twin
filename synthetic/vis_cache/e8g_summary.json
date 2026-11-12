@@ -1,0 +1,200 @@
+{
+ "old_crop": {
+  "best_f1": {
+   "thr": 0.474,
+   "tp": 21,
+   "fp": 6,
+   "fn": 9,
+   "precision": 0.778,
+   "recall": 0.7,
+   "f1": 0.737
+  },
+  "risk_coverage": [
+   {
+    "coverage": 0.091,
+    "precision": 0.7,
+    "recall": 0.7
+   },
+   {
+    "coverage": 0.182,
+    "precision": 0.467,
+    "recall": 0.933
+   },
+   {
+    "coverage": 0.273,
+    "precision": 0.333,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.364,
+    "precision": 0.25,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.455,
+    "precision": 0.2,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.545,
+    "precision": 0.167,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.636,
+    "precision": 0.143,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.727,
+    "precision": 0.125,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.818,
+    "precision": 0.111,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.909,
+    "precision": 0.1,
+    "recall": 1.0
+   },
+   {
+    "coverage": 1.0,
+    "precision": 0.091,
+    "recall": 1.0
+   }
+  ]
+ },
+ "multicrop": {
+  "best_f1": {
+   "thr": 0.543,
+   "tp": 28,
+   "fp": 13,
+   "fn": 2,
+   "precision": 0.683,
+   "recall": 0.933,
+   "f1": 0.789
+  },
+  "risk_coverage": [
+   {
+    "coverage": 0.091,
+    "precision": 0.733,
+    "recall": 0.733
+   },
+   {
+    "coverage": 0.182,
+    "precision": 0.5,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.273,
+    "precision": 0.333,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.364,
+    "precision": 0.25,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.455,
+    "precision": 0.2,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.545,
+    "precision": 0.167,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.636,
+    "precision": 0.143,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.727,
+    "precision": 0.125,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.818,
+    "precision": 0.111,
+    "recall": 1.0
+   },
+   {
+    "coverage": 0.909,
+    "precision": 0.1,
+    "recall": 1.0
+   },
+   {
+    "coverage": 1.0,
+    "precision": 0.091,
+    "recall": 1.0
+   }
+  ]
+ },
+ "multicrop_grid_top5": [
+  {
+   "w_clip": 0.4,
+   "w_dino": 0.4,
+   "w_probe": 0.2,
+   "thr": 0.636,
+   "tp": 28,
+   "fp": 7,
+   "fn": 2,
+   "precision": 0.8,
+   "recall": 0.933,
+   "f1": 0.862
+  },
+  {
+   "w_clip": 0.5,
+   "w_dino": 0.4,
+   "w_probe": 0.1,
+   "thr": 0.695,
+   "tp": 28,
+   "fp": 7,
+   "fn": 2,
+   "precision": 0.8,
+   "recall": 0.933,
+   "f1": 0.862
+  },
+  {
+   "w_clip": 0.4,
+   "w_dino": 0.3,
+   "w_probe": 0.3,
+   "thr": 0.531,
+   "tp": 29,
+   "fp": 14,
+   "fn": 1,
+   "precision": 0.674,
+   "recall": 0.967,
+   "f1": 0.795
+  },
+  {
+   "w_clip": 0.5,
+   "w_dino": 0.3,
+   "w_probe": 0.2,
+   "thr": 0.591,
+   "tp": 28,
+   "fp": 13,
+   "fn": 2,
+   "precision": 0.683,
+   "recall": 0.933,
+   "f1": 0.789
+  },
+  {
+   "w_clip": 0.6,
+   "w_dino": 0.2,
+   "w_probe": 0.2,
+   "thr": 0.554,
+   "tp": 28,
+   "fp": 13,
+   "fn": 2,
+   "precision": 0.683,
+   "recall": 0.933,
+   "f1": 0.789
+  }
+ ]
+}

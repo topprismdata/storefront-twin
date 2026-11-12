@@ -1,0 +1,62 @@
+[
+ {
+  "image_id": "img_0000",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0000.jpg",
+  "features_hint": "红底白字左邻·右舍 No.0062 蓝红门头 店内货架",
+  "store_id": "store_0062",
+  "size": [
+   600,
+   400
+  ]
+ },
+ {
+  "image_id": "img_0005",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0005.jpg",
+  "features_hint": "红砖楼 蓝白横幅左邻·右舍",
+  "store_id": "",
+  "size": [
+   500,
+   300
+  ]
+ },
+ {
+  "image_id": "img_0010",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0010.jpg",
+  "features_hint": "蓝横幅左邻·右舍 门口防水布 似装修",
+  "store_id": "",
+  "size": [
+   1100,
+   825
+  ]
+ },
+ {
+  "image_id": "img_0015",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0015.jpg",
+  "features_hint": "夜景左邻·右舍 蓝底红蓝色带 疑PLUS",
+  "store_id": "",
+  "size": [
+   700,
+   398
+  ]
+ },
+ {
+  "image_id": "img_0022",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0022.jpg",
+  "features_hint": "街角两层门头红字左邻·右舍 蓝底 促销堆头 三轮车",
+  "store_id": "",
+  "size": [
+   558,
+   372
+  ]
+ },
+ {
+  "image_id": "img_0026",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0026.jpg",
+  "features_hint": "红蓝色带左邻·右舍 红灯笼春联福字 春节装饰",
+  "store_id": "",
+  "size": [
+   600,
+   383
+  ]
+ }
+]

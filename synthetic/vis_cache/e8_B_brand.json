@@ -1,0 +1,1982 @@
+[
+ {
+  "image_id": "img_0000",
+  "label": "positive",
+  "score": 0.9997862612184562,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0002",
+  "label": "positive",
+  "score": 0.035322844407663465,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0003",
+  "label": "positive",
+  "score": 0.9999910109097925,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0004",
+  "label": "positive",
+  "score": 0.41071450403518217,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0005",
+  "label": "positive",
+  "score": 0.568784935511271,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0007",
+  "label": "positive",
+  "score": 0.9295641853909016,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0008",
+  "label": "positive",
+  "score": 0.00430637126654064,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0009",
+  "label": "positive",
+  "score": 0.3034019202135033,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0010",
+  "label": "positive",
+  "score": 3.156128361282421e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0011",
+  "label": "positive",
+  "score": 0.9940211929785615,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0012",
+  "label": "positive",
+  "score": 0.2023066984387142,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0013",
+  "label": "positive",
+  "score": 0.009795122800834255,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0015",
+  "label": "positive",
+  "score": 0.0009805615017050126,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0017",
+  "label": "positive",
+  "score": 0.385836177354529,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0018",
+  "label": "positive",
+  "score": 0.9859017158071418,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0019",
+  "label": "positive",
+  "score": 0.027992388752209305,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0022",
+  "label": "negative",
+  "score": 0.006777452181506688,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0023",
+  "label": "positive",
+  "score": 0.9956052512613205,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0024",
+  "label": "positive",
+  "score": 0.10713682084791822,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0025",
+  "label": "positive",
+  "score": 0.9997862612184562,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0026",
+  "label": "positive",
+  "score": 0.035322844407663465,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0027",
+  "label": "positive",
+  "score": 0.00020101097800970775,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0028",
+  "label": "positive",
+  "score": 0.973227126459682,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0030",
+  "label": "negative",
+  "score": 6.199099156367231e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0031",
+  "label": "negative",
+  "score": 0.015620740358625195,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0033",
+  "label": "negative",
+  "score": 4.995506189118643e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0034",
+  "label": "negative",
+  "score": 8.0360232798975e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0035",
+  "label": "negative",
+  "score": 0.0011418382872624049,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0036",
+  "label": "negative",
+  "score": 0.0009529938249528687,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0038",
+  "label": "negative",
+  "score": 0.5575795466852942,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0039",
+  "label": "negative",
+  "score": 1.8535301380526736e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0040",
+  "label": "negative",
+  "score": 3.221344582543958e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0041",
+  "label": "negative",
+  "score": 0.06610639881043574,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0042",
+  "label": "negative",
+  "score": 0.007343299956064834,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0043",
+  "label": "negative",
+  "score": 9.733684360870966e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0044",
+  "label": "negative",
+  "score": 4.3301618715537435e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0047",
+  "label": "negative",
+  "score": 0.5421730756254877,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0048",
+  "label": "negative",
+  "score": 3.418787498075093e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0049",
+  "label": "negative",
+  "score": 0.024769964361858698,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0050",
+  "label": "negative",
+  "score": 0.08565372768489171,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0051",
+  "label": "negative",
+  "score": 3.673611697720984e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0052",
+  "label": "negative",
+  "score": 1.5203478183400058e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0055",
+  "label": "negative",
+  "score": 1.0943726210705645e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0056",
+  "label": "negative",
+  "score": 4.403360934108511e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0058",
+  "label": "negative",
+  "score": 1.7225572583130886e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0059",
+  "label": "negative",
+  "score": 5.181487552135127e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0060",
+  "label": "negative",
+  "score": 0.08459249212331993,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0062",
+  "label": "negative",
+  "score": 0.004190725436369538,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0063",
+  "label": "negative",
+  "score": 4.15137897912241e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0065",
+  "label": "negative",
+  "score": 0.0015660419528361717,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0066",
+  "label": "negative",
+  "score": 3.5908262068440306e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0067",
+  "label": "negative",
+  "score": 0.0044924639877440865,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0068",
+  "label": "negative",
+  "score": 1.4787481408823908e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0070",
+  "label": "negative",
+  "score": 2.5097101469570292e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0071",
+  "label": "negative",
+  "score": 3.556229251023905e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0073",
+  "label": "negative",
+  "score": 0.14543212179808226,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0075",
+  "label": "negative",
+  "score": 7.590807224152282e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0076",
+  "label": "negative",
+  "score": 0.04379499044118626,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0077",
+  "label": "negative",
+  "score": 5.52736414687669e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0079",
+  "label": "negative",
+  "score": 2.680678168776029e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0080",
+  "label": "negative",
+  "score": 1.9179086410478516e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0081",
+  "label": "negative",
+  "score": 5.482148517422179e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0082",
+  "label": "negative",
+  "score": 0.00039610516381862517,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0083",
+  "label": "negative",
+  "score": 3.2170998280936968e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0084",
+  "label": "negative",
+  "score": 1.9312378306785814e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0085",
+  "label": "negative",
+  "score": 9.747265373688177e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0087",
+  "label": "negative",
+  "score": 5.7786042019239905e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0088",
+  "label": "negative",
+  "score": 0.00010847210153016961,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0089",
+  "label": "negative",
+  "score": 1.0301112904646368e-11,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0091",
+  "label": "negative",
+  "score": 0.0006476801803840359,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0092",
+  "label": "negative",
+  "score": 0.007608593025100352,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0093",
+  "label": "negative",
+  "score": 5.616988731397593e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0094",
+  "label": "negative",
+  "score": 0.00039092662204131667,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0095",
+  "label": "negative",
+  "score": 0.02413966145330796,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0096",
+  "label": "negative",
+  "score": 8.136417187225371e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0098",
+  "label": "negative",
+  "score": 0.0006447161030181018,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0099",
+  "label": "negative",
+  "score": 4.343132263609498e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0100",
+  "label": "negative",
+  "score": 0.001725132583823258,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0101",
+  "label": "negative",
+  "score": 1.3741698093141428e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0102",
+  "label": "negative",
+  "score": 9.291383098484637e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0103",
+  "label": "negative",
+  "score": 6.447569498995645e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0104",
+  "label": "negative",
+  "score": 0.0005561796414095671,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0105",
+  "label": "negative",
+  "score": 0.0023530934373552845,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0106",
+  "label": "negative",
+  "score": 0.0002053466545547475,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0108",
+  "label": "negative",
+  "score": 9.57249256680398e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0110",
+  "label": "negative",
+  "score": 0.0004220689181546549,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0111",
+  "label": "negative",
+  "score": 7.716805285138094e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0112",
+  "label": "negative",
+  "score": 0.00021910979832725708,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0113",
+  "label": "negative",
+  "score": 6.092191194302229e-10,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0114",
+  "label": "negative",
+  "score": 0.061624554304161416,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0115",
+  "label": "negative",
+  "score": 0.0014636077933537163,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0116",
+  "label": "negative",
+  "score": 6.507189165125533e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0117",
+  "label": "negative",
+  "score": 0.00019922428825889425,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0118",
+  "label": "negative",
+  "score": 1.2530678382375043e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0119",
+  "label": "negative",
+  "score": 0.9659001548706585,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0121",
+  "label": "negative",
+  "score": 1.8043097214549438e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0123",
+  "label": "negative",
+  "score": 2.1264013818001527e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0125",
+  "label": "negative",
+  "score": 4.358634423240748e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0127",
+  "label": "negative",
+  "score": 8.035809388247903e-11,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0130",
+  "label": "negative",
+  "score": 0.0002496277325043242,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0132",
+  "label": "negative",
+  "score": 0.0005053221785106372,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0133",
+  "label": "negative",
+  "score": 0.00228027213483326,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0135",
+  "label": "negative",
+  "score": 7.778257153871579e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0137",
+  "label": "negative",
+  "score": 1.8605642131405793e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0138",
+  "label": "negative",
+  "score": 4.859281967519162e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0139",
+  "label": "negative",
+  "score": 0.003298306664807812,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0140",
+  "label": "negative",
+  "score": 3.2795920828334334e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0141",
+  "label": "negative",
+  "score": 2.193075933468794e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0142",
+  "label": "negative",
+  "score": 0.9982006958946117,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0144",
+  "label": "negative",
+  "score": 7.179816705948102e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0145",
+  "label": "negative",
+  "score": 6.06215974526157e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0148",
+  "label": "negative",
+  "score": 0.0005811765960168632,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0149",
+  "label": "negative",
+  "score": 0.006846627420982002,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0150",
+  "label": "negative",
+  "score": 2.959359737752456e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0152",
+  "label": "negative",
+  "score": 4.631720631415455e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0155",
+  "label": "negative",
+  "score": 0.002498782470503507,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0156",
+  "label": "negative",
+  "score": 1.0436829616814175e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0157",
+  "label": "negative",
+  "score": 8.051280682115933e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0160",
+  "label": "negative",
+  "score": 9.983898879335335e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0162",
+  "label": "negative",
+  "score": 0.008818078154153097,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0164",
+  "label": "negative",
+  "score": 0.0003629153177139187,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0167",
+  "label": "negative",
+  "score": 0.00902154426622261,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0168",
+  "label": "negative",
+  "score": 2.9296580535696926e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0169",
+  "label": "negative",
+  "score": 5.575352025131753e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0170",
+  "label": "negative",
+  "score": 0.0019366828613892077,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0171",
+  "label": "negative",
+  "score": 0.00011370692754731775,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0172",
+  "label": "negative",
+  "score": 7.236988631666613e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0173",
+  "label": "negative",
+  "score": 0.07045845495839609,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0176",
+  "label": "negative",
+  "score": 3.1784060120407505e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0178",
+  "label": "negative",
+  "score": 1.98814558871402e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0179",
+  "label": "negative",
+  "score": 9.147547699368129e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0181",
+  "label": "negative",
+  "score": 4.88324053075748e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0183",
+  "label": "negative",
+  "score": 5.411380816282054e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0184",
+  "label": "negative",
+  "score": 1.1168865777519357e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0186",
+  "label": "negative",
+  "score": 2.6374208634455135e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0187",
+  "label": "negative",
+  "score": 3.335100053249345e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0188",
+  "label": "negative",
+  "score": 0.033151098009551815,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0189",
+  "label": "negative",
+  "score": 0.5747080776486757,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0192",
+  "label": "negative",
+  "score": 1.2310682306731584e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0193",
+  "label": "negative",
+  "score": 0.9805225297851817,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0194",
+  "label": "negative",
+  "score": 9.267855712024558e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0195",
+  "label": "negative",
+  "score": 0.004462060502514801,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0196",
+  "label": "negative",
+  "score": 0.41266984026637293,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0199",
+  "label": "negative",
+  "score": 0.0006492926589486155,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0200",
+  "label": "negative",
+  "score": 0.06064012439223989,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0201",
+  "label": "negative",
+  "score": 0.002989305232119635,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0202",
+  "label": "negative",
+  "score": 3.9287611030941e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0204",
+  "label": "negative",
+  "score": 0.9983023402433393,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0206",
+  "label": "negative",
+  "score": 0.0023419725705016397,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0207",
+  "label": "negative",
+  "score": 0.004041089027870313,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0210",
+  "label": "negative",
+  "score": 0.6472720639013736,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0211",
+  "label": "negative",
+  "score": 1.2820628552125991e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0212",
+  "label": "negative",
+  "score": 0.0600931350402708,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0214",
+  "label": "negative",
+  "score": 0.9553490839118588,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0217",
+  "label": "negative",
+  "score": 1.1374089791184113e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0218",
+  "label": "negative",
+  "score": 0.03740432723561933,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0219",
+  "label": "negative",
+  "score": 0.0011028881700998262,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0222",
+  "label": "negative",
+  "score": 3.9959918599494503e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0223",
+  "label": "negative",
+  "score": 0.8094235037649,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0224",
+  "label": "negative",
+  "score": 1.1844056888013577e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0225",
+  "label": "negative",
+  "score": 0.9705061972173432,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0226",
+  "label": "negative",
+  "score": 0.22951724700890422,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0227",
+  "label": "negative",
+  "score": 0.35838863432482165,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0228",
+  "label": "negative",
+  "score": 0.0011099862163167786,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0231",
+  "label": "negative",
+  "score": 0.024086891291213528,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0232",
+  "label": "negative",
+  "score": 9.096601741987031e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0233",
+  "label": "negative",
+  "score": 1.0811953762889104e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0234",
+  "label": "negative",
+  "score": 0.013560225081433853,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0238",
+  "label": "negative",
+  "score": 0.025993394771610678,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0241",
+  "label": "negative",
+  "score": 6.086253452428877e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0242",
+  "label": "negative",
+  "score": 0.6022450800803448,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0243",
+  "label": "negative",
+  "score": 2.348678486968034e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0246",
+  "label": "negative",
+  "score": 0.8196806797799424,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0247",
+  "label": "negative",
+  "score": 0.12064134458157141,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0251",
+  "label": "negative",
+  "score": 0.23418121753764812,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0252",
+  "label": "negative",
+  "score": 0.9999985220998809,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0256",
+  "label": "negative",
+  "score": 0.00014141840792136634,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0258",
+  "label": "negative",
+  "score": 0.09205992791748088,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0259",
+  "label": "negative",
+  "score": 0.010569756240412578,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0260",
+  "label": "negative",
+  "score": 6.690102064797647e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0262",
+  "label": "negative",
+  "score": 0.0004007618202768849,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0263",
+  "label": "negative",
+  "score": 7.645558840624159e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0267",
+  "label": "negative",
+  "score": 6.039997237115201e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0273",
+  "label": "negative",
+  "score": 6.120938404537504e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0274",
+  "label": "negative",
+  "score": 1.7083909290071657e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0275",
+  "label": "negative",
+  "score": 1.46173508647952e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0276",
+  "label": "negative",
+  "score": 2.116587103358462e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0277",
+  "label": "negative",
+  "score": 2.4284119731091447e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0285",
+  "label": "negative",
+  "score": 3.8695571909321185e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0288",
+  "label": "negative",
+  "score": 8.118373430496692e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0289",
+  "label": "negative",
+  "score": 8.326645224085614e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0290",
+  "label": "negative",
+  "score": 5.422726787673407e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0291",
+  "label": "negative",
+  "score": 7.792790345211642e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0293",
+  "label": "negative",
+  "score": 5.635707689128042e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0295",
+  "label": "negative",
+  "score": 0.00020906537297386675,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0297",
+  "label": "negative",
+  "score": 1.71919058568271e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0298",
+  "label": "negative",
+  "score": 4.3767825007769425e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0301",
+  "label": "negative",
+  "score": 0.0004242045728310157,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0304",
+  "label": "negative",
+  "score": 0.18518987077566657,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0306",
+  "label": "negative",
+  "score": 0.001931535869559781,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0307",
+  "label": "negative",
+  "score": 0.0019316657303948062,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0308",
+  "label": "negative",
+  "score": 0.005530635253363517,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0310",
+  "label": "negative",
+  "score": 2.8961059569210082e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0311",
+  "label": "negative",
+  "score": 0.0001093929236787956,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0312",
+  "label": "negative",
+  "score": 2.0518965434279425e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0313",
+  "label": "negative",
+  "score": 0.0002654233401496421,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0314",
+  "label": "negative",
+  "score": 2.942550543530985e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0315",
+  "label": "negative",
+  "score": 0.09365162526916053,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0316",
+  "label": "negative",
+  "score": 6.019092788789112e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0319",
+  "label": "negative",
+  "score": 3.107812263321988e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0320",
+  "label": "negative",
+  "score": 0.9965108442570583,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0321",
+  "label": "negative",
+  "score": 2.579323064676075e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0323",
+  "label": "negative",
+  "score": 0.000907327836736294,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0324",
+  "label": "negative",
+  "score": 9.725580381643983e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0326",
+  "label": "negative",
+  "score": 2.5158075744643696e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0327",
+  "label": "negative",
+  "score": 0.008905296463668885,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0328",
+  "label": "negative",
+  "score": 0.1172533586587438,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0329",
+  "label": "negative",
+  "score": 5.179787865480983e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0330",
+  "label": "negative",
+  "score": 7.885078602398136e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0331",
+  "label": "negative",
+  "score": 4.004889336936395e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0333",
+  "label": "negative",
+  "score": 0.10829555390248036,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0337",
+  "label": "negative",
+  "score": 1.2457014789945753e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0339",
+  "label": "negative",
+  "score": 4.739491930414296e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0340",
+  "label": "negative",
+  "score": 5.7353119537479766e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0341",
+  "label": "negative",
+  "score": 1.5989039885359162e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0343",
+  "label": "negative",
+  "score": 0.0007435542241614668,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0344",
+  "label": "negative",
+  "score": 6.432230078184162e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0345",
+  "label": "negative",
+  "score": 8.0607215797281e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0346",
+  "label": "negative",
+  "score": 0.0008213694634726607,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0347",
+  "label": "negative",
+  "score": 1.8351416035389303e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0350",
+  "label": "negative",
+  "score": 0.0023309758297345175,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0351",
+  "label": "negative",
+  "score": 0.6815171683188022,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0352",
+  "label": "negative",
+  "score": 0.001002578202959686,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0353",
+  "label": "negative",
+  "score": 3.452500921305587e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0354",
+  "label": "negative",
+  "score": 2.508097252243141e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0356",
+  "label": "negative",
+  "score": 4.972529319234948e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0357",
+  "label": "negative",
+  "score": 1.4030040531305785e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0361",
+  "label": "negative",
+  "score": 6.10362826287725e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0362",
+  "label": "negative",
+  "score": 0.9859441125458216,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0363",
+  "label": "negative",
+  "score": 0.0004374818010322564,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0364",
+  "label": "negative",
+  "score": 7.603984876872731e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0367",
+  "label": "negative",
+  "score": 2.256703977206573e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0368",
+  "label": "negative",
+  "score": 0.5932342283386773,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0369",
+  "label": "negative",
+  "score": 6.95028200961775e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0370",
+  "label": "negative",
+  "score": 4.3286441020127205e-11,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0372",
+  "label": "negative",
+  "score": 0.5841574359632589,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0373",
+  "label": "negative",
+  "score": 0.00041363204891311573,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0374",
+  "label": "negative",
+  "score": 0.0008754464331920251,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0375",
+  "label": "negative",
+  "score": 2.8701707972766345e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0376",
+  "label": "negative",
+  "score": 2.448995696340064e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0377",
+  "label": "negative",
+  "score": 2.4622394243753097e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0379",
+  "label": "negative",
+  "score": 1.7871567668059279e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0383",
+  "label": "negative",
+  "score": 1.1770986640067204e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0385",
+  "label": "negative",
+  "score": 1.4494360915517975e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0386",
+  "label": "negative",
+  "score": 0.006301929036571119,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0387",
+  "label": "negative",
+  "score": 3.926352180055856e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0388",
+  "label": "negative",
+  "score": 5.343380023674e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0390",
+  "label": "negative",
+  "score": 1.6637410682420328e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0393",
+  "label": "negative",
+  "score": 2.7885991089576253e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0394",
+  "label": "negative",
+  "score": 1.2229583818967018e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0395",
+  "label": "negative",
+  "score": 7.113924930076925e-10,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0396",
+  "label": "negative",
+  "score": 1.3895358711546753e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0397",
+  "label": "negative",
+  "score": 4.369627640418797e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0399",
+  "label": "negative",
+  "score": 5.74632729588087e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0400",
+  "label": "negative",
+  "score": 2.5852382596822634e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0401",
+  "label": "negative",
+  "score": 0.005762886737598963,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0402",
+  "label": "negative",
+  "score": 0.004713310310727873,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0403",
+  "label": "negative",
+  "score": 4.4892183533982306e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0404",
+  "label": "negative",
+  "score": 0.00011753969761964799,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0406",
+  "label": "negative",
+  "score": 4.296777397780399e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0407",
+  "label": "negative",
+  "score": 8.370827437542424e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0411",
+  "label": "negative",
+  "score": 0.22715511290394935,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0412",
+  "label": "negative",
+  "score": 0.08242738873142208,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0413",
+  "label": "negative",
+  "score": 5.633064200015652e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0415",
+  "label": "negative",
+  "score": 0.0002828411943570022,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0418",
+  "label": "negative",
+  "score": 3.15697792000294e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0420",
+  "label": "negative",
+  "score": 2.9622301511134238e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0421",
+  "label": "negative",
+  "score": 0.0008432959109567771,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0422",
+  "label": "negative",
+  "score": 3.5305967101539376e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0423",
+  "label": "negative",
+  "score": 5.925626173452611e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0424",
+  "label": "negative",
+  "score": 0.4132231452418748,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0425",
+  "label": "negative",
+  "score": 0.9669652084330145,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0427",
+  "label": "negative",
+  "score": 0.00017383793242603586,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0428",
+  "label": "negative",
+  "score": 1.626620693180456e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0430",
+  "label": "negative",
+  "score": 0.6323919802433381,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0433",
+  "label": "negative",
+  "score": 0.3391978418790376,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0434",
+  "label": "negative",
+  "score": 0.43658524466752624,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0437",
+  "label": "negative",
+  "score": 0.0002958366613215878,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0438",
+  "label": "negative",
+  "score": 2.1334741220545993e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0441",
+  "label": "negative",
+  "score": 8.397681555930523e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0442",
+  "label": "negative",
+  "score": 1.7663259068885584e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0444",
+  "label": "negative",
+  "score": 0.8911097784988913,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0445",
+  "label": "negative",
+  "score": 0.00507053759297354,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0447",
+  "label": "negative",
+  "score": 3.269060741298089e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0448",
+  "label": "negative",
+  "score": 0.3007475162148689,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0453",
+  "label": "negative",
+  "score": 0.01896298195533143,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0454",
+  "label": "negative",
+  "score": 0.000643647637009198,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0455",
+  "label": "negative",
+  "score": 0.023051123132770125,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0456",
+  "label": "negative",
+  "score": 0.011624004013122784,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0460",
+  "label": "negative",
+  "score": 0.00042839661445987626,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0461",
+  "label": "negative",
+  "score": 7.424797379720034e-08,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0465",
+  "label": "negative",
+  "score": 0.850297847299374,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0466",
+  "label": "negative",
+  "score": 0.003831225817139312,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0467",
+  "label": "negative",
+  "score": 1.819323766457497e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0470",
+  "label": "negative",
+  "score": 0.4817260777446715,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0471",
+  "label": "negative",
+  "score": 3.828819566801671e-06,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0472",
+  "label": "negative",
+  "score": 9.877404057969962e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0473",
+  "label": "negative",
+  "score": 0.9725296102072335,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0474",
+  "label": "negative",
+  "score": 2.575943922594816e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0476",
+  "label": "negative",
+  "score": 9.510440679488061e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0477",
+  "label": "negative",
+  "score": 0.15828713778977088,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0478",
+  "label": "negative",
+  "score": 0.0013581906970967122,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0479",
+  "label": "negative",
+  "score": 0.0008600871577675319,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0482",
+  "label": "negative",
+  "score": 0.006513226502096961,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0483",
+  "label": "positive",
+  "score": 0.7239390747004479,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0484",
+  "label": "positive",
+  "score": 2.7377084315975115e-09,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0485",
+  "label": "positive",
+  "score": 2.861032061395907e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0486",
+  "label": "positive",
+  "score": 0.0105808035891446,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0487",
+  "label": "positive",
+  "score": 0.13816459598678169,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0488",
+  "label": "positive",
+  "score": 0.0004241554587226411,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0489",
+  "label": "positive",
+  "score": 0.00015465318811041167,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0490",
+  "label": "negative",
+  "score": 1.2525809893304267e-07,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0491",
+  "label": "negative",
+  "score": 1.641047831695088e-05,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0492",
+  "label": "negative",
+  "score": 0.003511979190753067,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0493",
+  "label": "negative",
+  "score": 0.9910930229372505,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0494",
+  "label": "negative",
+  "score": 0.006825166754821903,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0495",
+  "label": "negative",
+  "score": 0.024086891291213528,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0496",
+  "label": "positive",
+  "score": 0.9984321833819705,
+  "pred": "left_right"
+ },
+ {
+  "image_id": "img_0497",
+  "label": "negative",
+  "score": 0.00276079226352301,
+  "pred": "other_brand"
+ },
+ {
+  "image_id": "img_0498",
+  "label": "negative",
+  "score": 0.48843932773490645,
+  "pred": "other_brand"
+ }
+]

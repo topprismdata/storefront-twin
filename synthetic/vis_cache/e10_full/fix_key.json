@@ -1,0 +1,67 @@
+{
+ "C01": {
+  "image_id": "img_0483",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C02": {
+  "image_id": "img_0488",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C03": {
+  "image_id": "img_0038",
+  "label": "negative",
+  "neg_type": "logo"
+ },
+ "C04": {
+  "image_id": "img_0025",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C05": {
+  "image_id": "img_0012",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C06": {
+  "image_id": "img_0023",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C07": {
+  "image_id": "img_0003",
+  "label": "positive",
+  "neg_type": ""
+ },
+ "C08": {
+  "image_id": "img_0259",
+  "label": "negative",
+  "neg_type": "logo"
+ },
+ "C09": {
+  "image_id": "img_0258",
+  "label": "negative",
+  "neg_type": "logo"
+ },
+ "C10": {
+  "image_id": "img_0402",
+  "label": "negative",
+  "neg_type": "render_stock"
+ },
+ "C11": {
+  "image_id": "img_0052",
+  "label": "negative",
+  "neg_type": "render_stock"
+ },
+ "C12": {
+  "image_id": "img_0103",
+  "label": "negative",
+  "neg_type": "competitor"
+ },
+ "C13": {
+  "image_id": "img_0043",
+  "label": "negative",
+  "neg_type": "competitor"
+ }
+}

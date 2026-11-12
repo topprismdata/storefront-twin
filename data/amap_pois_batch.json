@@ -1,0 +1,99 @@
+[
+ {
+  "id": "B0MDPOMTEX",
+  "name": "左邻右舍",
+  "city": "杭州市",
+  "addr": "兴耀月琉璃",
+  "classify": "便利店",
+  "x": "120.336775",
+  "y": "30.294875",
+  "pic_total": 0,
+  "gallery": []
+ },
+ {
+  "id": "B0JRLL5YTC",
+  "name": "左邻右舍便利超市(红丰路店)",
+  "city": "杭州市",
+  "addr": "东湖街道红丰路603号",
+  "classify": "日杂店",
+  "x": "120.310122",
+  "y": "30.445361",
+  "pic_total": 4,
+  "gallery": [
+   {
+    "url": "https://store.is.autonavi.com/showpic/c66581bc871da4d748fabbfedb5892a7",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B0JRLL5YTC/comment/fa92189876197b7db56f9bbe1e1c389f_2048_2048_80.jpg",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "https://store.is.autonavi.com/showpic/629ef694448c6dd85b94c44730f123fb",
+    "category": "门头",
+    "type": "环境"
+   }
+  ]
+ },
+ {
+  "id": "B0KG990ZNE",
+  "name": "左邻右舍便利超市(梦笔大厦店)",
+  "city": "南平市",
+  "addr": "梦笔大道2号梦笔大厦",
+  "classify": "便利店",
+  "x": "118.531312",
+  "y": "27.924374",
+  "pic_total": 3,
+  "gallery": [
+   {
+    "url": "https://store.is.autonavi.com/showpic/db16ad712617b3bfbb9ddb4ea1834df6",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/b1884023d7cbdf96ffa8598cfddbcc87",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/e732d4f1f1133e883ab3e75473738c0d",
+    "category": "门头",
+    "type": "环境"
+   }
+  ]
+ },
+ {
+  "id": "B0LDUZAGQP",
+  "error": 0,
+  "msg": "POI not found"
+ },
+ {
+  "id": "B0FFM0KX3P",
+  "name": "左邻右舍便利超市(环镇东路店)",
+  "city": "金华市",
+  "addr": "崇正路78号",
+  "classify": "便利店",
+  "x": "120.172891",
+  "y": "28.981370",
+  "pic_total": 6,
+  "gallery": [
+   {
+    "url": "http://store.is.autonavi.com/showpic/072d6aa50af953e67edf30899d68a325",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/88cc130396dfc3841f5fe0b339231aa4",
+    "category": "货架",
+    "type": "其他"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/f0c81cbec4d2dbe10bb5f8ca2c711918",
+    "category": "货架",
+    "type": "其他"
+   }
+  ]
+ }
+]

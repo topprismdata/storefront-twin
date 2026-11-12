@@ -1,0 +1,26 @@
+| A编号 | 裁决           | 读到的品牌文字                      |
+| --- | ------------ | ---------------------------- |
+| A01 | MATCH        | 左邻右舍                         |
+| A02 | UNKNOWN      | 无（远景门店文字无法可靠辨认）              |
+| A03 | MATCH        | 左邻·右舍                        |
+| A04 | MATCH        | 左邻·右舍                        |
+| A05 | MATCH        | 左邻·右舍                        |
+| A06 | MATCH        | 左邻·右舍、Plus                   |
+| A07 | OUT_OF_SCOPE | 无（仅便利店内部货架）                  |
+| A08 | OUT_OF_SCOPE | 金邻右舍（石质景观标牌）                 |
+| A09 | MATCH        | 左邻·右舍、Plus                   |
+| A10 | OUT_OF_SCOPE | 无（仅室内零售场景）                   |
+| A11 | UNKNOWN      | 优品生鲜超市（模板化渲染门头）              |
+| A12 | OUT_OF_SCOPE | 左邻右舍便利店（宣传广告，不是实际门头）         |
+| A13 | MATCH        | 左邻·右舍、GoodNeighbors          |
+| A14 | NON_MATCH    | 赤虎堂                          |
+| A15 | NON_MATCH    | 图图便利店                        |
+| A16 | MATCH        | 左邻·右舍、Plus                   |
+| A17 | MATCH        | 左邻·右舍                        |
+| A18 | OUT_OF_SCOPE | 裕家超市、裕家生活超市、裕家生活超市等（门头设计展示图） |
+| A19 | MATCH        | 左邻·右舍                        |
+| A20 | NON_MATCH    | HEZI HOME、鹤子家                |
+| A21 | OUT_OF_SCOPE | 无（软件界面截图）                    |
+| A22 | MATCH        | 左邻·右舍、左邻右舍开业                 |
+| A23 | UNKNOWN      | 左邻·右舍（招牌被画面上边缘截断）            |
+| A24 | NON_MATCH    | 逸刻                           |

@@ -1,0 +1,62 @@
+[
+ {
+  "image_id": "img_0003",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0003.jpg",
+  "features_hint": "招牌特写白字左邻右舍 英文小字 阳光光斑 偏模糊",
+  "store_id": "",
+  "size": [
+   1100,
+   619
+  ]
+ },
+ {
+  "image_id": "img_0008",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0008.jpg",
+  "features_hint": "蓝招牌左邻·右舍 居民楼底层 灯笼",
+  "store_id": "",
+  "size": [
+   667,
+   500
+  ]
+ },
+ {
+  "image_id": "img_0012",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0012.jpg",
+  "features_hint": "红招牌白字左邻右舍超市 欢迎光临 自行车",
+  "store_id": "",
+  "size": [
+   600,
+   400
+  ]
+ },
+ {
+  "image_id": "img_0018",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0018.jpg",
+  "features_hint": "白天红蓝色带左邻·右舍 No.0002 英文副标 无水印",
+  "store_id": "store_0002",
+  "size": [
+   587,
+   378
+  ]
+ },
+ {
+  "image_id": "img_0024",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0024.jpg",
+  "features_hint": "新闻夜景门头 红蓝色带 排队人群 潮新闻水印 杭州奥体周边",
+  "store_id": "",
+  "size": [
+   720,
+   540
+  ]
+ },
+ {
+  "image_id": "img_0028",
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/zoom/img_0028.jpg",
+  "features_hint": "夜景红底左邻·右舍 蓝灯带 24小时 电动车 搜狐号水印",
+  "store_id": "",
+  "size": [
+   1080,
+   697
+  ]
+ }
+]

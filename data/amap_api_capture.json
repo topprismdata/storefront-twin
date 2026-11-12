@@ -1,0 +1,12 @@
+[
+ {
+  "url": "https://www.amap.com/ssr/place/B0FFM0KX3P?id=B0FFM0KX3P&name=%E5%B7%A6%E9%82%BB%E5%8F%B3%E8%88%8D%E4%BE%BF%E5%88%A9%E8%B6%85%E5%B8%82(%E7%8E%AF%E9%95%87%E4%B8%9C%E8%B7%AF%E5%BA%97)",
+  "len": 196134,
+  "snippet": "<!DOCTYPE html><html lang=\"zh-CN\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://ssr-next.amap.com/static/amap-pc-ssr/production/fa42a80e/_next/static/css/9485b99db5a5c5a4.css"
+ },
+ {
+  "url": "https://www.amap.com/ssr/api/getPoiInfo?id=B0FFM0KX3P&user_loc=116.405285,39.904989",
+  "len": 1830,
+  "snippet": "{\"code\":1,\"data\":{\"base\":{\"poiid\":\"B0FFM0KX3P\",\"id\":\"B0FFM0KX3P\",\"name\":\"左邻右舍便利超市(环镇东路店)\",\"base_shortname\":\"\",\"address\":\"崇正路78号\",\"tel\":\"13506790136\",\"typecode\":\"060200\",\"type\":\"060200\",\"newtype\":\"060200\",\"adcode\":\"330784\",\"citycode\":\"330700\",\"cityname\":\"金华市\",\"districtname\":\"永康市\",\"opentime\":\"周一至周日 07"
+ }
+]

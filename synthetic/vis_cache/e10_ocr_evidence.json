@@ -1,0 +1,3354 @@
+{
+ "summary": {
+  "counts": {
+   "NONE": 323,
+   "OWN": 5,
+   "COMPETITOR": 2
+  },
+  "xtab": {
+   "OWN": {
+    "total": 5,
+    "positive": 1,
+    "negative": 4
+   },
+   "COMPETITOR": {
+    "total": 2,
+    "positive": 0,
+    "negative": 2
+   },
+   "NONE": {
+    "total": 323,
+    "positive": 29,
+    "negative": 294
+   }
+  },
+  "competitor_on_negative": [
+   "img_0133",
+   "img_0314"
+  ],
+  "own_on_negative": [
+   "img_0031",
+   "img_0210",
+   "img_0212",
+   "img_0223"
+  ]
+ },
+ "results": [
+  {
+   "image_id": "img_0000",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_0062",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a 4 A boas ‘Goode ofbots at aR. NOE 0062 i rae Fos | ms \\y “¢ i PTT | Li"
+  },
+  {
+   "image_id": "img_0002",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0002",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "se ww ei ul] ss iy"
+  },
+  {
+   "image_id": "img_0003",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0003",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a |"
+  },
+  {
+   "image_id": "img_0004",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0004",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Lal wi 一一 ——— a 8) Hi Sk | | | 人> 天“二 aa"
+  },
+  {
+   "image_id": "img_0005",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_2047",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "HULL b = ill Bos Te 一- it at 国医 | Pim — \"= (Y"
+  },
+  {
+   "image_id": "img_0007",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0007",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Sie ‘ooene Rot RIOR os PUI 了 yt g* — i Bi"
+  },
+  {
+   "image_id": "img_0008",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0008",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "更 I mel il Hy gy i] li 和四 my Ny i} vi 有 i Ei oo mi 由 Mi —= i] 1) Ml 2 = i ee os res Ae — vA == gl Lot |g: i el | 1 a i"
+  },
+  {
+   "image_id": "img_0009",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0009",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "tl mE CT Ih lh i ‘hy 3) ‘Gooaneighbor Na hs ER _ — ie ay pw = | | | >四 烟| —— os Al 30g \\ Ae Ny ak"
+  },
+  {
+   "image_id": "img_0010",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_2471",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "i tH | My il {ih Ht Mh Hitt nly ti atu 中 No. 2471 dm 81 #8 88 , 93705 -4287000 5972708 AROS Neighbors RR) — a 城西梅岭路店 — — == 上 ec) ae se, a _ fir me ie"
+  },
+  {
+   "image_id": "img_0011",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0011",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一 AT EE EY ESE Rs “= [sens ae Hs 加 | ie Mf: Eh 以 bed a= 供应链范式 有"
+  },
+  {
+   "image_id": "img_0012",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0012",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "—— am | ———— Ny | i 4 ma | pet"
+  },
+  {
+   "image_id": "img_0013",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0013",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "了| | | | | u(t W"
+  },
+  {
+   "image_id": "img_0015",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0015",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "-一一 ha L 7a | on ely is a! | or"
+  },
+  {
+   "image_id": "img_0017",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0017",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a | 到 emi. [人 ant | iz oe ce A —"
+  },
+  {
+   "image_id": "img_0018",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_0062",
+   "evidence": "OWN",
+   "own_text": [
+    "右舍"
+   ],
+   "competitor": [],
+   "ocr_text": "— ee 右舍 未如一家 0062 下可 ti 村| Wig 4 4 BD |"
+  },
+  {
+   "image_id": "img_0019",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0019",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BeOS if f=] io 由 | EF [1 国"
+  },
+  {
+   "image_id": "img_0022",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0022",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "tb? BB! rT Th be 和有 (il Fat | igi! gas ae i bay | he re,"
+  },
+  {
+   "image_id": "img_0023",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0023",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "eS ~~ ae ~ Res zy “4s 本 SS 二 i 1 站 加 由 wa PR -了 ? louse | fl | \\\\ INN in a"
+  },
+  {
+   "image_id": "img_0024",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0024",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| ae ia i = Je | 地"
+  },
+  {
+   "image_id": "img_0025",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_0062",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a 4 A boas ‘Goode ofbots at aR. NOE 0062 i rae Fos | ms \\y “¢ i PTT | Li"
+  },
+  {
+   "image_id": "img_0026",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0026",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "se ww ei ul] ss iy"
+  },
+  {
+   "image_id": "img_0027",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0027",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "wiser = Pi Seem aie) a. == > ats ees | 搜狐号@供应链范式"
+  },
+  {
+   "image_id": "img_0028",
+   "label": "positive",
+   "neg_type": "",
+   "group": "img_0028",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ta ee ea BE TG eR 上 [mens [i OS | = 一-一- 一一 Lan ae ~ tf | —\\ a oa 以 — (SH al | i Fa i TT iam sonumntist"
+  },
+  {
+   "image_id": "img_0030",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0030",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ae a 注意| oo Yi ENOUGH aa am | itn ed ao | = a ee 村"
+  },
+  {
+   "image_id": "img_0031",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0031",
+   "evidence": "OWN",
+   "own_text": [
+    "good neighbors"
+   ],
+   "competitor": [],
+   "ocr_text": "Ecos Good Neighbors 亲如 家 No: 3689 i BSS Good Neighbors 亲如 家 和 iD25 3 NO:201807141 091000 图网 www.nipic.com No : 3689 心|"
+  },
+  {
+   "image_id": "img_0033",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0033",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "8 eeee。 改道人和 24-).04, a 会.会全 Ba A bibs Be a | \" l I 24 hours Se PTA .”” convenient store an 1913533477 NO:2025042618¢"
+  },
+  {
+   "image_id": "img_0034",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0034",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ED 7) » 4 pit 一一 ae i i ed feat ang CLD) Lp) CY a Set Se ae mi iba Sas eS a | ay =, 3D立体效果展示一 W 3) toe F go ow o) 原 C i i me 8 导: 2 a 3D立体效果展示二 24) @®"
+  },
+  {
+   "image_id": "img_0035",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0035",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Wy Iz los"
+  },
+  {
+   "image_id": "img_0036",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0036",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1. De wot o> | & oR A ` 而 多 | KA] 和 ia! gy me” NB | 4 |"
+  },
+  {
+   "image_id": "img_0038",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0038",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Good Vals iiloers 亲如="
+  },
+  {
+   "image_id": "img_0039",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0039",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "便利店 @ 服务热线: 000-00000000000 实 源 际文 的件 下为 载平 文面 Ise 便利店 不计 件 @ 服务热线: 000-00000000000 效预 ES as 效 Ha 仅 te BB"
+  },
+  {
+   "image_id": "img_0040",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0040",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "珍爱设计师 为原创发声 LOD CORA EAE 原创作品 设计师在线 BRA row CC “ness BES 邻里和谐 守望相助 Bik lan iS Za N A EN TW 7 SS — Ff iy ‘S iN | 1D:3 eda re"
+  },
+  {
+   "image_id": "img_0041",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0041",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "文PSD分层源文件 〈仅平面图无此效果图) 太高清300dpli分辨率 廊文案可自由修改 *x*x品种齐全.轻松购物xx 快乐便利店 绿色蔬菜 KR enue 日用百货 店铺地址: 某某市某某区某某街道某某路XXXX号”服务热线:000-6666-8888 SL & fH 2, = xxx品种齐全."
+  },
+  {
+   "image_id": "img_0042",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0042",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| ace = Pains? 2525 fel NO.66 4四旧业 a Ez at pli) 到 本 号 ED 已 | ES = a aay ead ‘rarer eS ap iE al teen, ia a a wi FA 1D:34584004 NO:202307151000 IDEAS OT"
+  },
+  {
+   "image_id": "img_0043",
+   "label": "negative",
+   "neg_type": "competitor",
+   "group": "img_0043",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "—— Sie — aa Se"
+  },
+  {
+   "image_id": "img_0044",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0044",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "nA ary wan pom Yi ie S bse ine 站用证人 bts ao 大 | 山 peal (os ey is 党 \\ #3 Lilac = WA a7 EY rage, de mca. i 了 = ea Pw oo ae iN LA in | iy Y az \\V YG, = = "
+  },
+  {
+   "image_id": "img_0047",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0047",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ED ESD se = 可 if | Hl ui 咱 Va | fe 一 a 一 === Ss ea sa m (0:20260528104141872105 tate"
+  },
+  {
+   "image_id": "img_0048",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0048",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "全] 三 ey ea yo asc} LL 一 a = a 3 | Beh 。 Ax < 本 C> ot ee 人 es ba 可 了 | ae 是 F"
+  },
+  {
+   "image_id": "img_0049",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0049",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "由 中 il _—=— ME tee -一 — mm 推 U i 加厚设计 ee a 可降解 RRS OB By i [IE Ell 到 a ¥6.9 *| cos i aes) vas ir | St ata TIT gel =o | vals a Se 区 iN} Te As 一 = a 二 S"
+  },
+  {
+   "image_id": "img_0050",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0050",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS =< a St) > ———— |_| tT] 门头制作软件为CorelDRAW X8 文件包含文字转曲和未转曲2个文件 (替换自己的品牌名称) 是 | 司 f= FE =. rite 效果图制作软件为Adobe Photoshop 2024 一键智能蔡换 (下载文件附效果图及操作流程) 1D"
+  },
+  {
+   "image_id": "img_0051",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0051",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "S (@ toa tag Re is tp os EY AURIS ree ~e is rm we'c ry gal Let's | _ ge ® We We me use we me 28 2t wt 28 ot ot e's 区 Let's @ Let's # lets 8 — Az if @ "
+  },
+  {
+   "image_id": "img_0052",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0052",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "logo 24 小时营业 w BF rc 1% il (5 © 123056769 上SEEG 上到| Ee — = tat i | ln Ya | = & WJ www.nipic.cn 1D;34873829 NO:20240323165319488105"
+  },
+  {
+   "image_id": "img_0055",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0055",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "让每一分钱都有用 京选 选联盟 | 电话: 400-0000-000 wwe - ie eal WW Enipiccom) 5591 Ni H1182114426105"
+  },
+  {
+   "image_id": "img_0056",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0056",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "~ tri) jy ¥ al “a 用 3 —"
+  },
+  {
+   "image_id": "img_0058",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0058",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "EU - sop 上 (Oe ipa a AI原文件已转曲"
+  },
+  {
+   "image_id": "img_0059",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0059",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "pu in Fil WE ie BS 76-8 CONVENIENCE STORE 电话 000 6668888 18066666666 Im sae — RR soy ri: 7S a en ca — -二 这着"
+  },
+  {
+   "image_id": "img_0060",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0060",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ear S| ey eo a 二 am / gt > «A —- A «= eS 司| 名 一 & si ad = le il 一-~ EP & an y re i a M4 A be fa > 4 站一一- | 1448 | ee ie L 1. a a el = pe ee Fa ‘4 Ml c"
+  },
+  {
+   "image_id": "img_0062",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0062",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| a | EPE |"
+  },
+  {
+   "image_id": "img_0063",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0063",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= pa LY t — | i | ls S ues | g P ini! = || rr = we be (She (ee i me ai 2 2 Se Ses age to Ut a | AShl ENGR Pal ENS Cd Paes ME a ray pt al | 1 i UN lit "
+  },
+  {
+   "image_id": "img_0065",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0065",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一 Con Laces]"
+  },
+  {
+   "image_id": "img_0066",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0066",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "|贸罗遍图 il HH | i! | =), ll iu Na! i 中 II | 上 i | | ca Il | | 十十 Paw aN l i Er S==2% | WH ”水果蔬 ts 便利店 零食 BAR ee VP iN =—— if Ml H = {Nl PETE | Hi! Hin |"
+  },
+  {
+   "image_id": "img_0067",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0067",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "外SS到 fy Bile 一一一 US Fe 88888 -一一一 || ie, | ‘ai TL ii Wil ‘di hd 四本 SEK aid Eos WBMAR: 6666-8888 一一一一 a al = a i i ai Wil E 外 材… 每 更新 1 精 é = SE Se"
+  },
+  {
+   "image_id": "img_0068",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0068",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "PEE OES] Py | Ri [ay aN i i & Eres 上 hal PEPE Wek"
+  },
+  {
+   "image_id": "img_0070",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0070",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "可某某便利店"
+  },
+  {
+   "image_id": "img_0071",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0071",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ot, a"
+  },
+  {
+   "image_id": "img_0073",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0073",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "同和 aay teen"
+  },
+  {
+   "image_id": "img_0075",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0075",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| 烟酒 副食 饮料 土特产 Q DY 07 {Hill 日杂百货 文具 HAL ‘CONVENIENCE STORE DINGDING | & CeCe) & 1340300 5 fac, . SE at - I a Enh | 有Eeeaa-o- » 92 a = 一一 一一 1D:448860"
+  },
+  {
+   "image_id": "img_0076",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0076",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ETETET i | ye 日用品-村.工具:广内 rf Teneo"
+  },
+  {
+   "image_id": "img_0077",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0077",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一一一一一一一一一一一一一一一 a] 雪人便利实惠平价 [LT LT BR 2) | i! Pt | E a | ee | 1 ee ee ces pee] 局 ES"
+  },
+  {
+   "image_id": "img_0079",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0079",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee ‘ed * bh ae) | ae c~_ © i LU lc = lia SNi X & ay — MOV, oo 超市 5 T@N= 圣 ik 计 een x 下 lar ti: tm ie: 鲜肉> Pye el Mt 3 4 ) | 水时> | | a ‘eg aE ~~ a al a"
+  },
+  {
+   "image_id": "img_0080",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0080",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "YOUR LOGO 于图网便利店 ET 1绩/天/然/无/公1 BY | | HY AE) RIM K / HR / HR HR/ ie A 4 oe it YOUR LOGO TE ti | Li Hert RKET IH) /P/ Ae) BB) [s// RIA K/ RIA)"
+  },
+  {
+   "image_id": "img_0081",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0081",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Bim 安全 便利 实惠 平价 便利上店. aaa tM. 8888-99999 TERME OO 全国连悄如里，8888-99999 oF aes 1a€;: = 45) 7 rr qe 1% ss sages ne aN Es m4 5° Ps, “| BIE $ Fa] www.nipic.c"
+  },
+  {
+   "image_id": "img_0082",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0082",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "FEMS = Eas"
+  },
+  {
+   "image_id": "img_0083",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0083",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "便利.服务 .用心. (hI TEL: 0888-89898899 ADD: 上海市.环南路.商务企业公司 ee See! ‘Se (See ‘Sime (Stn 5% ‘lis il 1a NE ET 如 ule i mw E 1 有 小 3 al = ill ih i i tlh a i) HE"
+  },
+  {
+   "image_id": "img_0084",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0084",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "—————— 6m a 弄 ie — en"
+  },
+  {
+   "image_id": "img_0085",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0085",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ES | —— == == ==], a = RS EH KE FH) 上 ede tne ey ow ET st —_ a 有 fe | | |= ay Fs i= =—— | _\\ 0 =e aun 0.0. == {- — = = | RS GLEE | ied 5) 加 各本 一 IP (i"
+  },
+  {
+   "image_id": "img_0087",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0087",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ie Paes = = — Lic FY li MBA —— 加 一 RS — i err cH LO AOC TT ip Q Nay (i! i | | | if 上 96 HA) wutu.nipic.com 载为psd 分层图 1405241:"
+  },
+  {
+   "image_id": "img_0088",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0088",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "A =~ = = at ae f gm =F) =a fee) 三一"
+  },
+  {
+   "image_id": "img_0089",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0089",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| di 因西 C23 区 ee os 1 aes (os ee (es ne ne [医 = tes ime | ENGR — ee eS ee ees 局 28th ie ae 15 Wy \\) \"ay Or! | Se 山 mn ZA = I . TI ST 1 (ii in » | i | "
+  },
+  {
+   "image_id": "img_0091",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0091",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ce ee e- e 2 4让时 CC 1 As ~e 便利店庆 eee 实源 的件 际文 oo 下为 载平 文面 AY 件设 包图 效预 1 ae BB 图效 LN 仅 te S"
+  },
+  {
+   "image_id": "img_0092",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0092",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "& a] 188 8888 8888 站 Bie = Ba] www.nipiccn 1D:5456639 NO:20241213163801777103"
+  },
+  {
+   "image_id": "img_0093",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0093",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "YOUR COMPLANY 的 re 中 各 wee Fl Ta Meet Fi | 地址; 某某市某某区某某路83号 | 送货服务电话: 189XXX88XX9 Bo re — iz | ae, bas aise bd i] = | ; 招牌设计 YOURCOMPLANY 由 的 ts 过条便利店"
+  },
+  {
+   "image_id": "img_0094",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0094",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "生息网便利店 Ca YOUR Loco CON时"
+  },
+  {
+   "image_id": "img_0095",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0095",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "实源 际文 的件 xX 件 RY we TCs CUUCTU CTU U Te 包 图 总 ie a sige 图效 仅 供 参"
+  },
+  {
+   "image_id": "img_0096",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0096",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "al a. aa ve hat ZS pe al B ey"
+  },
+  {
+   "image_id": "img_0098",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0098",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BW eZ is =H | = ee AZ | ie, PL] i"
+  },
+  {
+   "image_id": "img_0099",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0099",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "本 We oes) 区 — ese. aS 4 E> Ee"
+  },
+  {
+   "image_id": "img_0100",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0100",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Eg ANG DIAN QIHAO SHANG DIAN QI HAO SHANG D 711 | 业号商店 Sg oNVHS OVH ID NVIG DNVHS OVHIO NVIG ONY fe = Nt | 一 iti) OR 加| ry A aL Soli HAD SHANG DIAN QI"
+  },
+  {
+   "image_id": "img_0101",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0101",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Bee | | 便利店名称 BEES (HS TS Eas Setar? NK 1300 0000 00 — iss welp a Bib lz = | 招牌材料: s*H te TE"
+  },
+  {
+   "image_id": "img_0102",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0102",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "便利店: = we ET G22 ae ag tl"
+  },
+  {
+   "image_id": "img_0103",
+   "label": "negative",
+   "neg_type": "competitor",
+   "group": "img_0103",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "=—— — <a Pa THES"
+  },
+  {
+   "image_id": "img_0104",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0104",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "|WW-nipic.com iBy:0310wq)No:202307291 65812921:"
+  },
+  {
+   "image_id": "img_0105",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0105",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ls a Ul | iit ase - EU | | LP Find 24x 买灯箱 先找我"
+  },
+  {
+   "image_id": "img_0106",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0106",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "XGA ISAS BAF 鸭头免头 BABA RSS Sesh i Dadi ec | YAW wah. 山 i (ies AY Y, \\ = TGR Tey GNF 1H 免头 | = izae RE AOS 免头 | aS ] aan, aah. ats in i] Y, a"
+  },
+  {
+   "image_id": "img_0108",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0108",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee (SWS EE mu 2880889 | a"
+  },
+  {
+   "image_id": "img_0110",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0110",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "pales ial i= SS I >: i WS SV SN BEE Gans) | | WY NV IN) 便利店 qh。 SS [人 工厂直营折扣 SLAIN LION = = Pe) See . | A (CL) CTE A CLEED) mB) Gren) (HIE) 利店 a |"
+  },
+  {
+   "image_id": "img_0111",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0111",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0112",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0112",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "8 24小时 eee, ace A —— 全 会.@ ea his Bi Wh | | | 24 小ad十 ye EMal _& . ae | BE aid an | ”em | IE |"
+  },
+  {
+   "image_id": "img_0113",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0113",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Bu S 北海.胜利路店 包包便利 STORE I : __ : aS ad i 山 “4 一一一 二一一 ae 北海:胜利路店 @ eee > Bee 了 en Fall Bos Wed fie =| fe"
+  },
+  {
+   "image_id": "img_0114",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0114",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "二 和， a a aa | ie ar TOL Lil Re 公司 广州市浊 利 多 秆 秆 eS 网 www.nipic.cn IP:11282301 NO:20200527005256585000"
+  },
+  {
+   "image_id": "img_0115",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0115",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BESBEERESBEESEEESRESEEEEERSE A AA A A ce De Eb www.nipic.com 1D No:"
+  },
+  {
+   "image_id": "img_0116",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0116",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BAO] LL fe Fi & UC h便利店 I) 0 EE’ | 上 ms \\y BAO | | fe #5 i | Wis EE ee eb aaa SSS CDRA It CSIR 请放山下载"
+  },
+  {
+   "image_id": "img_0117",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0117",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "利店 i i Fleer | Se 下 ls a eet i Er he ill NGXNGcuAuhe 24h L® azSNSSSS = 便利店 咒语 Gan \\\\ af |一: Be 0000 Sha DEFMIGNNGGUANZHE Be teile TI 目 2 = a eS if"
+  },
+  {
+   "image_id": "img_0118",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0118",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "效果图仅供参考 代收代寄 美国优选 阳光超市 社区团购 您身边的精品社区超市 Meze Bo R & NO.0088853 5 eo : | 7 =e = a FROMTHE ve _ Be a eeee， Be y id Ss SE | 矢量招牌设计 [EYE 阳光超市 EEE LE 多 必要 至"
+  },
+  {
+   "image_id": "img_0119",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0119",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "思叶时便利店 S08 Ske A Aloo ss ai fac ET Fn [7 a: 文案可自由修改 便利店招牌 材料: 三维扣板 +包金边 四早早便利店 平面发光字 经营:烟酒:钦料:日用品 Bie & Ba] www.nipiccn 1D:25585148 NO:202408231044238"
+  },
+  {
+   "image_id": "img_0121",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0121",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Br (Fis CEs el it | | 文件内含效果图请放心下载"
+  },
+  {
+   "image_id": "img_0123",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0123",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BIANLIDIAN 图图 便利店 到 加盟热线: 0773-2345334 iM 2 Se m MEE || | | — WN = ai | 图图 NUIDIAi 便 iis C 4 Gl J | re a ae cl be BIANLIDIAN - 24 - 图图 便利店 跑国网quuwuwn "
+  },
+  {
+   "image_id": "img_0125",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0125",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一一一 烟酒 副食 一 便利店"
+  },
+  {
+   "image_id": "img_0127",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0127",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "T-ELEVEN ， ae ey 上 = 7 = ‘| 有 = Bs 村 mw LS +4 So ee e- . i"
+  },
+  {
+   "image_id": "img_0130",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0130",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "== AW AW =e 看 y pe dy em, = ' ‘4 Y 2 or a | a u W fi fom eat [estes eal == CL ee ea = Le rae U ia _ 9 HAV uuu.nipiccom 1D;34162831 NO:2025020921014120"
+  },
+  {
+   "image_id": "img_0132",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0132",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee 1 m= ma | —N — fx i oo 新品上新中国 至一 We uf ih ~ ’ 7 < be ro oe Sa *,"
+  },
+  {
+   "image_id": "img_0133",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0133",
+   "evidence": "COMPETITOR",
+   "own_text": [],
+   "competitor": [
+    "美宜佳"
+   ],
+   "ocr_text": "| | i IN == MEIYINA 9) —— I if} ——— —— = 是 ae 一一 | A ry Se > 遇 =» 3 = & ats 了 cnssse"
+  },
+  {
+   "image_id": "img_0135",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0135",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS elit 24h便利 加盟热线:4008597 — ees a ae atic 7) | es =o el em 只- -全年 sa nt Sid ‘coe —— a a 2 ‘a\\ 2 二一车ff —— — ss ZAK"
+  },
+  {
+   "image_id": "img_0137",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0137",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ae 0 eo\" Mt 看本中 Ses alt 上 ar Hi"
+  },
+  {
+   "image_id": "img_0138",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0138",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "“=F Le YA bec NA ~=. SSS DW Bi re er a. ud h Helles 人 二 fa Tt 天 EV T Li |"
+  },
+  {
+   "image_id": "img_0139",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0139",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ll 1 ss od e 百事可乐 [ha ORs He die om ee ib {ha Bie ey\" Ws rm | ae ©. 38 t Be 9 vc | 一一一 SR cS = 7 it 一 awa, | + 下 © Fetus —= oa ent 和 Sy * Baa 2 ee — p"
+  },
+  {
+   "image_id": "img_0140",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0140",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a a 到 党 ss A 下 a q Ne SJ | 3 Slay ee > — Be, = a “HEE. a, 9: TEs may a8 4258-2063 —~ aoe an2sB = 下 a SMOKING| 二 fies yee ba | ti a 2s | a i i i 所 Vs 0"
+  },
+  {
+   "image_id": "img_0141",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0141",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS ies liens ® laa | = 二 [十 FUT 双人 | | a | iva AH { f= | IN YY M. () i —— = a a wl —= 三 Fy | feat — ay, wal 24 mn eens, 美四外卖 人 ~S 6 == eee |! — 一一 加 C"
+  },
+  {
+   "image_id": "img_0142",
+   "label": "negative",
+   "neg_type": "uncertain",
+   "group": "img_0142",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "er = = ae pe 宝贝满月之 SS 体员工祝: 魏亦夏 cs -二 一 ‘dhe"
+  },
+  {
+   "image_id": "img_0144",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0144",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "-一一一一 UF SHS exe Ee ©0060 ia rad wii Sah ie er"
+  },
+  {
+   "image_id": "img_0145",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0145",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "JS —-F wi = o> 一 一 人| 便民 ii ae, i ms 1 : 一一- ial ee Ag6 aps oe l-E J welcdhe 2m a 3的 farm suns anneens 图便利并 Stas Seas ew a = =a | < aa \"| ee d mis ss "
+  },
+  {
+   "image_id": "img_0148",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0148",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "fe gel | a t— iii —— = = — 一 rt Peer Wea iy 102030, 消 Ke a #119 2423.1 merry 2 2423.00 es didi wee 古诗 iF i dike ai tw fee a rp Co ae tly Yess: oe fe 2"
+  },
+  {
+   "image_id": "img_0149",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0149",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "\\ \\ \\ 一= 4 i iN | AN AN | ol Allee = =| i —_——— 7 eee, SS! aS | ss i) 000 tog 9) Per we 忌 一 — = 下如 AWW (a 妇 itl ion Ee To ai AIT kal 了 om TEST Al seca"
+  },
+  {
+   "image_id": "img_0150",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0150",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ze \\y a ~~ oe = = —1] = —— a 一 ete * tan y"
+  },
+  {
+   "image_id": "img_0152",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0152",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "EE ee ee —— OurHours 全时 ER See >T” wet 一 = SS ue ——_ aes. [| mes Es ge aan 出 eat ae 可 es T= Sa —_ , y+ Ha Pa"
+  },
+  {
+   "image_id": "img_0155",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0155",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| TREE i ut"
+  },
+  {
+   "image_id": "img_0156",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0156",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一 | 了 {ie ey 只 i, a 4 i @ 人"
+  },
+  {
+   "image_id": "img_0157",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0157",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "B val a Sbg ag “wee DY Coto ay 一 5 可 SEE Codon. Ee =I a, a We | | ya | | = = 到 到 z ~t. 有 ne Ir ae a ai eS a) i nd igi ee i ETT | bes"
+  },
+  {
+   "image_id": "img_0160",
+   "label": "negative",
+   "neg_type": "map",
+   "group": "img_0160",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a LA > bie + aw = \\) hall 4S pi y 从 = y yy Li \\ Se avt ce 4 afl: im gesree Sy"
+  },
+  {
+   "image_id": "img_0162",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0162",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Pee yt 11 | —_ f} 一 NI “得 nee — =o ho"
+  },
+  {
+   "image_id": "img_0164",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0164",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "wee ee oe ee ELEVEN e%& ~ ge ‘ ————E ou Wad All ae -和 8兴711首店 11月26E ary eet ie aca BME ELEVE | (TT 有| —, a i 1a avn ~ hcl 有 1 LM D > F ££. F¢F_ Ff it"
+  },
+  {
+   "image_id": "img_0167",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0167",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "eine “ie 和 ua ee | = Lil) @，"
+  },
+  {
+   "image_id": "img_0168",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0168",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "neighbor"
+  },
+  {
+   "image_id": "img_0169",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0169",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Een i ane Ih pth <A Ca"
+  },
+  {
+   "image_id": "img_0170",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0170",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "7 py = - ~ —— i~@y ; 0 2 bo eu Bil vie “i wall EEF l cy ‘Lal Tas ky as By U ana f 一rr 一 a. 1 wae! agi inane * 22 Wt Fo By les Py ie it Ee S/F Cees soa"
+  },
+  {
+   "image_id": "img_0171",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0171",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Risa - Fags -Bs- lve — eatin aE] | iat? em ‘S Ee cay |"
+  },
+  {
+   "image_id": "img_0172",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0172",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS BAN i) <= a Ths uy | —_—_ a \\ | 一 一 | ei Loe am 了 ood é 1 | ane i \\\\ Se = 至三 = = a 区 See i 至|万 Ss == i we Se i"
+  },
+  {
+   "image_id": "img_0173",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0173",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1和 | bos LA Tih pi Co BAN 4 GAA 站 有ai H"
+  },
+  {
+   "image_id": "img_0176",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0176",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "便利店 文 ait easy JOI _ = ie ees SS toe aro el om 【 ae 天是上 ”可 FS Bao i mT AA), ™ ="
+  },
+  {
+   "image_id": "img_0178",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0178",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "二一 Beeches Ca EASY VOY 一e SAlP 便利店 组 ) Niet 迎新 om 9 au wa jal <2] Gs & i ORE yy bs ——_ eal sete fl ELCOIE: | Oxi 2 人全 ——_ ae ag oe FOF @F it"
+  },
+  {
+   "image_id": "img_0179",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0179",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "站 rr + ARAB RE Hy = ESS aS [see re oe i we _—__ m me on rey) ES kT [人 = om REA (ASS 有 anes ay ig) SS 5 \\ —= Le mY Wee wa ae fa il tis 了 irs in | os A)"
+  },
+  {
+   "image_id": "img_0181",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0181",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a 一 = SS = =|; — 7 目 一 S 要售商业财经"
+  },
+  {
+   "image_id": "img_0183",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0183",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee 如 oS Ss _— ae ¥. | 1 | SW BC LEAS ar ind i iE, 下 MES EG, ve Sead my he — wt il 3 “Ai3 eae +i os ae Lis He tes ~~ he i) ap FT +"
+  },
+  {
+   "image_id": "img_0184",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0184",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1 多 ye) ss Y G of Y A y sf sill y a fom Wi rm 一 \\\\ ‘Saal —— | | cA, | ee r=, oe AWS | = AC. Wat »} -一 WA 2 = ZF ie | Li 一一 ay el PE一 Wah =| NES ey iT "
+  },
+  {
+   "image_id": "img_0186",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0186",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "票树林 仓房庄 aR aU rame@ 府 Ocasnn fates: 214 第二小学 ee 淮 iz er) Bait i © 2006 auu mi."
+  },
+  {
+   "image_id": "img_0187",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0187",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Z Zi Za If 4 ig » | 7 : i 反 | a Ng || 于 —— VA 7) “Ea mua \\ eae) = a ) Sai Leak = | lie aa) lia i | ry = E i 本 | SS Alt =s ‘ AE ste, al i Ss; 二 2 二 让 ="
+  },
+  {
+   "image_id": "img_0188",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0188",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Be iil 2 mai iT a — mi | ="
+  },
+  {
+   "image_id": "img_0189",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0189",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ve Tee f =e HEDGE: ‘a's iy a) al al = k —_—~--—"
+  },
+  {
+   "image_id": "img_0192",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0192",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "了 邻里和胜远亲 Hie RO =\" BES ia ~ Me kk ee RH | ‘\\ = | \\ oe ae SB ROC Of em EEE BALE “SS EE © 80060 Srnec (AI舌量图(未转曲+转曲) ) ( CMYK颜色模式 ) ( 3D立体效果图 ) a x nl"
+  },
+  {
+   "image_id": "img_0193",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0193",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "LOGO —_ 98 去 一站购齐 || 正品无忧 | 品牌齐聚 | SER RAL LIRRRE E www.nipi 19/19 32795554 NO:2022082。"
+  },
+  {
+   "image_id": "img_0194",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0194",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS WM UM“ EBC! CRBES) «|, SS [cpR| SB SS) re |e 为保障资料的准确性，相关文字以官方 无限放大 om weit) sh] Ss 为准，请根据需要自行至官网获取， ZZ = 5 S om. ws"
+  },
+  {
+   "image_id": "img_0195",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0195",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "三 <*> 曲 请 — ae a lH [让 S IN eee"
+  },
+  {
+   "image_id": "img_0196",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0196",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "LJ™_ = 0 CE"
+  },
+  {
+   "image_id": "img_0199",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0199",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SOW MMe — © GaRie ARRRMR) 矢量路径 为保障资料的准确性，相关文字以官方发布 限放大 ppt l ses 为准，请根据需要自行至官网获取，谢谢 EA epGpeiD nD CEs _ OFX > in in exp Gp Gp apap ~~ S om. 也 »"
+  },
+  {
+   "image_id": "img_0200",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0200",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "_ ZO, Bae ¥ 二 Sate! — OF 元大 FE ¥"
+  },
+  {
+   "image_id": "img_0201",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0201",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "en WMHs"
+  },
+  {
+   "image_id": "img_0202",
+   "label": "negative",
+   "neg_type": "uncertain",
+   "group": "img_0202",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "be pa as} 此 = 了 a 一 ss sw- | 外"
+  },
+  {
+   "image_id": "img_0204",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0204",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "-一 — = ~ 二 Wa = © Ceres = = = Op. A ho, iy IDES RSE. SORES 5 = ml 二二 a = _ a = Y) f sl} 不房时区 外 A nik peat NE J 一但 SER pee 更健康 Ji i ary 银币 Way —"
+  },
+  {
+   "image_id": "img_0206",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0206",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "‘| I Mh I i a . 中| i | | bil iL — as is — 一 4 0 pe aa yy ST Rt, 上 | ae \\gee, | hg =, | — ajs ih"
+  },
+  {
+   "image_id": "img_0207",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0207",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= Sv 倡导文明新风 共建文明社区 (@aeR) 〔共建共学] 【民有民享][和三和谐] , we vee cpt UY giwrexe pi 一 es nnd = Y ae “a* Gl) GG wa \" EVGSRED tf LMT REE wi 9 “Se at ee an oy"
+  },
+  {
+   "image_id": "img_0210",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0210",
+   "evidence": "OWN",
+   "own_text": [
+    "左邻"
+   ],
+   "competitor": [],
+   "ocr_text": "< moms mee AAA。 左邻石舍 已笑颜如花 il Wi 5 bet | 出 Ke anne 位里 一份信里情 En! 笑容接力 人 德邻 I DY ae 和谐 et 共济 Ra 守望相助 和兹家园 了 112195452559101 a"
+  },
+  {
+   "image_id": "img_0211",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0211",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "No.240801 ew 自流平 杰深行! 自流平 瓷砖胶 防水 Re & 160-1768 hi i ‘ Soe ae = Ra ==) ss = ae a = i Sa"
+  },
+  {
+   "image_id": "img_0212",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0212",
+   "evidence": "OWN",
+   "own_text": [
+    "右舍"
+   ],
+   "competitor": [],
+   "ocr_text": "e右舍 ™ isso >I OFT IK EM i 口 下 Adan. 135XXXXXXXX XXXXX 二维码 Be iad @ ee 地址:XXXXXXXXXXXX = fo] www.nipic.cn 17188 6209590101"
+  },
+  {
+   "image_id": "img_0214",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0214",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "& rneeree oleae Hot (mae 步比可 re i === Weil | 人 人二: Uy Ge = ae ale causes a NTE Ww |"
+  },
+  {
+   "image_id": "img_0217",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0217",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "AROS 我们的用心让您吃的安心"
+  },
+  {
+   "image_id": "img_0218",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0218",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "区1 @) O 1 \\ 客厅 @。 lee =b00)"
+  },
+  {
+   "image_id": "img_0219",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0219",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| 4 a ee ] y i hoot = i 屋 人 ..国 Re 30y 1 suit Assi g Im if ale | au ] 一 eae | Li ul Be"
+  },
+  {
+   "image_id": "img_0222",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0222",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ma nl ray Vil Seo rw 2 LA ie Th"
+  },
+  {
+   "image_id": "img_0223",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0223",
+   "evidence": "OWN",
+   "own_text": [
+    "左邻右舍",
+    "左邻",
+    "右舍"
+   ],
+   "competitor": [],
+   "ocr_text": "se — | 你家我家，左邻右舍。 TI ‘Se be me 男女老幼，形形色色。 iC (isso wat"
+  },
+  {
+   "image_id": "img_0224",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0224",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| ve) ER ail BAS ZUO LIN YOU SHE |_| | | |_| Se"
+  },
+  {
+   "image_id": "img_0225",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0225",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "由 FAB Mw ae is 守望邻里公约 和一条 a JOOS AE, SERIEEZOOOO NFA, MOLL, BaIEOH, od SRR ARIE OE, eK, ASSITOERAT 第三条 oR ARERR, -二 RIO A, BARI 第四条 为他人着起 weal Saran A"
+  },
+  {
+   "image_id": "img_0226",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0226",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "tas 羡高万止 om"
+  },
+  {
+   "image_id": "img_0227",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0227",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Way 大次 Ww aN TUR aig Ee 便利超市 WU ee ae — |"
+  },
+  {
+   "image_id": "img_0228",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0228",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "\\ ty FE ha wh, =a le ed FS N pre Eis ay | Re —— ] ae ae a: ey a ait Pb Ss il! fy 【pe -SN"
+  },
+  {
+   "image_id": "img_0231",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0231",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SY oe"
+  },
+  {
+   "image_id": "img_0232",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0232",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee = ciliate. aS = ae == Be . = 和 7 ae a 4 = et a se Be V@ J) ff. U+bookstore| LE Dea yy 在 > a JR 区 ACE li ui) ———_ lg =. B Am es 5 a 三二 — <a => LE SS"
+  },
+  {
+   "image_id": "img_0233",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0233",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "全0 D1 Rott 一 享受生活“邻”距离一"
+  },
+  {
+   "image_id": "img_0234",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0234",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ae Sit ABE hy Ar. ae 一一 世人| 2 aG i. 时 | oy al"
+  },
+  {
+   "image_id": "img_0238",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0238",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ae mh \\ Lf) y iy [=| aN ‘eS \"sme |"
+  },
+  {
+   "image_id": "img_0241",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0241",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SN 三天: al Te a ed | LIANIO. wR § ss os E3 BAGS 1 3 i 了 村 [ \\ \\\\ 1 LE (alii 司 Bea ey 一一 be ‘ ee) a= =一 一 ——— 一一一 知乎 @墨涅微"
+  },
+  {
+   "image_id": "img_0242",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0242",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "[课堂讲授 房子还缺少了什么? 窗户"
+  },
+  {
+   "image_id": "img_0243",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0243",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "[用 forme) Eg Re"
+  },
+  {
+   "image_id": "img_0246",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0246",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "泽惠 (OA Ey) 市 tas, Alina Ba ripe MARKET, | 1 惠 (门头设计) | al an =| GK R - 4 i pi FAQ ji 7 Bi. | \\ba y al 市 | Fr CA| ieee tD GAME 0588 AR eau RRR 生鲜水果 零食便"
+  },
+  {
+   "image_id": "img_0247",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0247",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ai ae int ‘seo me = om a —— | | | 才上 Ct | A = a ® eat ig) | am if : ——_=$ bof WWW.HUOPUWANG COM"
+  },
+  {
+   "image_id": "img_0251",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0251",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "at | ee oo | i: 一-一 Cl ad ra | rat"
+  },
+  {
+   "image_id": "img_0252",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0252",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ah Mj yf Ni ‘2 \\ 中 AAA 44 eI YZ & bb, ba LA \\ bs = iy j oy Lp \\ AN oy ] 4 Y I A NA 6 ari ld ib, i 区 || @ exe IN Ae! wees —— a8 yi ES el r fe 1::/) lH:"
+  },
+  {
+   "image_id": "img_0256",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0256",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ly WW 4 2 | | Be (en | pas jj f | a 于 ee Aa! wey P| as i rai) pare fy 从 i ant At NG XUAN al PAL 上 eal ay \\t (ge i a Sun 可: ¥"
+  },
+  {
+   "image_id": "img_0258",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0258",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ZOBE EB onmeatpieca ID: NO:20 160615182198"
+  },
+  {
+   "image_id": "img_0259",
+   "label": "negative",
+   "neg_type": "logo",
+   "group": "img_0259",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0260",
+   "label": "negative",
+   "neg_type": "uncertain",
+   "group": "img_0260",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "EN SEN \\\\\\ zn \\ | 5 已 图 aN Ze"
+  },
+  {
+   "image_id": "img_0262",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0262",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "@ E AE cia = = = Pm 三 ER or) fale Oy 业 LI a ‘<a i sil tee (ieee | ai es! 一一 型时 w ii w = —— d i ; 家JiacoN"
+  },
+  {
+   "image_id": "img_0263",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0263",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0267",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0267",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a A Eee WES i ! manne Nii = oO — 本 四 国耻下 ih) aye a 2 ad at Ae |一 5 二二 eer.BERE5 mi, Nias a a. wt | on re ae ay ‘me 上 Plane —_ al 人 BX wid. re oe 天卫， E"
+  },
+  {
+   "image_id": "img_0273",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0273",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a. as. Su a <a = Cid — a et lt ik ee zat * — te ="
+  },
+  {
+   "image_id": "img_0274",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0274",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a = a ment bo gad rae Ke 人 i niko aah et, i 3 7了AESSS"
+  },
+  {
+   "image_id": "img_0275",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0275",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "CAN、 —— se Poe 7 本 Pac som | a il Ty Ss. Sor 月 风骨 LE一 es oe aig 人 SS BOE DH biseiesagn eee Pie ESESE — ie Me Lu or ; as 洒 1 898 4! 7 P= 7 Ee. “ig 4 Vi"
+  },
+  {
+   "image_id": "img_0276",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0276",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "\\ _ \\ > on 1a 森林 公园之美 ee ay k= Ale > \\ Sw q || “A, A me 本一 SR ZA > os ya EF ive a tN i) =n ToL try = 4. (| ie PLLC Prey ial nam ——S ze 一 Ye, y WA Se a"
+  },
+  {
+   "image_id": "img_0277",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0277",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "lu = — —_—_— a ee = a —, 82 «I ie geen ae = 238 F 1 ac] pir | kay Bas | ii in ee | | Sm | LL yeReTe 上 pb ioe | foo | B a — : cy ail Rs Sa — ini FU @te"
+  },
+  {
+   "image_id": "img_0285",
+   "label": "negative",
+   "neg_type": "competitor",
+   "group": "img_0285",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "art. =z FamilyM 一一一 ne es -一一 ae as — esl te a 二 = = = iu -一生 | re fon ee PT x = a — a a= TREE SEE —— we\" ad \\ e\\i a = ‘7 = 去 =| /-— =z Lhe a OF << = "
+  },
+  {
+   "image_id": "img_0288",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0288",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| | vam | 1嗓 | ia \\e4 cil >\""
+  },
+  {
+   "image_id": "img_0289",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0289",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "=~ _ 5 一ca AN ee = »o B=. 1中 MAAS PA wisiziean milo matty LE Ss ae 图男 S| 医 IF |= mi SS) HAST ase | IF CIT BETTE, 一 一一 上==aa-|-=s_ SSN -一一一"
+  },
+  {
+   "image_id": "img_0290",
+   "label": "negative",
+   "neg_type": "competitor",
+   "group": "img_0290",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ">_- ey yi —— = a VSS a ] | | ) || a 一| SIS vii ae ait | = “二 tag = | mame / my i! = > rs Ki; srs fo oa 二条: on Se ‘sas Ri — te PA. pon iA = ae 办 i ti e"
+  },
+  {
+   "image_id": "img_0291",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0291",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ". wed a LE EN ~—— 5 ae ue aes eee Llyn Eee i: ay mm 下 mm | er a ° Le — Se t ul , ea) oe ad 二 i} 4 | 总0RRR ais Pret) | —— | « Ue Vi EE ee | |国 a 和 IE S"
+  },
+  {
+   "image_id": "img_0293",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0293",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "NB \\ SA 之 SOY ES za Es lal! i cia a my oie ad Se | tt att al ves - ANITA = am — ba |e ATA = Ke ANN rw WSN AN AY, % SN"
+  },
+  {
+   "image_id": "img_0295",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0295",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "— é 一 an Ss ae is 1) as 7, cE a | lun oe 2s ee ain | Se Sa 站 i mi p Ee] Pe i 一和 wallalae iE vied i il “AN! fa i re eo) Bee e >a Fst =i a See We =m 2 r"
+  },
+  {
+   "image_id": "img_0297",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0297",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "wg i Spe < r= i SS | os —— 52 iy iW Pa ie > y Ip es ee ate Yeoh ee gts = »\\ an Bt as. A As, * eX =< Xf OS at ee | Day Ar toy IF G et x Se Sas"
+  },
+  {
+   "image_id": "img_0298",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0298",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ue 2 | 可 本 =) ow —_— aasai Call EPE 刘刚 - pate md下 g/g Ys i rat. Ss By (oy ‘il Poi ae =上 - 全 pat — GC XI ~eO ie] & is AS —"
+  },
+  {
+   "image_id": "img_0301",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0301",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a HEILINYOU eT 图 美纯专 s.! i igs Op <i BS ! ry"
+  },
+  {
+   "image_id": "img_0304",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0304",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS =~ === =< a = 2S = | ae a 中一 人 = 噶 ops -< as ¥ “| La ul Le a Rte asa. | 一一性二 ‘eo tha [* aD 小红书号: wtliuj_6102"
+  },
+  {
+   "image_id": "img_0306",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0306",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee: &IN \"4 VW a == —= = BS, | + 一 一 rT a 国 ia 28 jou cg 你企 - as : 二 四 arab: 一] 和一一- | — = gt ay J: @ om a> hr nc a il | 厅 aime) ae pares: De beat +r e"
+  },
+  {
+   "image_id": "img_0307",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0307",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "-一一 _T-ELEVEIL 一 人 ie [son lm | 26 (foe il 要 at 7 点 到 rack ; By Wit cee 长 4 I fa |} ‘( Ree 下 财经"
+  },
+  {
+   "image_id": "img_0308",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0308",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "LL —— Sa Ea: ne py a, |"
+  },
+  {
+   "image_id": "img_0310",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0310",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "AAA VA LZ AA AEA GAA ime Ee BA i | Br go J | 六口 ~_ a"
+  },
+  {
+   "image_id": "img_0311",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0311",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "re: at % Za = x Zi? os ee x ie Ce A ies ad —— | 上 一 一-一-一一 — le ee ie aa 一-一一一 == [| ae 8 EE — Se ey wee alee = 一 一一一一一一 一一 一一一 = 3 一-一一 a ae — —— ee "
+  },
+  {
+   "image_id": "img_0312",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0312",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "_ = 有 二 二人 as om ear aaa SE > = 区 Ss se ee Say eNO a"
+  },
+  {
+   "image_id": "img_0313",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0313",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a a. *«* ss 用 Ak LO hej MT [=e] a = iil Baal. Ba oF 一-一 | i —e ,1 == | ! 普罗 erry cy ©: Fa lage N 4 | = 症=一 e434 | ie4 aaa ee y a = 抢完即止 eases aod ed w"
+  },
+  {
+   "image_id": "img_0314",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0314",
+   "evidence": "COMPETITOR",
+   "own_text": [],
+   "competitor": [
+    "全家"
+   ],
+   "ocr_text": "一 — = 全家 FamilyMart 一 === th —_ waa als 站 ——EE ==."
+  },
+  {
+   "image_id": "img_0315",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0315",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "A os) Sa tek iy t wre onl By a SSS eemween 和hi Rs = 一 a a. 2 — ——S 胡 = el t! as 1 Es = Mes sana i | geo Se ak ee A | 个 es = ——— — oveca 2 一 ak 了 J"
+  },
+  {
+   "image_id": "img_0316",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0316",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "pa Uo ~ Bs is 18) Pi ~ 3 as 一 b= — be! am We 4| ¥ bet! | 沁 fi Me al 上上- _"
+  },
+  {
+   "image_id": "img_0319",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0319",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Li a Ras |居家二 ug xk 集团公司 ME ett 18, ERE ABZE 金湾 宾馆 家-一 |S, ik Ss Oana pS ra 桂花西路"
+  },
+  {
+   "image_id": "img_0320",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0320",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "fem Com ‘| VIX if tC"
+  },
+  {
+   "image_id": "img_0321",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0321",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ses ig “nal <= ry kz lt I TAL OE a Niles 微 超 ti oS : Ses Ss in —— we) —_. B ——"
+  },
+  {
+   "image_id": "img_0323",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0323",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "fie ms eat 2 BE ® 会人人 ae 4 a e. bbe Bie! Cl -一一一 一 | [3 Es) Cava aa bis [ aie ny | r en a"
+  },
+  {
+   "image_id": "img_0324",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0324",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "————. = Se wees 4 站- Ui i | | bite ap dda | ll i ii | if a | 也 thy ey 轩 gg Sameer ae 一一 IN <S Y 吹 We HAD www.n sens DE ty :27117939 NO:202305282 14946"
+  },
+  {
+   "image_id": "img_0326",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0326",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "< | XINLEXIAN STORE UI ICT NCAT TTT | il ll il 一 =| i PE mE — = |aez ara ecg TTT nl i i il il"
+  },
+  {
+   "image_id": "img_0327",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0327",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "fn GSES “i th Se 一一-一一 a ia: ae me =. i"
+  },
+  {
+   "image_id": "img_0328",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0328",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= - anes Fa vA TA He ES} ey ae og ne N= feta ie Pees CE 末 | a oe oe | Tit ine nei 站 ‘tT [国 owas Geeta <Vengenneutgctesenunrssucasavaeadcendisetsencans"
+  },
+  {
+   "image_id": "img_0329",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0329",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "os ra. — -天 SH PR) al) Sy ta ow 去二 有 一 et Sa 一一-一 PT we a ——e"
+  },
+  {
+   "image_id": "img_0330",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0330",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "{t ME OF} = >), » aS 人 aE | 人 abi ao 一一一一 EL To |e ae tee == 一一 a aes) =A Sane SEES Sos ee 8 in Tinh i Ke Z® | li a> a8 N ‘ | | — i | 新鲜 & 2 x9 ID hs "
+  },
+  {
+   "image_id": "img_0331",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0331",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a—*—» where to nny AR ETN 以 Hig [til [BS AVL 中 全一3 斑斑广王一 il | iT us 国正 了 请人入 iM BS 一家 生活馆 | es fa = — Sea 和 => Ved 1 We Eb WWW.nipic.com —s 20210608:"
+  },
+  {
+   "image_id": "img_0333",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0333",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "c= = mies Fhe tien i ee © EEN] © eee 习| 已 是 中 | if | inte Yi meas / Fl an \\ \\ | . a / [ a"
+  },
+  {
+   "image_id": "img_0337",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0337",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "> 国 a ee SS = [| 册 hy Ve i i We UL | 1} ¥ A a4 Meth | tk | ial i 24 » 8 x | | ay 人 wy 全 人 网www.nipiccom CC :202: 564"
+  },
+  {
+   "image_id": "img_0339",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0339",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ss ON NA Mf er i le i TS Be 7 Ne bee’ nace tt A. Seg \\&) i KD R- SS | AS as IN wy wm :27117939 NO:20230528215422749100"
+  },
+  {
+   "image_id": "img_0340",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0340",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "df mh GK LIFE SUPERMARKET KE 2B RH. A. 蔬菜水果、日用百货 便利 | 实惠 | 平价 TEL:1234567 YB KL 生活超市 LIFE SUPERMARKET 经营 :粮油、烟酒、蔬菜、水果、日用百货 TEL:1234567 BAK TEL:1234567"
+  },
+  {
+   "image_id": "img_0341",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0341",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a 生群超市 C9 oq 联系电话: 00000000 [rae AE ZT] 24H i? . PE = 是 it Tal | | € (A 生评超市 和 te —— Yam. Pes, 建康 ili ES 244 [a | . = | ay tup Wa ca |"
+  },
+  {
+   "image_id": "img_0343",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0343",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "& 绿色 RR an ESESEer anal ENSUE RENCE thst [nex reseed Eee oa ai AT Za Sy 三二 se aS 所有文字可自由修改 效果不变 上方的图片为效果展示 下载的文件中不含上方效果图 BRL WYRM 违反必究 OSs area 文件包含消音"
+  },
+  {
+   "image_id": "img_0344",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0344",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "册| el aa 7 ag 11 (@, go Jh7 | Fad ia 3d Ei] t = =f IJ a ~er YUZHU) LIFE SUPERMA\\ 副食 一一一 日化 一站式 送 188888888 sitet Rinses eB eats fC eae a"
+  },
+  {
+   "image_id": "img_0345",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0345",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "MU er 5 am T= j = be ri) we 】 [IEC23 N; a) =& act = #mAQ ‘dl 二 pe aus 名1 [reas a ae ai My A a | i fo BS hit. ‘Bigg"
+  },
+  {
+   "image_id": "img_0346",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0346",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "i= ae. Eid we 国 Sess NS >> RS Ne ls Saas ener oo ay Ay a Oe EI a piccom le “4 oo"
+  },
+  {
+   "image_id": "img_0347",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0347",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Lil *é de =X. CGM N pea om oan em — iLL 这后证 lil WE VAIN SES ENE Nv? ky se rx to a ee | 性| ———— ima Lp ay Mi 8 www.nipic.com Ay oe, fs :202305282210020"
+  },
+  {
+   "image_id": "img_0350",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0350",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "een ee 2 adel: Hae Wee A eee thse akee LS RS SAR NER cc VA LNG LoS IN. Ax ENN ES | | RRMA: & bg Ss Se wn CK CS ASS, << De SOV Re LNG LNSLRKSANS Ae | W"
+  },
+  {
+   "image_id": "img_0351",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0351",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "容家超市 ok oD ED _ EDB [| [| 加| te Ke HR [| |"
+  },
+  {
+   "image_id": "img_0352",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0352",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ES al ll iJ Ww Bi Seis yp — 烟酒 果基 YI 优家生 舌超市 FIRB 玩具 文具 in 零食 YJ MARR Ke ER 玩具 TA FIER"
+  },
+  {
+   "image_id": "img_0353",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0353",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "BAD 一一一 一一 1 了 A se Fj, r= pn TPR | i 一一一一 - | om | aie il | aa"
+  },
+  {
+   "image_id": "img_0354",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0354",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "[ x pet 日用品 食郧 母婴 AA gone 一 | 二二 后 了 <p FRU ao) AR 潮 FR = a a8 ——— a A 安装效果图 lal FBIL ances 进口化妆品 2A a 日用品 食品 We EA ba www.nipic.com ee:"
+  },
+  {
+   "image_id": "img_0356",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0356",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "国铭生活超市 * y 了、 \" PN 11 We “> \\% y ae eee ee > - a 2 AS au Jas 全 cat"
+  },
+  {
+   "image_id": "img_0357",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0357",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| | 批发 | 团购 | 零售"
+  },
+  {
+   "image_id": "img_0361",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0361",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1oge\\ + By tens Wee PR SSS 62st Be BAO IN ees * | rere 生鲜会场 周二特价售] 满99减50 | x PEE OT 5H 全到 law — We A ba www.nipic.com 1P:27117939 NO:2023010420431447"
+  },
+  {
+   "image_id": "img_0362",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0362",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "局 CorelDRAW x4 or 9 = we. 乐 万家生活超市 \"2 起 BEE $ Pa] www.nipic.cn 1p:26089962 NO:20191108010908376035"
+  },
+  {
+   "image_id": "img_0363",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0363",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "CDRK4 部分内容 有转曲 更多超市相关模板 请看主页 人 SR Pre ¥ Une | 站 eit fof of fk SSS | XSJ ° Mart Q*life 超市 生活超市 Sam HR & © © PerPf £ Baa ae —We HA"
+  },
+  {
+   "image_id": "img_0364",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0364",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "RS IE | mat a col Oe 一 al EL ee {&% Sp == &€) & a TR SEIS CL. we & 5 wih LORE Tf SS IIYKRNY SU ea oie Tf B | %) Wy 2"
+  },
+  {
+   "image_id": "img_0367",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0367",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Hes 一您身边的精品社区超市一 图 了一 | a oo 可 一 oe ER 加 ie pe aes , SES (| \\)) 5 a NA sa — All at Tih 由| ws CorelDRAW X4 矢量招牌设计 SeunMatean 图网 uuwu.nipiccom， By:cyl24"
+  },
+  {
+   "image_id": "img_0368",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0368",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ERE = EGG © EEE) © Ti | ee Ras! fis -"
+  },
+  {
+   "image_id": "img_0369",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0369",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一一 便宜 舒适 AR 放心 oo 2. J JIN 1 D 吕 4 LEJIESUPERMARKET y= 2 FA 5 归 FRESH F& Is he 本 (aoe 1 40 ey —— ee ee Sm vy ‘all’ re re ai \\ i ay"
+  },
+  {
+   "image_id": "img_0370",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0370",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ses Sa ai == or iE 71 i TH = DEPARTMENT STORE 回预约热线: 0779-9999999 - “| IT 区一 = a ie =. = aa eS _- os il 24200; 102020052519) Ss"
+  },
+  {
+   "image_id": "img_0372",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0372",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= “4 上 -一 BS fe ee on ———— a =e TI xx商行 I Il"
+  },
+  {
+   "image_id": "img_0373",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0373",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ELIEEOIECIEE Fresh Market ise RESET FRIT ) 过 理 ay Tipper | IL Bx Lis Bie $ Bo] www.nipic.cn 1D:26877967 NO:20240811175044331107"
+  },
+  {
+   "image_id": "img_0374",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0374",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a. Sem BEE Geen) mux) @rra) 5] aia 的雪线;0773-9999999 ES = 时 有 = —— z = a eo oa =a 可 ch ‘te Fe | | i et a at subs 小 it & = Boer. ie a 1 Gms er 1 Eee ee本"
+  },
+  {
+   "image_id": "img_0375",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0375",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| 生活超 市 ju UU UMDIITTILLLIIIITILLITTIIIIILITITTIULLIITTILI | il i il ae ees 一 一 ey Oe = 2 = Agee mo Ty, |Fee aif Un a, i i il"
+  },
+  {
+   "image_id": "img_0376",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0376",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "—— a ——_ See"
+  },
+  {
+   "image_id": "img_0377",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0377",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "LER aoN u aul 245 eae 和 生活好 名烟名酒/果蔬生鲜/日用百货/零食饮料 便利超市 ——— =一 一一 Bi sy | il 9€ FAD uuu.nipiccom 1D:5305387 NO:20240430224812906109"
+  },
+  {
+   "image_id": "img_0379",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0379",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "本 A 生 (ei? = 7 rl ji DEF iTSTOR © armani: o7r9-s970909 Exe 新鲜 = ai ois Es 一-一一 Ca fe EL = S eS \\ HE Ses 区 = inte ES we ie jDEe Ba - We a i ae < 新鲜 =| "
+  },
+  {
+   "image_id": "img_0383",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0383",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "喜周田园 001 fi 鲜 on on a4 1) a fal al 市 YIZHOU SUPERMARKET 水果 蔬菜 零食 Th 1D:243!"
+  },
+  {
+   "image_id": "img_0385",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0385",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1 om} et & his isi sito “hg ALG se ane geese oe =a = fo | i | 16米*2.2米 iM a = =| “ial | 06. us tks ce 1D:25627105 NO: 14052711223886310 享网 www.nipic.c"
+  },
+  {
+   "image_id": "img_0386",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0386",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "国国国国国国国国国国国国国国国 国国国 q + 局 一 一 ow Pp 4b = 一 ahd! 5S Reus * | arr Seren pout “na. “vee || =e 3 人 Tene 一 es iD了3 20221"
+  },
+  {
+   "image_id": "img_0387",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0387",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "烟 酒 水 副食用百货 遇 业 ns -nipic.cn 1p:28149611 NO:202204."
+  },
+  {
+   "image_id": "img_0388",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0388",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| | eee aE nae Bie & Ba] www.nipic.cn 1D3. 1468 5 NO:2"
+  },
+  {
+   "image_id": "img_0390",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0390",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "* J Fe SUPERMARKET 活| | = department store Fa = 二 和天下业主自己的超市 超市， | — 一 — = BE & gai) = es iy Fa aE ieee a gee re ee aa ‘a S (i i I TT eT IT) aacors no"
+  },
+  {
+   "image_id": "img_0393",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0393",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "上 NO’ 20200805 104802795082 网 wwwinipiccom"
+  },
+  {
+   "image_id": "img_0394",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0394",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "— ar ear er LD po ae © rig 他 eDritl XK XE =F i6 TO ee = Er == 有 an 材 后 棕色 spi wat"
+  },
+  {
+   "image_id": "img_0395",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0395",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "PEEL > eo | 4 LN Lt ae 4 oF Ve “Qe LOVE LIFE SUPERMARKET — = AS 4 ja 更| is c= fl Se. 4) a iff hl sa RS 二 ci | Cea fe Peat a on ma By an 加 7 Lay De = r"
+  },
+  {
+   "image_id": "img_0396",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0396",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "E> 一 a ai ai a 一 hl cs PDBPAAB SS 六 = a 下 — a adie Th. |"
+  },
+  {
+   "image_id": "img_0397",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0397",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "CB in mo \\ RN My 2 — Wa -一=一一一 eG fae je. sl] es E = 一 二一 wee aa | See | ox 了 SN \"| ——e"
+  },
+  {
+   "image_id": "img_0399",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0399",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "OKO ANE WY | Ps RESO PS fe IS (| —— ‘| = 一上"
+  },
+  {
+   "image_id": "img_0400",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0400",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "sd _ Sy af le 7 4 Es, ) | = | | | 2 . » Bes] | | | a ] [ | ye ee is seal 9 FAP uuu.nipiccom 1D:12938277 NO:20240321100908507106"
+  },
+  {
+   "image_id": "img_0401",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0401",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "芋泥生活起广 EE 三 a A FRE RBG Bie & Bo] www.nipic.cn 1D:33526583 NO:2022101021 1854566103"
+  },
+  {
+   "image_id": "img_0402",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0402",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "2Q4小时营业 电话:1XXXXXXXXXX aaa Ai | = 4 men By: 5 225 \\) = — y X a I= 机 2 4小时营业 电话:1XXXXXXXXXX ela)"
+  },
+  {
+   "image_id": "img_0403",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0403",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= ee al Se ew bias ks yy 由 qa) iu erecta 而 作 MM Ih < 4a its i) iy ea enero) q\\ Bee aggar Fs = b-)\\-) eee Vi Mr os Sa cc ss"
+  },
+  {
+   "image_id": "img_0404",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0404",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "(ei AS att rh 新鲜便宜 贴心舒适便利 满意 | oa AT Za tS ae —— = eas as BS 所有文字可自由修改 效果不变 上方的图片为效果展示 下载的文件中不含上方效果图 BRL WYRM 违反必究 日生鲜超市 Ba 文件包含消音 新鲜 便宜贴心舒适便利满意 cast "
+  },
+  {
+   "image_id": "img_0406",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0406",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "了 有 Bia i Rit 超市 NS am Ss 多|又1好1果1蔬1超|级|市|场 FE es 本 下 二了 本 PTs aie 四gm = 二 因， | 一- Le : a ae"
+  },
+  {
+   "image_id": "img_0407",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0407",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "te | hl | bel esol esd ad bled a [ee ma 超市logo 迎光临 ou Lf emezel | aE a Emme ih a_i 能图网"
+  },
+  {
+   "image_id": "img_0411",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0411",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "一一 er ee eT | 4 5 2 = Sill ZS = fo ty Ze, si il 出 male alee) el ice ii | ua ll avt ie MLE VE: and & ull et | | Reus Ny | i Aly ze ee, Al Tred i\" Ls = "
+  },
+  {
+   "image_id": "img_0412",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0412",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "& 四 3 | ,新鲜水果 新鲜蔬菜 | = REESE Oe"
+  },
+  {
+   "image_id": "img_0413",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0413",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "YAN POSTER mm 2 DESIGN 创 PSD: \\ \\\\\\ \\ \\\\ SN 人 \\ SN PA 73 ue a) Ries TGS 鲜内 EA) Sani) ne tae 8 amt oT \\\\\\\\ Zz 7 WM \\\\\\\\ Sees eee Za — |= LL Vegetable I"
+  },
+  {
+   "image_id": "img_0415",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0415",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Erm Serk CE | 一 AES 1 000 一 ya. 加起市和DO REKE 000- oe jm aT ry 人 ra At Wi 全ui- 中| 十 = ~ Pee ae SE _ ee ae BE & Fo] www. nipic 1D:28136806 NO:20230311 14"
+  },
+  {
+   "image_id": "img_0418",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0418",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "和 Ko CVER eines Eanes |S) ate =e gage GEE og 生鲜超市 ova Ex’ 加四回国 Cres neta aN Toss | at oeo8 w G 鲜超 口日回国 | ate 可” 一-一 一长一 i es 多 更多优质创意款式 请进入我的图库"
+  },
+  {
+   "image_id": "img_0420",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0420",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "局 — rel rd eae SR qi 可 < | AAA a YY ia eA) Fg td ez aad a) oy Xi Sar en Ne Ny a - LE | furor a ri)"
+  },
+  {
+   "image_id": "img_0421",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0421",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "WSS \\| A eo = PH ZC TUE mt \\ 三 SS SS eee"
+  },
+  {
+   "image_id": "img_0422",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0422",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "9 全"
+  },
+  {
+   "image_id": "img_0423",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0423",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0424",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0424",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "2433 = | 指南南店 ee) 中 和 1d FT er"
+  },
+  {
+   "image_id": "img_0425",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0425",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "智慧E店云值守智能 键切换有人无人模 ot aa 人 —= ll _ | a Qc a >) 多AI ~ . Fey a ——— 一"
+  },
+  {
+   "image_id": "img_0427",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0427",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ow” a ee aA pd tee, ft 4. 人 Mies hak. hoa? 人 a “hy aN 六 RM “ile € Naa mo o>” 从 AR Hy a ar ara 7 “7 i AR * as a se. gs i 全 moe ¥ ie. SS. ae Ss ae bP ep"
+  },
+  {
+   "image_id": "img_0428",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0428",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ra ve LE a PB ‘| why =~ | Se ~~ is Vv’ » | oy e if '¢ |= 党一"
+  },
+  {
+   "image_id": "img_0430",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0430",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "fase 3 Sul BUMS |一站式创 Meee oa a8 BE a"
+  },
+  {
+   "image_id": "img_0433",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0433",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "RRR 和格政策 最高当20万 ante 工场让 *"
+  },
+  {
+   "image_id": "img_0434",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0434",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "百度文库 多功能Al助手 ® & Se”"
+  },
+  {
+   "image_id": "img_0437",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0437",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0438",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0438",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "RABE | aaa 图 em Li edi & TIE | peer oes PEL ILE vas fe a ie” EA"
+  },
+  {
+   "image_id": "img_0441",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0441",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "合家欢"
+  },
+  {
+   "image_id": "img_0442",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0442",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ng Ny ET Yaga 也 a 人 ga ; a"
+  },
+  {
+   "image_id": "img_0444",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0444",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "八点半便利店"
+  },
+  {
+   "image_id": "img_0445",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "group": "img_0445",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a 正品便利店 习 ar | a ee ee ee 99 | ly } | ee ay iy ~ hy — \\ aba 一一"
+  },
+  {
+   "image_id": "img_0447",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0447",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "了 4"
+  },
+  {
+   "image_id": "img_0448",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0448",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "=EBE"
+  },
+  {
+   "image_id": "img_0453",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0453",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "& UCC国际洗衣"
+  },
+  {
+   "image_id": "img_0454",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0454",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "公司注册 公司变更/公司注销/营业执照咨询 高效办理 专业团队 完善售后 一站式服务"
+  },
+  {
+   "image_id": "img_0455",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0455",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "@ 注册 i WAG REGISTERED COMPANY EXPRESS AGENCY"
+  },
+  {
+   "image_id": "img_0456",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0456",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "快速下证 注册公司"
+  },
+  {
+   "image_id": "img_0460",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0460",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "YT” T1C5 办 DC He 一一 2 COA zw CA CA CA gb b Pa a ma ina a 一一 aia 村go ‘ein iat be 一 Pal a 且 已 | ki oe SOE [~~ — A 1) ee L0G ISTICS i INC SS! Mc: —_—=— f"
+  },
+  {
+   "image_id": "img_0461",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "img_0461",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "+e ai! Salen 4 ee, ae a = be ES 1.972%. CETTE 冰面所 = <一 eon ee as — So ak ae a: ica SES | ae BESSGRT71 Ga ey riaa 2 Ss 2 4 a 1 Ge. y | JH i ey Lp yy Oa"
+  },
+  {
+   "image_id": "img_0465",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0465",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0466",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0466",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "[="
+  },
+  {
+   "image_id": "img_0467",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0467",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0470",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0470",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Yr BUDD> C WorkBuddy 4. 轻量化的Al办公工具 人 个人团队均可使用，打破场景限般 Fig Yvert —— > ee —_ i) 一一"
+  },
+  {
+   "image_id": "img_0471",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0471",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Wy i"
+  },
+  {
+   "image_id": "img_0472",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0472",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "区， ot “wesao"
+  },
+  {
+   "image_id": "img_0473",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0473",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": ""
+  },
+  {
+   "image_id": "img_0474",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0474",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "> 豆包工作 你电脑的办公软件 豆包帮你操作 目 任务执行中 \\v) a 打开软件 i吕“处理数据 日“生成内容"
+  },
+  {
+   "image_id": "img_0476",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0476",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "on."
+  },
+  {
+   "image_id": "img_0477",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0477",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ee"
+  },
+  {
+   "image_id": "img_0478",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0478",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "ze%,"
+  },
+  {
+   "image_id": "img_0479",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0479",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "— fim _ ——"
+  },
+  {
+   "image_id": "img_0482",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "group": "img_0482",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "创未来 智能伙人 paameaswPron， SS if tq Zo"
+  },
+  {
+   "image_id": "img_0483",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0FFM0KX3P",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "\\\" SE NEN Pie ott hi ‘f ail b ~ VAs 7)"
+  },
+  {
+   "image_id": "img_0484",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0JRLL5YTC",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "(i & wits me二 三二 ay ain Atenen ate teary = -二一一"
+  },
+  {
+   "image_id": "img_0485",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0JRLL5YTC",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SS | LEe | —> == 三 三三"
+  },
+  {
+   "image_id": "img_0486",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0KG990ZNE",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "TI E Ga ee em Tak, 7) of oy oe a 1 1 4 is 局 Fo > |S a"
+  },
+  {
+   "image_id": "img_0487",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0KG990ZNE",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "| 10 oo 辆 ee lees ‘ee | ee I = md Mi Piet ld ia fs | | ———— ail, Sol"
+  },
+  {
+   "image_id": "img_0488",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0KG990ZNE",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "X [eke — 7 _ ak = = ion <2 an 5 ae | ESE > fi 天生下 =e"
+  },
+  {
+   "image_id": "img_0489",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B0JRLL5YTC",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ais ——_ — _ §§ LL | hr wre fo — | “ oe pe Fe 4 EF ce. —_ = \"238 » ¢ css —— mee = Z和二卫 E人了 = ol uo “= an tie + f ss"
+  },
+  {
+   "image_id": "img_0490",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "store_amap_B0FFM0KX3P",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "= VE! ="
+  },
+  {
+   "image_id": "img_0491",
+   "label": "negative",
+   "neg_type": "indoor",
+   "group": "store_amap_B0FFM0KX3P",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "-本 = 人 二 A EE. t = 1g ae ect Sh, aa 1 oi a 居"
+  },
+  {
+   "image_id": "img_0492",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0492",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a he eae |下 elie E \\ i= ae ER as"
+  },
+  {
+   "image_id": "img_0493",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0493",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "1 La Aug a,"
+  },
+  {
+   "image_id": "img_0494",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0494",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "a so 3 2 Ea. aT o 4 4B tA _— 区 如 BES"
+  },
+  {
+   "image_id": "img_0495",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0495",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "SY oe"
+  },
+  {
+   "image_id": "img_0496",
+   "label": "positive",
+   "neg_type": "",
+   "group": "store_amap_B023B0A7NA",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "三ja 少 蕙ww - | me | | gi a ae @ | = oe See Sy Zz"
+  },
+  {
+   "image_id": "img_0497",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0497",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "Ls “i Sa Eee sm, =~ ae ae, = ， ~ ntti"
+  },
+  {
+   "image_id": "img_0498",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "group": "img_0498",
+   "evidence": "NONE",
+   "own_text": [],
+   "competitor": [],
+   "ocr_text": "> te As fee Til ee IN) ca eat. 二 人"
+  }
+ ]
+}

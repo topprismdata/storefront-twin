@@ -1,0 +1,955 @@
+[
+ {
+  "image_id": "syn_CS-01_59649258",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "開     1           凡4       則\n則   同          .      說\n0 計計生  隆1  . 人\n條  崗  :   同\n5    re必避\nNOO,婦六",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_35953389",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_46359514",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "癌衣明                               NEW",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_21011501",
+  "gt_style": "CS-01",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "和东邻，右舍",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_61508505",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "[生                隊       汪語全\n全           以和     和\n品語還 人    %    副                   區       人\n還    已讓讓生                 出    LU     凶     蝦\n人                                                          ",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_42133672",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_87381575",
+  "gt_style": "CS-01",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "是     左邻，右舍\nNu.1460",
+   "brand_char_hits": 4,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-01_78214918",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "_ 上YlD'” 生\nGoodNeidfibor                          No.1075",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": true
+  }
+ },
+ {
+  "image_id": "syn_CS-02_14836036",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "2      加     人         汪\n品        人讓屆         凡人\n3            ,         汪       多          同        二                         員衣       同         蠅\n語    全           說一一銜      ~一全 一\n說            二 人六   ",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_24365926",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_09909052",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "。 左遙@          0",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_05752463",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "和和 |",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_63662443",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_64108655",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "~ /w 導還 玉  和\n和 汪 人 時 點\n選 全 點全 馬生",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_33635752",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-02_18991495",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "“襄居芥二 避 1",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_38594007",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_48629689",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "多上有吧      1\nGooe hieidhborisS",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_15705124",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_91287485",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_82216140",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "人   唔   品           圖   店1   量   加計",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_36531623",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "uncertain",
+  "reject": "ambiguous_or_hybrid",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "品到人讓\n|       左 1        右 全",
+   "brand_char_hits": 2,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_74532463",
+  "gt_style": "CS-03",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "medium",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "右舍",
+   "brand_char_hits": 2,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-03_26253708",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-04_10148160",
+  "gt_style": "CS-04",
+  "pred_style": "CS-04",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "左邻.右舍",
+   "brand_char_hits": 4,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": true
+  }
+ },
+ {
+  "image_id": "syn_CS-04_85070680",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-04_26733949",
+  "gt_style": "CS-04",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "左邻 . 右合",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-04_98475492",
+  "gt_style": "CS-04",
+  "pred_style": "CS-04",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "左邻，右舍",
+   "brand_char_hits": 4,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": true
+  }
+ },
+ {
+  "image_id": "syn_CS-04_10861093",
+  "gt_style": "CS-04",
+  "pred_style": "CS-04",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "左邻，右舍",
+   "brand_char_hits": 4,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": true
+  }
+ },
+ {
+  "image_id": "syn_CS-04_06949274",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "和     避                       Li\n品詢 和                          了\n同    品                       同\n和                      則",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-04_63176766",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-04_91167111",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "[在却 . 右会]",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_85307843",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_42345782",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "”右儲\nPLUS",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_11683877",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_14774632",
+  "gt_style": "CS-05",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "medium",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "太 . 右舍 「\"\nGoodNeighbor",
+   "brand_char_hits": 2,
+   "en_brand_hit": true,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": true,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_48682383",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_57043278",
+  "gt_style": "CS-05",
+  "pred_style": "CS-05",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "medium",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "Cighb人0r          Y\n右舍\nPLUS",
+   "brand_char_hits": 2,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": true,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_84135746",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-05_31871315",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "還",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_33646968",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_40774065",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "在胃右夫超市 亚",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_65107990",
+  "gt_style": "CS-06",
+  "pred_style": "CS-06",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "=邻右舍超市“mm\n加国",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": true,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_62875876",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_96202210",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "|\nI\n員     員",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_62508117",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_92138035",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "和",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "syn_CS-06_17817706",
+  "gt_style": "CS-06",
+  "pred_style": "CS-06",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": null,
+  "evidence": {
+   "ocr_raw": "左邻右舍超市 到",
+   "brand_char_hits": 4,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": true,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "cf1_CS-03",
+  "gt_style": "CS-03",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "medium",
+  "correct": true,
+  "cf_group": "CF1_plus_intervention",
+  "evidence": {
+   "ocr_raw": "右舍 |",
+   "brand_char_hits": 2,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "cf1_CS-05",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": "CF1_plus_intervention",
+  "evidence": {
+   "ocr_raw": "做   一rr\n局 、开 他    右        和",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "cf2_0",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": "CF2_env_invariance",
+  "evidence": {
+   "ocr_raw": "着  部 右合",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "cf2_1",
+  "gt_style": "CS-03",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "correct": true,
+  "cf_group": "CF2_env_invariance",
+  "evidence": {
+   "ocr_raw": "_左邻，右全",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "cf2_2",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": false,
+  "cf_group": "CF2_env_invariance",
+  "evidence": {
+   "ocr_raw": "間 人          和  國 蟬",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "cf3_damage",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": true,
+  "cf_group": "CF3_occlusion_reject",
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "cf4_anomaly",
+  "gt_style": "synthetic_unknown",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "correct": true,
+  "cf_group": "CF4_illegal_combo",
+  "evidence": {}
+ }
+]

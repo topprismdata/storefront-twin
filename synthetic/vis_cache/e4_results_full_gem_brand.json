@@ -1,0 +1,2972 @@
+[
+ {
+  "image_id": "img_0000",
+  "label": "positive",
+  "group": "store_0062",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0002",
+  "label": "positive",
+  "group": "img_0002",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0003",
+  "label": "positive",
+  "group": "img_0003",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0004",
+  "label": "positive",
+  "group": "img_0004",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0005",
+  "label": "positive",
+  "group": "store_2047",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0007",
+  "label": "positive",
+  "group": "img_0007",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 5
+ },
+ {
+  "image_id": "img_0008",
+  "label": "positive",
+  "group": "img_0008",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0009",
+  "label": "positive",
+  "group": "img_0009",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 4
+ },
+ {
+  "image_id": "img_0010",
+  "label": "positive",
+  "group": "store_2471",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0011",
+  "label": "positive",
+  "group": "img_0011",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0012",
+  "label": "positive",
+  "group": "img_0012",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0013",
+  "label": "positive",
+  "group": "img_0013",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0015",
+  "label": "positive",
+  "group": "img_0015",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0017",
+  "label": "positive",
+  "group": "img_0017",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0018",
+  "label": "positive",
+  "group": "store_0062",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0019",
+  "label": "positive",
+  "group": "img_0019",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0022",
+  "label": "negative",
+  "group": "img_0022",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0023",
+  "label": "positive",
+  "group": "img_0023",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0024",
+  "label": "positive",
+  "group": "img_0024",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0025",
+  "label": "positive",
+  "group": "store_0062",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0026",
+  "label": "positive",
+  "group": "img_0026",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0027",
+  "label": "positive",
+  "group": "img_0027",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0028",
+  "label": "positive",
+  "group": "img_0028",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0030",
+  "label": "negative",
+  "group": "img_0030",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0031",
+  "label": "negative",
+  "group": "img_0031",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0033",
+  "label": "negative",
+  "group": "img_0033",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0034",
+  "label": "negative",
+  "group": "img_0034",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0035",
+  "label": "negative",
+  "group": "img_0035",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0036",
+  "label": "negative",
+  "group": "img_0036",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0038",
+  "label": "negative",
+  "group": "img_0038",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0039",
+  "label": "negative",
+  "group": "img_0039",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0040",
+  "label": "negative",
+  "group": "img_0040",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0041",
+  "label": "negative",
+  "group": "img_0041",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0042",
+  "label": "negative",
+  "group": "img_0042",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0043",
+  "label": "negative",
+  "group": "img_0043",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0044",
+  "label": "negative",
+  "group": "img_0044",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0047",
+  "label": "negative",
+  "group": "img_0047",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0048",
+  "label": "negative",
+  "group": "img_0048",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0049",
+  "label": "negative",
+  "group": "img_0049",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0050",
+  "label": "negative",
+  "group": "img_0050",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0051",
+  "label": "negative",
+  "group": "img_0051",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0052",
+  "label": "negative",
+  "group": "img_0052",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0055",
+  "label": "negative",
+  "group": "img_0055",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0056",
+  "label": "negative",
+  "group": "img_0056",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0058",
+  "label": "negative",
+  "group": "img_0058",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0059",
+  "label": "negative",
+  "group": "img_0059",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0060",
+  "label": "negative",
+  "group": "img_0060",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0062",
+  "label": "negative",
+  "group": "img_0062",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0063",
+  "label": "negative",
+  "group": "img_0063",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0065",
+  "label": "negative",
+  "group": "img_0065",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0066",
+  "label": "negative",
+  "group": "img_0066",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0067",
+  "label": "negative",
+  "group": "img_0067",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0068",
+  "label": "negative",
+  "group": "img_0068",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0070",
+  "label": "negative",
+  "group": "img_0070",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0071",
+  "label": "negative",
+  "group": "img_0071",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0073",
+  "label": "negative",
+  "group": "img_0073",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0075",
+  "label": "negative",
+  "group": "img_0075",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0076",
+  "label": "negative",
+  "group": "img_0076",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0077",
+  "label": "negative",
+  "group": "img_0077",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0079",
+  "label": "negative",
+  "group": "img_0079",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0080",
+  "label": "negative",
+  "group": "img_0080",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0081",
+  "label": "negative",
+  "group": "img_0081",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0082",
+  "label": "negative",
+  "group": "img_0082",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0083",
+  "label": "negative",
+  "group": "img_0083",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0084",
+  "label": "negative",
+  "group": "img_0084",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0085",
+  "label": "negative",
+  "group": "img_0085",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0087",
+  "label": "negative",
+  "group": "img_0087",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0088",
+  "label": "negative",
+  "group": "img_0088",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0089",
+  "label": "negative",
+  "group": "img_0089",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0091",
+  "label": "negative",
+  "group": "img_0091",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0092",
+  "label": "negative",
+  "group": "img_0092",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0093",
+  "label": "negative",
+  "group": "img_0093",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0094",
+  "label": "negative",
+  "group": "img_0094",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0095",
+  "label": "negative",
+  "group": "img_0095",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0096",
+  "label": "negative",
+  "group": "img_0096",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0098",
+  "label": "negative",
+  "group": "img_0098",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0099",
+  "label": "negative",
+  "group": "img_0099",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0100",
+  "label": "negative",
+  "group": "img_0100",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0101",
+  "label": "negative",
+  "group": "img_0101",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0102",
+  "label": "negative",
+  "group": "img_0102",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0103",
+  "label": "negative",
+  "group": "img_0103",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0104",
+  "label": "negative",
+  "group": "img_0104",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0105",
+  "label": "negative",
+  "group": "img_0105",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0106",
+  "label": "negative",
+  "group": "img_0106",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0108",
+  "label": "negative",
+  "group": "img_0108",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0110",
+  "label": "negative",
+  "group": "img_0110",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0111",
+  "label": "negative",
+  "group": "img_0111",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0112",
+  "label": "negative",
+  "group": "img_0112",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0113",
+  "label": "negative",
+  "group": "img_0113",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0114",
+  "label": "negative",
+  "group": "img_0114",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0115",
+  "label": "negative",
+  "group": "img_0115",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0116",
+  "label": "negative",
+  "group": "img_0116",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0117",
+  "label": "negative",
+  "group": "img_0117",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0118",
+  "label": "negative",
+  "group": "img_0118",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0119",
+  "label": "negative",
+  "group": "img_0119",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0121",
+  "label": "negative",
+  "group": "img_0121",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0123",
+  "label": "negative",
+  "group": "img_0123",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0125",
+  "label": "negative",
+  "group": "img_0125",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0127",
+  "label": "negative",
+  "group": "img_0127",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0130",
+  "label": "negative",
+  "group": "img_0130",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0132",
+  "label": "negative",
+  "group": "img_0132",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0133",
+  "label": "negative",
+  "group": "img_0133",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0135",
+  "label": "negative",
+  "group": "img_0135",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0137",
+  "label": "negative",
+  "group": "img_0137",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0138",
+  "label": "negative",
+  "group": "img_0138",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0139",
+  "label": "negative",
+  "group": "img_0139",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0140",
+  "label": "negative",
+  "group": "img_0140",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0141",
+  "label": "negative",
+  "group": "img_0141",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 4
+ },
+ {
+  "image_id": "img_0142",
+  "label": "negative",
+  "group": "img_0142",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0144",
+  "label": "negative",
+  "group": "img_0144",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0145",
+  "label": "negative",
+  "group": "img_0145",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0148",
+  "label": "negative",
+  "group": "img_0148",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0149",
+  "label": "negative",
+  "group": "img_0149",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0150",
+  "label": "negative",
+  "group": "img_0150",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0152",
+  "label": "negative",
+  "group": "img_0152",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0155",
+  "label": "negative",
+  "group": "img_0155",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0156",
+  "label": "negative",
+  "group": "img_0156",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0157",
+  "label": "negative",
+  "group": "img_0157",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0160",
+  "label": "negative",
+  "group": "img_0160",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0162",
+  "label": "negative",
+  "group": "img_0162",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0164",
+  "label": "negative",
+  "group": "img_0164",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0167",
+  "label": "negative",
+  "group": "img_0167",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0168",
+  "label": "negative",
+  "group": "img_0168",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0169",
+  "label": "negative",
+  "group": "img_0169",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0170",
+  "label": "negative",
+  "group": "img_0170",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0171",
+  "label": "negative",
+  "group": "img_0171",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0172",
+  "label": "negative",
+  "group": "img_0172",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0173",
+  "label": "negative",
+  "group": "img_0173",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0176",
+  "label": "negative",
+  "group": "img_0176",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0178",
+  "label": "negative",
+  "group": "img_0178",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0179",
+  "label": "negative",
+  "group": "img_0179",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0181",
+  "label": "negative",
+  "group": "img_0181",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0183",
+  "label": "negative",
+  "group": "img_0183",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0184",
+  "label": "negative",
+  "group": "img_0184",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0186",
+  "label": "negative",
+  "group": "img_0186",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0187",
+  "label": "negative",
+  "group": "img_0187",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0188",
+  "label": "negative",
+  "group": "img_0188",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0189",
+  "label": "negative",
+  "group": "img_0189",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0192",
+  "label": "negative",
+  "group": "img_0192",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0193",
+  "label": "negative",
+  "group": "img_0193",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0194",
+  "label": "negative",
+  "group": "img_0194",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0195",
+  "label": "negative",
+  "group": "img_0195",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0196",
+  "label": "negative",
+  "group": "img_0196",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0199",
+  "label": "negative",
+  "group": "img_0199",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0200",
+  "label": "negative",
+  "group": "img_0200",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0201",
+  "label": "negative",
+  "group": "img_0201",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0202",
+  "label": "negative",
+  "group": "img_0202",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0204",
+  "label": "negative",
+  "group": "img_0204",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0206",
+  "label": "negative",
+  "group": "img_0206",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0207",
+  "label": "negative",
+  "group": "img_0207",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0210",
+  "label": "negative",
+  "group": "img_0210",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0211",
+  "label": "negative",
+  "group": "img_0211",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0212",
+  "label": "negative",
+  "group": "img_0212",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0214",
+  "label": "negative",
+  "group": "img_0214",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0217",
+  "label": "negative",
+  "group": "img_0217",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0218",
+  "label": "negative",
+  "group": "img_0218",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0219",
+  "label": "negative",
+  "group": "img_0219",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0222",
+  "label": "negative",
+  "group": "img_0222",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0223",
+  "label": "negative",
+  "group": "img_0223",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0224",
+  "label": "negative",
+  "group": "img_0224",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0225",
+  "label": "negative",
+  "group": "img_0225",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0226",
+  "label": "negative",
+  "group": "img_0226",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0227",
+  "label": "negative",
+  "group": "img_0227",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0228",
+  "label": "negative",
+  "group": "img_0228",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0231",
+  "label": "negative",
+  "group": "img_0231",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0232",
+  "label": "negative",
+  "group": "img_0232",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0233",
+  "label": "negative",
+  "group": "img_0233",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0234",
+  "label": "negative",
+  "group": "img_0234",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0238",
+  "label": "negative",
+  "group": "img_0238",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0241",
+  "label": "negative",
+  "group": "img_0241",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0242",
+  "label": "negative",
+  "group": "img_0242",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0243",
+  "label": "negative",
+  "group": "img_0243",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0246",
+  "label": "negative",
+  "group": "img_0246",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0247",
+  "label": "negative",
+  "group": "img_0247",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0251",
+  "label": "negative",
+  "group": "img_0251",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0252",
+  "label": "negative",
+  "group": "img_0252",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0256",
+  "label": "negative",
+  "group": "img_0256",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0258",
+  "label": "negative",
+  "group": "img_0258",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0259",
+  "label": "negative",
+  "group": "img_0259",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0260",
+  "label": "negative",
+  "group": "img_0260",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0262",
+  "label": "negative",
+  "group": "img_0262",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0263",
+  "label": "negative",
+  "group": "img_0263",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0267",
+  "label": "negative",
+  "group": "img_0267",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0273",
+  "label": "negative",
+  "group": "img_0273",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0274",
+  "label": "negative",
+  "group": "img_0274",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0275",
+  "label": "negative",
+  "group": "img_0275",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0276",
+  "label": "negative",
+  "group": "img_0276",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0277",
+  "label": "negative",
+  "group": "img_0277",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0285",
+  "label": "negative",
+  "group": "img_0285",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0288",
+  "label": "negative",
+  "group": "img_0288",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0289",
+  "label": "negative",
+  "group": "img_0289",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0290",
+  "label": "negative",
+  "group": "img_0290",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0291",
+  "label": "negative",
+  "group": "img_0291",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0293",
+  "label": "negative",
+  "group": "img_0293",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0295",
+  "label": "negative",
+  "group": "img_0295",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0297",
+  "label": "negative",
+  "group": "img_0297",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0298",
+  "label": "negative",
+  "group": "img_0298",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0301",
+  "label": "negative",
+  "group": "img_0301",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0304",
+  "label": "negative",
+  "group": "img_0304",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 4
+ },
+ {
+  "image_id": "img_0306",
+  "label": "negative",
+  "group": "img_0306",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0307",
+  "label": "negative",
+  "group": "img_0307",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0308",
+  "label": "negative",
+  "group": "img_0308",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0310",
+  "label": "negative",
+  "group": "img_0310",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0311",
+  "label": "negative",
+  "group": "img_0311",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0312",
+  "label": "negative",
+  "group": "img_0312",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0313",
+  "label": "negative",
+  "group": "img_0313",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0314",
+  "label": "negative",
+  "group": "img_0314",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0315",
+  "label": "negative",
+  "group": "img_0315",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0316",
+  "label": "negative",
+  "group": "img_0316",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0319",
+  "label": "negative",
+  "group": "img_0319",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0320",
+  "label": "negative",
+  "group": "img_0320",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0321",
+  "label": "negative",
+  "group": "img_0321",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0323",
+  "label": "negative",
+  "group": "img_0323",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0324",
+  "label": "negative",
+  "group": "img_0324",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0326",
+  "label": "negative",
+  "group": "img_0326",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0327",
+  "label": "negative",
+  "group": "img_0327",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0328",
+  "label": "negative",
+  "group": "img_0328",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0329",
+  "label": "negative",
+  "group": "img_0329",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0330",
+  "label": "negative",
+  "group": "img_0330",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0331",
+  "label": "negative",
+  "group": "img_0331",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0333",
+  "label": "negative",
+  "group": "img_0333",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0337",
+  "label": "negative",
+  "group": "img_0337",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0339",
+  "label": "negative",
+  "group": "img_0339",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0340",
+  "label": "negative",
+  "group": "img_0340",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0341",
+  "label": "negative",
+  "group": "img_0341",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0343",
+  "label": "negative",
+  "group": "img_0343",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0344",
+  "label": "negative",
+  "group": "img_0344",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0345",
+  "label": "negative",
+  "group": "img_0345",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0346",
+  "label": "negative",
+  "group": "img_0346",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0347",
+  "label": "negative",
+  "group": "img_0347",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0350",
+  "label": "negative",
+  "group": "img_0350",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0351",
+  "label": "negative",
+  "group": "img_0351",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0352",
+  "label": "negative",
+  "group": "img_0352",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0353",
+  "label": "negative",
+  "group": "img_0353",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0354",
+  "label": "negative",
+  "group": "img_0354",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0356",
+  "label": "negative",
+  "group": "img_0356",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0357",
+  "label": "negative",
+  "group": "img_0357",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0361",
+  "label": "negative",
+  "group": "img_0361",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0362",
+  "label": "negative",
+  "group": "img_0362",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0363",
+  "label": "negative",
+  "group": "img_0363",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0364",
+  "label": "negative",
+  "group": "img_0364",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0367",
+  "label": "negative",
+  "group": "img_0367",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0368",
+  "label": "negative",
+  "group": "img_0368",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0369",
+  "label": "negative",
+  "group": "img_0369",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0370",
+  "label": "negative",
+  "group": "img_0370",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0372",
+  "label": "negative",
+  "group": "img_0372",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0373",
+  "label": "negative",
+  "group": "img_0373",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0374",
+  "label": "negative",
+  "group": "img_0374",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0375",
+  "label": "negative",
+  "group": "img_0375",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0376",
+  "label": "negative",
+  "group": "img_0376",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0377",
+  "label": "negative",
+  "group": "img_0377",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0379",
+  "label": "negative",
+  "group": "img_0379",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0383",
+  "label": "negative",
+  "group": "img_0383",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0385",
+  "label": "negative",
+  "group": "img_0385",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0386",
+  "label": "negative",
+  "group": "img_0386",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0387",
+  "label": "negative",
+  "group": "img_0387",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0388",
+  "label": "negative",
+  "group": "img_0388",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0390",
+  "label": "negative",
+  "group": "img_0390",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0393",
+  "label": "negative",
+  "group": "img_0393",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0394",
+  "label": "negative",
+  "group": "img_0394",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0395",
+  "label": "negative",
+  "group": "img_0395",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0396",
+  "label": "negative",
+  "group": "img_0396",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0397",
+  "label": "negative",
+  "group": "img_0397",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0399",
+  "label": "negative",
+  "group": "img_0399",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0400",
+  "label": "negative",
+  "group": "img_0400",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0401",
+  "label": "negative",
+  "group": "img_0401",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0402",
+  "label": "negative",
+  "group": "img_0402",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0403",
+  "label": "negative",
+  "group": "img_0403",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0404",
+  "label": "negative",
+  "group": "img_0404",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0406",
+  "label": "negative",
+  "group": "img_0406",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0407",
+  "label": "negative",
+  "group": "img_0407",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0411",
+  "label": "negative",
+  "group": "img_0411",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0412",
+  "label": "negative",
+  "group": "img_0412",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0413",
+  "label": "negative",
+  "group": "img_0413",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0415",
+  "label": "negative",
+  "group": "img_0415",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0418",
+  "label": "negative",
+  "group": "img_0418",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0420",
+  "label": "negative",
+  "group": "img_0420",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0421",
+  "label": "negative",
+  "group": "img_0421",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0422",
+  "label": "negative",
+  "group": "img_0422",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0423",
+  "label": "negative",
+  "group": "img_0423",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0424",
+  "label": "negative",
+  "group": "img_0424",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0425",
+  "label": "negative",
+  "group": "img_0425",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0427",
+  "label": "negative",
+  "group": "img_0427",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0428",
+  "label": "negative",
+  "group": "img_0428",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0430",
+  "label": "negative",
+  "group": "img_0430",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0433",
+  "label": "negative",
+  "group": "img_0433",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0434",
+  "label": "negative",
+  "group": "img_0434",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0437",
+  "label": "negative",
+  "group": "img_0437",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0438",
+  "label": "negative",
+  "group": "img_0438",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0441",
+  "label": "negative",
+  "group": "img_0441",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0442",
+  "label": "negative",
+  "group": "img_0442",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0444",
+  "label": "negative",
+  "group": "img_0444",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0445",
+  "label": "negative",
+  "group": "img_0445",
+  "pred_brand": "left_right",
+  "gt_brand": "other_brand",
+  "correct": false,
+  "pos_votes": 4
+ },
+ {
+  "image_id": "img_0447",
+  "label": "negative",
+  "group": "img_0447",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0448",
+  "label": "negative",
+  "group": "img_0448",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0453",
+  "label": "negative",
+  "group": "img_0453",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0454",
+  "label": "negative",
+  "group": "img_0454",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0455",
+  "label": "negative",
+  "group": "img_0455",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0456",
+  "label": "negative",
+  "group": "img_0456",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0460",
+  "label": "negative",
+  "group": "img_0460",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0461",
+  "label": "negative",
+  "group": "img_0461",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0465",
+  "label": "negative",
+  "group": "img_0465",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0466",
+  "label": "negative",
+  "group": "img_0466",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0467",
+  "label": "negative",
+  "group": "img_0467",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0470",
+  "label": "negative",
+  "group": "img_0470",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0471",
+  "label": "negative",
+  "group": "img_0471",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0472",
+  "label": "negative",
+  "group": "img_0472",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0473",
+  "label": "negative",
+  "group": "img_0473",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0474",
+  "label": "negative",
+  "group": "img_0474",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0476",
+  "label": "negative",
+  "group": "img_0476",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0477",
+  "label": "negative",
+  "group": "img_0477",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0478",
+  "label": "negative",
+  "group": "img_0478",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0479",
+  "label": "negative",
+  "group": "img_0479",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0482",
+  "label": "negative",
+  "group": "img_0482",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0483",
+  "label": "positive",
+  "group": "store_amap_B0FFM0KX3P",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0484",
+  "label": "positive",
+  "group": "store_amap_B0JRLL5YTC",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0485",
+  "label": "positive",
+  "group": "store_amap_B0JRLL5YTC",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0486",
+  "label": "positive",
+  "group": "store_amap_B0KG990ZNE",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0487",
+  "label": "positive",
+  "group": "store_amap_B0KG990ZNE",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0488",
+  "label": "positive",
+  "group": "store_amap_B0KG990ZNE",
+  "pred_brand": "other_brand",
+  "gt_brand": "left_right",
+  "correct": false,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0489",
+  "label": "positive",
+  "group": "store_amap_B0JRLL5YTC",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 3
+ },
+ {
+  "image_id": "img_0490",
+  "label": "negative",
+  "group": "store_amap_B0FFM0KX3P",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0491",
+  "label": "negative",
+  "group": "store_amap_B0FFM0KX3P",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0492",
+  "label": "negative",
+  "group": "img_0492",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0493",
+  "label": "negative",
+  "group": "img_0493",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0494",
+  "label": "negative",
+  "group": "img_0494",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 1
+ },
+ {
+  "image_id": "img_0495",
+  "label": "negative",
+  "group": "img_0495",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 0
+ },
+ {
+  "image_id": "img_0496",
+  "label": "positive",
+  "group": "store_amap_B023B0A7NA",
+  "pred_brand": "left_right",
+  "gt_brand": "left_right",
+  "correct": true,
+  "pos_votes": 4
+ },
+ {
+  "image_id": "img_0497",
+  "label": "negative",
+  "group": "img_0497",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ },
+ {
+  "image_id": "img_0498",
+  "label": "negative",
+  "group": "img_0498",
+  "pred_brand": "other_brand",
+  "gt_brand": "other_brand",
+  "correct": true,
+  "pos_votes": 2
+ }
+]

@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B11_01 | NON_MATCH | 每日生鲜超市 |
+| B11_02 | MATCH | 左邻·右舍 |
+| B11_03 | OUT_OF_SCOPE | 极速代办、注册公司 |
+| B11_04 | MATCH | 左邻·右舍 |
+| B11_05 | OUT_OF_SCOPE | 左邻右舍便利店 |
+| B11_06 | NON_MATCH | 便利蜂 |
+| B11_07 | NON_MATCH | 7-ELEVEN |
+| B11_08 | NON_MATCH | 每日生鲜超市 |
+| B11_09 | NON_MATCH | 唐久便利 |
+| B11_10 | NON_MATCH | 美宜佳 |
+| B11_11 | NON_MATCH | 百家惠便利店 |
+| B11_12 | NON_MATCH | 生鲜超市 |
+| B11_13 | NON_MATCH | 淳珍品质生活超市 |
+| B11_14 | NON_MATCH | 云端茶…（部分文字） |
+| B11_15 | OUT_OF_SCOPE | 无 |
+| B11_16 | OUT_OF_SCOPE | 无 |
+| B11_17 | UNKNOWN | 无 |
+| B11_18 | OUT_OF_SCOPE | 新…丰（文字不完整） |
+| B11_19 | NON_MATCH | 7-ELEVEN |
+| B11_20 | OUT_OF_SCOPE | 链家·LIANJIA |
+| B11_21 | OUT_OF_SCOPE | 左邻右舍 |
+| B11_22 | NON_MATCH | 蒙选、良品铺子 |
+| B11_23 | NON_MATCH | 舞东风 |
+| B11_24 | OUT_OF_SCOPE | 左邻右舍 |

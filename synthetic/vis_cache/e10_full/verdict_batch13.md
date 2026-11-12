@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B13_01 | OUT_OF_SCOPE | LINGSHOUKE |
+| B13_02 | NON_MATCH | 乐洁超市 |
+| B13_03 | OUT_OF_SCOPE | 无 |
+| B13_04 | OUT_OF_SCOPE | 无 |
+| B13_05 | OUT_OF_SCOPE | 无 |
+| B13_06 | NON_MATCH | 宝途（BAOTU） |
+| B13_07 | OUT_OF_SCOPE | 驰骋物流 |
+| B13_08 | MATCH | 左邻·右舍 |
+| B13_09 | NON_MATCH | 福家德福生活超市 |
+| B13_10 | NON_MATCH | 芙蓉兴盛便利超市 |
+| B13_11 | NON_MATCH | 无 |
+| B13_12 | NON_MATCH | 百家惠便利店 |
+| B13_13 | OUT_OF_SCOPE | 君子清 |
+| B13_14 | OUT_OF_SCOPE | 无 |
+| B13_15 | OUT_OF_SCOPE | 无 |
+| B13_16 | OUT_OF_SCOPE | 无 |
+| B13_17 | UNKNOWN | 无 |
+| B13_18 | OUT_OF_SCOPE | 左邻右舍常相助 |
+| B13_19 | OUT_OF_SCOPE | 快速下证注册公司 |
+| B13_20 | MATCH | 左邻·右舍；园区便利店 |
+| B13_21 | OUT_OF_SCOPE | 左邻右舍（ZUOLINYOUSHE） |
+| B13_22 | OUT_OF_SCOPE | 无 |
+| B13_23 | NON_MATCH | 99正品便利店 |
+| B13_24 | OUT_OF_SCOPE | 无 |

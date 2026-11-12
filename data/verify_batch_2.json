@@ -1,0 +1,110 @@
+[
+ {
+  "image_id": "img_0003",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻·右舍；Good Neighbors 亲如一家",
+  "business_type": "便利店",
+  "style_features": {
+   "main_color_layout": "红蓝",
+   "font": "立体字",
+   "plus": "无",
+   "english_subtitle": "有:Good Neighbors 亲如一家",
+   "store_number": "",
+   "band_pattern": "主招牌两侧横向色带，上蓝条下红条（蓝红双条）",
+   "lightbox": "灯箱",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "红底白字立体圆角美术字，主字与官方副标Good Neighbors 亲如一家均清晰可读；强烈阳光眩光致边角模糊，编号小字若存在已被光斑遮盖。业态按品牌门头推断（招牌未明示业态，画面仅见门头）。色带底板材质眩光下无法确证。"
+ },
+ {
+  "image_id": "img_0008",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻·右舍；Good Neighbors 亲如一家（中文首字略糊）；杨二村加盟店；左端小字[?][?][?]",
+  "business_type": "便利店",
+  "style_features": {
+   "main_color_layout": "红蓝",
+   "font": "黑体",
+   "plus": "无",
+   "english_subtitle": "有:Good Neighbors 亲如一家",
+   "store_number": "",
+   "band_pattern": "中间红底主招牌、两端蓝色块（红-蓝-红拼接）；檐口通长红色饰带，无多色相间色带",
+   "lightbox": "喷绘",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "主字清晰；右侧蓝底'杨二村加盟店'六字二次确认，证实加盟门店。中文副标二次复核为四字'亲如一家'（首读误作'我们是一家'已纠正）。平面喷绘布/灯箱布，无彩钢条分缝。居民楼底商，门口挂红灯笼；楼上红横幅'地下室出租15868982438'非招牌内容。与旧标注矛盾：hint称'蓝招牌'，实为红底主招牌+蓝色两端。"
+ },
+ {
+  "image_id": "img_0012",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻右舍超市；欢迎光临（玻璃门两侧红字）；右端小字[?]",
+  "business_type": "超市",
+  "style_features": {
+   "main_color_layout": "红主导",
+   "font": "立体字",
+   "plus": "无",
+   "english_subtitle": "无（右端极小字[?]不可辨，无法确认是否英文）",
+   "store_number": "",
+   "band_pattern": "无色带（招牌上下均无彩色条带）",
+   "lightbox": "彩钢条",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "红底白字粗黑体带浮雕立体感，招牌明写'超市'，玻璃门内可见货架商品，业态超市确证。底板横向分段条纹=彩钢条/条形扣板。无PLUS、无英文副标、无编号、无色带，符合验收判据。与旧标注一致。"
+ },
+ {
+  "image_id": "img_0018",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻·右舍；Good Neighbors 亲如一家；No.0062；话费充值（门左侧立牌）；左门竖条小字[?]",
+  "business_type": "便利店",
+  "style_features": {
+   "main_color_layout": "红蓝",
+   "font": "黑体",
+   "plus": "无",
+   "english_subtitle": "有:Good Neighbors 亲如一家",
+   "store_number": "No.0062",
+   "band_pattern": "蓝-红-蓝：两端蓝色横带、上沿窄蓝条、中间红色主带、下沿蓝边",
+   "lightbox": "不明",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "重大矛盾：旧标注hint与store_id均为No.0002/store_0002，但编号经两轮逐位辨读均为No.0062（0,0,6,2），第三位确为6非0。store_0002归属需复核。主字粗黑体平直非立体；底板倾向灯箱/喷绘布但无法确证。店内货架、饮料、话费充值=便利店业态。"
+ },
+ {
+  "image_id": "img_0024",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻·右舍；下方小字副标[?]（夜景不可辨）",
+  "business_type": "不明",
+  "style_features": {
+   "main_color_layout": "红蓝",
+   "font": "黑体",
+   "plus": "无",
+   "english_subtitle": "不确定:大字下方有小字行但逐字不可辨[?]",
+   "store_number": "",
+   "band_pattern": "红-白-蓝相间：左端红白、右侧大段蓝底白条红条，红蓝区之间白色竖条分隔",
+   "lightbox": "彩钢条",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "主字'左邻·右舍'红底白字清晰确证品牌。副标首读曾报'拼音zuo lin·you she+健·康·食[?]'，二次聚焦复核判定为太小且对比度不足、逐字不可辨——首读拼音说不可靠，按uncertain处理。潮新闻NEWS一潮天下水印；傍晚/夜间，大量排队人群（部分撑伞）。业态未直接可见（夜间+人群遮挡），不推断。底板为彩钢板/铝塑板拼接，檐口另有发光灯带。"
+ },
+ {
+  "image_id": "img_0028",
+  "brand_verdict": "left_right",
+  "sign_text": "左邻·右舍；Good Neighbors；加盟热线:[?]（号码打码）；24小时营业（右侧竖牌灯箱）；[?]超市（LED点阵屏）；口味王（橱窗海报）",
+  "business_type": "便利店",
+  "style_features": {
+   "main_color_layout": "红蓝",
+   "font": "立体字",
+   "plus": "无",
+   "english_subtitle": "有:Good Neighbors（英文右侧中文小字[?]不可辨）",
+   "store_number": "",
+   "band_pattern": "门头下方红-白-蓝横向色带；招牌上方蓝红板块交替；左蓝区嵌红底白字'加盟热线'条",
+   "lightbox": "灯箱",
+   "stories": "单层"
+  },
+  "confidence": "high",
+  "note": "夜景红蓝均匀发光=灯箱/亚克力发光字，主字粗壮圆角美术字略带立体感。24小时营业竖牌+LED屏'超市'字样=24小时便利店/超市。门口两辆电动车，搜狐号@供应链范式水印；加盟热线号码被模糊打码。与旧标注一致（PLUS为真实变体但本图无PLUS）。"
+ }
+]

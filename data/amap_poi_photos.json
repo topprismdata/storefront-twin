@@ -1,0 +1,41 @@
+[
+ {
+  "poi": "B0FFM0KX3P",
+  "poi_name": "左邻右舍便利超市(环镇东路店)",
+  "city": "金华市",
+  "addr": "崇正路78号",
+  "category": "门头",
+  "type": "环境",
+  "hash": "072d6aa50af953e67edf30899d68a325",
+  "file": "amap_072d6aa50af9_378ba89b.jpg",
+  "sha": "378ba89bd61f04c17c9cab63c5b33693c22c19f17946115176b115bd5f4b45a4",
+  "bytes": 209744,
+  "url": "https://store.is.autonavi.com/showpic/072d6aa50af953e67edf30899d68a325"
+ },
+ {
+  "poi": "B0FFM0KX3P",
+  "poi_name": "左邻右舍便利超市(环镇东路店)",
+  "city": "金华市",
+  "addr": "崇正路78号",
+  "category": "货架",
+  "type": "其他",
+  "hash": "88cc130396dfc3841f5fe0b339231aa4",
+  "file": "amap_88cc130396df_f4108149.jpg",
+  "sha": "f410814956c101f6c96ce721fb16c321c6c12bc38fb0ab8b04c0ab4d26894857",
+  "bytes": 32806,
+  "url": "https://store.is.autonavi.com/showpic/88cc130396dfc3841f5fe0b339231aa4"
+ },
+ {
+  "poi": "B0FFM0KX3P",
+  "poi_name": "左邻右舍便利超市(环镇东路店)",
+  "city": "金华市",
+  "addr": "崇正路78号",
+  "category": "货架",
+  "type": "其他",
+  "hash": "f0c81cbec4d2dbe10bb5f8ca2c711918",
+  "file": "amap_f0c81cbec4d2_d4a205de.jpg",
+  "sha": "d4a205deabf376d367f4836eaa92282dfd44cb4eeb3e0444a4c9447b0bdcfb48",
+  "bytes": 31645,
+  "url": "https://store.is.autonavi.com/showpic/f0c81cbec4d2dbe10bb5f8ca2c711918"
+ }
+]

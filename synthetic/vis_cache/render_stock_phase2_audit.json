@@ -1,0 +1,31 @@
+{
+ "phase": "render_stock 二阶段视觉复核",
+ "date": "2026-11-12",
+ "population": 394,
+ "method": "采集元数据分析 + OCR一阶段命中全分辨率核验 + 40张分层随机视觉抽检 + 可疑样本全分辨率裁决",
+ "key_findings": {
+  "collection_metadata": "389/394 采集时已人工标注为渲染/3D/效果图素材(他店效果图/他牌门头素材/设计稿)",
+  "fullres_fields_before": "brand_verdict_fullres/sign_text_fullres/fullres_confidence 全部为空(从未全分辨率核验)",
+  "own_brand_text_5_verified": {
+   "img_0031": "昵图网招牌设计模板(左邻·右舍矢量字+水印) → RENDER/ASSET, 负例对",
+   "img_0205": "社区文化墙模板(左邻右舍睦邻驿站,非便利店) → ASSET, 负例对",
+   "img_0210": "党建文化墙模板(左邻右舍笑颜如花) → ASSET, 负例对",
+   "img_0212": "名片设计稿(占位符电话地址+嵌入小图) → ASSET, 负例对",
+   "img_0223": "教学课件插画(成语你家我家左邻右舍) → ASSET, 负例对"
+  },
+  "sample_40": "无真实左邻右舍门店混入; 含真实他牌照片(美宜佳/邻几/舞东风/友莱超市/餐饮)+渲染素材+无关内容(人像/教育插画/洗衣logo)",
+  "img_0308_adjudicated": "邻几竞品真照片(非左邻右舍,无⊙红蓝VI), 负例标签正确; 视觉扫描'疑本品牌'为误报,全分辨率纠正"
+ },
+ "conclusions": [
+  "L0负例标签100%正确(抽检+定向核验范围内): 无真实左邻右舍门店被误标为render_stock负例",
+  "OCR命中本品牌文字≠品牌门店: '左邻右舍'是常用成语,大量社区/党建/教育素材含此文字但与便利店无关",
+  "neg_type归类不精确(数据质量注记,非标签错误): render_stock混入真实他牌照片,应部分归competitor/same_name_unrelated; 负例标签仍对",
+  "无需修改registry标签; 可选: 细化neg_type以提升难负例采样精度"
+ ],
+ "governance": "探索性审计,不改registry,权利门G0/G1未过",
+ "artifacts": [
+  "render_stock_sample40.json",
+  "render_stock_sample_sheet1.jpg",
+  "render_stock_sample_sheet2.jpg"
+ ]
+}

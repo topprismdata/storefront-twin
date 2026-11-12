@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B11_01 | OUT_OF_SCOPE | 每日生鲜超市 |
+| B11_02 | MATCH | 左邻·右舍 |
+| B11_03 | OUT_OF_SCOPE | 汪灏公司 |
+| B11_04 | OUT_OF_SCOPE | 左邻·右舍 |
+| B11_05 | OUT_OF_SCOPE | 左邻右舍便利店 |
+| B11_06 | NON_MATCH | 便利蜂 |
+| B11_07 | NON_MATCH | 7-ELEVEN |
+| B11_08 | OUT_OF_SCOPE | 每日生鲜超市 |
+| B11_09 | NON_MATCH | 久又便利 |
+| B11_10 | NON_MATCH | 美宜佳 |
+| B11_11 | UNKNOWN | 百家惠便利店 |
+| B11_12 | OUT_OF_SCOPE | 生鲜生活馆 |
+| B11_13 | UNKNOWN | 淳珍品质生活超市 |
+| B11_14 | UNKNOWN | 无（文字无法可靠辨认） |
+| B11_15 | OUT_OF_SCOPE | 无 |
+| B11_16 | OUT_OF_SCOPE | 无 |
+| B11_17 | UNKNOWN | 无（门头文字无法可靠辨认） |
+| B11_18 | OUT_OF_SCOPE | 新南丰 |
+| B11_19 | NON_MATCH | 7-ELEVEN |
+| B11_20 | NON_MATCH | 链家 |
+| B11_21 | OUT_OF_SCOPE | 左邻右舍（宣传文案） |
+| B11_22 | NON_MATCH | 景达（疑似） |
+| B11_23 | NON_MATCH | 舞东风 |
+| B11_24 | OUT_OF_SCOPE | 左邻右舍 |

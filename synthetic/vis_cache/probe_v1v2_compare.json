@@ -1,0 +1,18 @@
+{
+ "n_real": 330,
+ "n_pos": 30,
+ "versions": {
+  "v1": {
+   "n_synth": 820,
+   "n_synth_pos": 360,
+   "auprc_linear": 0.324,
+   "auprc_mlp": 0.263
+  },
+  "v2": {
+   "n_synth": 820,
+   "n_synth_pos": 360,
+   "auprc_linear": 0.319,
+   "auprc_mlp": 0.254
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "experiment": "E4",
+ "version": "e4-local-v1.0",
+ "question": "多向量局部信息是否必要（相对全局 CLS 与 ROI-GeM 强基线）",
+ "backbone": "dinov2-base (frozen)",
+ "patch_grid": [
+  16,
+  16
+ ],
+ "views": [
+  "full",
+  "crop"
+ ],
+ "variants": [
+  "gem",
+  "maxsim",
+  "maxsim_top50",
+  "maxsim_top25",
+  "spatial_w2",
+  "spatial_w4"
+ ],
+ "gem_p": 3.0,
+ "k_vote": 5,
+ "split": "store_id_grouped_LOSO",
+ "hyperparam_policy": "all variants reported; no post-hoc selection on test",
+ "determinism": "no RNG; frozen weights; fixed preprocessing",
+ "governance": "exploratory_probe_rights_pending_G0_G1_not_passed",
+ "e3_reference": "vis_cache/summary.json (dinov2/clip/siglip global)"
+}

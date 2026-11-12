@@ -1,0 +1,28 @@
+{
+ "operating_point": {
+  "thr": 0.636,
+  "tp": 28,
+  "fp": 7,
+  "fn": 2,
+  "precision": 0.8,
+  "recall": 0.933,
+  "f1": 0.862
+ },
+ "auprc": 0.925,
+ "p_at_95r": 0.707,
+ "r_at_95p": 0.6,
+ "n_rows": 330,
+ "n_pos": 30,
+ "n_errors": 9,
+ "channels": {
+  "clip": {
+   "auprc": 0.659
+  },
+  "dino_mc": {
+   "auprc": 0.766
+  },
+  "probe": {
+   "auprc": 0.324
+  }
+ }
+}

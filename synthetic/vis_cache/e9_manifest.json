@@ -1,0 +1,20 @@
+{
+ "experiment": "E9",
+ "version": "e9-anyloc-v1.0",
+ "method": "AnyLoc-style: intermediate-layer value facet + hard-VLAD + domain vocab",
+ "reference": "arXiv:2308.00688",
+ "layers": [
+  6,
+  8,
+  10
+ ],
+ "facets": [
+  "value",
+  "token"
+ ],
+ "k_clusters": 32,
+ "view": "crop",
+ "split": "store_id_grouped_LOSO",
+ "governance": "exploratory_probe_rights_pending_G0_G1_not_passed",
+ "note": "corrects E4 which used last-layer token + MaxSim/GeM"
+}

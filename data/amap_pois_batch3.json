@@ -1,0 +1,168 @@
+[
+ {
+  "id": "B02430HRJ9",
+  "name": "义乌市",
+  "city": "金华市",
+  "addr": "义乌市",
+  "classify": "区县",
+  "pic_total": 99,
+  "gallery": [
+   {
+    "url": "https://aos-comment.amap.com/B02430HRJ9/comment/content_media_external_images_media_100001767_1726628935529_77146656.jpg",
+    "category": "建筑",
+    "type": "其他"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B02430HRJ9/comment/172662923785_1726629242222_77701006.jpg",
+    "category": "建筑",
+    "type": "其他"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B02430HRJ9/comment/content_media_external_images_media_100001767_1726628935528_48490507.jpg",
+    "category": "建筑",
+    "type": "其他"
+   }
+  ]
+ },
+ {
+  "id": "B0243176OT",
+  "name": "义乌国际商贸城二区(29号门)",
+  "city": "金华市",
+  "addr": "稠州北路义乌国际商贸城二区",
+  "classify": "门",
+  "pic_total": 4,
+  "gallery": [
+   {
+    "url": "http://store.is.autonavi.com/showpic/552e79d8a310bf9c5ec5bb37",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/deb0cfc2f15619ec6e5c03018a3dfe7d",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B0243176OT/comment/content_media_external_images_media_494_1729615908771_67496794.jpg",
+    "category": "内部环境",
+    "type": "环境"
+   }
+  ]
+ },
+ {
+  "id": "B00140SSHI",
+  "name": "永康",
+  "city": "广州市",
+  "addr": "从化区",
+  "classify": "村庄",
+  "pic_total": 0,
+  "gallery": []
+ },
+ {
+  "id": "B0306001G2",
+  "name": "永康",
+  "city": "梧州市",
+  "addr": "藤县",
+  "classify": "村庄",
+  "pic_total": 0,
+  "gallery": []
+ },
+ {
+  "id": "B023B13XZD",
+  "name": "上城区",
+  "city": "杭州市",
+  "addr": "上城区",
+  "classify": "区县",
+  "pic_total": 14,
+  "gallery": [
+   {
+    "url": "https://aos-comment.amap.com/B023B13XZD/comment/content_media_external_images_media_1000019530_ss__1726407618789_66489904.jpg",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B023B13XZD/comment/content_media_external_images_media_100001879_1736671462459_28016425.jpg",
+    "category": "门头",
+    "type": "环境"
+   },
+   {
+    "url": "https://aos-comment.amap.com/B023B13XZD/comment/04c381e21b8449e4621c12a5941a55e0_2048_2048_80.jpg",
+    "category": "其他",
+    "type": "其他"
+   }
+  ]
+ },
+ {
+  "id": "B023B148F8",
+  "name": "杭州市",
+  "city": "杭州市",
+  "addr": "上城区",
+  "classify": "地级市",
+  "pic_total": 100,
+  "gallery": [
+   {
+    "url": "http://store.is.autonavi.com/showpic/41ba8c0ea11375651e405e81de8665d4",
+    "category": "景色",
+    "type": "景色"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/478ddbbf592df9e88466a3e10c5d6b70",
+    "category": "景色",
+    "type": "景色"
+   },
+   {
+    "url": "http://store.is.autonavi.com/showpic/4aa0a6a1b6ee72c9833441f363cbb43a",
+    "category": "建筑",
+    "type": "建筑"
+   }
+  ]
+ },
+ {
+  "id": "B0L14X2J2H",
+  "name": "杭州来福士中心(东门)",
+  "city": "杭州市",
+  "addr": "凯德·杭州来福士中心(江锦路地铁站B1口步行210米)",
+  "classify": "门",
+  "pic_total": 0,
+  "gallery": []
+ },
+ {
+  "id": "B023B09D5O",
+  "name": "临丁路",
+  "city": "杭州市",
+  "addr": "上城区",
+  "classify": "道路",
+  "pic_total": 1,
+  "gallery": [
+   {
+    "url": "http://store.is.autonavi.com/showpic/671712eebe9ef1ffecfcc0197ef2139a",
+    "category": "建筑",
+    "type": "其他"
+   }
+  ]
+ },
+ {
+  "id": "B023B08N58",
+  "name": "龙居",
+  "city": "杭州市",
+  "addr": "上城区",
+  "classify": "村庄",
+  "pic_total": 1,
+  "gallery": [
+   {
+    "url": "https://store.is.autonavi.com/showpic/48d5521e6c69ed1205799fa77dad0f57",
+    "category": "建筑",
+    "type": "建筑"
+   }
+  ]
+ },
+ {
+  "id": "B023A143KD",
+  "name": "上方",
+  "city": "衢州市",
+  "addr": "衢江区",
+  "classify": "村庄",
+  "pic_total": 0,
+  "gallery": []
+ }
+]

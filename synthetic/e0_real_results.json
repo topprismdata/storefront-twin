@@ -1,0 +1,935 @@
+[
+ {
+  "image_id": "img_0000",
+  "label": "positive",
+  "gt_style": "CS-02",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "全\n[太聞 ‧冇 舍|",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0002",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "2         一一       太人 5a        同\n由                共|        同",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0003",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0004",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0005",
+  "label": "positive",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0007",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "CS-03",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "左邻:右全\n立 -few 攻轴| 克",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": false
+  }
+ },
+ {
+  "image_id": "img_0008",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0009",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0010",
+  "label": "positive",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "人 人入江讓語 二說\naa471              加還才坊, 衝人2                             一\n                “4\n一一一一一一一Marmmmmmmmmsmay 一一一\n生\n人\n              ~   一和  則\n同                       加8呈生)\n     還              圖     ",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0011",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0012",
+  "label": "positive",
+  "gt_style": "CS-06",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "讓| 圖",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0013",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0015",
+  "label": "positive",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0017",
+  "label": "positive",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "人|",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0018",
+  "label": "positive",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "“了郊.右售|",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0019",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "CS-04",
+  "pred_brand": "left_right",
+  "reject": null,
+  "confidence": "high",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "__「左低。右舍|",
+   "brand_char_hits": 3,
+   "en_brand_hit": false,
+   "num_hit": false,
+   "plus": false,
+   "number": false,
+   "en_sub": false,
+   "supermarket": false,
+   "circle_sep": false,
+   "blue_dominant": true
+  }
+ },
+ {
+  "image_id": "img_0023",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "~ 區",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0024",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0025",
+  "label": "positive",
+  "gt_style": "CS-01",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "全\n[太聞 ‧冇 舍|",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0026",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "2         一一       太人 5a        同\n由                共|        同",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0027",
+  "label": "positive",
+  "gt_style": "CS-05",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0028",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "」 人",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0483",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0484",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0485",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0486",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0487",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0488",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0489",
+  "label": "positive",
+  "gt_style": "CS-04",
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0496",
+  "label": "positive",
+  "gt_style": "CS-03",
+  "pred_style": "unknown",
+  "pred_brand": "uncertain",
+  "reject": "ambiguous_or_hybrid",
+  "confidence": "low",
+  "brand_correct": false,
+  "evidence": {
+   "ocr_raw": "|左交,右仿",
+   "brand_char_hits": 2,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0022",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0051",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0301",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "吧 美分各 Mt 人",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0315",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "EEC一一-<\n邻几| G00D SPOT    24P俺利店",
+   "brand_char_hits": 1,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0316",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0320",
+  "label": "negative",
+  "neg_type": "confusable_brand",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0030",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "也請                一一",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0031",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0033",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "An",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0034",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0039",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0040",
+  "label": "negative",
+  "neg_type": "render_stock",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0035",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0038",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0104",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0193",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0258",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0259",
+  "label": "negative",
+  "neg_type": "logo",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0036",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "二 [上\n義藹,   7",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0189",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0195",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0201",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0204",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0206",
+  "label": "negative",
+  "neg_type": "same_name_unrelated",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0043",
+  "label": "negative",
+  "neg_type": "competitor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0103",
+  "label": "negative",
+  "neg_type": "competitor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0285",
+  "label": "negative",
+  "neg_type": "competitor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "還和               |                                                                                  說\n器         @         人詢劑     尊\n由",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0290",
+  "label": "negative",
+  "neg_type": "competitor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0048",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0049",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0304",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0420",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0421",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "【                              間\n                                   攻\nIT            嚷六",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0438",
+  "label": "negative",
+  "neg_type": "indoor",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0142",
+  "label": "negative",
+  "neg_type": "uncertain",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {
+   "ocr_raw": "",
+   "brand_char_hits": 0,
+   "en_brand_hit": false,
+   "num_hit": false
+  }
+ },
+ {
+  "image_id": "img_0202",
+  "label": "negative",
+  "neg_type": "uncertain",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0260",
+  "label": "negative",
+  "neg_type": "uncertain",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ },
+ {
+  "image_id": "img_0160",
+  "label": "negative",
+  "neg_type": "map",
+  "gt_style": null,
+  "pred_style": "unknown",
+  "pred_brand": "other_brand",
+  "reject": "not_brand",
+  "confidence": "low",
+  "brand_correct": true,
+  "evidence": {}
+ }
+]

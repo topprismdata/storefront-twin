@@ -1,0 +1,24 @@
+{
+ "cap": [
+  {
+   "url": "https://map.baidu.com/poi/%E5%B7%A6%E9%82%BB%E5%8F%B3%E8%88%8D/@13370000,3520000,12z?uid=0523a14174cd4a1db23c816b",
+   "len": 301304,
+   "body": "<!DOCTYPE HTML>\n<html>\n<head>\n<!--STATUS OK-->\n<meta charset=\"utf-8\" />\n<meta name=\"description\" content=\"浏览地图、搜索地点、查询公交驾车线路、查看实时路况，您的出行指南、生活助手。提供地铁线路图浏览，乘车方案查询，以及准确的票价和时间信息。\" />\n<meta name=\"keywords\" content=\"景区热力图,景区人流图,景区人多不多,人群分布热力图,景区拥挤指数,春节拥挤指数,热力地图,地铁线路,地铁专题,地铁方案,地铁票价,地铁时间,地铁换乘\"/>\n<meta http-"
+  },
+  {
+   "url": "https://map.baidu.com/?qt=getjsmods&v=1.1&sample=newui&mod=glcommon_emfo4p,marker_mm5huu,poly_n3cnzg,mapgl_c2hldj,oppcgl_djqihw,control_omnup1",
+   "len": 322857,
+   "body": "_jsload&&_jsload('glcommon', 'function an(e,i){this.origin=e||null;this.direction=i||null}x.extend(an.prototype,{set:function(e,i){this.origin=e;this.direction=i}});bi.Ray=an;function c6(i,e){this.min=i||null;this.max=e||null}bi.Box=c6;function ct(i,e){this.normal=i||vec3.fromValues(1,0,0);this.cons"
+  },
+  {
+   "url": "https://map.baidu.com/?newmap=1&qt=cen&b=13308000,3492000;13431000,3547000&l=12&dtype=1&auth=QBbAaTIJ%3DHdD0gwf6bEDMFI9agEDfNcOuxNTEBRNBBEt1FRVIVCF1Lz1yxz6ZwWvvkGcuVtvvhguVtvyheuVt",
+   "len": 1779,
+   "body": "/**/jsonp71648819 && /**/jsonp71648819({\"bound_rank_params\":{\"nc\":1},\"content\":{\"business\":\"\\u53e4\\u58a9\\u8def,\\u6587\\u65b0,\\u6587\\u4e00\\u8def\",\"district\":false,\"name\":\"\\u676d\\u5dde\\u5e02\",\"sup_bus\":1,\"sup_lukuang\":1,\"sup_subway\":1,\"type\":3,\"uid\":179},\"current_city\":{\"code\":179,\"geo\":\"1|13376484.03,"
+  }
+ ],
+ "d": {
+  "names": [],
+  "pics": [],
+  "text": "5 公里 © 2026 Baidu - GS(2025)4125号 - 甲测资字11111342 - 京ICP证030173号 版权信息 百度首页 服务条款 隐私政策 商业合作 地图开放平台 品牌/商户认领 意见建议 下载地图客户端 新增地点 百度营销 × 杭州市 路况 地铁 工具箱 地图 地球 全景 路线"
+ }
+}

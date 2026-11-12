@@ -1,0 +1,62 @@
+[
+ {
+  "poi": "B023B0BQW7",
+  "poi_name": "左邻右舍(南2门)",
+  "city": "杭州市",
+  "classify": "门",
+  "category": "门头",
+  "hash": "bf1c9603b01447babe8f09105e6820bc",
+  "file": "amap2_bf1c9603b014_8c12f4b3.jpg",
+  "sha": "8c12f4b34941a55622e02d3a6de2875308749c937cb38d906e9de5c82d5e45fc",
+  "bytes": 85474,
+  "url": "https://store.is.autonavi.com/showpic/bf1c9603b01447babe8f09105e6820bc"
+ },
+ {
+  "poi": "B023B0BQW7",
+  "poi_name": "左邻右舍(南2门)",
+  "city": "杭州市",
+  "classify": "门",
+  "category": "门头",
+  "hash": "55999f5858c000fc0000005092996413",
+  "file": "amap2_55999f5858c0_4a8f7f8a.jpg",
+  "sha": "4a8f7f8af7e07f18b67d9c7cdb0c2b14b3b5ec3538e1c019d36fbfd2cc74437b",
+  "bytes": 24824,
+  "url": "https://store.is.autonavi.com/showpic/55999f5858c000fc0000005092996413"
+ },
+ {
+  "poi": "B001C7XZGR",
+  "poi_name": "左邻右舍",
+  "city": "成都市",
+  "classify": "住宅区",
+  "category": "门头",
+  "hash": "72eff5ec987efb84fd10c80514961ca1",
+  "file": "amap2_72eff5ec987e_1cca061c.jpg",
+  "sha": "1cca061c215c132cb37f0ef672af7301c007b7d69bbf1ee1a549da64a51b8f1a",
+  "bytes": 185367,
+  "url": "https://store.is.autonavi.com/showpic/72eff5ec987efb84fd10c80514961ca1"
+ },
+ {
+  "poi": "B023B0A7NA",
+  "poi_name": "左邻右舍",
+  "city": "杭州市",
+  "classify": "住宅区",
+  "category": "门头",
+  "hash": "6036655341a4c7c94f436f7cf43767a8",
+  "file": "amap2_6036655341a4_733e1f80.jpg",
+  "sha": "733e1f8090fdaaa1519ceafebb9198e94f332d4584e1c7f3132c5069724c9177",
+  "bytes": 74827,
+  "url": "https://store.is.autonavi.com/showpic/6036655341a4c7c94f436f7cf43767a8"
+ },
+ {
+  "poi": "B023B0A7NA",
+  "poi_name": "左邻右舍",
+  "city": "杭州市",
+  "classify": "住宅区",
+  "category": "门头",
+  "hash": "3e96c242ef106f5f0000003364742352",
+  "file": "amap2_3e96c242ef10_c8e9ed87.jpg",
+  "sha": "c8e9ed870c1257751f4663bfed5b016933c1e1e41f73203e054ffd8dff42d52e",
+  "bytes": 308055,
+  "url": "https://store.is.autonavi.com/showpic/3e96c242ef106f5f0000003364742352?type=pic"
+ }
+]

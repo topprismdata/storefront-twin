@@ -1,0 +1,242 @@
+[
+ {
+  "image_id": "img_0000",
+  "gt_style": "CS-02",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0002",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0003",
+  "gt_style": "CS-04",
+  "top1": "CS-04",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0004",
+  "gt_style": "CS-03",
+  "top1": "CS-02",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0005",
+  "gt_style": "CS-01",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0007",
+  "gt_style": "CS-03",
+  "top1": "CS-02",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0008",
+  "gt_style": "CS-03",
+  "top1": "CS-01",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0009",
+  "gt_style": "CS-03",
+  "top1": "CS-03",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0010",
+  "gt_style": "CS-01",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0011",
+  "gt_style": "CS-03",
+  "top1": "CS-04",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0012",
+  "gt_style": "CS-06",
+  "top1": "CS-04",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0013",
+  "gt_style": "CS-03",
+  "top1": "CS-03",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0015",
+  "gt_style": "CS-05",
+  "top1": "CS-05",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0017",
+  "gt_style": "CS-05",
+  "top1": "CS-04",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0018",
+  "gt_style": "CS-01",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0019",
+  "gt_style": "CS-03",
+  "top1": "CS-03",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0023",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0024",
+  "gt_style": "CS-03",
+  "top1": "CS-03",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0025",
+  "gt_style": "CS-01",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0026",
+  "gt_style": "CS-03",
+  "top1": "CS-04",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0027",
+  "gt_style": "CS-05",
+  "top1": "CS-05",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0028",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": false,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0483",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0484",
+  "gt_style": "CS-04",
+  "top1": "CS-04",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0485",
+  "gt_style": "CS-04",
+  "top1": "CS-04",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0486",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0487",
+  "gt_style": "CS-04",
+  "top1": "CS-04",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0488",
+  "gt_style": "CS-04",
+  "top1": "CS-04",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ },
+ {
+  "image_id": "img_0489",
+  "gt_style": "CS-04",
+  "top1": "CS-03",
+  "recall1": false,
+  "recall5": true,
+  "vote_correct": false
+ },
+ {
+  "image_id": "img_0496",
+  "gt_style": "CS-03",
+  "top1": "CS-03",
+  "recall1": true,
+  "recall5": true,
+  "vote_correct": true
+ }
+]

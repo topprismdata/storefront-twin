@@ -1,0 +1,2426 @@
+[
+ {
+  "parent": "",
+  "address": "金堡街86号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "商务住宅;住宅区;住宅小区",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/6036655341a4c7c94f436f7cf43767a8"
+   },
+   {
+    "title": "左邻右舍外观图.jpg",
+    "url": "http://store.is.autonavi.com/showpic/329fe60c3189814770443ff3946a2070"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/3e96c242ef106f5f0000003364742352?type=pic"
+   }
+  ],
+  "typecode": "120302",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.280971,30.304934",
+  "id": "B023B0A7NA"
+ },
+ {
+  "parent": "B0JUJCTBMD",
+  "address": "塘潮街38号(顺福雅苑一区南门旁)",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/5124aae3c511000e0d554332133edd04"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.212111,30.265869",
+  "id": "B0K1YXJXNY"
+ },
+ {
+  "parent": "B0KAKDRRUU",
+  "address": "莲莲路与拾久街交叉口西南100米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330109",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/f6013f3b911a2c1a35c1422ae5da5f99"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/e266e68cf528898fe5db3484dd3dec5d"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "萧山区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.251039,30.254551",
+  "id": "B0MDDXQ9S0"
+ },
+ {
+  "parent": "B023B14FVQ",
+  "address": "南天巷4号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330106",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/dc9b15f9ee8b8cf1c6dfbfa64711e37a"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "西湖区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.105453,30.287666",
+  "id": "B0MDDYL288"
+ },
+ {
+  "parent": "B0FFHH2UPJ",
+  "address": "东新路21号九龙仓·君玺3幢(打铁关地铁站C1口旁)",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/90b84be6478af7eb1a2b13bea52f5a1d"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.176206,30.284572",
+  "id": "B0MUGRO8TO"
+ },
+ {
+  "parent": "B0KR0AMZAI",
+  "address": "九州路与胜康街交叉口东80米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/b2ba42d98c9ee67cb7a62c2231a63f54"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.246301,30.314271",
+  "id": "B0MD3OGTTJ"
+ },
+ {
+  "parent": "",
+  "address": "笕丁路与云家井交叉口东南100米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/f30dde34b9ef7829e5b5cc059c825e69"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.218275,30.325275",
+  "id": "B0MAD1JPFR"
+ },
+ {
+  "parent": "B0IAN9LNGG",
+  "address": "金隅会潮悦府东门旁",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/6e867e071a7eb89b2c0dcbddaf67cd89"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.224329,30.285807",
+  "id": "B0MG9HPFMM"
+ },
+ {
+  "parent": "B0J6S6X9JY",
+  "address": "祥符街道运河财富中心9幢左邻右舍",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/53b5d1f524ed219b3b587ba3e9ff0818"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.112037,30.309270",
+  "id": "B0MRSC7B2H"
+ },
+ {
+  "parent": "",
+  "address": "江晖路与滨安路交叉口西南120米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330108",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "滨江区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.210075,30.186025",
+  "id": "B0MD649P6J"
+ },
+ {
+  "parent": "B023B06UGT",
+  "address": "西溪街道莫干山路189号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330106",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/827cb46845a804146292899dd2d8c95a"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/1f3ac6c8aede94891ceb976093b2c0d7"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/1cce4a2ffaf7c6238bc4fc4a1df4fac6"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "西湖区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.152189,30.276725",
+  "id": "B0JD1ZXILT"
+ },
+ {
+  "parent": "B023B0925R",
+  "address": "永丰巷住宅小区东门旁",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/46ddf94c3adadfda94054b4ca46c0b9f"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/f044b5b1d6e9b6d80000002755292049?type=pic"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/325b1e16502b9d0141f0c91a9a8bee16"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.169575,30.259275",
+  "id": "B0MDPXN5GI"
+ },
+ {
+  "parent": "",
+  "address": "科卫路与聚创街交叉口南40米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330102",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/a255acdf2ccd00d46f8c3304ba02d4c1"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "上城区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.274125,30.327775",
+  "id": "B0MU67V0FV"
+ },
+ {
+  "parent": "",
+  "address": "灵竺路与灵隐路交叉口西120米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330106",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/aafa2d259ccbd48dcd6a0d56c9bbdd4c"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/c79e63c550da55410000009439698331?type=pic"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "西湖区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.108344,30.242016",
+  "id": "B0LK9ZAACQ"
+ },
+ {
+  "parent": "B023B19TIC",
+  "address": "天水街道凤起路427-1",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/b3ac9e1134600d160000003043440237?type=pic"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0HAUCUNZS/comment/content_media_external_file_1000099958_ss__1769247113305_14201475.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0HAUCUNZS/comment/content_media_external_file_1000099955_ss__1769247113306_89956814.jpg"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.164860,30.264318",
+  "id": "B0HAUCUNZS"
+ },
+ {
+  "parent": "",
+  "address": "蜀山街道南秀路159号、161号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330109",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/a7027be362032d9c557ab88d018358ed"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/af53096af6643d355ec62244743128e3"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "萧山区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.253477,30.144732",
+  "id": "B0J0Y4I2QV"
+ },
+ {
+  "parent": "B0J0KMX16K",
+  "address": "兴耀月琉璃",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330114",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "钱塘区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.336775,30.294875",
+  "id": "B0MDPOMTEX"
+ },
+ {
+  "parent": "B0HBXHR8A0",
+  "address": "西房·良语云缦南门西110米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330113",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/fe62776c68388fd470f7bf9eda36955a"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "临平区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.275725,30.380025",
+  "id": "B0LAYC05RH"
+ },
+ {
+  "parent": "B023B1H8AJ",
+  "address": "东大街182号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330113",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/05a1c0902fd4a3725fa5d2656277941b"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/8cbfd339675fe59773fe2b209a02f683"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/33f932490a7b2cfebd3736cbc9801b45"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "临平区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.309809,30.422966",
+  "id": "B0FFI6G853"
+ },
+ {
+  "parent": "",
+  "address": "高新八路与鸿兴路交叉口东北80米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330109",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "萧山区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.326825,30.221725",
+  "id": "B0MDUL1GXB"
+ },
+ {
+  "parent": "B0IDYLU5L0",
+  "address": "科祥街198号滨萃悦府",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/9bfd34344b39216b8b6a2c69a28eed2f"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/4dcb5ce202d40bd02e445749049de580"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.165025,30.331225",
+  "id": "B0MA2UQCRJ"
+ },
+ {
+  "parent": "",
+  "address": "通惠中路9号-1",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330109",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/253babcbbde49d250000003008040298?type=pic"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ed2a1e3a85904dd5b4aa28973db88ffe"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/fba52c25dac045b08313714671a589ae"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "萧山区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.285086,30.164781",
+  "id": "B0FFGAS12B"
+ },
+ {
+  "parent": "B0FFMHYBNY",
+  "address": "坤和融创开元·望金沙",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330114",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/559deceab26dac0972e0932b159bdcee"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/310fc9bad95fbe2707c098fabd82738d"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "钱塘区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.319875,30.310175",
+  "id": "B0L371MK5E"
+ },
+ {
+  "parent": "B0I25CG58E",
+  "address": "灯彩东街114号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330105",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/1eca0cb77dbe1752cd1db40cca25fb46"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/96746e37197098fb91cd705dbfe17524"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/36277a565d8e332362a91ff9cd99db5f"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "拱墅区",
+  "citycode": "0571",
+  "name": "左邻右舍",
+  "location": "120.098936,30.330758",
+  "id": "B0MDPSLSA5"
+ },
+ {
+  "parent": "",
+  "address": "教工路143-2号(下宁桥地铁站A口步行480米)",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330106",
+  "pname": "浙江省",
+  "cityname": "杭州市",
+  "type": "购物服务;购物相关场所;购物相关场所",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/c38fe13d3f3274c15b8aa5c7018184de"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/ce5415e09a320123faf897e2fe04bb79"
+   }
+  ],
+  "typecode": "060000",
+  "adname": "西湖区",
+  "citycode": "0571",
+  "name": "左邻右舍(教工路店)",
+  "location": "120.135219,30.284770",
+  "id": "B0JKSLZEYH"
+ },
+ {
+  "parent": "B0FFGXAZG5",
+  "address": "东方前城北区",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.665175,29.123175",
+  "id": "B0MDXL13HV"
+ },
+ {
+  "parent": "B024314G9V",
+  "address": "兰溪街1010号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0LUGNBD2J/comment/content_media_external_file_100001062_1763888954169_16505543.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0LUGNBD2J/comment/5882C65E_7FA0_4A9C_88C5_2438DA87032D_L0_001_1500_200_1751894676802_88848347.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0LUGNBD2J/comment/A4C90E5E_6400_466D_98F2_7466B2C8B138_L0_001_1500_200_1751894676803_32764531.jpg"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.651698,29.065466",
+  "id": "B0LUGNBD2J"
+ },
+ {
+  "parent": "",
+  "address": "科芯街与新吉路交叉口东180米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/a53b6713e5f883de525818673b87b03e"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.619895,29.025727",
+  "id": "B0MR3Z0F97"
+ },
+ {
+  "parent": "",
+  "address": "芙峰街与玉泉东路交叉口西南100米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ebf416c0808ae686b7983b38d377ccfd"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.655375,29.126875",
+  "id": "B0MA26O3ZH"
+ },
+ {
+  "parent": "",
+  "address": "金兰中线北40米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/5777914c5f4e547a976831959ae64fa5"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.573340,29.115388",
+  "id": "B0HB3XA8KU"
+ },
+ {
+  "parent": "B0JKPCOLLB",
+  "address": "艾青路1589号保利·阅江台",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.708325,29.106375",
+  "id": "B0MACXXTQL"
+ },
+ {
+  "parent": "B0FFI2LY5Q",
+  "address": "金瓯路2933号申华翡翠城10栋10108号正北方向10米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/6c5bb85228c9e1845dd49a9f857fe8ca"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍(湖杨街店)",
+  "location": "119.737431,29.112237",
+  "id": "B0FFJITQ54"
+ },
+ {
+  "parent": "B0243155V7",
+  "address": "万苍路与华泰街交叉口东160米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.580575,29.062375",
+  "id": "B0MDY1WDUF"
+ },
+ {
+  "parent": "",
+  "address": "江东镇江岭高新智造区金鼎路2888号左邻右舍加盟店",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/2b2400e66de1e456b8c492ec90aee4e3"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/87a5a541c1fd360156d4642e41387f99"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/1e5e974076fccf522bc313d9a4d9dba9"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.743991,29.060867",
+  "id": "B0LKZXGGQD"
+ },
+ {
+  "parent": "",
+  "address": "叶店村马海路58号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/f75379672b983fa04d10b6d3dfb71263"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/2320aa1fc29bac32550adcf006515bb6"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.560373,29.078970",
+  "id": "B0L6GL1TM2"
+ },
+ {
+  "parent": "",
+  "address": "金磐路1305号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/dd3eea3814039daf152e6d4e62f5f3cf"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/bf24e43d00f1b55e8845aa12a2de07f5"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/cc62f967a19045a65e2216628737fce7"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍(蕫宅社区店)",
+  "location": "119.643057,29.066864",
+  "id": "B0FFF9DTCF"
+ },
+ {
+  "parent": "B0FFF84CNA",
+  "address": "东关东孝街道枫树小区28幢1号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/1b35348026232c2b0000003694128301"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/a405ded56b602add41f1edd4bcd292ba"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/d6c3732d5163343a50c1729ffa0b21c0"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.684248,29.114396",
+  "id": "B0L1FUXIRX"
+ },
+ {
+  "parent": "B02430I8L8",
+  "address": "东上街135号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/a217465e8a4f866090c72441d436f17e"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/97c9e897b8e822933186a728e34cf1e3"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍(东上街店)",
+  "location": "119.668830,29.117303",
+  "id": "B0FFFH6GJI"
+ },
+ {
+  "parent": "B0JK4MRI4E",
+  "address": "万固金兰悦园",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330781",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "兰溪市",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.476425,29.189025",
+  "id": "B0MUDLK3IA"
+ },
+ {
+  "parent": "",
+  "address": "秋滨街道朱基头社区秋涛街28号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330702",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/6b0fca12d20c2cdeb4574c374c19b944"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/76f5ee89efad98e4265fc7009015cfac"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/63c8ad44101834ff0000003435598920?type=pic"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "婺城区",
+  "citycode": "0579",
+  "name": "左邻右舍(秋涛街店)",
+  "location": "119.615397,29.070344",
+  "id": "B0H06MC4I6"
+ },
+ {
+  "parent": "B0FFJML1DM",
+  "address": "东港街24号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ad399574855b12ebd2ce52cf64a6fcac"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.862567,29.193233",
+  "id": "B0HKOUJN7N"
+ },
+ {
+  "parent": "",
+  "address": "云山街道邻仙村4幢附1号",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330781",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/6ef1481b968c7eb16ad7093fd5d62883"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/1766f91481deea2cb4b949a390754760"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/f745ddf685c705cda8648468bb74b4cf"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "兰溪市",
+  "citycode": "0579",
+  "name": "左邻右舍(黄大仙路店)",
+  "location": "119.475744,29.222397",
+  "id": "B0FFKXYRJF"
+ },
+ {
+  "parent": "",
+  "address": "塘义东路与曹塘澧公路交叉口西140米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ee825bcc9d3184260000003094972689"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/fae066c56bfc4a5662dc4ebf84ea73d9"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/fa308de79723ac4b51a1c8d349df0dac"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.782425,29.122825",
+  "id": "B0MACXXE2W"
+ },
+ {
+  "parent": "",
+  "address": "学院路与奔竞大道交叉口西200米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/78d01097d15c467fe21819de9c6b5fa2"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/0c5a6ff0bd81b25504d0a312385afdf3"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.791575,29.176875",
+  "id": "B0MAU7TFLT"
+ },
+ {
+  "parent": "",
+  "address": "章士线与太下线交叉口东南80米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330781",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/27ac96a4434d874bd0d1794f4154a7cb"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "兰溪市",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.350028,29.151257",
+  "id": "B0FFKV57TO"
+ },
+ {
+  "parent": "",
+  "address": "宏业路与长丰街交叉口北360米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/9af85e85fe3c4153feeec4ec14e3d023"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.846475,29.203125",
+  "id": "B0MUAR2S5F"
+ },
+ {
+  "parent": "B02430HV65",
+  "address": "孝川路与商业街交叉口西40米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330703",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "金东区",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.870225,29.184075",
+  "id": "B0LBDOY8WY"
+ },
+ {
+  "parent": "",
+  "address": "宝龙路与雁洲路交叉口东北120米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330781",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "兰溪市",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.425244,29.235227",
+  "id": "B0M1SMND1E"
+ },
+ {
+  "parent": "",
+  "address": "欣旺达浙江锂欣产业园东侧280米",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330781",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;购物相关场所;购物相关场所",
+  "typecode": "060000",
+  "adname": "兰溪市",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.430530,29.226648",
+  "id": "B0LKOAGB08"
+ },
+ {
+  "parent": "",
+  "address": "半山公寓东北侧",
+  "distance": "",
+  "pcode": "330000",
+  "adcode": "330723",
+  "pname": "浙江省",
+  "cityname": "金华市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "武义县",
+  "citycode": "0579",
+  "name": "左邻右舍",
+  "location": "119.915675,28.954825",
+  "id": "B0MGH1U5HT"
+ },
+ {
+  "parent": "B0I3R7X9PP",
+  "address": "中海·燕矶听潮B区北门旁",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320113",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "购物服务;超级市场;超市",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/ba7189190d0f08208c622e9048e859eb"
+   }
+  ],
+  "typecode": "060400",
+  "adname": "栖霞区",
+  "citycode": "025",
+  "name": "左邻右舍便利超市(中海·燕矶听潮店)",
+  "location": "118.833421,32.135379",
+  "id": "B0ID77K80C"
+ },
+ {
+  "parent": "B0GUCC8IPB",
+  "address": "惠达路明发银河城-2栋",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320111",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "住宿服务;住宿服务相关;住宿服务相关",
+  "photos": [
+   {
+    "title": "山景一室大床房B",
+    "url": "https://store.is.autonavi.com/showpic/2206564b3a080ee5f0a6723ff9a8831d"
+   },
+   {
+    "title": "山景一室大床房B",
+    "url": "https://store.is.autonavi.com/showpic/c8e5155092826a9c807a5b21a47201da"
+   },
+   {
+    "title": "山景一室大床房A",
+    "url": "https://store.is.autonavi.com/showpic/744297926d0d500c51bc22896a7a713a"
+   }
+  ],
+  "typecode": "100000",
+  "adname": "浦口区",
+  "citycode": "025",
+  "name": "左邻右舍浦口区大学城店民宿(惠达路分店)",
+  "location": "118.700825,32.161575",
+  "id": "B0J2O4K2MR"
+ },
+ {
+  "parent": "",
+  "address": "侨康路招商兰溪谷3期公寓楼",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320111",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "住宿服务;住宿服务相关;住宿服务相关",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0JGR44ZE1/comment/7FD28491_BF77_4FFB_9A2B_9F15E24771A4_L0_001_2016_151_1768579560601_58763634.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0JGR44ZE1/comment/CB03B79E_085B_4C19_983B_7477421221BB_L0_001_2016_151_1768579560606_66264887.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0JGR44ZE1/comment/CED43EB7_7039_41F4_B3ED_50D3057013FF_L0_001_2016_151_1770223161230_88301867.jpg"
+   }
+  ],
+  "typecode": "100000",
+  "adname": "浦口区",
+  "citycode": "025",
+  "name": "左邻右舍浦口区大学城店民宿(侨康路分店)",
+  "location": "118.708477,32.183019",
+  "id": "B0JGR44ZE1"
+ },
+ {
+  "parent": "",
+  "address": "宏运大道1186号",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320115",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "医疗保健服务;专科医院;口腔医院",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/2571d29a3197f096150ee703fdb1d65c"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/8cf8acbdcfb1841aaa1afa595d2582a9"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/f7ebde8e301a9295a1c9072aa73f2274"
+   }
+  ],
+  "typecode": "090202",
+  "adname": "江宁区",
+  "citycode": "025",
+  "name": "南京江宁左邻右里社区口腔诊所",
+  "location": "118.810283,31.961155",
+  "id": "B0FFGFV46F"
+ },
+ {
+  "parent": "B0FFFGSQ4Y",
+  "address": "汤家家温泉村龙沿路157号附5号",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320115",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "住宿服务;住宿服务相关;住宿服务相关",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/47177654c63b5772a10b44152d7bcdc4"
+   },
+   {
+    "title": "公共区域",
+    "url": "https://store.is.autonavi.com/showpic/8d38f41b00ef905e8002fcc338a3fe25"
+   },
+   {
+    "title": "客房",
+    "url": "https://store.is.autonavi.com/showpic/b27eb9068fbb43045c28e09b74f7a40c"
+   }
+  ],
+  "typecode": "100000",
+  "adname": "江宁区",
+  "citycode": "025",
+  "name": "花筑·南京汤山左邻右舍温泉民宿",
+  "location": "119.063629,32.065098",
+  "id": "B0FFIK73UF"
+ },
+ {
+  "parent": "",
+  "address": "木星北路与水仙路交叉口北120米",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320111",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "商务住宅;住宅区;住宅小区",
+  "typecode": "120302",
+  "adname": "浦口区",
+  "citycode": "025",
+  "name": "右舍5期",
+  "location": "118.522225,32.101025",
+  "id": "B0LURS4XR8"
+ },
+ {
+  "parent": "",
+  "address": "汤山街道汤龙路157-4号汤家家温泉村南端左邻右舍右侧",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320115",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "住宿服务;旅馆招待所;旅馆招待所",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/f74222e395bd5d246e635c653b117737"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0JGNCVWN2/comment/MVIMG_20251222_13175_1766401075765_57589594.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/6a2850daad89f4cb9217d1bab7ba32fe"
+   }
+  ],
+  "typecode": "100200",
+  "adname": "江宁区",
+  "citycode": "025",
+  "name": "南京竹院私汤美宿(汤家家温泉村店)",
+  "location": "119.063855,32.065284",
+  "id": "B0JGNCVWN2"
+ },
+ {
+  "parent": "B0I6D71QDK",
+  "address": "永阳镇水岸康城10栋左邻右舍",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320117",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "生活服务;物流速递;物流速递",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://img.alicdn.com/imgextra/i4/O1CN01WoNnrw1RvHlSyHo3S_!!6000000002173-0-tps-640-640.jpg"
+   }
+  ],
+  "typecode": "070500",
+  "adname": "溧水区",
+  "citycode": "025",
+  "name": "菜鸟驿站(康利华府店)",
+  "location": "119.040925,31.640775",
+  "id": "B0JUZ6T4A0"
+ },
+ {
+  "parent": "",
+  "address": "汤泉街道汤农·幸福家园右舍",
+  "distance": "",
+  "pcode": "320000",
+  "adcode": "320111",
+  "pname": "江苏省",
+  "cityname": "南京市",
+  "type": "汽车服务;充电站;充电站",
+  "photos": [
+   {
+    "title": "2",
+    "url": "https://store.is.autonavi.com/showpic/195fab36342f4ed0d4525a302b6dbaed"
+   },
+   {
+    "title": "2",
+    "url": "https://store.is.autonavi.com/showpic/cea49135c3c771236bfc3b0c4704b8a1"
+   },
+   {
+    "title": "1",
+    "url": "https://store.is.autonavi.com/showpic/d61a3eb990139a1084096e65a534ab7c"
+   }
+  ],
+  "typecode": "011100",
+  "adname": "浦口区",
+  "citycode": "025",
+  "name": "特来电目的地充电站(特来电南京浦口汤农幸福家园右舍小区充电站)",
+  "location": "118.522100,32.102173",
+  "id": "B0MRA70NT2"
+ },
+ {
+  "parent": "",
+  "address": "明光路与芜湖路交叉口东北100米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍",
+  "location": "117.309421,31.861016",
+  "id": "B0M6BMGY23"
+ },
+ {
+  "parent": "B022715BUZ",
+  "address": "玫瑰苑东北1门旁",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍",
+  "location": "117.315475,31.874525",
+  "id": "B0LUXOQDP6"
+ },
+ {
+  "parent": "B02270IKBY",
+  "address": "大通路街道大通路89号荣成雅居苑",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍",
+  "location": "117.312525,31.860025",
+  "id": "B0MG2N0MPE"
+ },
+ {
+  "parent": "B02270HZO8",
+  "address": "青阳南路金华商业街18号安居苑东村小区",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340104",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/3e117f740f77ef2a0ed001726252612a"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/6c3cfa45484ee16e26f7cd7b5f925068"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "蜀山区",
+  "citycode": "0551",
+  "name": "左邻右舍便利超市(安居苑东村小区店)",
+  "location": "117.241383,31.847059",
+  "id": "B0FFL0L2MK"
+ },
+ {
+  "parent": "B0FFH0ILJU",
+  "address": "教师新村东区B区西北门旁",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "typecode": "060200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍便利超市(教师新村店)",
+  "location": "117.305575,31.855425",
+  "id": "B0M6K7CHTC"
+ },
+ {
+  "parent": "B0227168AP",
+  "address": "庐阳工业区(林店街道)荷塘路266号碧水兰庭小区3栋101",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340103",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/d72ac08a984c7bd11aa085fe2a529d28"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/13bc3f61747682fdc33786050cd4f690"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "庐阳区",
+  "citycode": "0551",
+  "name": "左邻右舍超市(碧水兰庭店)",
+  "location": "117.262280,31.939020",
+  "id": "B0FFI2QOCW"
+ },
+ {
+  "parent": "",
+  "address": "清潭路润宜家购物中心左边电梯间三楼",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340104",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;购物相关场所;购物相关场所",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/30058914e1c947440000003028934125"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/c1ae99549518503a0000003031936004"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/49e6e9cc7857499f0000003031928188"
+   }
+  ],
+  "typecode": "060000",
+  "adname": "蜀山区",
+  "citycode": "0551",
+  "name": "左邻右李·地道肥西菜(经开店)",
+  "location": "117.259711,31.754536",
+  "id": "B0MDMUY6FH"
+ },
+ {
+  "parent": "B02270IJRO",
+  "address": "湖畔兰庭东北2门西170米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/7efd0950dce733a016a9366cc0e9bf49"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/e9047aea799caf4a26d22ae9e5d981a5"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/2fae248423dbecc33b2023c25d6eb229"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍烟酒便利店(湖畔兰庭店)",
+  "location": "117.314311,31.894887",
+  "id": "B0JA6SHM2T"
+ },
+ {
+  "parent": "B02270JDP8",
+  "address": "临泉东路与国风路交叉口东北100米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;专卖店;专营店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/7e5aa36ea600286bf9a26d585e31246a"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ad6f5bafc537c5005b56160e0a0e59f8"
+   }
+  ],
+  "typecode": "061200",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍烟酒便利(静安·新天地店)",
+  "location": "117.361975,31.875775",
+  "id": "B0I1CZ95S3"
+ },
+ {
+  "parent": "B0FFGMM2AK",
+  "address": "西园街道潜山路380号领势学府S1栋商131室",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340104",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/b045919dd4cd3992c028700bd7c2e5a6"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/d5f0c64406c8403905b4abdecb00b8a4"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/942f1bc491f2537ca2f49ef6ca566693"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "蜀山区",
+  "citycode": "0551",
+  "name": "飞牛便利",
+  "location": "117.232006,31.846268",
+  "id": "B0FFM34NS2"
+ },
+ {
+  "parent": "",
+  "address": "红枫路与科学大道交叉口西340米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340104",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "公司企业;公司;公司",
+  "typecode": "170200",
+  "adname": "蜀山区",
+  "citycode": "0551",
+  "name": "左邻右舍电子商务有限公司",
+  "location": "117.198775,31.828725",
+  "id": "B0J067I6YT"
+ },
+ {
+  "parent": "",
+  "address": "水上园小区东门旁",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;政府机关相关",
+  "typecode": "130100",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍党群服务站",
+  "location": "117.309993,31.853152",
+  "id": "B0MBPN0P04"
+ },
+ {
+  "parent": "",
+  "address": "长江东大街与来安路交叉口东南100米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/5749397a8b9579afa5d8b85fa58bdd36"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/6a61bafae7a76f04ec0c9318f199e142"
+   }
+  ],
+  "typecode": "130106",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍党群服务站",
+  "location": "117.321079,31.862193",
+  "id": "B0G0SL2E45"
+ },
+ {
+  "parent": "B0FFLJY44Q",
+  "address": "长江东路524号快达小康苑1栋",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;政府机关相关",
+  "typecode": "130100",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍党群服务站",
+  "location": "117.335443,31.868066",
+  "id": "B0L359FPU1"
+ },
+ {
+  "parent": "",
+  "address": "新安江路与雨山路交叉口西160米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;政府机关相关",
+  "typecode": "130100",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍党群服务中心",
+  "location": "117.361190,31.860129",
+  "id": "B0MULRWB3G"
+ },
+ {
+  "parent": "",
+  "address": "淮光支巷与淮光路交叉口西40米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;政府机关相关",
+  "typecode": "130100",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "开源馨居左邻右舍党群服务站",
+  "location": "117.309764,31.884670",
+  "id": "B0LK5XVYBH"
+ },
+ {
+  "parent": "B02270JNEF",
+  "address": "中天左岸",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+  "typecode": "130106",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "中天左岸左邻右舍党群服务站",
+  "location": "117.312703,31.849002",
+  "id": "B0LRLKLJ46"
+ },
+ {
+  "parent": "",
+  "address": "裕昌新村西北门",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府及社会团体相关;政府及社会团体相关",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/fc3a2512c73d9c4ff32a695be1981428"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/64fd61eab6737a5cb5b3abc78c4e8e8c"
+   }
+  ],
+  "typecode": "130000",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "裕昌新村左邻右舍党群服务站",
+  "location": "117.333541,31.847446",
+  "id": "B0L6C7F8S6"
+ },
+ {
+  "parent": "B02270JLVC",
+  "address": "大通路51号力天国际",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "生活服务;生活服务场所;生活服务场所",
+  "typecode": "070000",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "左邻右舍党群服务站·歇歇角(力天大厦站)",
+  "location": "117.310231,31.859785",
+  "id": "B0L3H79KYG"
+ },
+ {
+  "parent": "B02270IJ9M",
+  "address": "名人御苑",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "生活服务;生活服务场所;生活服务场所",
+  "typecode": "070000",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "名人御苑左邻右舍党群服务站",
+  "location": "117.316404,31.879988",
+  "id": "B0LRH57HS2"
+ },
+ {
+  "parent": "B022715C24",
+  "address": "淮南东路与采石路交叉口东220米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "生活服务;生活服务场所;生活服务场所",
+  "typecode": "070000",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "钢新苑“左邻右舍”服务站",
+  "location": "117.347567,31.854818",
+  "id": "B0J6Z9YQ0Q"
+ },
+ {
+  "parent": "",
+  "address": "恒通路与长江东路交叉口北220米",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+  "typecode": "130106",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "恒通社区“左邻右舍”党群服务站",
+  "location": "117.356243,31.870113",
+  "id": "B0J21DIVJM"
+ },
+ {
+  "parent": "",
+  "address": "嘉山路100号",
+  "distance": "",
+  "pcode": "340000",
+  "adcode": "340102",
+  "pname": "安徽省",
+  "cityname": "合肥市",
+  "type": "政府机构及社会团体;政府及社会团体相关;政府及社会团体相关",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/855adb51f7e230b95e87f6160a620f72"
+   }
+  ],
+  "typecode": "130000",
+  "adname": "瑶海区",
+  "citycode": "0551",
+  "name": "利港·银河新城左邻右舍党群服务站",
+  "location": "117.295187,31.892956",
+  "id": "B0LB25Q6T3"
+ },
+ {
+  "parent": "",
+  "address": "中北路岳家嘴154号(岳家嘴地铁站G口步行190米)",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420106",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "餐饮服务;餐饮相关场所;餐饮相关",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0FFJ0OELO/comment/18E43A74_11AB_46CA_B332_BDFFE76F454E_L0_001_1280_1707_1736241313603_51722001.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/aac5352a51c661430000002821506758?type=pic"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/c351c381e316d4460000000942698244?type=pic"
+   }
+  ],
+  "typecode": "050000",
+  "adname": "武昌区",
+  "citycode": "027",
+  "name": "左邻右舍湘蜀菜馆",
+  "location": "114.359513,30.573889",
+  "id": "B0FFJ0OELO"
+ },
+ {
+  "parent": "B001B16RVF",
+  "address": "工业路与青武大道交叉口西120米",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420116",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "餐饮服务;中餐厅;中餐厅",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/3732589fa24ed29ecb977d5572dfda82"
+   }
+  ],
+  "typecode": "050100",
+  "adname": "黄陂区",
+  "citycode": "027",
+  "name": "左邻右舍早点(青龙社区店)",
+  "location": "114.393228,30.706814",
+  "id": "B0FFILGXNK"
+ },
+ {
+  "parent": "",
+  "address": "富民路与汉丹北路交叉口东北200米",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420112",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/54a54311071af06ab483a6ae50dcca01"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "东西湖区",
+  "citycode": "027",
+  "name": "左邻右舍超市",
+  "location": "114.105425,30.604375",
+  "id": "B0LKJL2I2E"
+ },
+ {
+  "parent": "",
+  "address": "民意上街与游艺路交叉口东140米",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420104",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "体育休闲服务;娱乐场所;棋牌室",
+  "typecode": "080306",
+  "adname": "硚口区",
+  "citycode": "027",
+  "name": "左邻右舍棋牌",
+  "location": "114.276289,30.575039",
+  "id": "B0MU96XBOO"
+ },
+ {
+  "parent": "B001B15RO9",
+  "address": "康寿社区南门旁",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420107",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "购物服务;购物相关场所;购物相关场所",
+  "typecode": "060000",
+  "adname": "青山区",
+  "citycode": "027",
+  "name": "左邻右舍团购",
+  "location": "114.486042,30.607589",
+  "id": "B0MBNRU3TG"
+ },
+ {
+  "parent": "B0FFGTX7DH",
+  "address": "盘龙城经济开发区叶店村衍生领袖城丁4栋1-2层商1.3室",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420116",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "体育休闲服务;娱乐场所;棋牌室",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/3076edb447430a8be3a12480475378b1"
+   }
+  ],
+  "typecode": "080306",
+  "adname": "黄陂区",
+  "citycode": "027",
+  "name": "左邻右舍棋牌(领袖城店)",
+  "location": "114.264909,30.710334",
+  "id": "B0L2HAAE3S"
+ },
+ {
+  "parent": "B0FFFABHVE",
+  "address": "白沙洲大道5号爱家·名校华城",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420111",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "体育休闲服务;娱乐场所;棋牌室",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/050911f2e13ec06c1d8a649831b31da7"
+   }
+  ],
+  "typecode": "080306",
+  "adname": "洪山区",
+  "citycode": "027",
+  "name": "左邻右舍棋牌室",
+  "location": "114.259459,30.421886",
+  "id": "B0L3JLDXB3"
+ },
+ {
+  "parent": "B0FFGFFKRI",
+  "address": "野芷湖西路保利心语二期1栋",
+  "distance": "",
+  "pcode": "420000",
+  "adcode": "420111",
+  "pname": "湖北省",
+  "cityname": "武汉市",
+  "type": "购物服务;家居建材市场;建材五金市场",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/2b50e19eaeff17458269c1ae75705061"
+   }
+  ],
+  "typecode": "060603",
+  "adname": "洪山区",
+  "citycode": "027",
+  "name": "左邻右舍五金便利店",
+  "location": "114.326617,30.478059",
+  "id": "B0FFHB9CZ2"
+ },
+ {
+  "parent": "",
+  "address": "窑塘新村一片左邻右舍布艺475号",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430104",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;家居建材市场;布艺市场",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/d731826bd0de934b42f8e59e5e1c307c"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/fd08238a62035c4a8dcdf80866b85a0d"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/03106c02017a654635f453c5a803e604"
+   }
+  ],
+  "typecode": "060605",
+  "adname": "岳麓区",
+  "citycode": "0731",
+  "name": "左邻右舍布艺",
+  "location": "112.918881,28.223613",
+  "id": "B0L1ARK0IX"
+ },
+ {
+  "parent": "B02DB05JZO",
+  "address": "金霞开发区13-1号滨江美寓",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430105",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "餐饮服务;中餐厅;中餐厅",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/56ef82997bfafba965c085be3041e78f"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/e0fa9f2e35df508fc45a055e10d5eb14"
+   }
+  ],
+  "typecode": "050100",
+  "adname": "开福区",
+  "citycode": "0731",
+  "name": "左邻右舍地道家常菜",
+  "location": "112.982712,28.253244",
+  "id": "B0MGZAHC1V"
+ },
+ {
+  "parent": "B02DB0TK9F",
+  "address": "丰顺路中南大学潇湘校区东南侧约140米",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430104",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/80a8eb7f57bc210d74cb6780745a989f"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/e578bc9939715f5820fa89d1fd9fa151"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "岳麓区",
+  "citycode": "0731",
+  "name": "左邻右舍超市(靳江小区潇湘一期店)",
+  "location": "112.948847,28.146715",
+  "id": "B0G0FLC9LR"
+ },
+ {
+  "parent": "B0FFFVGE0H",
+  "address": "星沙二区",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430121",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;超级市场;超市",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/ddc8fcc0d4926112d2a1f43c41415721"
+   }
+  ],
+  "typecode": "060400",
+  "adname": "长沙县",
+  "citycode": "0731",
+  "name": "左邻右舍超市",
+  "location": "113.078444,28.234448",
+  "id": "B0LKGN10U5"
+ },
+ {
+  "parent": "",
+  "address": "历经铺街道金玉东路玛莱医院后",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430182",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "餐饮服务;中餐厅;中餐厅",
+  "typecode": "050100",
+  "adname": "宁乡市",
+  "citycode": "0731",
+  "name": "左邻右舍(金玉路店)",
+  "location": "112.573877,28.244013",
+  "id": "B0FFJ7RFXU"
+ },
+ {
+  "parent": "B0FFF4N3OW",
+  "address": "长房半岛蓝湾南门旁",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430111",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0FFHDMG60/comment/content_media_external_file_1000080666_ss__1758363444057_54892855.jpg"
+   },
+   {
+    "title": "",
+    "url": "https://aos-comment.amap.com/B0FFHDMG60/comment/176993390981_1769933912333_03730019.jpg"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/195fe85c68839243d72981e1a00aa34e"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "雨花区",
+  "citycode": "0731",
+  "name": "左邻右舍精选便利店(湘府东路店)",
+  "location": "113.055223,28.119766",
+  "id": "B0FFHDMG60"
+ },
+ {
+  "parent": "B0I215OZEW",
+  "address": "明发阅江悦府",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430112",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "生活服务;美容美发店;美容美发店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/bd607566e1affc2e94dee70a84b03e9b"
+   }
+  ],
+  "typecode": "071100",
+  "adname": "望城区",
+  "citycode": "0731",
+  "name": "左邻右舍美发",
+  "location": "112.921715,28.288034",
+  "id": "B0LK1ZD3J2"
+ },
+ {
+  "parent": "",
+  "address": "白竹村白果树组047县道",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430111",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/b6b016ef6460041edfcc60b2113d03e3"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/a7badadd547b10b49ec1ad5d83e35c81"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "雨花区",
+  "citycode": "0731",
+  "name": "左邻右舍食品店",
+  "location": "113.103681,28.093670",
+  "id": "B0FFLF8P90"
+ },
+ {
+  "parent": "B0G04O91JD",
+  "address": "中梁·玺悦台",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430112",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "体育休闲服务;娱乐场所;棋牌室",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/a2327b31128f8e5596656537b9d1180b"
+   }
+  ],
+  "typecode": "080306",
+  "adname": "望城区",
+  "citycode": "0731",
+  "name": "左邻右舍棋牌室",
+  "location": "112.812919,28.341697",
+  "id": "B0LR0ROGOF"
+ },
+ {
+  "parent": "B0H6U7TQ20",
+  "address": "黄兴镇上海大众龙峰安置区A8栋",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430121",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/a16f895f288514602c3d4964c6ac01a3"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/c61dc0fb5b316c891e50d83e9d2a58f2"
+   },
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/3d8e4b4051f039e315a6426ebe12b3ca"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "长沙县",
+  "citycode": "0731",
+  "name": "左邻右舍格凯食品店",
+  "location": "113.192956,28.174022",
+  "id": "B0FFKP9F2Y"
+ },
+ {
+  "parent": "B0FFFPQ00U",
+  "address": "咸嘉湖路润泽园A4栋西头1号",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430104",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/05881df428e1a1489bff2cc68136933c"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/78348830dbfc20090000000718432700?type=pic"
+   },
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/b20f0d958fca67df0000000718456533?type=pic"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "岳麓区",
+  "citycode": "0731",
+  "name": "芙蓉兴盛便利超市(润泽园店)",
+  "location": "112.925209,28.214555",
+  "id": "B02DB07BW5"
+ },
+ {
+  "parent": "",
+  "address": "礼花路一段118号",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430181",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;便民商店/便利店;便民商店/便利店",
+  "photos": [
+   {
+    "title": "",
+    "url": "http://store.is.autonavi.com/showpic/2920b3222817989d36069abca010a98e"
+   }
+  ],
+  "typecode": "060200",
+  "adname": "浏阳市",
+  "citycode": "0731",
+  "name": "左邻右舍便利超市(礼花路一段店)",
+  "location": "113.615568,28.153177",
+  "id": "B0GUJBODKG"
+ },
+ {
+  "parent": "B0FFJCAP9S",
+  "address": "龙峰大道辅路与236乡道交叉口东南180米",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430121",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "购物服务;超级市场;超市",
+  "typecode": "060400",
+  "adname": "长沙县",
+  "citycode": "0731",
+  "name": "右舍超市",
+  "location": "113.192075,28.172925",
+  "id": "B0MD5NVBNR"
+ },
+ {
+  "parent": "",
+  "address": "双江口镇人民政府南侧约210米",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430182",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "住宿服务;旅馆招待所;旅馆招待所",
+  "photos": [
+   {
+    "title": "",
+    "url": "https://store.is.autonavi.com/showpic/46668c26c8f5b9d789c94f585f6a720b"
+   },
+   {
+    "title": "标准双人间",
+    "url": "https://store.is.autonavi.com/showpic/a74bfffc2f708a41529e1ab8a7f893e6"
+   },
+   {
+    "title": "标准双人间",
+    "url": "https://store.is.autonavi.com/showpic/9af14873530dd66a89a0cd01e6fbcb2b"
+   }
+  ],
+  "typecode": "100200",
+  "adname": "宁乡市",
+  "citycode": "0731",
+  "name": "宁乡左邻右舍家庭住宿",
+  "location": "112.671240,28.334252",
+  "id": "B0FFKJDRR6"
+ },
+ {
+  "parent": "B0FFFVGE0H",
+  "address": "星沙二区",
+  "distance": "",
+  "pcode": "430000",
+  "adcode": "430121",
+  "pname": "湖南省",
+  "cityname": "长沙市",
+  "type": "生活服务;生活服务场所;生活服务场所",
+  "typecode": "070000",
+  "adname": "长沙县",
+  "citycode": "0731",
+  "name": "左邻右舍惠民驿站",
+  "location": "113.078425,28.234442",
+  "id": "B0LKA79LDQ"
+ }
+]

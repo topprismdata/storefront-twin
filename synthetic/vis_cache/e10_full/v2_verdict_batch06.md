@@ -1,0 +1,26 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| B06_01 | OUT_OF_SCOPE | 永安生活超市 |
+| B06_02 | OUT_OF_SCOPE | 百度地图 |
+| B06_03 | UNKNOWN | 无（招牌文字不清） |
+| B06_04 | OUT_OF_SCOPE | 鲜果坊便利超市 |
+| B06_05 | UNKNOWN | 千图便利店 |
+| B06_06 | UNKNOWN | 千图便利店 |
+| B06_07 | MATCH | 左邻·右舍 |
+| B06_08 | OUT_OF_SCOPE | 左邻右舍（装饰展示） |
+| B06_09 | MATCH | 左邻·右舍 |
+| B06_10 | OUT_OF_SCOPE | 无 |
+| B06_11 | UNKNOWN | 鲜品汇 |
+| B06_12 | NON_MATCH | 唐久便利 |
+| B06_13 | UNKNOWN | 福乐多超市 |
+| B06_14 | MATCH | 左邻·右舍 |
+| B06_15 | OUT_OF_SCOPE | 无 |
+| B06_16 | UNKNOWN | 自流平·杰森行 |
+| B06_17 | UNKNOWN | 快乐便利店 |
+| B06_18 | UNKNOWN | 爱…（文字不完整） |
+| B06_19 | OUT_OF_SCOPE | 无 |
+| B06_20 | UNKNOWN | 24h便利超市 |
+| B06_21 | UNKNOWN | 无（招牌文字模糊） |
+| B06_22 | UNKNOWN | 鸿运来生活超市 |
+| B06_23 | OUT_OF_SCOPE | 左邻右舍 |
+| B06_24 | OUT_OF_SCOPE | 左邻右舍 |

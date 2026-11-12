@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StorefrontSyntheticManifest",
+  "type": "object",
+  "required": [
+    "image_id",
+    "domain",
+    "asset_id",
+    "asset_hash",
+    "generator_commit",
+    "seed",
+    "style_id",
+    "gt",
+    "nuisance",
+    "source_policy"
+  ],
+  "properties": {
+    "image_id": {
+      "type": "string"
+    },
+    "domain": {
+      "const": "synthetic"
+    },
+    "asset_id": {
+      "type": "string"
+    },
+    "asset_hash": {
+      "type": "string",
+      "minLength": 32
+    },
+    "generator_commit": {
+      "type": "string"
+    },
+    "seed": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "style_id": {
+      "type": "string"
+    },
+    "gt": {
+      "type": "object",
+      "required": [
+        "sign_polygon",
+        "visible_attributes"
+      ],
+      "properties": {
+        "sign_polygon": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "visible_attributes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "nuisance": {
+      "type": "object",
+      "required": [
+        "background_id",
+        "camera_yaw_deg",
+        "lighting_id"
+      ]
+    },
+    "source_policy": {
+      "type": "string",
+      "enum": [
+        "licensed_internal",
+        "self_created",
+        "restricted_research"
+      ]
+    },
+    "label_authority": {
+      "type": "string",
+      "enum": [
+        "synthetic_by_construction"
+      ]
+    },
+    "review_state": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "approved",
+        "rejected"
+      ]
+    }
+  }
+}

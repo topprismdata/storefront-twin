@@ -1,0 +1,32 @@
+{
+ "version": "v1",
+ "n_groups": 322,
+ "n_bootstrap": 2000,
+ "seed": 42,
+ "pairs": {
+  "B-A": {
+   "delta_f1": 0.02,
+   "mean": 0.019,
+   "lo": -0.042,
+   "hi": 0.082,
+   "crosses_zero": true,
+   "significant": false
+  },
+  "B-VLM": {
+   "delta_f1": 0.002,
+   "mean": 0.0,
+   "lo": -0.054,
+   "hi": 0.045,
+   "crosses_zero": true,
+   "significant": false
+  },
+  "A-VLM": {
+   "delta_f1": -0.018,
+   "mean": -0.018,
+   "lo": -0.081,
+   "hi": 0.041,
+   "crosses_zero": true,
+   "significant": false
+  }
+ }
+}

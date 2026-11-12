@@ -1,0 +1,15 @@
+{
+ "experiment": "E8-3D",
+ "version": "e8-3d-train-v1.0",
+ "train": "synthetic_only_self_created",
+ "eval": "real_exploratory",
+ "real_split": "store_id_grouped",
+ "synth_split": "synthetic_train_only",
+ "features": "clip_full+dinov2_full+dinov2_crop (frozen)",
+ "probes": [
+  "logreg",
+  "mlp_128_3seeds"
+ ],
+ "governance": "exploratory_probe_rights_pending_G0_G1_not_passed",
+ "baseline_ref": "vis_cache/summary.json (E3)"
+}
