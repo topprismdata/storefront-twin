@@ -476,6 +476,9 @@ def project_box(o, cam):
 import bpy_extras.object_utils
 
 
+FORCE_OCC = False  # v2 车辆轴置 True：跳过 40% 掷币，强制建遮挡物
+
+
 def render_one(seed, kind, style=None, lighting=None, out_dir=None):
     """kind: positive / other_brand / no_sign / anomaly / hard_negative。返回 manifest dict。"""
     rng = random.Random(seed)
@@ -502,7 +505,7 @@ def render_one(seed, kind, style=None, lighting=None, out_dir=None):
         build_facade(rng, lighting, 3.2)
         comps, geom = {}, dict(w=0, h=0, cz=3.2, depth=0)
         brand = "other_brand"
-    if rng.random() < 0.4:
+    if rng.random() < 0.4 or FORCE_OCC:
         build_occluder(rng, geom["cz"], max(geom["w"], 2.0))
 
     cam, cam_params = setup_camera(rng, geom)
