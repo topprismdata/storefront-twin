@@ -1,0 +1,368 @@
+[
+ {
+  "image_id": "gen_0020",
+  "province": "浙江省",
+  "top1": 0.299,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "gen_0433",
+  "province": "浙江省",
+  "top1": 0.298,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0445",
+  "province": "浙江省",
+  "top1": 0.313,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0556",
+  "province": "浙江省",
+  "top1": 0.272,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0584",
+  "province": "浙江省",
+  "top1": 0.321,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "gen_0609",
+  "province": "浙江省",
+  "top1": 0.251,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0610",
+  "province": "浙江省",
+  "top1": 0.263,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0629",
+  "province": "浙江省",
+  "top1": 0.314,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "gen_0653",
+  "province": "浙江省",
+  "top1": 0.265,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0700",
+  "province": "浙江省",
+  "top1": 0.295,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_0747",
+  "province": "浙江省",
+  "top1": 0.253,
+  "assigned": "CS-02"
+ },
+ {
+  "image_id": "gen_0812",
+  "province": "浙江省",
+  "top1": 0.321,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1002",
+  "province": "浙江省",
+  "top1": 0.298,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1010",
+  "province": "浙江省",
+  "top1": 0.318,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1178",
+  "province": "浙江省",
+  "top1": 0.295,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1195",
+  "province": "浙江省",
+  "top1": 0.312,
+  "assigned": "CS-06"
+ },
+ {
+  "image_id": "gen_1490",
+  "province": "浙江省",
+  "top1": 0.281,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1495",
+  "province": "浙江省",
+  "top1": 0.238,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1510",
+  "province": "浙江省",
+  "top1": 0.281,
+  "assigned": "CS-01"
+ },
+ {
+  "image_id": "gen_1578",
+  "province": "浙江省",
+  "top1": 0.304,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1592",
+  "province": "浙江省",
+  "top1": 0.251,
+  "assigned": "CS-06"
+ },
+ {
+  "image_id": "gen_1598",
+  "province": "浙江省",
+  "top1": 0.289,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_1794",
+  "province": "浙江省",
+  "top1": 0.315,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2015",
+  "province": "浙江省",
+  "top1": 0.303,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2028",
+  "province": "浙江省",
+  "top1": 0.243,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2054",
+  "province": "浙江省",
+  "top1": 0.306,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2077",
+  "province": "浙江省",
+  "top1": 0.299,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2288",
+  "province": "浙江省",
+  "top1": 0.287,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2313",
+  "province": "浙江省",
+  "top1": 0.305,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "gen_2473",
+  "province": "福建省",
+  "top1": 0.298,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0025",
+  "province": "湖南省",
+  "top1": 0.303,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0029",
+  "province": "湖南省",
+  "top1": 0.261,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0034",
+  "province": "湖南省",
+  "top1": 0.313,
+  "assigned": "CS-01"
+ },
+ {
+  "image_id": "x1_0057",
+  "province": "湖南省",
+  "top1": 0.312,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "x1_0072",
+  "province": "湖南省",
+  "top1": 0.29,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0073",
+  "province": "湖南省",
+  "top1": 0.29,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0180",
+  "province": "江西省",
+  "top1": 0.323,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0194",
+  "province": "江西省",
+  "top1": 0.3,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0196",
+  "province": "江西省",
+  "top1": 0.249,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0209",
+  "province": "江西省",
+  "top1": 0.309,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0212",
+  "province": "江西省",
+  "top1": 0.292,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0237",
+  "province": "江西省",
+  "top1": 0.243,
+  "assigned": "CS-02"
+ },
+ {
+  "image_id": "x1_0252",
+  "province": "江西省",
+  "top1": 0.303,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0254",
+  "province": "江西省",
+  "top1": 0.29,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0258",
+  "province": "江西省",
+  "top1": 0.31,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0276",
+  "province": "江西省",
+  "top1": 0.316,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0294",
+  "province": "江西省",
+  "top1": 0.298,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0298",
+  "province": "江西省",
+  "top1": 0.314,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0381",
+  "province": "江西省",
+  "top1": 0.274,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0394",
+  "province": "江西省",
+  "top1": 0.25,
+  "assigned": "CS-05"
+ },
+ {
+  "image_id": "x1_0411",
+  "province": "江西省",
+  "top1": 0.276,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0423",
+  "province": "江西省",
+  "top1": 0.32,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "x1_0430",
+  "province": "江西省",
+  "top1": 0.289,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0431",
+  "province": "江西省",
+  "top1": 0.262,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0432",
+  "province": "江西省",
+  "top1": 0.259,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0483",
+  "province": "广东省",
+  "top1": 0.318,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0518",
+  "province": "广东省",
+  "top1": 0.285,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0591",
+  "province": "四川省",
+  "top1": 0.288,
+  "assigned": "CS-03"
+ },
+ {
+  "image_id": "x1_0669",
+  "province": "河南省",
+  "top1": 0.309,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0733",
+  "province": "福建省",
+  "top1": 0.3,
+  "assigned": "CS-04"
+ },
+ {
+  "image_id": "x1_0744",
+  "province": "广西壮族自治区",
+  "top1": 0.296,
+  "assigned": "CS-04"
+ }
+]

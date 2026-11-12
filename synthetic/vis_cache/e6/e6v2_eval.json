@@ -1,0 +1,36 @@
+{
+ "e6v2": {
+  "P": 0.707,
+  "R": 0.967,
+  "F1": 0.817,
+  "AuPR": 0.855,
+  "confusion": [
+   29,
+   12,
+   1
+  ],
+  "thr_poolOOF": 0.4821523225568389,
+  "F1_CI95": [
+   0.704,
+   0.903
+  ],
+  "FP_by_negtype": {
+   "competitor": 1,
+   "render_stock": 8,
+   "uncertain": 1,
+   "confusable_brand": 1,
+   "same_name_unrelated": 1
+  }
+ },
+ "e8g_reference": {
+  "P": 0.778,
+  "R": 0.933,
+  "F1": 0.848,
+  "AuPR": 0.926,
+  "confusion": [
+   28,
+   8,
+   2
+  ]
+ }
+}

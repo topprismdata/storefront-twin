@@ -134,3 +134,15 @@ v2 批 1–8 用三文件输入（VI+g1+g2），批 9–14 因 ChatGPT 上传节
 4. 下一步瓶颈是**独立新门店泛化集 + 权利门 G0/G1**，不是继续调参。
 5. 治理不变：探索性、不部署、不宣称业务准确率、VLM 裁决不作训练标签。
 6. v2 产物：v2_records.json / v2_reconciliation.json / v2_migration.json / v2_verdict_batch01-14.md / v1/v2_paired_bootstrap.json。
+## §7 v2 全量复测与翻转裁决（2026-11-12 补记;复测本体于前次会话完成 330/330）
+
+v2(强化场景验证指令) vs v1: VLM-alone 0.949→0.931, A 0.931→0.931, B 0.951→0.951(不变)。
+配对门店 Bootstrap: B-A ΔF1 0.02 [-0.04, 0.081] 跨零 → 两版差异均在噪声内。**结论:强化指令=错误洗牌,零净收益**;13/13 定向验证未能预测全量回归,实证 GPT 问 D 的过拟合担忧。
+
+11 类四态迁移矩阵见 v2_migration.json。4 个翻转图逐图全分辨率裁决:
+- img_0038(logo): MATCH→OUT_OF_SCOPE ✓ 修复目标达成
+- img_0483(立体发光字): NON_MATCH→UNKNOWN,Mode B 救援收回(e8g 0.811) ✓ 终态正确但 VLM 自身仍未读出品牌字——规则 2 未生效
+- img_0484(正例): MATCH→OUT_OF_SCOPE ✗ **回归**。全分辨率亲验:右招"左邻右舍便利店"清晰可读+真实街景 → 应 MATCH。VLM 违反规则 3(读不出应 UNKNOWN 却判 OUT_OF_SCOPE),且 OUT_OF_SCOPE 为硬拒,截断了 Mode B 救援(e8g_pred True 也无效)。教训:硬拒类 verdict 需要更严的输出合规约束。
+- img_0142(uncertain 负例): OUT_OF_SCOPE→MATCH ✗。全分辨率亲验:白书法体"左邻右舍"+满月宴 LED 屏+中式宴会空间 → **同名餐馆,非便利店**。v2 MATCH 错误;注册集 negative 维持,neg_type 已改 same_name_unrelated(registry_v3)。
+
+E10 架构结论不变: 视觉基线(召回)+VLM 证据裁决(精度)分层有效;v1/v2 的 F1 差异属错误类型再分配。
