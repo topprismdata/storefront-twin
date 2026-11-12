@@ -1215,5 +1215,19 @@
    "1113": "左邻右舍喜铺,婚庆同名异业"
   },
   "note": "从严质检口径;REJECT含2例边缘VI样式(506/616)与1例同名喜铺(1113);接触表扫描单轮A率75.6%经抽检校准后真实A约780~869"
+ },
+ "d_recheck": {
+  "n": 153,
+  "D_to_A": 72,
+  "D_to_B": 2,
+  "D_to_C": 6,
+  "D_stay": 73,
+  "after_distribution": {
+   "A": 963,
+   "B": 51,
+   "C": 91,
+   "D": 73
+  },
+  "method": "11 contact sheets 420px cells, strict transfer criteria, state-change record per GPT J-verdict"
  }
 }
