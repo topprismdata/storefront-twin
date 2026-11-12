@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0041 | OUT_OF_SCOPE | 途虎养车 |
+| G0042 | MATCH | 左邻·右舍 |
+| G0043 | MATCH | 左邻·右舍 |
+| G0044 | UNKNOWN | 无 |
+| G0045 | NON_MATCH | 芙蓉兴盛 |
+| G0046 | MATCH | 左邻·右舍 |
+| G0047 | MATCH | 左邻·右舍 |
+| G0048 | UNKNOWN | 壹便利店 |
+| G0049 | OUT_OF_SCOPE | 无 |
+| G0050 | OUT_OF_SCOPE | 左邻右舍 |
+| G0051 | MATCH | 左邻·右舍 |
+| G0052 | OUT_OF_SCOPE | 无 |
+| G0053 | OUT_OF_SCOPE | 无 |
+| G0054 | OUT_OF_SCOPE | 鲸选季 |
+| G0055 | MATCH | 左邻·右舍 |
+| G0056 | MATCH | 左邻·右舍 |
+| G0057 | MATCH | 左邻·右舍 |
+| G0058 | OUT_OF_SCOPE | 左邻右舍超市 |
+| G0059 | MATCH | 左邻·右舍 |
+| G0060 | UNKNOWN | 右舍 |

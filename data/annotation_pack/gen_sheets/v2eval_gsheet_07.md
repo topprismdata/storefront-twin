@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0141 | OUT_OF_SCOPE | 左邻右舍超市 |
+| G0142 | MATCH | 左邻·右舍 |
+| G0143 | MATCH | 左邻·右舍 |
+| G0144 | MATCH | 左邻·右舍 |
+| G0145 | MATCH | 左邻·右舍 |
+| G0146 | OUT_OF_SCOPE | 无 |
+| G0147 | MATCH | 左邻·右舍 |
+| G0148 | MATCH | 左邻·右舍 |
+| G0149 | UNKNOWN | 九记潮汕牛腩煲 |
+| G0150 | MATCH | 左邻·右舍 |
+| G0151 | MATCH | 左邻·右舍 |
+| G0152 | NON_MATCH | 左邻右舍便利店 |
+| G0153 | NON_MATCH | 生煎馆、五洲汇名 |
+| G0154 | MATCH | 左邻·右舍 |
+| G0155 | MATCH | 左邻·右舍 |
+| G0156 | OUT_OF_SCOPE | 无 |
+| G0157 | MATCH | 左邻·右舍 |
+| G0158 | OUT_OF_SCOPE | 无 |
+| G0159 | OUT_OF_SCOPE | 无 |
+| G0160 | MATCH | 左邻·右舍 |

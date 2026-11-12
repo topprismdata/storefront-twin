@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0101 | MATCH | 左邻·右舍 |
+| G0102 | MATCH | 左邻·右舍 |
+| G0103 | OUT_OF_SCOPE | 无 |
+| G0104 | MATCH | 左邻右舍 |
+| G0105 | OUT_OF_SCOPE | 无 |
+| G0106 | UNKNOWN | 惠民便利店 |
+| G0107 | UNKNOWN | 凤栖居（疑似） |
+| G0108 | NON_MATCH | 一家生活馆 |
+| G0109 | OUT_OF_SCOPE | 无 |
+| G0110 | OUT_OF_SCOPE | 无 |
+| G0111 | OUT_OF_SCOPE | 无 |
+| G0112 | OUT_OF_SCOPE | Huamei |
+| G0113 | MATCH | 左邻右舍 |
+| G0114 | OUT_OF_SCOPE | 便利店 |
+| G0115 | MATCH | 左邻·右舍 |
+| G0116 | OUT_OF_SCOPE | 无 |
+| G0117 | NON_MATCH | 家具商行 |
+| G0118 | MATCH | 左邻·右舍 |
+| G0119 | MATCH | 左邻·右舍 |
+| G0120 | UNKNOWN | 惠民便利店 |

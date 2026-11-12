@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0121 | NON_MATCH | 中国移动、兴银教育等 |
+| G0122 | NON_MATCH | 左邻右舍、慧惠超市 |
+| G0123 | MATCH | 左邻·右舍 |
+| G0124 | OUT_OF_SCOPE | 左邻右舍特价超市 |
+| G0125 | OUT_OF_SCOPE | 无 |
+| G0126 | OUT_OF_SCOPE | 无 |
+| G0127 | OUT_OF_SCOPE | 无 |
+| G0128 | OUT_OF_SCOPE | 无 |
+| G0129 | NON_MATCH | 左邻右舍便利店超市 |
+| G0130 | NON_MATCH | 街客 |
+| G0131 | OUT_OF_SCOPE | 无 |
+| G0132 | OUT_OF_SCOPE | 无 |
+| G0133 | OUT_OF_SCOPE | 无 |
+| G0134 | MATCH | 左邻·右舍 |
+| G0135 | NON_MATCH | 百货超市 |
+| G0136 | NON_MATCH | 万家惠便利店 |
+| G0137 | MATCH | 左邻·右舍 |
+| G0138 | NON_MATCH | 杨友鑫、左邻右舍 |
+| G0139 | NON_MATCH | 左邻右舍便利店超市 |
+| G0140 | OUT_OF_SCOPE | 业成便利店 |

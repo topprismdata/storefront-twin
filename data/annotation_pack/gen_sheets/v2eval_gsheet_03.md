@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0061 | MATCH | 左邻·右舍 |
+| G0062 | MATCH | 左邻·右舍 |
+| G0063 | MATCH | 左邻·右舍 |
+| G0064 | MATCH | 左邻·右舍 |
+| G0065 | OUT_OF_SCOPE | 无 |
+| G0066 | MATCH | 左邻·右舍 |
+| G0067 | MATCH | 左邻·右舍 |
+| G0068 | UNKNOWN | 左邻右舍 |
+| G0069 | OUT_OF_SCOPE | 便利店 |
+| G0070 | MATCH | 左邻·右舍 |
+| G0071 | UNKNOWN | 无 |
+| G0072 | NON_MATCH | 吉祥集团 |
+| G0073 | NON_MATCH | 24小时自助购物 |
+| G0074 | UNKNOWN | 便利店 |
+| G0075 | UNKNOWN | 左邻·右舍（模糊） |
+| G0076 | NON_MATCH | 友邻便利店 |
+| G0077 | NON_MATCH | 美丽乡村综合服务平台；金叶便利 |
+| G0078 | UNKNOWN | 左邻右舍便利店 |
+| G0079 | MATCH | 左邻·右舍 |
+| G0080 | UNKNOWN | 好到家便利店 |

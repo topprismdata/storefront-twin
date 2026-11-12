@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0201 | UNKNOWN | 无法辨清 |
+| G0202 | MATCH | 左邻右舍便利店 |
+| G0203 | MATCH | 左邻·右舍 |
+| G0204 | NON_MATCH | 万利水果店 |
+| G0205 | MATCH | 左邻右舍 |
+| G0206 | NON_MATCH | 全佳超市 |
+| G0207 | OUT_OF_SCOPE | 无 |
+| G0208 | MATCH | 左邻右舍 |
+| G0209 | OUT_OF_SCOPE | 无 |
+| G0210 | OUT_OF_SCOPE | 无 |
+| G0211 | NON_MATCH | 永乐菜馆 |
+| G0212 | MATCH | 左邻·右舍 |
+| G0213 | OUT_OF_SCOPE | 无 |
+| G0214 | OUT_OF_SCOPE | 无 |
+| G0215 | MATCH | 左邻·右舍 |
+| G0216 | MATCH | 左邻右舍 |
+| G0217 | OUT_OF_SCOPE | 无 |
+| G0218 | OUT_OF_SCOPE | 无 |
+| G0219 | OUT_OF_SCOPE | 左邻右舍超市 |
+| G0220 | NON_MATCH | 芙蓉兴盛 |

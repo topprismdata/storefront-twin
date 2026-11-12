@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| G0181 | OUT_OF_SCOPE | 合家欢 |
+| G0182 | MATCH | 左邻·右舍 |
+| G0183 | UNKNOWN | 无 |
+| G0184 | MATCH | 左邻·右舍 |
+| G0185 | OUT_OF_SCOPE | 无 |
+| G0186 | UNKNOWN | 无 |
+| G0187 | OUT_OF_SCOPE | 百度营销 |
+| G0188 | MATCH | 左邻·右舍 |
+| G0189 | MATCH | 左邻·右舍 |
+| G0190 | MATCH | 左邻·右舍 |
+| G0191 | MATCH | 左邻·右舍 |
+| G0192 | OUT_OF_SCOPE | 无 |
+| G0193 | OUT_OF_SCOPE | 智慧店云值守智能无人超市系统 |
+| G0194 | NON_MATCH | 万利汇百 |
+| G0195 | UNKNOWN | 无 |
+| G0196 | OUT_OF_SCOPE | 左邻右舍食品商行 |
+| G0197 | OUT_OF_SCOPE | 左邻右舍；卷烟零售 |
+| G0198 | MATCH | 左邻·右舍 |
+| G0199 | MATCH | 左邻·右舍 |
+| G0200 | OUT_OF_SCOPE | 无 |
