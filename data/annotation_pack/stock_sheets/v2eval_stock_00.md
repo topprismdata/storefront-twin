@@ -1,0 +1,22 @@
+| 编号 | 裁决 | 读到的品牌文字 |
+|---|---|---|
+| S00121 | UNKNOWN | 无 |
+| S00327 | UNKNOWN | 无 |
+| S00514 | UNKNOWN | 无 |
+| S00524 | UNKNOWN | 无 |
+| S00105 | UNKNOWN | 无 |
+| S00228 | UNKNOWN | 无 |
+| S00430 | UNKNOWN | 无 |
+| S00560 | UNKNOWN | 无 |
+| S00502 | UNKNOWN | 无 |
+| S00451 | UNKNOWN | 无 |
+| S00245 | UNKNOWN | 无 |
+| S00002 | UNKNOWN | 无 |
+| S00082 | UNKNOWN | 无 |
+| S00294 | UNKNOWN | 无 |
+| S00460 | UNKNOWN | 无 |
+| S00011 | UNKNOWN | 无 |
+| S00566 | UNKNOWN | 无 |
+| S00321 | UNKNOWN | 无 |
+| S00215 | UNKNOWN | 无 |
+| S00406 | UNKNOWN | 无 |
