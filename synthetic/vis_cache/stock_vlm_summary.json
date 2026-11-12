@@ -1,0 +1,14 @@
+{
+ "n_verdicts": 220,
+ "verdict_dist": {
+  "UNKNOWN": 111,
+  "OUT_OF_SCOPE": 69,
+  "NON_MATCH": 39,
+  "MATCH": 1
+ },
+ "match_false_accepts": [
+  "S0222"
+ ],
+ "false_accept_rate": 0.0045,
+ "unmapped_ids": []
+}

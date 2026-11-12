@@ -2,8 +2,9 @@
 """TECH_REPORT.md 生成器: 所有数字从冻结 JSON 自动填充(禁止手抄)。
 用法: python3 synthetic/gen_tech_report.py  →  TECH_REPORT.md
 """
-import json, collections
+import json, re, collections
 from pathlib import Path
+import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
 VC = ROOT / "synthetic" / "vis_cache"
@@ -37,6 +38,20 @@ def main():
     v1mig = load(VC / "e10_full/v1_migration.json") if (VC / "e10_full/v1_migration.json").exists() else None
     stockb = load(ROOT / "data/stock_benchmark.json")
     stockres = load(VC / "stock_e8g_results.json")
+    svd = load(VC / "stock_vlm_summary.json")["verdict_dist"]
+    vlmf = load(VC / "stock_vlm_summary.json")["match_false_accepts"]
+    vlmf = {"n": len(vlmf), "rate": len(vlmf) / stockb["n"], "ids": vlmf}
+    _sc = np.load(VC / "stock_e8g_scores.npz", allow_pickle=True)
+    _smap = {str(i): float(s) for i, s in zip(_sc["ids"], _sc["scores"])}
+    modea_fp = modeb_fp = 0
+    for _r in stockb["rows"]:
+        _v = _r.get("vlm_verdict_v8")
+        _e = _smap.get(_r["image_id"], 0.0)
+        if _v == "MATCH":
+            modea_fp += 1; modeb_fp += 1
+        elif _v == "UNKNOWN" and _e >= 0.636:
+            modeb_fp += 1
+    modea_rate = modea_fp / stockb["n"]; modeb_rate = modeb_fp / stockb["n"]
     genrec = load(VC / "gen_reconciliation.json")
     genpair = load(VC / "gen_paired_bootstrap.json")
     fix = load(VC / "e10_full/fix_summary.json")
@@ -133,9 +148,12 @@ AuPR {e8g['auprc']:.3f};P@95R {e8g['p_at_95r']:.3f};R@95P {e8g['r_at_95p']:.3f}�
 | E8-G 代理误收(两通道 0.5/0.5) | **{stockres['fp']}/{stockres['n']} = {stockres['fp_rate']:.1%}** @thr {stockres['thr']} |
 | 双通道标注一致率 | 80.0%(220 张),44 分歧全分辨率仲裁后 B201+R19 |
 | 素材搜索污染率(实拍混入) | 3.2% |
-| VLM 四态层 | 待补(ChatGPT 附件通道灰度故障,网格已就绪) |
+| VLM 四态层(v8,220/220) | 裁决分布: UNKNOWN {svd.get('UNKNOWN',0)} / OUT_OF_SCOPE {svd.get('OUT_OF_SCOPE',0)} / NON_MATCH {svd.get('NON_MATCH',0)} / MATCH {svd.get('MATCH',0)} |
+| VLM-alone 误收(MATCH∧负例) | **{vlmf['n']}/220 = {vlmf['rate']:.2%}**({','.join(vlmf['ids'])}) |
+| 模式 A 误收(拒识即拒) | {modea_fp}/220 = {modea_rate:.2%} |
+| 模式 B 误收(UNKNOWN 回退 E8-G) | {modeb_fp}/220 = {modeb_rate:.2%}(111 UNKNOWN 回退带 {modeb_fp - modea_fp} 个 E8-G 残余误收) |
 
-残余误收集中于"含品牌风格字体立体字的设计图"——与真实域 CS-04 立体发光字变体同型,是变体边界问题的素材域镜像。
+残余误收集中于"含品牌风格字体立体字的设计图"——与真实域 CS-04 立体发光字变体同型,是变体边界问题的素材域镜像。素材域上模式 A 优于模式 B(与 GEN 方向一致): VLM 高弃识率(50% UNKNOWN)域内,拒识即拒优于回退。
 
 ## 5. 已知失效模式
 

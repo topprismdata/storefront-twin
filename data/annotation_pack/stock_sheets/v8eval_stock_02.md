@@ -1,0 +1,33 @@
+本批共 20 张（S00092–S00493）。按此前品牌身份盲测的四态标准裁决：
+
+| 编号 | 裁决 |
+|---|---|
+| S00092 | OUT_OF_SCOPE |
+| S00408 | NON_MATCH |
+| S00510 | UNKNOWN |
+| S00119 | UNKNOWN |
+| S00435 | UNKNOWN |
+| S00518 | UNKNOWN |
+| S00556 | UNKNOWN |
+| S00407 | OUT_OF_SCOPE |
+| S00264 | NON_MATCH |
+| S00568 | UNKNOWN |
+| S00490 | UNKNOWN |
+| S00539 | UNKNOWN |
+| S00229 | OUT_OF_SCOPE |
+| S00132 | UNKNOWN |
+| S00050 | UNKNOWN |
+| S00570 | UNKNOWN |
+| S00439 | UNKNOWN |
+| S00481 | UNKNOWN |
+| S00145 | UNKNOWN |
+| S00493 | OUT_OF_SCOPE |
+
+**汇总**
+
+- MATCH：0
+- NON_MATCH：2
+- UNKNOWN：14
+- OUT_OF_SCOPE：4
+
+本批没有发现同时具备「左邻·右舍」品牌身份标识和真实门店经营场景证据的图片。UNKNOWN 不等于确认非目标品牌，不能计入确定负例。
