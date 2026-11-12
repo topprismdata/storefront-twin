@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-12",
+ "n_selected": 644,
+ "n_sheets": 33,
+ "stratification": "province x cap_cluster(kMeans k=6, 审计实证的捕获条件轴) + vi_variant 旗标",
+ "allocation": {
+  "non_zhejiang_census": 344,
+  "zhejiang_sample": 300,
+  "vi_variant_flagged": 10
+ },
+ "zhejiang_by_cap": {
+  "0": 36,
+  "1": 70,
+  "2": 40,
+  "3": 59,
+  "4": 38,
+  "5": 57
+ },
+ "prov_dist": {
+  "安徽省": 2,
+  "福建省": 31,
+  "湖南省": 18,
+  "湖北省": 12,
+  "江西省": 222,
+  "广东省": 20,
+  "贵州省": 1,
+  "四川省": 13,
+  "河南省": 15,
+  "广西壮族自治区": 3,
+  "云南省": 1,
+  "": 6,
+  "浙江省": 300
+ },
+ "rubric": "A=真左邻右舍门头 B=室内/非门头 C=同名异业 D=不清 + style_variant 旗标",
+ "note": "替换原 CS 风格分层(E11 审计: CS 轴未获真实分布验证)"
+}
