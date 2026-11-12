@@ -1,0 +1,857 @@
+{
+ "n": 91,
+ "subtype_distribution": {
+  "XQ": 4,
+  "XP": 1,
+  "YJ": 15,
+  "CS": 30,
+  "FS": 23,
+  "QT": 7,
+  "CY": 4,
+  "QT6": 7
+ },
+ "subtype_zh": {
+  "XP": "婚庆喜铺",
+  "YJ": "烟酒/商行/批发",
+  "CY": "餐饮小吃",
+  "CS": "同名超市(异色底/简易VI)",
+  "XQ": "小区/社区标牌",
+  "QT": "其他品牌便利店",
+  "FS": "附属牌(异业主招+左邻右舍副牌)",
+  "QT6": "其他(咖啡/会所/茶行等)"
+ },
+ "by_province": {
+  "浙江省": 74,
+  "安徽省": 4,
+  "湖南省": 6,
+  "湖北省": 2,
+  "福建省": 5
+ },
+ "note": "C类=91(85初筛+6自D复审转入);单轮子类判读,商标维权线索须法务二次确认;rights=pending_review,不得作训练数据",
+ "top_traps": {
+  "FS附属牌": 23,
+  "CS同名超市": 30,
+  "YJ烟酒商行": 15
+ },
+ "entries": [
+  {
+   "grid_id": 0,
+   "poi_id": "B0MRSC7B2H",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "XQ",
+   "trap_type_zh": "小区/社区标牌",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 19,
+   "poi_id": "B0L03RCTSB",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "XP",
+   "trap_type_zh": "婚庆喜铺",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 38,
+   "poi_id": "B0LKPCZPMU",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 75,
+   "poi_id": "B0FFMD7MC3",
+   "poi_name": "左邻右舍便利超市(吉如家园店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 96,
+   "poi_id": "B0J2Z76LCZ",
+   "poi_name": "左邻右舍(九堡家苑三区店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 97,
+   "poi_id": "B0I1B7YOI1",
+   "poi_name": "左邻右舍.(云亭公寓店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 124,
+   "poi_id": "B0JACATML7",
+   "poi_name": "左邻右舍(东沙商业中心店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 128,
+   "poi_id": "B0FFMELTAV",
+   "poi_name": "左邻右舍(红联九漾华庭·东区店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 129,
+   "poi_id": "B0LAMOCKQU",
+   "poi_name": "左邻右舍(天都路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 134,
+   "poi_id": "B0JA6UH9T8",
+   "poi_name": "左邻右舍(花园岗街店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 138,
+   "poi_id": "B0K0M7GSYS",
+   "poi_name": "左邻右舍(杭樾润府店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 158,
+   "poi_id": "B0K3YZCFRB",
+   "poi_name": "左邻右舍(16331厚恩科技店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 162,
+   "poi_id": "B0FFL5LHZI",
+   "poi_name": "左邻右舍(农家乐)",
+   "province": "浙江省",
+   "trap_type": "XQ",
+   "trap_type_zh": "小区/社区标牌",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 206,
+   "poi_id": "B0H06MC4I6",
+   "poi_name": "左邻右舍(秋涛街店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 210,
+   "poi_id": "B0K6N53N3P",
+   "poi_name": "左邻右舍(幽香庭苑店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 215,
+   "poi_id": "B0FFFYRGB5",
+   "poi_name": "左邻右舍(慧鑫店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 218,
+   "poi_id": "B0GRDHIV3V",
+   "poi_name": "左邻右舍(梅城路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 225,
+   "poi_id": "B0J1KM3YFO",
+   "poi_name": "左邻右舍(金山大道店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 243,
+   "poi_id": "B0J6MCFUYH",
+   "poi_name": "左邻右舍(东兴路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 280,
+   "poi_id": "B0HKMU8XE0",
+   "poi_name": "左邻右舍(新纪元香湖店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 284,
+   "poi_id": "B0MAGLZN6W",
+   "poi_name": "左邻右舍(城店路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 306,
+   "poi_id": "B0G3J771NB",
+   "poi_name": "左邻右舍便利超市(国犇烟酒店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 308,
+   "poi_id": "B0H39UTIEJ",
+   "poi_name": "左邻右舍(高塘路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 316,
+   "poi_id": "B0H1KU2OZK",
+   "poi_name": "左邻右舍(兰贺线店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 334,
+   "poi_id": "B0FFIGW2F9",
+   "poi_name": "左邻右舍便利超市(黄大仙路店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 350,
+   "poi_id": "B0LDK1MSCG",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 352,
+   "poi_id": "B0KKTMHNCP",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 353,
+   "poi_id": "B0MUFYFLBJ",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 367,
+   "poi_id": "B0J1GZ9IO0",
+   "poi_name": "左邻右舍(星光御墅店)",
+   "province": "浙江省",
+   "trap_type": "XQ",
+   "trap_type_zh": "小区/社区标牌",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 419,
+   "poi_id": "B0L2OSVSPT",
+   "poi_name": "左邻右舍便利超市(大冯段店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 420,
+   "poi_id": "B023E13R1O",
+   "poi_name": "左邻右舍便利店(大众广场店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 438,
+   "poi_id": "B0GUDRSK3A",
+   "poi_name": "左邻右舍水果批发团购(金钟路店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 445,
+   "poi_id": "B0LRKOJNYS",
+   "poi_name": "左邻右舍便利超市(钟山北路店)",
+   "province": "浙江省",
+   "trap_type": "CY",
+   "trap_type_zh": "餐饮小吃",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 451,
+   "poi_id": "B0MGLLNQ3B",
+   "poi_name": "左邻右舍便利超市(阳明西路店)",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 455,
+   "poi_id": "B0LRJMGMSF",
+   "poi_name": "左邻右舍便利超市(涌馨府店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 463,
+   "poi_id": "B0JDMUUSTL",
+   "poi_name": "左邻右舍便利超市(兔喜生活)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 510,
+   "poi_id": "B0H2CCTAJP",
+   "poi_name": "左邻右舍银和店",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 545,
+   "poi_id": "B0FFH01R3R",
+   "poi_name": "左邻右舍超市(莲塘路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 577,
+   "poi_id": "B0FFJ3AKEN",
+   "poi_name": "左邻右舍超市(太阳公寓店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 587,
+   "poi_id": "B0FFGIXZW8",
+   "poi_name": "左邻右舍超市(东祥路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 597,
+   "poi_id": "B0LASU0QEW",
+   "poi_name": "左邻右舍便利超市(福年花园店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 598,
+   "poi_id": "B0KD71X1CB",
+   "poi_name": "左邻右舍便利超市(府山直街店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 617,
+   "poi_id": "B0J6HSFKVA",
+   "poi_name": "左邻右舍便利超市(中义·凯莱花苑店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 625,
+   "poi_id": "B0HRGN8EOB",
+   "poi_name": "左邻右舍烟酒超市(华通南路店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 636,
+   "poi_id": "B0J0FDK97Y",
+   "poi_name": "左邻右舍便利超市(中国铁建花语江南店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 668,
+   "poi_id": "B0GUARB3NG",
+   "poi_name": "左邻右舍便利超市(金河新村店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 728,
+   "poi_id": "B0I2MSFQ1O",
+   "poi_name": "左邻右舍(濮院毛衫时尚小镇店)",
+   "province": "浙江省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 756,
+   "poi_id": "B0FFGBQZI2",
+   "poi_name": "左邻右舍百货店",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 773,
+   "poi_id": "B0FFM5ZXF3",
+   "poi_name": "左邻右舍便利超市(栖叶路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 777,
+   "poi_id": "B0FFM5IQPW",
+   "poi_name": "左邻右舍便利超市(爱尚公寓店)(暂停营业)",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 782,
+   "poi_id": "B0LGDBDAL2",
+   "poi_name": "左邻右舍便利超市(旭南嘉苑店)",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 785,
+   "poi_id": "B0L6DGM8N9",
+   "poi_name": "左邻右舍平价超市(永恒路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 786,
+   "poi_id": "B0GK4XTD58",
+   "poi_name": "左邻右舍便利超市(灵湖东路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 825,
+   "poi_id": "B0FFJITRDC",
+   "poi_name": "左邻·右舍",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 838,
+   "poi_id": "B0K367FBP3",
+   "poi_name": "左邻右舍(振华路)",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 861,
+   "poi_id": "B0ID77OYGW",
+   "poi_name": "左邻右舍便利超市(双林产业园店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 866,
+   "poi_id": "B0HA3U4LIG",
+   "poi_name": "朗里左邻右舍(朗里花园店)",
+   "province": "浙江省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 870,
+   "poi_id": "B0IBGZ7SAQ",
+   "poi_name": "左邻右舍便利店(朱湾路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 873,
+   "poi_id": "B0JBTO8QN7",
+   "poi_name": "左邻右舍便利超市(中华西路店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 877,
+   "poi_id": "B0L2TZ34B1",
+   "poi_name": "左邻右舍便利超市(得力金宸湾店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 879,
+   "poi_id": "B0HKKCLO49",
+   "poi_name": "左邻右舍便利超市(振浔路店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 897,
+   "poi_id": "B0LKP10I4A",
+   "poi_name": "左邻·右舍",
+   "province": "浙江省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 899,
+   "poi_id": "B0JKOYG8UK",
+   "poi_name": "左邻右舍便利超市(圣缇湾店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 916,
+   "poi_id": "B0HBLG9WU5",
+   "poi_name": "祥和便利(祥和花园店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 917,
+   "poi_id": "B0LBDMXO03",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 919,
+   "poi_id": "B0FFL6EBYE",
+   "poi_name": "左邻右舍",
+   "province": "浙江省",
+   "trap_type": "CY",
+   "trap_type_zh": "餐饮小吃",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1023,
+   "poi_id": "B0J3XCAB2E",
+   "poi_name": "左邻右舍(七里三区店)",
+   "province": "浙江省",
+   "trap_type": "FS",
+   "trap_type_zh": "附属牌(异业主招+左邻右舍副牌)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1096,
+   "poi_id": "B0FFKYVK8Z",
+   "poi_name": "左邻右舍超市(东升南区店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1097,
+   "poi_id": "B0FFI6MVEB",
+   "poi_name": "左邻右舍便利超市(大济洋路店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1099,
+   "poi_id": "B0FFG3CRG8",
+   "poi_name": "左邻右舍便民超市(城东小区店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1100,
+   "poi_id": "B0FFJTMMGQ",
+   "poi_name": "香蜜园左邻右舍超市(中驰·香蜜园店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1102,
+   "poi_id": "B0FFLCGUH8",
+   "poi_name": "左邻右舍便利超市(华鸿锦园店)",
+   "province": "浙江省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1104,
+   "poi_id": "B0FFG347XW",
+   "poi_name": "左邻ο右舍(后田街店)",
+   "province": "浙江省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1106,
+   "poi_id": "B0HK3SIQPS",
+   "poi_name": "左邻右舍超市(峰景湾休假城西区店)",
+   "province": "浙江省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1108,
+   "poi_id": "B0FFL0L2MK",
+   "poi_name": "左邻右舍便利超市(安居苑东村小区店)",
+   "province": "安徽省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1110,
+   "poi_id": "B0JA6SHM2T",
+   "poi_name": "左邻右舍烟酒便利店(湖畔兰庭店)",
+   "province": "安徽省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1111,
+   "poi_id": "B0FFM34NS2",
+   "poi_name": "飞牛便利",
+   "province": "安徽省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1112,
+   "poi_id": "B0H32557GU",
+   "poi_name": "左邻右舍便利超市(芜湖·未来城店)",
+   "province": "安徽省",
+   "trap_type": "CY",
+   "trap_type_zh": "餐饮小吃",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1115,
+   "poi_id": "B0G0FLC9LR",
+   "poi_name": "左邻右舍超市(靳江小区潇湘一期店)",
+   "province": "湖南省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1118,
+   "poi_id": "B0FFKP9F2Y",
+   "poi_name": "左邻右舍格凯食品店",
+   "province": "湖南省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1119,
+   "poi_id": "B02DB07BW5",
+   "poi_name": "芙蓉兴盛便利超市(润泽园店)",
+   "province": "湖南省",
+   "trap_type": "QT",
+   "trap_type_zh": "其他品牌便利店",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1120,
+   "poi_id": "B0FFI5OCNO",
+   "poi_name": "左邻右舍超市(茶祖路店)",
+   "province": "湖南省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1121,
+   "poi_id": "B0K3H97JE2",
+   "poi_name": "和成天下左邻右舍便利店",
+   "province": "湖南省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1122,
+   "poi_id": "B0FFHWFHCE",
+   "poi_name": "左邻便利店(湘潭岳塘区)",
+   "province": "湖南省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1125,
+   "poi_id": "B0K6CCXDTO",
+   "poi_name": "左邻右舍超市",
+   "province": "湖北省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1126,
+   "poi_id": "B0FFI67US5",
+   "poi_name": "左邻右舍店(广家洲路店)",
+   "province": "湖北省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1131,
+   "poi_id": "B0FFK2TMKI",
+   "poi_name": "左邻右舍便利店(青口分店)",
+   "province": "福建省",
+   "trap_type": "CS",
+   "trap_type_zh": "同名超市(异色底/简易VI)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1140,
+   "poi_id": "B0FFH38UKZ",
+   "poi_name": "左邻右舍便利超市(世纪名园)",
+   "province": "福建省",
+   "trap_type": "XQ",
+   "trap_type_zh": "小区/社区标牌",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1153,
+   "poi_id": "B0JDURY3C9",
+   "poi_name": "左邻右舍便利超市(阳光国际建材城店)",
+   "province": "福建省",
+   "trap_type": "CY",
+   "trap_type_zh": "餐饮小吃",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1176,
+   "poi_id": "B0HROCM4YL",
+   "poi_name": "左邻右舍艺剪",
+   "province": "福建省",
+   "trap_type": "QT6",
+   "trap_type_zh": "其他(咖啡/会所/茶行等)",
+   "evidence": "recheck transcript 2026-11-12"
+  },
+  {
+   "grid_id": 1177,
+   "poi_id": "B0GU26DB9S",
+   "poi_name": "左邻右舍食品商行(东方帝景店)",
+   "province": "福建省",
+   "trap_type": "YJ",
+   "trap_type_zh": "烟酒/商行/批发",
+   "evidence": "recheck transcript 2026-11-12"
+  }
+ ]
+}
