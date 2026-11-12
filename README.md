@@ -50,7 +50,7 @@
 
 ## 参考文献
 
-**外部论文与案例**（方法论依据，详见 `synthetic/GPT_TWIN_REPORT.md` 正文引用）：
+**外部论文与案例**（方法论依据；本地存档：`references/`——papers/ 论文 PDF + pages/ 网页快照，许可说明见 `references/README.md`）：
 
 | 文献 | 年份 | 支撑点 |
 |---|---|---|

@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>左邻右舍_门头数字孪生与视觉识别_技术设计_v1.0</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <style>
+
+:root{--ink:#203349;--muted:#607385;--line:#dce4ea;--blue:#156a97;--bg:#f5f8fb}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0 auto;padding:56px 36px 100px;max-width:1060px;color:var(--ink);background:white;font:16px/1.83 "Noto Sans CJK SC","PingFang SC",sans-serif}
+h1{font-size:2.1rem;line-height:1.35;color:#153d5d;margin-bottom:12px}h2{font-size:1.4rem;border-bottom:2px solid #c7d8e3;padding-bottom:11px;margin-top:48px}h3{font-size:1.12rem;margin-top:31px}p{margin:11px 0}strong{color:#153e5c}blockquote{border-left:4px solid #227da8;background:#f3f8fb;padding:12px 18px;margin:24px 0;color:#28465b}a{color:#1277a5;text-decoration:none}a:hover{text-decoration:underline}
+table{border-collapse:collapse;width:100%;font-size:.86rem;line-height:1.64;table-layout:auto;margin:19px 0 30px}th{background:#e9f2f7;text-align:left;color:#154769}td,th{padding:10px 11px;border:1px solid var(--line);vertical-align:top}tr:nth-child(even){background:#fafcfd}pre{background:#152f42;color:#edf6fb;padding:20px;overflow:auto;border-radius:8px;font-size:.79rem;line-height:1.5}code:not(pre code){background:#ebf2f6;padding:1px 5px;border-radius:4px}hr{border:none;border-top:1px solid var(--line);margin:32px 0}nav#TOC{padding:18px 26px;background:#f3f7fa;border-radius:12px;margin:25px 0}nav#TOC ul{margin:.2rem 0;padding-left:1.5rem}nav#TOC li{margin:2px 0}nav#TOC a{font-size:.91rem}blockquote:first-of-type{font-size:1.02rem}
+@media print{body{padding:0 8mm;max-width:none;font-size:10pt}h2{break-after:avoid}table{font-size:8pt}tr{break-inside:avoid}pre{white-space:pre-wrap}nav#TOC{display:none}}@media(max-width:680px){body{padding:20px 15px;font-size:14px}table{display:block;overflow-x:auto;white-space:normal}h1{font-size:1.5rem}}
+</style>
+</head>
+<body>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#左邻右舍便利店门头数字孪生驱动的少样本视觉识别系统"
+id="toc-左邻右舍便利店门头数字孪生驱动的少样本视觉识别系统">左邻右舍便利店门头：数字孪生驱动的少样本视觉识别系统</a>
+<ul>
+<li><a href="#0-执行摘要和决策清单" id="toc-0-执行摘要和决策清单">0.
+执行摘要和决策清单</a></li>
+<li><a href="#1-业务事实证据等级与待确认事项"
+id="toc-1-业务事实证据等级与待确认事项">1.
+业务事实、证据等级与待确认事项</a></li>
+<li><a href="#2-项目范围与非目标" id="toc-2-项目范围与非目标">2.
+项目范围与非目标</a></li>
+<li><a href="#3-假设因果结构与研究设计"
+id="toc-3-假设因果结构与研究设计">3. 假设、因果结构与研究设计</a></li>
+<li><a href="#4-数据资产与公开样本采集"
+id="toc-4-数据资产与公开样本采集">4. 数据资产与公开样本采集</a></li>
+<li><a href="#5-门头本体与分类体系" id="toc-5-门头本体与分类体系">5.
+门头本体与分类体系</a></li>
+<li><a href="#6-参数化数字孪生母本与场景生成"
+id="toc-6-参数化数字孪生母本与场景生成">6.
+参数化数字孪生：母本与场景生成</a></li>
+<li><a href="#7-视觉识别系统架构" id="toc-7-视觉识别系统架构">7.
+视觉识别系统架构</a></li>
+<li><a href="#8-训练机制与合成比例策略"
+id="toc-8-训练机制与合成比例策略">8. 训练机制与合成比例策略</a></li>
+<li><a href="#9-实验矩阵统计计划和停止规则"
+id="toc-9-实验矩阵统计计划和停止规则">9.
+实验矩阵、统计计划和停止规则</a></li>
+<li><a href="#10-标注成本与经济性模型"
+id="toc-10-标注成本与经济性模型">10. 标注成本与经济性模型</a></li>
+<li><a href="#11-工程实现数据契约与可复现性"
+id="toc-11-工程实现数据契约与可复现性">11.
+工程实现、数据契约与可复现性</a></li>
+<li><a href="#12-部署人工闭环与持续监控"
+id="toc-12-部署人工闭环与持续监控">12. 部署、人工闭环与持续监控</a></li>
+<li><a href="#13-八周执行计划含止损" id="toc-13-八周执行计划含止损">13.
+八周执行计划（含止损）</a></li>
+<li><a href="#14-责任矩阵与组织界面" id="toc-14-责任矩阵与组织界面">14.
+责任矩阵与组织界面</a></li>
+<li><a href="#15-初始素材线索不等于完成-3050-张"
+id="toc-15-初始素材线索不等于完成-3050-张">15. 初始素材线索（不等于完成
+30–50 张）</a></li>
+<li><a href="#16-研究文献与技术依据已按-2026-11-11-核查"
+id="toc-16-研究文献与技术依据已按-2026-11-11-核查">16.
+研究文献与技术依据（已按 2026-11-11 核查）</a></li>
+<li><a href="#17-正式评审中必须回答的十个问题"
+id="toc-17-正式评审中必须回答的十个问题">17.
+正式评审中必须回答的十个问题</a></li>
+<li><a href="#18-五轮自检与修订记录" id="toc-18-五轮自检与修订记录">18.
+五轮自检与修订记录</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1
+id="左邻右舍便利店门头数字孪生驱动的少样本视觉识别系统">左邻右舍便利店门头：数字孪生驱动的少样本视觉识别系统</h1>
+<p><strong>技术设计文档 v1.0（研究与工程立项版）</strong><br />
+研究截止：2026-11-11｜文档日期：2026-11-11<br />
+状态：<strong>设计可评审 / 品牌真值未封存 /
+尚未执行模型实验</strong><br />
+主题：门头视觉指纹、参数化数字孪生、合成数据、细粒度检索、开放集分类、加盟业务标签核验<br />
+建议实施周期：8 周，分门禁决策</p>
+<blockquote>
+<p><strong>项目结论。</strong> 不建议“找 30–50 张网上图片 → 全图 CLIP
+向量 →
+直接输出加盟类型”。建议先独立解决“视觉版本是否可区分”（T1）与“视觉版本能否识别加盟合同”（T2）两道问题；以少量真实门头建立证据基准，以
+2D/2.5D 参数化数字母本生成有真值的反事实合成样本，比较
+OCR/模板、CLIP、SigLIP
+2、DINOv3、局部多向量检索与轻量监督适配；只在独立真实照片上验收，允许拒识未知设计。</p>
+</blockquote>
+<hr />
+<h2 id="0-执行摘要和决策清单">0. 执行摘要和决策清单</h2>
+<h3 id="01-核心问题">0.1 核心问题</h3>
+<p>现场照片中的一个视觉对象（门头）可能同时承载至少四种不同信息：①是否属于“左邻右舍”品牌；②属于哪个已确认的品牌形象版型；③是否存在
+PLUS
+字样、标识版本、字体、主色、色带等视觉特征；④门店的合同加盟类型、区域代理、经营方式等业务事实。<strong>①–③可在视觉上学习，④必须有经营主数据或有出处的业务映射，不可由图片自动“推定真值”。</strong></p>
+<h3 id="02-提案决策">0.2 提案决策</h3>
+<table>
+<thead>
+<tr class="header">
+<th>决策 ID</th>
+<th>建议</th>
+<th>依据 / 限制</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>D-01</td>
+<td>双任务建模：视觉形态 V；业务属性 Y</td>
+<td>同形不同合约时，仅凭图像存在不可辨识性</td>
+</tr>
+<tr class="even">
+<td>D-02</td>
+<td>2D 参数化母本先行；2.5D 次之；完整 OpenUSD/RTX 后置</td>
+<td>关键差异可能只是几处标识，先验证信息贡献</td>
+</tr>
+<tr class="odd">
+<td>D-03</td>
+<td>OCR/规则设为强基线，不默认大模型胜出</td>
+<td>“PLUS”等显式符号常可直接检测</td>
+</tr>
+<tr class="even">
+<td>D-04</td>
+<td>冻结 DINOv3 / SigLIP 2 并行测试，CLIP 作锚定基线</td>
+<td>模型优劣必须在本任务的独立数据上验证</td>
+</tr>
+<tr class="odd">
+<td>D-05</td>
+<td>全局向量召回 + 局部 ROI 重排 + 文字证据</td>
+<td>细微门头差异常被全图语义平均稀释</td>
+</tr>
+<tr class="even">
+<td>D-06</td>
+<td>留出真实门店测试集；合成照片不得充作真实验收集</td>
+<td>避免 sim-to-real 乐观偏差和同店泄漏</td>
+</tr>
+<tr class="odd">
+<td>D-07</td>
+<td>新版本触发“未知/待审”，不强制落入旧类</td>
+<td>新门头、混搭、非授权装修都可能出现</td>
+</tr>
+<tr class="even">
+<td>D-08</td>
+<td>先证明合成数据的增量，再扩充渲染规模</td>
+<td>最大化每张真实照片带来的增量价值</td>
+</tr>
+</tbody>
+</table>
+<h3 id="03-八周后预期交付条件性">0.3 八周后预期交付（条件性）</h3>
+<p>交付门头标签本体 v1、公开样本清单与权利状态、母本与生成器
+v1、合成数据 manifest、冻结数据划分、基线/消融实验报告、模型与索引
+Demo、开放集拒识与人工审核队列、可复现环境、失败案例册、最终 Go/No-Go
+裁决。<strong>不承诺 8
+周后必然达到商用准确率</strong>；若品牌规则或独立真实样本不足，应结案为研究底座/No-Go，并保留数据与方法资产。</p>
+<h2 id="1-业务事实证据等级与待确认事项">1.
+业务事实、证据等级与待确认事项</h2>
+<h3 id="11-已核实的公开事实">1.1 已核实的公开事实</h3>
+<ol type="1">
+<li>驰骋控股集团官网说明，“左邻右舍”为旗下连锁便民店品牌，始创于 2003
+年，采用特许加盟经营模式；官网同时经营“生活驿站”另一品牌，应在样本采集中严格排除两者混淆。官网加盟介绍说明加盟门店需要统一品牌形象装修。[S1][S2]</li>
+<li>驰骋官网“形象标准”页面可检索到“简约版 / 标准版 /
+都市版”三个名称，但仅靠网页检索结果，<strong>尚不能逐一证明它们均为左邻右舍专属门头，也不能证明对应哪种加盟合同</strong>。应取得相应官方图像与业务解释后才冻结标签。[S3]</li>
+<li>公开报道或图片搜索中能见到红蓝色带门头、带 PLUS
+字样门头、不同立面与招牌布局；这些是<strong>可观察视觉属性</strong>，不是经认证的加盟模式。[S4]</li>
+<li>官网截至 2026 年 1
+月披露的加盟门店数量用于说明业务规模，并非本项目当前可用样本量，不能把公开报道里的门店数当训练数据规模。[S1]</li>
+</ol>
+<h3 id="12-证据四级禁止混用">1.2 证据四级（禁止混用）</h3>
+<table>
+<thead>
+<tr class="header">
+<th>等级</th>
+<th>依据</th>
+<th>可用于什么</th>
+<th>不能用于什么</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>E0 观察</td>
+<td>图片上肉眼可见的色带、PLUS 字样、中文招牌</td>
+<td>视觉属性的候选标注</td>
+<td>官方形象版型或合同事实</td>
+</tr>
+<tr class="even">
+<td>E1 公开文本</td>
+<td>官方官网文字、可信报道</td>
+<td>候选品牌/形象类别，构建待核清单</td>
+<td>未出现的图文对应和合同映射</td>
+</tr>
+<tr class="odd">
+<td>E2 已审核视觉证据</td>
+<td>官方形象图、门店照片 + 双人核对 + 来源记录</td>
+<td>视觉版本真值与母本构建</td>
+<td>经营合同事实</td>
+</tr>
+<tr class="even">
+<td>E3 业务金标准</td>
+<td>授权的门店主数据、签约政策、版本生效时间、业务责任人签认</td>
+<td>加盟类型映射和业务验收</td>
+<td>超出授权范围的披露</td>
+</tr>
+</tbody>
+</table>
+<p><strong>当前状态：</strong> E0/E1 已具备若干证据，E2
+尚未达到多类别可靠样本量，E3 未取得。任何“PLUS = XX 类加盟”“都市版 = XX
+合同”均应视作未经证实。</p>
+<h3 id="13-两个不可合并的问题">1.3 两个不可合并的问题</h3>
+<ul>
+<li><strong>T1 视觉可区分性：</strong> 给定图像 X，预测视觉类别
+V，并能返回支持其判断的图像片段和历史近邻。</li>
+<li><strong>T2 业务可识别性：</strong> 当且仅当有核实的映射 m(V,
+生效时间, 其他条件) 时，推断真实业务标签 Y。若 P(Y|V)
+明显非单峰或映射过期，系统必须输出“不能仅凭门头判断”。</li>
+</ul>
+<p>可量化的前置检查：按视觉类别统计业务标签混合程度（列联表、条件熵
+H(Y|V)
+与各类别纯度）；若同视觉类别出现多个真实加盟类别且无补充可观测变量，禁止图像单独承担
+G2。</p>
+<h2 id="2-项目范围与非目标">2. 项目范围与非目标</h2>
+<p><strong>范围内：</strong>
+单张照片/巡店照片、招牌裁剪、品牌鉴别、视觉形态检索、已知版型识别、未知版型拒识、基于证据的加盟类型映射、人工审核与索引增量更新。</p>
+<p><strong>首阶段非目标：</strong>
+仅凭一张照片识别合同条款、认定违法加盟、识别门店营业状态、建立整街区高保真
+3D
+数字城市、自动生成未经授权的品牌素材并对外分发、无人复核地用于处罚或签约决策。</p>
+<p><strong>服务模式：</strong>
+一张输入图片可以包含多门店；检测层可给出多个候选招牌，用户/审核员确认主目标。图像过暗、遮挡严重、品牌标志不可见，应先报告低质量而不是强行分类。</p>
+<h2 id="3-假设因果结构与研究设计">3. 假设、因果结构与研究设计</h2>
+<h3 id="31-研究假设可被证伪">3.1 研究假设（可被证伪）</h3>
+<ul>
+<li>H0：显式标志 + OCR +
+规则/模板足以解决主要已知类；复杂模型没有有意义的增量（需作为竞争性假设）。</li>
+<li>H1：门头裁剪/透视校正相对全图显著改善真实域 Macro-F1 或检索
+mAP。</li>
+<li>H2：结构敏感表征（DINOv3 等）或局部 ROI 多向量，比单个全局 CLIP
+向量更能识别细微版型差异。</li>
+<li>H3：在<strong>相同真实样本预算和训练步骤</strong>下，真实 +
+受控合成比仅真实更好；纯合成可能失败，允许得到负结果。</li>
+<li>H4：类别因素和背景/天气/视角分离的反事实生成，比无差别随机生成更稳健。</li>
+<li>H5：拒识/人工审核策略可显著降低未知类别被错误自动接纳的风险。</li>
+<li>H6：即使 H1–H5 为真，视觉形态不一定足以判定真实合同类型；T2
+可独立失败。</li>
+</ul>
+<h3 id="32-因果与捷径">3.2 因果与捷径</h3>
+<p>生成过程定义为 X = Render(V, B, C, L, O, Q, A)，其中 V 是版型（允许与
+Y 不同）；B 建筑/街景；C 相机；L 光照；O 遮挡；Q 摄影与压缩质量；A
+可选的广告、装饰、老化。真实域中，地区、时间、渠道和门头版型可能相关，模型容易学习背景捷径。合成器必须使用跨类共享的环境变量分布，使
+P(B,C,L,O,Q|V) 在设计上尽量对齐，并做“固定场景换 V”与“固定 V
+换场景”的反事实配对。</p>
+<h2 id="4-数据资产与公开样本采集">4. 数据资产与公开样本采集</h2>
+<h3 id="41-首轮-3050-张的准确定位">4.1 首轮 30–50 张的准确定位</h3>
+<p>30–50
+张公开实拍是<strong>种子集/可行性观察集</strong>，不是足以证明商用可用的最终金标准。采集目标优先计入<strong>独立实体门店数</strong>，而不是下载图片张数；同店多张仅作为跨视角鲁棒性样本。应尽可能覆盖不同城市、年代、昼夜、斜拍、横竖幅、遮挡和疑似设计版本。若最终只找到不足
+30 张可核验独立图片，必须明确记录缺口，不能通过转载重复图片补数。</p>
+<h3 id="42-采集来源优先级">4.2 采集来源优先级</h3>
+<ol type="1">
+<li>官方官网官方版型图 / 品牌 VI / 招商页（先查可使用权限）。</li>
+<li>可信新闻报道附带的门店实拍（记录原始记者/媒体出处与时间）。</li>
+<li>地图 POI 商户图 /
+社区商业图片（逐张确认显示内容、使用条款与拍摄位置）。</li>
+<li>加盟平台/自媒体图片（较低证据等级，检测重复、营销渲染、拼接与误命名）。</li>
+</ol>
+<p>对同名无关店、生活驿站、效果图、AI
+生成疑似图、缺失主体的图片，不纳入真实测试集。可留作负例/无效样本，但需独立标记。</p>
+<h3 id="43-样本最小数据字典">4.3 样本最小数据字典</h3>
+<table>
+<thead>
+<tr class="header">
+<th>字段</th>
+<th>数据类型</th>
+<th>含义与约束</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>image_id / store_id</td>
+<td>UUID / string</td>
+<td>图片唯一标识；实体门店匿名 ID；store_id 未知时必须为空并报告</td>
+</tr>
+<tr class="even">
+<td>src_url / landing_page</td>
+<td>URL</td>
+<td>原始图链接与出处网页，采集时间戳</td>
+</tr>
+<tr class="odd">
+<td>source_license / rights_status</td>
+<td>enum</td>
+<td>已授权 / 待审核 / 仅可链接 / 不可用于训练</td>
+</tr>
+<tr class="even">
+<td>sha256 / perceptual_hash</td>
+<td>hex</td>
+<td>字节级与近重复检测；裁剪变体保留 family_id</td>
+</tr>
+<tr class="odd">
+<td>source_group / photo_family</td>
+<td>string</td>
+<td>同站转载链、同源图/镜头组，防止跨分割泄漏</td>
+</tr>
+<tr class="even">
+<td>capture_date / geo_bucket</td>
+<td>date / string?</td>
+<td>未知则置空，不猜具体拍摄日期或位置</td>
+</tr>
+<tr class="odd">
+<td>brand_state</td>
+<td>enum</td>
+<td>left_right / other_brand / uncertain</td>
+</tr>
+<tr class="even">
+<td>visual_style_id</td>
+<td>nullable ID</td>
+<td>经审核的版型编码，未证实用 unknown，不用模型猜的类当真值</td>
+</tr>
+<tr class="odd">
+<td>observed_attributes</td>
+<td>object</td>
+<td>PLUS、红蓝色带、双语副标、宽高比等多标签</td>
+</tr>
+<tr class="even">
+<td>franchise_type / mapping_evidence</td>
+<td>nullable</td>
+<td>E3 审核的业务标签和规则依据；默认 null</td>
+</tr>
+<tr class="odd">
+<td>storefront_bbox / sign_polygon</td>
+<td>coordinates</td>
+<td>检测框、四点定位、裁剪质量与可见性</td>
+</tr>
+<tr class="even">
+<td>reviewer_a / reviewer_b / adjudicator</td>
+<td>ID</td>
+<td>独立盲标与裁决日志</td>
+</tr>
+<tr class="odd">
+<td>split / evidence_level / image_quality</td>
+<td>enum</td>
+<td>严格隔离与证据回溯</td>
+</tr>
+</tbody>
+</table>
+<h3 id="44-真值治理">4.4 真值治理</h3>
+<ul>
+<li>双人独立标注不少于所有正式金标准图片；分歧由第三方裁决，并报告一致性（Cohen’s
+κ 或 Krippendorff’s α）；独立复核人数不得以模型自身充当。</li>
+<li>新版型首次出现时先建“候选簇”，审核后授予稳定
+style_id；不要用颜色簇直接命名“简约/标准/都市”。</li>
+<li>按实体门店和图像家族同时分组，保证 train/val/test 的
+store_id、photo_family 不交叉；地理/时间外推数据另建独立 stress
+set。</li>
+<li>数据版本冻结：real_manifest_vX、label_ontology_vX、split_vX，SHA256
+哈希、审核人、脚本版本全可追溯。</li>
+<li>对仅可网页链接的图片，样本库保留 URL
+与证据，不自动下载、再分发或用于模型训练；对门店访客人脸、车牌等执行最小化与脱敏。</li>
+</ul>
+<h2 id="5-门头本体与分类体系">5. 门头本体与分类体系</h2>
+<p>采用分层、可演化、可审核的 Ontology。</p>
+<table>
+<thead>
+<tr class="header">
+<th>层</th>
+<th>字段/枚举</th>
+<th>注释</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>L0</td>
+<td>brand_id: 左邻右舍 / 生活驿站 / 其他 / 不确定</td>
+<td>先品牌鉴别，防止集团同门店品牌混淆</td>
+</tr>
+<tr class="even">
+<td>L1</td>
+<td>style_id: verified_style_001... / unknown</td>
+<td>官方版型名称需 E2 对应，不能预填为已证实</td>
+</tr>
+<tr class="odd">
+<td>L2</td>
+<td>components:
+logo_box、PLUS、secondary_text、band、frame、lightbox</td>
+<td>局部多标签，支持缺失/遮挡/不确定</td>
+</tr>
+<tr class="even">
+<td>L3</td>
+<td>condition: 改造、老化、灯箱熄灭、遮挡、拼接、非标准</td>
+<td>不等于类别；可能影响识别</td>
+</tr>
+<tr class="odd">
+<td>L4</td>
+<td>franchise_type / operator_mode / region_contract</td>
+<td>E3 主数据字段，独立于 L1/L2</td>
+</tr>
+<tr class="even">
+<td>L5</td>
+<td>review_status: auto / human_required / confirmed / revoked</td>
+<td>输出治理标签</td>
+</tr>
+</tbody>
+</table>
+<p>特殊设计：门店可能处在门头换新过渡期，老标与新标并存；允许
+multi-style / hybrid 标记，不强制单标签。任何 style_id
+都必须带版本生效范围以及冲突证据。</p>
+<h2 id="6-参数化数字孪生母本与场景生成">6.
+参数化数字孪生：母本与场景生成</h2>
+<h3 id="61-建模选择">6.1 建模选择</h3>
+<ul>
+<li><strong>M0：2D 矢量母本。</strong> 使用
+SVG/Canvas/参数化图层表示招牌主标、文字、框、色带、结构比例；在授权的真实街景背景上做四点透视合成/遮挡和摄影退化。优势：低成本、标签/边界可自动导出。</li>
+<li><strong>M1：2.5D 母本。</strong>
+招牌厚度、灯箱侧壁、门框、玻璃反射、悬挂侧标、遮挡层、夜景照明。仅当 M0
+的真实泛化不足且误差与几何/光照相关时启动。</li>
+<li><strong>M2：OpenUSD/RTX 全 3D。</strong>
+用于反射复杂、悬浮招牌、极端斜视/夜景或立面几何相关性很强的场景；需进行成本/增量价值论证，不是默认路线。[S10]</li>
+</ul>
+<h3 id="62-母本-schema核心字段">6.2 母本 Schema（核心字段）</h3>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">asset_id</span><span class="kw">:</span><span class="at"> visual_style_001</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">brand_id</span><span class="kw">:</span><span class="at"> zuolinyoushe</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">asset_status</span><span class="kw">:</span><span class="at"> candidate_unverified</span><span class="co">    # verified only after official reference review</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">reference_evidence_ids</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">E2_PENDING</span><span class="kw">]</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">logo</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">asset_hash</span><span class="kw">:</span><span class="at"> </span><span class="ch">null</span><span class="kw">,</span><span class="at"> </span><span class="fu">bbox_norm</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="fl">0.18</span><span class="kw">,</span><span class="at"> </span><span class="fl">0.16</span><span class="kw">,</span><span class="at"> </span><span class="fl">0.48</span><span class="kw">,</span><span class="at"> </span><span class="fl">0.58</span><span class="kw">]}</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">plus_badge</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">presence</span><span class="kw">:</span><span class="at"> </span><span class="ch">false</span><span class="kw">,</span><span class="at"> </span><span class="fu">bbox_norm</span><span class="kw">:</span><span class="at"> </span><span class="ch">null</span><span class="kw">}</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">main_band</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">color_rgb</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="dv">35</span><span class="kw">,</span><span class="at"> </span><span class="dv">95</span><span class="kw">,</span><span class="at"> </span><span class="dv">190</span><span class="kw">],</span><span class="at"> </span><span class="fu">ratio_h</span><span class="kw">:</span><span class="at"> </span><span class="fl">0.22</span><span class="kw">}</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">secondary_band</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">color_rgb</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="dv">205</span><span class="kw">,</span><span class="at"> </span><span class="dv">45</span><span class="kw">,</span><span class="at"> </span><span class="dv">60</span><span class="kw">],</span><span class="at"> </span><span class="fu">ratio_h</span><span class="kw">:</span><span class="at"> </span><span class="fl">0.08</span><span class="kw">}</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">text_layers</span><span class="kw">:</span><span class="at"> </span><span class="kw">[]</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">facade_geometry</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">sign_depth_m</span><span class="kw">:</span><span class="at"> </span><span class="ch">null</span><span class="kw">,</span><span class="at"> </span><span class="fu">aspect_range</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="fl">3.0</span><span class="kw">,</span><span class="at"> </span><span class="fl">8.0</span><span class="kw">]}</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">valid_transform_ranges</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">yaw_deg</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="dv">-40</span><span class="kw">,</span><span class="at"> </span><span class="dv">40</span><span class="kw">],</span><span class="at"> </span><span class="fu">pitch_deg</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="dv">-15</span><span class="kw">,</span><span class="at"> </span><span class="dv">15</span><span class="kw">]}</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">model_evidence</span><span class="kw">:</span><span class="at"> </span><span class="kw">{</span><span class="fu">approval</span><span class="kw">:</span><span class="at"> pending</span><span class="kw">,</span><span class="at"> </span><span class="fu">reviewer</span><span class="kw">:</span><span class="at"> </span><span class="ch">null</span><span class="kw">,</span><span class="at"> </span><span class="fu">signed_at</span><span class="kw">:</span><span class="at"> </span><span class="ch">null</span><span class="kw">}</span></span></code></pre></div>
+<p>数值只代表<strong>技术结构示例，不是左邻右舍官方 VI
+标准</strong>。真实母本的颜色、Logo
+结构、字体、灯箱比例必须由已授权参照标定；“PLUS”作为可观察属性不能擅自推成合同类别。</p>
+<h3 id="63-可控与不可控变量分离">6.3 可控与不可控变量分离</h3>
+<ul>
+<li>类别因子：招牌版型、标识组成、主色条纹组织、文字排布、边框比例（由真实类约束）。</li>
+<li>无关因子：视角、拍摄距离、分辨率、曝光、夜间与雨天、反射、运动模糊、压缩、遮挡、背景、店外广告、门前车辆。</li>
+<li>现实合法组合：强夜景×灯箱光源、雨天×玻璃反射等条件需要有合理联动；不可随机造出物理或品牌不合理的“怪样本”。</li>
+<li>背景来源：优先自主拍摄、许可图片、合法合成场景；受版权限制的街景仅保留访问链接与版权记录。</li>
+</ul>
+<h3 id="64-反事实样本组">6.4 反事实样本组</h3>
+<p><strong>CF-1 类别干预组：</strong>
+固定背景、机位、光照、遮挡和相机，只替换一个已核验的版型差异；训练模型对真正的版型变化敏感。<br />
+<strong>CF-2 环境干预组：</strong>
+保持版型完全一致，独立随机化天气、建筑、拍摄视角、非品牌广告与遮挡；训练模型对这些干扰不敏感。<br />
+<strong>CF-3 局部破损组：</strong>
+使关键文字部分被遮住，或老化/污损；模型应降低信心、选择拒识。<br />
+<strong>CF-4 非法搭配检测组：</strong> 交换局部
+Logo、位置、颜色形成不符合已核实 VI 的组合；标记为 synthetic_unknown /
+anomaly，而不是冒充真实已知门头。</p>
+<p><strong>标签不变性边界：</strong>
+如果改变的特征本身就是类别定义的一部分（例如 PLUS
+标记），不能把它当成无关增强；反过来若品牌手册允许同一版型有多个角标，不能误当不同合同类。所有关键增广要有规则白名单。</p>
+<h3 id="65-标注随生成by-construction">6.5 标注随生成（by
+construction）</h3>
+<p>每张合成图片自动产生 class_id、style_id、landmark boxes、sign
+polygon、semantic mask、camera parameters、domain factors、render
+config、master asset hash、generator commit、随机种子及 image
+sha256。采用三层
+QC：参数合法性检查、渲染后可读性检查、随机人工审样；<strong>合成标签只对自身生成的语义有效</strong>，不替代真实世界的验证。</p>
+<h2 id="7-视觉识别系统架构">7. 视觉识别系统架构</h2>
+<pre class="text"><code>输入照片 / 多门店街景
+    │
+质量检测 → 目标商铺识别 → 门头检测 / 多候选 → 四点校正 + 长宽比保留
+    │
+    ├─ OCR：品牌、PLUS、英文副标、字符位置、文本置信度
+    ├─ 视觉全局：CLIP / SigLIP 2 / DINOv3 归一化向量
+    └─ 局部 ROI：Logo、角标、条纹、文字区与自动 ROI token
+    │
+召回：FAISS 近邻 Top-K + 规则候选集（可按品牌过滤）
+    │
+重排：局部多向量匹配 + OCR 证据 + 质量条件校准
+    │
+选择性预测：已知版型 / 未知版型 / 图像无效 / 需人工审核
+    │
+业务映射：若有 E3 规则且适用 → 业务类别；否则“视觉可判、加盟未知”
+    │
+证据卡：相似样本、依据区域、模型+规则版本、审计日志</code></pre>
+<h3 id="71-基线优先顺序">7.1 基线优先顺序</h3>
+<p>B0a：色带/Logo 模板与 OCR 规则；B0b：全图 CLIP；B1：裁剪图
+CLIP；B2：SigLIP 2 冻结图像编码器；B3：DINOv3
+冻结编码器；B4：最佳基础表征 + ROI 多向量；B5：B4 + OCR 融合；B6：B5
+上轻量度量学习/Adapter。若 B0a
+已经达到目标，保留其作为部署主干或联合冗余通道。</p>
+<h3 id="72-全局--局部--ocr-融合">7.2 全局 + 局部 + OCR 融合</h3>
+<p>对候选类别 c，示意评分：</p>
+<p>S(c|x) = w_g s_global(x,c) + w_l s_local(x,c) + w_o s_ocr(x,c) + w_q
+s_quality(x,c)。</p>
+<ul>
+<li>s_global：L2 归一化向量的余弦检索，相似样本与 class medoid
+双视角评估，避免简单均值混杂多个门头变体。</li>
+<li>s_local：经位置或语义区域约束的 patch/ROI Top-K
+matching；应与“只在类相关 ROI 上比较”的强基线竞争。</li>
+<li>s_ocr：文字识别内容、文本框位置、字体/标识置信度；字符漏识别不能当作“该标识不存在”。</li>
+<li>s_quality：质量与可观测性，用于调节置信度而不直接学习“模糊=某类别”。</li>
+<li>各分量先在验证集独立校准尺度，再拟合融合权重；缺失 ROI、OCR
+失败时使用 mask/缺失通道，不拿 0 伪装成负证据。</li>
+</ul>
+<h3 id="73-检索索引和类别扩展">7.3 检索索引和类别扩展</h3>
+<p>起步可用 FAISS FlatIP 精确余弦检索；数据量增大后再评估 ANN
+的召回损失。需要保存模型版本和嵌入空间
+ID；不同编码器向量不可直接混在同一索引。新官方门头版本经审定后，先更新参考样本与原型即可支撑检索；是否重训应依真实域误差再决定。相似检索给“候选与证据”，不直接提供已校准分类概率。[S9]</p>
+<h3 id="74-选择性预测拒识">7.4 选择性预测（拒识）</h3>
+<p>拒识原因至少分四类：not_brand、unknown_style、low_quality、ambiguous_or_hybrid。阈值从验证集按错误代价选定，并在独立测试集报告覆盖率—错误率曲线、未知误接纳率与已知误拒率。阈值应分品牌/类别与质量分层检验，避免只凭
+Top-1 与 Top-2
+的差值设规则。<strong>不允许在测试集上调阈值。</strong></p>
+<h3 id="75-输出-api字段示意">7.5 输出 API（字段示意）</h3>
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode json"><code class="sourceCode json"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">{</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;image_id&quot;</span><span class="fu">:</span> <span class="st">&quot;...&quot;</span><span class="fu">,</span> <span class="dt">&quot;brand&quot;</span><span class="fu">:</span> <span class="st">&quot;zuolinyoushe&quot;</span><span class="fu">,</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;visual_prediction&quot;</span><span class="fu">:</span> <span class="fu">{</span><span class="dt">&quot;style_id&quot;</span><span class="fu">:</span> <span class="st">&quot;candidate_002&quot;</span><span class="fu">,</span> <span class="dt">&quot;state&quot;</span><span class="fu">:</span> <span class="st">&quot;needs_review&quot;</span><span class="fu">,</span> <span class="dt">&quot;score&quot;</span><span class="fu">:</span> <span class="kw">null</span><span class="fu">},</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;evidence&quot;</span><span class="fu">:</span> <span class="fu">{</span><span class="dt">&quot;top_neighbors&quot;</span><span class="fu">:</span> <span class="ot">[</span><span class="st">&quot;img_013&quot;</span><span class="ot">,</span> <span class="st">&quot;img_028&quot;</span><span class="ot">]</span><span class="fu">,</span> <span class="dt">&quot;visible_attributes&quot;</span><span class="fu">:</span> <span class="ot">[</span><span class="st">&quot;plus_badge&quot;</span><span class="ot">]</span><span class="fu">,</span> <span class="dt">&quot;ocr_text&quot;</span><span class="fu">:</span> <span class="ot">[</span><span class="st">&quot;左邻右舍&quot;</span><span class="ot">]</span><span class="fu">},</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;business_prediction&quot;</span><span class="fu">:</span> <span class="fu">{</span><span class="dt">&quot;franchise_type&quot;</span><span class="fu">:</span> <span class="kw">null</span><span class="fu">,</span> <span class="dt">&quot;mapping_status&quot;</span><span class="fu">:</span> <span class="st">&quot;NO_VERIFIED_RULE&quot;</span><span class="fu">},</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;quality_state&quot;</span><span class="fu">:</span> <span class="st">&quot;valid&quot;</span><span class="fu">,</span> <span class="dt">&quot;unknown_reason&quot;</span><span class="fu">:</span> <span class="st">&quot;STYLE_NOT_VERIFIED&quot;</span><span class="fu">,</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;versions&quot;</span><span class="fu">:</span> <span class="fu">{</span><span class="dt">&quot;model&quot;</span><span class="fu">:</span> <span class="st">&quot;dino3_baseline_0&quot;</span><span class="fu">,</span> <span class="dt">&quot;ontology&quot;</span><span class="fu">:</span> <span class="st">&quot;v1&quot;</span><span class="fu">,</span> <span class="dt">&quot;index&quot;</span><span class="fu">:</span> <span class="st">&quot;v1&quot;</span><span class="fu">},</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&quot;human_review_required&quot;</span><span class="fu">:</span> <span class="kw">true</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="fu">}</span></span></code></pre></div>
+<p>示意 API
+不对应已运行推理结果，所有信心分数应在训练并校准完成后由系统生成。</p>
+<h2 id="8-训练机制与合成比例策略">8. 训练机制与合成比例策略</h2>
+<h3 id="81-两阶段训练而不是直接端到端">8.1
+两阶段训练而不是直接端到端</h3>
+<p><strong>阶段 A（冻结表征）：</strong> 不改变主干，做近邻、线性
+probe、原型分类、OCR 规则，先确定错误结构。<br />
+<strong>阶段 B（可选轻量学习）：</strong> 在冻结 backbone
+上训练小投影头/Adapter；对同版型跨场景正对、不同版型同场景难负对施加
+SupCon/Triplet
+风格的度量损失，并与真实有标签样本的监督分类交叉熵联合。<br />
+<strong>阶段 C（仅必要时）：</strong>
+有足够真实数据且前两阶段证明瓶颈在表征时才考虑
+LoRA/部分层微调，并与计算成本和漂移风险一起评估。</p>
+<h3 id="82-合成数据数量不是-kpi">8.2 合成数据数量不是 KPI</h3>
+<p>初始试验按每个<strong>经证实</strong>的版型生成多个场景并执行 100 /
+300 / 500 张量级的剂量消融（只是设计探索量，不是经验最优）。设置
+synthetic:real
+采样比、训练步数、真实图片暴露次数受控；<strong>对照组需要同等训练更新次数</strong>，否则无法归因提升是数据本身而非更多计算。训练集不得包含测试门店的裁剪/素材/背景衍生物。</p>
+<h3 id="83-合成数据五类失败及侦测">8.3 合成数据五类失败及侦测</h3>
+<table>
+<thead>
+<tr class="header">
+<th>风险</th>
+<th>机制</th>
+<th>检验</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>纹理捷径</td>
+<td>每类固定一个街景或一个色彩基调</td>
+<td>跨类共享环境与背景置换，背景探针</td>
+</tr>
+<tr class="even">
+<td>错误标记</td>
+<td>母本对应关系错误、Logo 拼接不准确</td>
+<td>官方 E2 对照、双人母本验收</td>
+</tr>
+<tr class="odd">
+<td>域差</td>
+<td>合成边缘过于干净、字体/反射不真实</td>
+<td>真实集分层性能、合成单独训练迁移</td>
+</tr>
+<tr class="even">
+<td>不可能样本</td>
+<td>类别关键元素被非法随机删除</td>
+<td>类别不变性白名单、生成配置合法性门禁</td>
+</tr>
+<tr class="odd">
+<td>合成过拟合</td>
+<td>在合成验证集高分，真实街景下降</td>
+<td>真实门店闭集/开集双测试、反事实反转集</td>
+</tr>
+</tbody>
+</table>
+<h2 id="9-实验矩阵统计计划和停止规则">9.
+实验矩阵、统计计划和停止规则</h2>
+<h3 id="91-冻结流程与消融表">9.1 冻结流程与消融表</h3>
+<table>
+<thead>
+<tr class="header">
+<th>实验</th>
+<th>处理</th>
+<th>回答的问题</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>E0</td>
+<td>OCR/模板/规则</td>
+<td>无深度适配可达到什么效果？</td>
+</tr>
+<tr class="even">
+<td>E1</td>
+<td>全图 CLIP</td>
+<td>常规图文模型基线</td>
+</tr>
+<tr class="odd">
+<td>E2</td>
+<td>同 backbone 的裁剪图</td>
+<td>排除背景干扰带来多少增量？</td>
+</tr>
+<tr class="even">
+<td>E3</td>
+<td>同输入 SigLIP 2、DINOv3</td>
+<td>哪种视觉表征适合此任务？</td>
+</tr>
+<tr class="odd">
+<td>E4</td>
+<td>E3 优胜 + ROI token</td>
+<td>多向量局部信息是否必要？</td>
+</tr>
+<tr class="even">
+<td>E5</td>
+<td>E4 + OCR</td>
+<td>文字符号是否额外有效？</td>
+</tr>
+<tr class="odd">
+<td>E6</td>
+<td>少量真实监督轻量训练</td>
+<td>不使用合成时的公平上界</td>
+</tr>
+<tr class="even">
+<td>E7</td>
+<td>等真实样本数 + 未整理合成</td>
+<td>普通合成有无增量？</td>
+</tr>
+<tr class="odd">
+<td>E8</td>
+<td>等真实样本数 + 类别/环境解耦</td>
+<td>受控合成是否改善真实域？</td>
+</tr>
+<tr class="even">
+<td>E9</td>
+<td>E8 + 反事实成对生成</td>
+<td>反事实是否带来独立贡献？</td>
+</tr>
+<tr class="odd">
+<td>E10</td>
+<td>留一版型未知 + 反事实异常</td>
+<td>拒识未知设计和非标准门头</td>
+</tr>
+</tbody>
+</table>
+<p>每个 E
+的输入样本、seed、checkpoint、图像预处理、冻结版本、参考样本库、索引结构、超参数、评测脚本都需要写入
+manifest。涉及训练随机性的比较建议至少 3
+seeds，置信区间使用实体门店层面的 bootstrap
+而不是按相似图片独立重抽。</p>
+<h3 id="92-分组策略">9.2 分组策略</h3>
+<ul>
+<li>train/val/test 按 store_id 与 photo_family 双重
+GroupSplit；去重图片和同一店多年照片需要同一组或专门的跨时实验；同源素材背景不得穿越合成训练和真实测试。</li>
+<li>固定测试集只包含可合法用于评估的真实图片；合成数据只放训练和合成诊断集，不能提升实际测试规模。</li>
+<li>按地域、年份、白天夜晚、角度、图像大小与遮挡程度切分报告；另设“未知设计类留一”试验。</li>
+<li>类别不足以划出可靠训练/测试时，不得发布整体 Macro-F1
+的高置信结论；允许只发布案例、区间宽度和可行性判定。</li>
+</ul>
+<h3 id="93-主指标与次指标">9.3 主指标与次指标</h3>
+<table>
+<thead>
+<tr class="header">
+<th>指标组</th>
+<th>指标</th>
+<th>关键说明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>分类主指标</td>
+<td>Macro-F1 + 每类 Recall/Precision</td>
+<td>防止多数类掩盖少数类</td>
+</tr>
+<tr class="even">
+<td>检索</td>
+<td>Recall@1、Recall@5、mAP</td>
+<td>只从训练/参考库检索，不允许含测试图复制</td>
+</tr>
+<tr class="odd">
+<td>业务价值</td>
+<td>已确认业务类的精准率 + 映射覆盖率</td>
+<td>只有 E3 样本才能计算</td>
+</tr>
+<tr class="even">
+<td>开放集</td>
+<td>Unknown Recall、False Accept Rate、AUROC</td>
+<td>闭集高分不能替代未知识别</td>
+</tr>
+<tr class="odd">
+<td>选择性分类</td>
+<td>风险—覆盖率曲线、自动误判率、人工复核率</td>
+<td>直接对应运营成本</td>
+</tr>
+<tr class="even">
+<td>迁移能力</td>
+<td>实拍—合成差、跨地区/设备/昼夜降幅</td>
+<td>监控 sim-to-real gap</td>
+</tr>
+<tr class="odd">
+<td>生产成本</td>
+<td>每样本标注时长、审核工时、推理时延、单图总成本</td>
+<td>合成高分不等于经济可行</td>
+</tr>
+</tbody>
+</table>
+<h3 id="94-门禁与-go--no-go">9.4 门禁与 Go / No-Go</h3>
+<p><strong>G0 真值可行：</strong> 至少存在两个可从 E2
+图证独立确认的视觉类别，并有能开展独立真实评估的实体门店样本；未满足不进入“正式分类精度”的宣称。若业务映射需
+E3，T2 未具备则业务输出始终 null。</p>
+<p><strong>G1 数据质量：</strong> 参考/测试集去重与来源核验
+PASS；训练和测试实体门店无交叉、衍生素材无交叉；两人审核有分歧处理机制。</p>
+<p><strong>G2 表征增益：</strong> 以
+OCR/模板和全局表征中表现最强者为强基线，局部/合成路线的真实域改善须有预设最小有意义差异（初拟
+Macro-F1 +0.03
+的绝对增量，仅为立项讨论阈值）、配对区间及可重复性；若样本量不足无法支持统计结论，明确
+INCONCLUSIVE 而非 PASS。</p>
+<p><strong>G3 安全拒识：</strong>
+在独立未知版型/异常组合上优先达成误接纳率风险预算；初拟 ≤2%
+为业务讨论值，必须依据业务误判成本与足够未知样本重新审定。若不满足，系统仅作检索辅助，不自动分类。</p>
+<p><strong>G4 业务映射：</strong> E3
+映射审定，历史生效/失效日期、例外合同、同版多合同均已检查；未通过只能输出“门头视觉类别”。</p>
+<p><strong>G5 运行与权利：</strong>
+训练与展示素材授权合规、隐私脱敏、模型许可核验、模型哈希可复现、部署回滚可用。</p>
+<p><strong>禁止行为：</strong>
+将没有真实测试集的合成集高分当作成功；从公开图中猜合同类；根据测试集调阈值；把“图片数量”当“独立门店数”；仅报告总体
+Accuracy 而不报告拒识/失败类。</p>
+<h2 id="10-标注成本与经济性模型">10. 标注成本与经济性模型</h2>
+<p>核心业务指标是
+<strong>达到相同真实域错误率所需人工标注和审核工时</strong>，不是合成图数量。</p>
+<p>定义：</p>
+<ul>
+<li>C_real = 采集许可/购买 + 真实图审核 + 二人标注 + 冲突裁决。</li>
+<li>C_twin = 官方版型资料整理 + 数字母本制作与审核 + 合成器开发。</li>
+<li>C_synth = 渲染或合成计算 + 抽样质检 + 存储管理。</li>
+<li>C_ops = 推理、审核未知图、漂移监控与版本维护。</li>
+</ul>
+<p>比较相同业务风险预算下：TCO_baseline = C_real + C_ops，TCO_twin =
+C_real_reduced + C_twin + C_synth +
+C_ops_new。用学习曲线测量达到目标风险需要多少<strong>独立真实门店标签</strong>，计算标注工时节约率和盈亏平衡点；如果门头类别少、OCR
+很有效，数字孪生可能不经济，应允许止损。</p>
+<h2 id="11-工程实现数据契约与可复现性">11.
+工程实现、数据契约与可复现性</h2>
+<h3 id="111-推荐模块">11.1 推荐模块</h3>
+<ol type="1">
+<li><strong>Evidence Registry：</strong>
+网站链接、版权、证据等级、人工核验、哈希。</li>
+<li><strong>Ontology Service：</strong>
+版型字典、视觉属性、多品牌排斥、业务映射规则版本。</li>
+<li><strong>Twin Studio：</strong>
+矢量母本、变量白名单、母本审批、合成渲染及审样。</li>
+<li><strong>Feature Factory：</strong> 裁剪、透视校正、OCR、嵌入向量与
+ROI token。</li>
+<li><strong>Retrieval Service：</strong> FAISS
+索引、证据样本、同类多原型和索引版本。</li>
+<li><strong>Decision Service：</strong>
+融合与拒识、业务映射、人工审核任务分派。</li>
+<li><strong>Evaluation Harness：</strong>
+固定分割、消融矩阵、置信区间、跨域与未知类别测试。</li>
+<li><strong>Ops：</strong>
+模型/资产版本、影子运行、事件日志、回滚和漂移监控。</li>
+</ol>
+<h3 id="112-仓库建议">11.2 仓库建议</h3>
+<pre class="text"><code>storefront-fingerprint/
+  schemas/{real_image.schema.json,synthetic_manifest.schema.json,ontology.yaml}
+  evidence/{source_registry.csv,rights_register.csv}
+  assets/{official_reference_links.md,twin_2d/,twin_25d/}
+  data/{raw_refs/,manifests/,splits/,golden_cases/}
+  src/{collect,detect,rectify,ocr,embed,local_match,train,generate,serve,eval}/
+  configs/{models,experiments,thresholds}
+  reports/{data_audit,real_eval,open_set,sim2real,cost,failures}
+  tests/{golden,leakage,license,determinism,api_contract}</code></pre>
+<h3 id="113-质量测试至少">11.3 质量测试（至少）</h3>
+<ul>
+<li>任意样本必须能从 image_id
+回到出处/许可/原图哈希；孤儿样本禁止进入训练。</li>
+<li>生成器在相同代码、资产 hash、seed
+和确定性设置下，输出一致标签；图片像素可允许平台差异容差并记录，不机械要求跨
+GPU 位级一致。</li>
+<li>批量检索中，同一图片无论放在哪个
+batch，预处理和推理应一致或差异处在预定义容差内；不能把不同 batch
+分数漂移当模型特征。</li>
+<li>类别重命名不得改变既有 ID，业务映射需日期有效性与审核日志。</li>
+<li>Unknown/low_quality 等状态严禁被客户端偷偷改写成 Top-1 已知类。</li>
+<li>训练、验证、测试任意跨集重复 store_id / photo_family / 近重复 hash
+都触发硬 FAIL。</li>
+</ul>
+<h2 id="12-部署人工闭环与持续监控">12. 部署、人工闭环与持续监控</h2>
+<p><strong>推理阶段</strong>：返回分类候选与证据；对较低风险的明确视觉版本可以自动标注“视觉版型”，加盟类型仍必须满足映射规则。待审核清单按近邻冲突、未知度、质量、类稀缺度排序，人工审核后分“新类别”“旧版新场景”“图像不可用”“与总部不一致”四种处置。</p>
+<p><strong>监控重点</strong>：已知类置信度漂移、未知比例突增、地区/年代表现差、OCR
+缺失率、分类与人工复核冲突、门头政策变化。阈值或新类更新先影子部署，抽样复核通过后切换索引与规则版本；保留一键回滚能力。需审慎对待街景拍摄使用条件、第三方地图版权和品牌商标的内部/商用权限。</p>
+<h2 id="13-八周执行计划含止损">13. 八周执行计划（含止损）</h2>
+<table>
+<thead>
+<tr class="header">
+<th>周次</th>
+<th>输出与任务</th>
+<th>不可跳过的闸门</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>W1</td>
+<td>官方形象/业务规则清查；标签本体；公开图收集与许可筛选</td>
+<td>未确认 E2/E3 不得定义“官方合同分类”</td>
+</tr>
+<tr class="even">
+<td>W2</td>
+<td>30–50 真实种子候选去重；实体门店映射；双盲标；数据分割 v1</td>
+<td>G0/G1，若不足则调整目标为视觉检索验证</td>
+</tr>
+<tr class="odd">
+<td>W3</td>
+<td>2D 数字母本 1–3 个已核验视觉版本；类别-环境参数表</td>
+<td>母本官方对照和类别不变性审查</td>
+</tr>
+<tr class="even">
+<td>W4</td>
+<td>反事实生成器、自动标注、质量门禁、合成 manifest</td>
+<td>合成合法性与 GT 自检 PASS</td>
+</tr>
+<tr class="odd">
+<td>W5</td>
+<td>OCR/模板、CLIP、SigLIP 2、DINOv3、裁剪基线</td>
+<td>冻结独立真实集，不碰测试阈值</td>
+</tr>
+<tr class="even">
+<td>W6</td>
+<td>ROI 多向量与合成数据剂量/反事实消融</td>
+<td>同真实样本预算、同训练步数/seed</td>
+</tr>
+<tr class="odd">
+<td>W7</td>
+<td>真实域盲评、留一未知版型、业务映射验证、统计与成本</td>
+<td>G2/G3/G4：不足可判 INCONCLUSIVE/FAIL</td>
+</tr>
+<tr class="even">
+<td>W8</td>
+<td>Demo、失败集、报告 v1、部署影子计划、Go/No-Go 审批</td>
+<td>G5、复现验收、报告与资产封存</td>
+</tr>
+</tbody>
+</table>
+<p><strong>止损点：</strong> W2
+若真实视觉类别真值不足，先完成可检索的样本与规范库；W5 若
+OCR/模板已经解决大多数有用场景，缩小深度模型投资；W7
+若合成无真实增量，冻结合成研究资产而不继续扩大生成。</p>
+<h2 id="14-责任矩阵与组织界面">14. 责任矩阵与组织界面</h2>
+<table>
+<thead>
+<tr class="header">
+<th>角色</th>
+<th>核心责任</th>
+<th>签署内容</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>品牌/加盟业务负责人</td>
+<td>形象标准、版型生效期、合同类型映射</td>
+<td>E2/E3 真值及适用范围</td>
+</tr>
+<tr class="even">
+<td>数据负责人</td>
+<td>来源、许可、商标权利、隐私与去重</td>
+<td>样本清单与权利范围</td>
+</tr>
+<tr class="odd">
+<td>CV 负责人</td>
+<td>主干模型、ROI/OCR 融合、开集拒识</td>
+<td>训练报告、实验固定与模型卡</td>
+</tr>
+<tr class="even">
+<td>数字孪生工程师</td>
+<td>母本、环境随机化、生成/标签一致性</td>
+<td>母本 hash 与渲染 manifest</td>
+</tr>
+<tr class="odd">
+<td>独立评估人（至少 2 人）</td>
+<td>盲审数据、复算统计与错误案例</td>
+<td>评估报告及一致性统计</td>
+</tr>
+<tr class="even">
+<td>系统负责人</td>
+<td>API、索引、影子运行与回滚</td>
+<td>发布单与运行看板</td>
+</tr>
+</tbody>
+</table>
+<p>关键治理原则：模型作者不得单独签署自己的评测金标准；图像来源和业务事实由相应责任方审核；失败后必须留下可复现资产和原因分析。</p>
+<h2 id="15-初始素材线索不等于完成-3050-张">15. 初始素材线索（不等于完成
+30–50 张）</h2>
+<p>截至文档撰写，以下是已找到的<strong>网页或门店图片线索</strong>；这里只记录来源链接，不把它们全部宣称为已获授权可训练素材，也不把转载链接计为独立门店。后续采集需逐张打开核验是否为真实照片、是否相同场景、是否可用于内部/商业用途。</p>
+<table>
+<thead>
+<tr class="header">
+<th>线索</th>
+<th>来源</th>
+<th>目前能支持的观察</th>
+<th>核验状态</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>P-01</td>
+<td>杭州网 2024-04-21 活动报道 [S11]</td>
+<td>门头红蓝色带，完整店面街景</td>
+<td>来源明确，版权/店 ID 待确认</td>
+</tr>
+<tr class="even">
+<td>P-02</td>
+<td>百度加盟星门头页 [S12]</td>
+<td>大面积主标与蓝色横条</td>
+<td>商业转载链与原图待确认</td>
+</tr>
+<tr class="odd">
+<td>P-03</td>
+<td>百度加盟星门头页 [S13]</td>
+<td>红蓝色带、不同建筑立面</td>
+<td>商业转载链与原图待确认</td>
+</tr>
+<tr class="even">
+<td>P-04</td>
+<td>百度加盟星门头页 [S14]</td>
+<td>蓝色带、红色主标、门店关闭/半开</td>
+<td>来源与时间待确认</td>
+</tr>
+<tr class="odd">
+<td>P-05</td>
+<td>搜狐 2025 年 PLUS 文章 [S4]</td>
+<td>带 PLUS 字样的门头图</td>
+<td>原拍摄者、是否转载待确认</td>
+</tr>
+<tr class="even">
+<td>P-06</td>
+<td>驰骋集团形象标准入口 [S3]</td>
+<td>官方列出版型名称</td>
+<td>品牌适用性、图文对应待确认</td>
+</tr>
+</tbody>
+</table>
+<p>补齐 30–50 张的采集计划是项目 W1–W2
+的可量化交付；当前文档<strong>不虚构已采集数量和分类性能</strong>。</p>
+<h2 id="16-研究文献与技术依据已按-2026-11-11-核查">16.
+研究文献与技术依据（已按 2026-11-11 核查）</h2>
+<table>
+<thead>
+<tr class="header">
+<th>引用</th>
+<th>资料</th>
+<th>本项目借鉴点与外推边界</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[S5]</td>
+<td>DINOv3, arXiv:2508.10104 (2025)</td>
+<td>自监督稠密视觉特征，不能保证本站点天然最优</td>
+</tr>
+<tr class="even">
+<td>[S6]</td>
+<td>SigLIP 2, arXiv:2502.14786 (2025)</td>
+<td>多语种语义和局部任务表征，需与 DINOv3 同协议比较</td>
+</tr>
+<tr class="odd">
+<td>[S7]</td>
+<td>Region-Aware CLS Token Augmentation, arXiv:2610.10991 (2026-10)</td>
+<td>CLS/Register/ROI 多向量细粒度检索；原研究用 DINOv2-reg，不是
+DINOv3</td>
+</tr>
+<tr class="even">
+<td>[S8]</td>
+<td>POI-Loc / GLAM, arXiv:2609.02012v2 (2026-09)</td>
+<td>中国店面跨视角匹配；任务是店铺定位，不等于加盟版型分类</td>
+</tr>
+<tr class="odd">
+<td>[S15]</td>
+<td>Efficient Fine-grained Image Retrieval... (CVPRW 2026)</td>
+<td>DINOv2 / DINOv3 / SigLIP 2、patch token 的工业检索对照</td>
+</tr>
+<tr class="even">
+<td>[S16]</td>
+<td>Beyond Objects (CVPR 2026)</td>
+<td>合成数据需要解耦类别与场景，原实验是鸟类/飞机等细粒度分类</td>
+</tr>
+<tr class="odd">
+<td>[S17]</td>
+<td>Curating Synthetic Data for Task-Specific Visual Perception (IEEE
+CG&amp;A 2026-10-21)</td>
+<td>按任务策划合成数据，与真实域互补；非门头专属实证</td>
+</tr>
+<tr class="even">
+<td>[S18]</td>
+<td>YOLO-World (CVPR 2024)</td>
+<td>开放词汇检测可作为门头定位候选，不保证一用即准</td>
+</tr>
+<tr class="odd">
+<td>[S19]</td>
+<td>PP-OCRv5（官方文档）</td>
+<td>中英文/艺术字/畸变文字 OCR 候选，需真实门头测试</td>
+</tr>
+<tr class="even">
+<td>[S9]</td>
+<td>FAISS 官方文档</td>
+<td>向量索引与近邻检索</td>
+</tr>
+<tr class="odd">
+<td>[S10]</td>
+<td>NVIDIA Omniverse Replicator 官方文档</td>
+<td>OpenUSD
+合成、randomizer、annotation、writer；仅作为可选高级引擎</td>
+</tr>
+</tbody>
+</table>
+<p>文献和官网的原始链接列表：</p>
+<ul>
+<li>[S1] <a
+href="https://www.cckggroup.com/zlys">https://www.cckggroup.com/zlys</a></li>
+<li>[S2] <a
+href="https://www.cckggroup.com/">https://www.cckggroup.com/</a></li>
+<li>[S3] <a
+href="https://www.cckggroup.com/jyb">https://www.cckggroup.com/jyb</a></li>
+<li>[S4] <a
+href="https://www.sohu.com/a/897392824_121438253">https://www.sohu.com/a/897392824_121438253</a></li>
+<li>[S5] <a
+href="https://arxiv.org/abs/2508.10104">https://arxiv.org/abs/2508.10104</a></li>
+<li>[S6] <a
+href="https://arxiv.org/abs/2502.14786">https://arxiv.org/abs/2502.14786</a></li>
+<li>[S7] <a
+href="https://arxiv.org/abs/2610.10991">https://arxiv.org/abs/2610.10991</a></li>
+<li>[S8] <a
+href="https://arxiv.org/abs/2609.02012">https://arxiv.org/abs/2609.02012</a></li>
+<li>[S9] <a href="https://faiss.ai/">https://faiss.ai/</a></li>
+<li>[S10] <a
+href="https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator.html">https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator.html</a></li>
+<li>[S11] <a
+href="https://hznews.hangzhou.com.cn/jingji/content/2024-04/21/content_8718762_2.htm">https://hznews.hangzhou.com.cn/jingji/content/2024-04/21/content_8718762_2.htm</a></li>
+<li>[S12] <a
+href="https://jiameng.baidu.com/content/detail/92429791052">https://jiameng.baidu.com/content/detail/92429791052</a></li>
+<li>[S13] <a
+href="https://jiameng.baidu.com/content/detail/630220608626">https://jiameng.baidu.com/content/detail/630220608626</a></li>
+<li>[S14] <a
+href="https://istats.baidu.com/content/detail/657397973196">https://istats.baidu.com/content/detail/657397973196</a></li>
+<li>[S15] <a
+href="https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/html/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.html">https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/html/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.html</a></li>
+<li>[S16] <a
+href="https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Beyond_Objects_Contextual_Synthetic_Data_Generation_for_Fine-Grained_Classification_CVPR_2026_paper.html">https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Beyond_Objects_Contextual_Synthetic_Data_Generation_for_Fine-Grained_Classification_CVPR_2026_paper.html</a></li>
+<li>[S17] <a
+href="https://pubmed.ncbi.nlm.nih.gov/42905586/">https://pubmed.ncbi.nlm.nih.gov/42905586/</a></li>
+<li>[S18] <a
+href="https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_YOLO-World_Real-Time_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_YOLO-World_Real-Time_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html</a></li>
+<li>[S19] <a
+href="https://www.paddleocr.ai/v3.1.1/en/version3.x/algorithm/PP-OCRv5/PP-OCRv5.html">https://www.paddleocr.ai/v3.1.1/en/version3.x/algorithm/PP-OCRv5/PP-OCRv5.html</a></li>
+</ul>
+<h3 id="161-需要避免的论文误读">16.1 需要避免的论文误读</h3>
+<ul>
+<li>POI-Loc 是 <strong>2026-09 的 arXiv 预印本</strong>，论文自述投稿
+ICASSP 2027，不能写成已正式发表在 ICASSP 2027。</li>
+<li>Region-Aware CLS Token 采用 <strong>DINOv2-reg</strong>
+为基础，不能写成已证明 DINOv3 + ROI 在门头任务更好。</li>
+<li>CVPR 2026 的 BOB
+方法是基于生成模型的实验；本项目采用更可控的程序化母本属于<strong>方法启发</strong>而不是直接复现
+BOB。</li>
+<li>所有论文公开基准分数均不应搬用为本项目预期准确率。</li>
+</ul>
+<h2 id="17-正式评审中必须回答的十个问题">17.
+正式评审中必须回答的十个问题</h2>
+<ol type="1">
+<li>品牌方是否有真实门头 VI 文件与每种形象对应的合同政策？</li>
+<li>“简约/标准/都市”是否确实适用于左邻右舍？有无生效时间和区域例外？</li>
+<li>PLUS 是形象元素、营销标识、运营模式还是合同属性？谁提供金标准？</li>
+<li>至少能否采到两个以上经认证的视觉版型，每类有若干独立真实门店？</li>
+<li>是否有直接的 OCR/模板规则可覆盖大部分场景？</li>
+<li>合成器是否把类别与地域/背景虚假绑定？能否通过反事实对验证？</li>
+<li>是否真正按门店、拍摄家族和派生资产隔离训练/测试？</li>
+<li>unknown/ambiguous/low_quality 是独立状态，还是偷偷回落为
+Top-1？</li>
+<li>是否在真实集上量化了相同风险预算下的标注工时与 TCO？</li>
+<li>若 T1 通过、T2 失败，是否仍允许作为“视觉巡检/检索”资产结题？</li>
+</ol>
+<h2 id="18-五轮自检与修订记录">18. 五轮自检与修订记录</h2>
+<blockquote>
+<p>本附录记录<strong>文档级</strong>的五轮设计审计，非模型实验或实测性能；“通过”仅表示相关设计检查项已完整落地，不表示实地样本、模型或商业可用性已验收。</p>
+</blockquote>
+<table>
+<thead>
+<tr class="header">
+<th>轮次</th>
+<th>审计维度</th>
+<th>审查发现</th>
+<th>修订/封口</th>
+<th>结果</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>第 1 轮</td>
+<td>事实与来源可追溯</td>
+<td>官方“形象标准”名称不等于确认的品牌专属形象，也不是合同类型；公开门头图片权利情况不明</td>
+<td>加 E0–E3 分级、品牌适用性待核、权益字段、未完成种子数说明</td>
+<td>文档级 PASS，事实核验列为前置</td>
+</tr>
+<tr class="even">
+<td>第 2 轮</td>
+<td>任务定义与可辨识性</td>
+<td>直接输出加盟类别有不可识别风险；视觉形态可有同版多合同</td>
+<td>拆 G1/G2、引入 H(Y</td>
+<td>V) 与映射版本/有效期、不能判定时 null</td>
+</tr>
+<tr class="odd">
+<td>第 3 轮</td>
+<td>因果、合成数据与污染</td>
+<td>背景捷径、类别关键标识被错误随机化、合成/真实泄漏会造成虚假增益</td>
+<td>类别因素/环境因素分离、CF-1~CF-4、跨类环境采样、真实独立测试与衍生组排重</td>
+<td>文档级 PASS，生成器待实现</td>
+</tr>
+<tr class="even">
+<td>第 4 轮</td>
+<td>实验统计与门槛</td>
+<td>30–50
+图不足以直接宣称商用准确率；只做闭集不安全；不同训练步数不公平</td>
+<td>真实样本预算与计算步数对齐、门店级
+bootstrap、未知类/拒识、安全风险预算、INCONCLUSIVE 状态</td>
+<td>文档级 PASS，指标目标待业务审批</td>
+</tr>
+<tr class="odd">
+<td>第 5 轮</td>
+<td>工程、治理与交付</td>
+<td>模型许可、图片版权、业务签认、索引版本与失败资产容易遗漏</td>
+<td>增加权利台账、模型/资产 hash、独立复算、8 周分门禁、回滚、测试断言和
+Go/No-Go</td>
+<td>文档级 PASS，系统尚未部署</td>
+</tr>
+</tbody>
+</table>
+<h3 id="181-未关闭的风险清单必须透明披露">18.1
+未关闭的风险清单（必须透明披露）</h3>
+<ul>
+<li>R-01（P0）：真实加盟类别与门头形态的映射未取得；<strong>不得提供自动加盟合同判定</strong>。</li>
+<li>R-02（P0）：官方形象标准三档的适用品牌与图文对应未逐项核准；<strong>不得以三档作为正式监督标签</strong>。</li>
+<li>R-03（P0）：独立真实门店测试集尚未采齐，公开图使用授权待确认；<strong>不得给出性能承诺</strong>。</li>
+<li>R-04（P1）：不同年份招牌/旧标/PLUS
+的视觉语义未冻结，分类本体可能调整。</li>
+<li>R-05（P1）：合成—真实域差、开放集阈值与商业误判成本未实测。</li>
+<li>R-06（P1）：模型权重商用许可、商标的合成再利用权限和渠道摄影素材条款需逐项法律/合规审查。</li>
+</ul>
+<h3 id="182-签署建议">18.2 签署建议</h3>
+<p>建议批准 <strong>8 周“研究验证”</strong>
+而非批准“即刻全自动加盟类型识别上线”。第一阶段真正的通过标准是：在版权/业务真值边界清晰的前提下，证明门头视觉类型可检索、可分类且新增版本可拒识；再单独决定是否接入加盟经营主数据。</p>
+<hr />
+<p><strong>文档版本说明：</strong> v1.0
+是在公开资料与技术文献基础上的设计方案，包含示意数值、拟议门禁和拟议样本量。除来源中明确记载的公开事实外，不存在本项目已执行的训练成绩、30–50
+张已采样的完成声明或已签署的业务真值。未经评审，不得将文中拟议阈值解释成验收已达标。</p>
+</body>
+</html>

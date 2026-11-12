@@ -1,0 +1,19 @@
+# 白名单制:默认全排除,仅放行文本类(文档/代码/元数据)与参考资料存档,任何图像/模型权重不入库
+*
+!.gitignore
+!*/
+!*.md
+!*.py
+!*.json
+!*.jsonl
+!*.csv
+!*.toml
+# references 资料存档放行
+!*.pdf
+!*.html
+# 显式排除:内部对话日志与任何潜在敏感文件
+dialogue.md
+raw_messages.json
+**/dialogue.md
+**/raw_messages.json
+**/.DS_Store
