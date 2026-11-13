@@ -8,20 +8,26 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path("/Users/mac/chatgpt-harvest/6af41562")
 sys.path.insert(0, str(ROOT / "synthetic"))
 
-# 编号 A01..A12: 12 张 v4 POI 候选 + C1 已知正例对照 + C2 已知模板对照
+# 编号 A01..A18: 18 张 v5 兄弟照候选 + C1 已知正例对照 + C2 已知模板对照
 CANDS = [
-    ("v4_0776_13dd0f7aba53.jpg", "images_v4", "嘉兴 左邻右舍"),
-    ("v4_0629_847080f393bf.jpg", "images_v4", "宁波 方前村店"),
-    ("v4_0468_1fac922f2b27.jpg", "images_v4", "宁波 德居公寓店"),
-    ("v4_0487_aac9ad30cc87.jpg", "images_v4", "宁波 大黄桥南路店"),
-    ("v4_0656_de99c2f43193.jpg", "images_v4", "宁波 芳华景苑店"),
-    ("v4_0542_28cc02c52c4f.jpg", "images_v4", "宁波 滨海锦苑店"),
-    ("v4_0154_8e2cc1ac672d.jpg", "images_v4", "杭州 东湖北路店"),
-    ("v4_0318_95cc8a2addb2.jpg", "images_v4", "杭州 临空SOHO店"),
-    ("v4_0774_6d49d2de929d.jpg", "images_v4", "嘉兴 紫金路店"),
-    ("v4_0796_3e52a6ed9541.jpg", "images_v4", "嘉兴 星河CocoCity店"),
-    ("v4_1369_1ca80ada4dca.jpg", "images_v4", "绍兴 京新花苑店"),
-    ("v4_0587_230cc4d1963e.jpg", "images_v4", "宁波 左邻右舍便利店"),
+    ("v4_1263_600effe0fcfa.jpg", "images_v4", "绍兴 望湖花园店"),
+    ("v4_0478_92bf4e85c1eb.jpg", "images_v4", "宁波 石河路店"),
+    ("v4_1225_06453e922d4c.jpg", "images_v4", "绍兴 柯笛花园店"),
+    ("v4_1186_542d8f8b5d0f.jpg", "images_v4", "绍兴 永福路店"),
+    ("v4_0929_d54844ec888f.jpg", "images_v4", "湖州 风雅阁店"),
+    ("v4_0538_2e96656dc2b1.jpg", "images_v4", "宁波 孙塘南路店A"),
+    ("v4_0788_e23f8f54286a.jpg", "images_v4", "嘉兴 濮院毛衫店"),
+    ("v4_0537_518e2fe71aa3.jpg", "images_v4", "宁波 孙塘南路店B"),
+    ("v4_1304_5304de0a1568.jpg", "images_v4", "绍兴 文象府店"),
+    ("v4_1339_6fec0b36be1d.jpg", "images_v4", "绍兴 翡翠公馆店"),
+    ("v4_1283_6b8f5cf0fc20.jpg", "images_v4", "绍兴 元垄大都会店"),
+    ("v4_1699_7f74af7ebd33.jpg", "images_v4", "金华 乐乐烟酒超市?"),
+    ("v4_0926_52d96b90fe14.jpg", "images_v4", "湖州 诚宜路"),
+    ("v4_2179_b51754e5ae4a.jpg", "images_v4", "衢州 建乙巷店"),
+    ("v4_1380_6df7beb2959e.jpg", "images_v4", "绍兴 江南名苑店"),
+    ("v4_0942_9bb9ba27a930.jpg", "images_v4", "湖州 中国丝绸小镇店"),
+    ("v4_1240_136a292a9d27.jpg", "images_v4", "绍兴 群商路店"),
+    ("v4_0828_0ca10cecf348.jpg", "images_v4", "嘉兴 荷园店"),
 ]
 CONTROLS = [("img_0037", "images"), ("img_0165", "images")]  # 已知正例对照 / 已知模板对照
 
@@ -60,7 +66,7 @@ def main():
         dr.text((x0 + 10, y0 + 8), badge, font=fc(28), fill=(255, 255, 255))
         dr.rectangle([x0, y0, x0 + CW - 1, y0 + CH - 1], outline=(40, 42, 46), width=2)
         manifest.append({"badge": badge, "file": f, "dir": d})
-    out = ROOT / "data/annotation_pack/gen_sheets/arb_ownbrand_v5.jpg"
+    out = ROOT / "data/annotation_pack/gen_sheets/arb_ownbrand_v6.jpg"
     out.parent.mkdir(parents=True, exist_ok=True)
     sheet.save(out, quality=88)
     json.dump(manifest, open(out.with_suffix(".json"), "w"), ensure_ascii=False, indent=1)
