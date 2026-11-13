@@ -1,0 +1,12 @@
+{
+  "sealed": "2026-11-13",
+  "method": "per-message metadata.model_slug via backend-api (会话级无slug, 消息级可取)",
+  "verified_convs": {
+    "v2_retest_batch01": {"conv": "6af51c50-7b88-83ea-8434-de2eed7ee823", "model": "gpt-6-thinking (消息级抽查同构)", "create_time": 1794448464},
+    "newpos_v3_batch1": {"conv": "6af6d42f-5258-83ea-8051-91898e7c8b4d", "model": "gpt-6-thinking (消息级实证)", "create_time": 1794561071},
+    "gpt_review_terminal": {"conv": "6af51be5-d658-83ea-957b-96657724ae77", "model": "gpt-6-thinking (同批)", "create_time": 1794448358}
+  },
+  "e10_v1_14batches": "2026-11-11 同批执行, conv id 列表见 e10_full/v1_records.json, 同为 gpt-6-thinking",
+  "prompt_provenance": "E10 v1/v2 完整指令文本存 synthetic/E10_FULL_BLIND_REPORT.md §2/§6.1; v2 场景校验强化为唯一实验变量",
+  "caveat": "平台不保证后端路由不变; 结论限定为'同一时段同slug'而非绝对版本锁定"
+}
