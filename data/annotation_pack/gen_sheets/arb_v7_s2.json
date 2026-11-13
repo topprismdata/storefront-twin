@@ -1,0 +1,188 @@
+[
+ {
+  "badge": "A01",
+  "file": "v4_4282_b4473d7e0b40.jpg",
+  "dir": "images_v4",
+  "score": 0.7598,
+  "poi_name": "左邻右舍便利超市(濮院毛衫时尚小镇店)",
+  "city": "嘉兴市"
+ },
+ {
+  "badge": "A02",
+  "file": "v4_2234_67ae16830285.jpg",
+  "dir": "images_v4",
+  "score": 0.7587,
+  "poi_name": "左邻·右舍",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A03",
+  "file": "v4_2430_9fda1b0a3234.jpg",
+  "dir": "images_v4",
+  "score": 0.757,
+  "poi_name": "左邻·右舍(希尔顿店)",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A04",
+  "file": "v4_3832_9792fcc2661c.jpg",
+  "dir": "images_v4",
+  "score": 0.7534,
+  "poi_name": "左邻右舍便利店(新风路店)",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A05",
+  "file": "v4_3019_4968b26bc4b3.jpg",
+  "dir": "images_v4",
+  "score": 0.746,
+  "poi_name": "左邻·右舍",
+  "city": "金华市"
+ },
+ {
+  "badge": "A06",
+  "file": "v4_3556_a662edcae280.jpg",
+  "dir": "images_v4",
+  "score": 0.7458,
+  "poi_name": "左邻·右舍(文德大街店)",
+  "city": "金华市"
+ },
+ {
+  "badge": "A07",
+  "file": "v4_2925_01c6f0665918.jpg",
+  "dir": "images_v4",
+  "score": 0.7444,
+  "poi_name": "左邻右舍便利店(友谊路27号)",
+  "city": "绍兴市"
+ },
+ {
+  "badge": "A08",
+  "file": "v4_2201_df47ccefdc2b.jpg",
+  "dir": "images_v4",
+  "score": 0.7362,
+  "poi_name": "左邻·右舍社区超市",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A09",
+  "file": "v4_2237_803804c6c5db.jpg",
+  "dir": "images_v4",
+  "score": 0.7198,
+  "poi_name": "左邻·右舍",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A10",
+  "file": "v4_3265_570b7e420b00.jpg",
+  "dir": "images_v4",
+  "score": 0.7125,
+  "poi_name": "左邻右舍便利店(市心北路店)",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A11",
+  "file": "v4_4114_cf760d339da2.jpg",
+  "dir": "images_v4",
+  "score": 0.6969,
+  "poi_name": "左邻右舍便利超市(悦隽明湖府店)",
+  "city": "宁波市"
+ },
+ {
+  "badge": "A12",
+  "file": "v4_4103_fce83e84967f.jpg",
+  "dir": "images_v4",
+  "score": 0.6946,
+  "poi_name": "左邻右舍便利超市(兰庭人才公寓店)",
+  "city": "宁波市"
+ },
+ {
+  "badge": "A13",
+  "file": "v4_3107_827c6f9f8978.jpg",
+  "dir": "images_v4",
+  "score": 0.6936,
+  "poi_name": "左邻·右舍",
+  "city": "衢州市"
+ },
+ {
+  "badge": "A14",
+  "file": "v4_3462_89a543eca625.jpg",
+  "dir": "images_v4",
+  "score": 0.6911,
+  "poi_name": "左邻右舍便利超市(华夏路店)",
+  "city": "金华市"
+ },
+ {
+  "badge": "A15",
+  "file": "v4_2615_9097bca6ebb8.jpg",
+  "dir": "images_v4",
+  "score": 0.6894,
+  "poi_name": "左邻·右舍(红枫店)",
+  "city": "宁波市"
+ },
+ {
+  "badge": "A16",
+  "file": "v4_2762_5725cd6aa77f.jpg",
+  "dir": "images_v4",
+  "score": 0.683,
+  "poi_name": "左邻·右舍便利店(帕罗电商中心店)",
+  "city": "湖州市"
+ },
+ {
+  "badge": "A17",
+  "file": "v4_3391_3745a2270d32.jpg",
+  "dir": "images_v4",
+  "score": 0.6805,
+  "poi_name": "左邻右舍城弘小区店",
+  "city": "嘉兴市"
+ },
+ {
+  "badge": "A18",
+  "file": "v4_3677_f9a974adab52.jpg",
+  "dir": "images_v4",
+  "score": 0.68,
+  "poi_name": "左邻·右舍(清柳路店)",
+  "city": "金华市"
+ },
+ {
+  "badge": "A19",
+  "file": "v4_3973_b9fecb249360.jpg",
+  "dir": "images_v4",
+  "score": 0.68,
+  "poi_name": "左邻右舍便利超市(云上金铭府店)",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A20",
+  "file": "v4_4681_c5473f69475d.jpg",
+  "dir": "images_v4",
+  "score": 0.68,
+  "poi_name": "左邻右舍便利超市(廿横线店)",
+  "city": "衢州市"
+ },
+ {
+  "badge": "A21",
+  "file": "v4_2532_99bb5b496040.jpg",
+  "dir": "images_v4",
+  "score": 0.6796,
+  "poi_name": "左邻右舍便利超市(中尚汇府店)",
+  "city": "杭州市"
+ },
+ {
+  "badge": "A22",
+  "file": "v4_2633_950150e34a44.jpg",
+  "dir": "images_v4",
+  "score": 0.6795,
+  "poi_name": "左邻右舍便利店(盛鼎商厦店)",
+  "city": "宁波市"
+ },
+ {
+  "badge": "C1",
+  "file": "c0037_28d555c7449b.png",
+  "dir": "images"
+ },
+ {
+  "badge": "C2",
+  "file": "c0165_52347b971b14.jpg",
+  "dir": "images"
+ }
+]
