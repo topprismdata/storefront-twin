@@ -1,0 +1,80 @@
+{
+ "protocol": {
+  "folds": 6,
+  "seed": 42,
+  "pos_groups": 24,
+  "pair_features": 2563
+ },
+ "fold_stats": [
+  {
+   "fold": 0,
+   "train_pos": 24,
+   "test_pos": 6,
+   "train_pairs": 3247,
+   "pos_rate": 0.3840468124422544
+  },
+  {
+   "fold": 1,
+   "train_pos": 26,
+   "test_pos": 4,
+   "train_pairs": 3257,
+   "pos_rate": 0.38593797973595334
+  },
+  {
+   "fold": 2,
+   "train_pos": 26,
+   "test_pos": 4,
+   "train_pairs": 3252,
+   "pos_rate": 0.3849938499384994
+  },
+  {
+   "fold": 3,
+   "train_pos": 24,
+   "test_pos": 6,
+   "train_pairs": 3257,
+   "pos_rate": 0.38593797973595334
+  },
+  {
+   "fold": 4,
+   "train_pos": 24,
+   "test_pos": 6,
+   "train_pairs": 3249,
+   "pos_rate": 0.38442597722376115
+  },
+  {
+   "fold": 5,
+   "train_pos": 26,
+   "test_pos": 4,
+   "train_pairs": 3248,
+   "pos_rate": 0.3842364532019704
+  }
+ ],
+ "verifier_oof": {
+  "f1": 0.687,
+  "thr": 0.4992,
+  "tp": 23,
+  "fp": 14,
+  "fn": 7,
+  "precision": 0.622,
+  "recall": 0.767,
+  "auroc": 0.96
+ },
+ "cosine_gallery_baseline": {
+  "f1": 0.476,
+  "thr": 0.7628,
+  "tp": 10,
+  "fp": 2,
+  "fn": 20
+ },
+ "e8g_reference": {
+  "f1_frozen": 0.862,
+  "f1_nested_loso": 0.848,
+  "thr": 0.636
+ },
+ "stock_far": {
+  "verifier@oof_thr": 0.0045,
+  "cosine@cos_thr": 0.0,
+  "e8g@0.636": 0.036,
+  "note": "verifier \u9608\u503c=330 OOF best-F1; \u6982\u7387\u57df\u4e0e E8G \u5206\u6570\u57df\u4e0d\u540c, \u76f4\u63a5\u6bd4\u8f83 FAR"
+ }
+}

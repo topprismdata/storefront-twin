@@ -54,6 +54,9 @@ def main():
     modea_rate = modea_fp / stockb["n"]; modeb_rate = modeb_fp / stockb["n"]
     genrec = load(VC / "gen_reconciliation.json")
     genpair = load(VC / "gen_paired_bootstrap.json")
+    _pv = [load(VC / f"pairwise_verifier_results_{s}.json") for s in ("synthonly", "none", "cross")]
+    pv_best_f1 = max(d["verifier_oof"]["f1"] for d in _pv)
+    pv_auroc = max(d["verifier_oof"]["auroc"] for d in _pv)
     fix = load(VC / "e10_full/fix_summary.json")
     reg = load(ROOT / "data/registry_v3.json")
     sha = load(ROOT / "data/sha_file_index.json")
@@ -157,6 +160,7 @@ AuPR {e8g['auprc']:.3f};P@95R {e8g['p_at_95r']:.3f};R@95P {e8g['r_at_95p']:.3f}�
 
 ## 5. 已知失效模式
 
+0. **成对验证头不足以替代主通道(2026-11-13 关闭)**: ArcFace 式 pairwise verifier(冻结嵌入逐维关系特征 ⊙/|diff| → MLP,6 折组不相交+renders_3d 扩对)三种配置最好 F1 {pv_best_f1}(AUROC {pv_auroc}),低于 E8-G 0.848/0.862——**关系建模补不了嵌入空间的域表征瓶颈**(GPT 终审"停止调 embedding"再次成立)。但 impostor 域全面胜出: 素材域 FAR 0-1.8% vs E8-G 3.6%,与打印攻击防御同构;该信号已被 VLM 证据层以更优方式覆盖(Mode A 0.45%),不另行集成。数据: pairwise_verifier_results_{{synthonly,none,cross}}.json。
 1. **变体边界**: CS-04 立体发光字曾致 VLM 误拒(img_0483),设计图立体字致 E8-G 误收(stock stk_0471 等 8 张)——同一光谱两端。
 2. **13/13 教训**: 定向回归集上的修复效果不可外推,任何指令/阈值改动必须全量复测(§4.3)。
 3. **统计功效**: 30 正例/24 正店,CI 触 1.0;模式差异不可分辨是功效问题,不是证明等价。
