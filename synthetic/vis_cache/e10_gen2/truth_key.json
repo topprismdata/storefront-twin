@@ -1,0 +1,1016 @@
+{
+ "1": {
+  "K01": {
+   "image_id": "img_0826",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L3CUJME4",
+   "city": "南昌市",
+   "e8g_score": 0.8399998875844038,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4483.jpg"
+  },
+  "K02": {
+   "image_id": "img_0830",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L2YHUMRO",
+   "city": "南昌市",
+   "e8g_score": 0.999900757194608,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4510.jpg"
+  },
+  "K03": {
+   "image_id": "img_0822",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MG2D42UC",
+   "city": "景德镇市",
+   "e8g_score": 0.8000475119388436,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5814.jpg"
+  },
+  "K04": {
+   "image_id": "img_0825",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBZDCIXQ",
+   "city": "上饶市",
+   "e8g_score": 0.8431792507163889,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5189.jpg"
+  },
+  "K05": {
+   "image_id": "img_0898",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "store_id": "poi_B0FFM62UMO",
+   "city": "荆门市",
+   "e8g_score": 0.7390765391436723,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c10257.jpg"
+  },
+  "K06": {
+   "image_id": "img_0841",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFMG1N5M",
+   "city": "南平市",
+   "e8g_score": 0.9199999897383881,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6689.jpg"
+  },
+  "K07": {
+   "image_id": "img_0831",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFM7I8LU",
+   "city": "上饶市",
+   "e8g_score": 0.9997508911064827,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4862.jpg"
+  },
+  "K08": {
+   "image_id": "img_0420",
+   "label": "negative",
+   "neg_type": "indoor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.31141426955534923,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/seed_P-01_04_404830d783.jpg"
+  },
+  "K09": {
+   "image_id": "img_0843",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0H64HHSEI",
+   "city": "上饶市",
+   "e8g_score": 0.8031542993509831,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4962.jpg"
+  },
+  "K10": {
+   "image_id": "img_0206",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.7603150867167953,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0333_56a8ba6dcbac.png"
+  },
+  "K11": {
+   "image_id": "img_0823",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L13U66KJ",
+   "city": "上饶市",
+   "e8g_score": 0.9571843369054946,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5184.jpg"
+  },
+  "K12": {
+   "image_id": "img_0815",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBOUXJR6",
+   "city": "上饶市",
+   "e8g_score": 0.9131405411205203,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4766.jpg"
+  },
+  "K13": {
+   "image_id": "img_0811",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0H3ZZDYV1",
+   "city": "上饶市",
+   "e8g_score": 0.9996935535842356,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5282.jpg"
+  },
+  "K14": {
+   "image_id": "img_0785",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0I3Z5VYFB",
+   "city": "上饶市",
+   "e8g_score": 0.9999300887463707,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4952.jpg"
+  },
+  "K15": {
+   "image_id": "img_0895",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "store_id": "poi_B0FFK2068F",
+   "city": "黄石市",
+   "e8g_score": 0.9984188520862918,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c9526.jpg"
+  }
+ },
+ "2": {
+  "K01": {
+   "image_id": "img_0818",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFHFSLFR",
+   "city": "上饶市",
+   "e8g_score": 0.9826321168534249,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4728.jpg"
+  },
+  "K02": {
+   "image_id": "img_0814",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K0YZGBMS",
+   "city": "上饶市",
+   "e8g_score": 0.9177060685443617,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4946.jpg"
+  },
+  "K03": {
+   "image_id": "img_0834",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0M1N7USDH",
+   "city": "南昌市",
+   "e8g_score": 0.9995973474934045,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4515.jpg"
+  },
+  "K04": {
+   "image_id": "img_0201",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.31098782260646857,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0327_9be0aa29fd34.jpg"
+  },
+  "K05": {
+   "image_id": "img_0851",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFG8WJAZ",
+   "city": "上饶市",
+   "e8g_score": 0.9199989068044483,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5033.jpg"
+  },
+  "K06": {
+   "image_id": "img_0781",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MUA4ZGCJ",
+   "city": "景德镇市",
+   "e8g_score": 0.9879287070373477,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5831.jpg"
+  },
+  "K07": {
+   "image_id": "img_0793",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LUM7E0XB",
+   "city": "南昌市",
+   "e8g_score": 0.9997730602767232,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4478.jpg"
+  },
+  "K08": {
+   "image_id": "img_0779",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KD1HJJAH",
+   "city": "上饶市",
+   "e8g_score": 0.9990525870416708,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4937.jpg"
+  },
+  "K09": {
+   "image_id": "img_0748",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "store_id": "poi_B0GU57W8PH",
+   "city": "马鞍山市",
+   "e8g_score": 0.761121589781814,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c2736.jpg"
+  },
+  "K10": {
+   "image_id": "img_0849",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MAD1KB2O",
+   "city": "鹰潭市",
+   "e8g_score": 0.8149695458745813,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6082.jpg"
+  },
+  "K11": {
+   "image_id": "img_0497",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "金华市",
+   "e8g_score": 0.4235666115411861,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap3_552e79d8a310_5e7f866c.jpg"
+  },
+  "K12": {
+   "image_id": "img_0827",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0J24ZZDK0",
+   "city": "上饶市",
+   "e8g_score": 0.9999995999651212,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4764.jpg"
+  },
+  "K13": {
+   "image_id": "img_0801",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBPX2ION",
+   "city": "景德镇市",
+   "e8g_score": 0.8015196207113651,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5813.jpg"
+  },
+  "K14": {
+   "image_id": "img_0285",
+   "label": "negative",
+   "neg_type": "competitor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.5393814642076987,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0428_dd995f0bf84c.jpg"
+  },
+  "K15": {
+   "image_id": "img_0828",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HBR75RIG",
+   "city": "上饶市",
+   "e8g_score": 0.9999921822641654,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5193.jpg"
+  }
+ },
+ "3": {
+  "K01": {
+   "image_id": "img_0805",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JKRLXH19",
+   "city": "上饶市",
+   "e8g_score": 0.8724064504680832,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5226.jpg"
+  },
+  "K02": {
+   "image_id": "img_0809",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0J6PH2DDH",
+   "city": "上饶市",
+   "e8g_score": 0.7599935905711706,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4894.jpg"
+  },
+  "K03": {
+   "image_id": "img_0789",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L3MROBP2",
+   "city": "九江市",
+   "e8g_score": 0.9347958617904083,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4649.jpg"
+  },
+  "K04": {
+   "image_id": "img_0833",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MUURYBL7",
+   "city": "南昌市",
+   "e8g_score": 0.9996373327487409,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4486.jpg"
+  },
+  "K05": {
+   "image_id": "img_0798",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBUUMQAI",
+   "city": "上饶市",
+   "e8g_score": 0.9846756268872461,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4884.jpg"
+  },
+  "K06": {
+   "image_id": "img_0787",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LKDZNH9D",
+   "city": "九江市",
+   "e8g_score": 0.9998244132141043,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4650.jpg"
+  },
+  "K07": {
+   "image_id": "img_0806",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LKVA4EGS",
+   "city": "鹰潭市",
+   "e8g_score": 0.8640912231235133,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6090.jpg"
+  },
+  "K08": {
+   "image_id": "img_0840",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JR95LNPK",
+   "city": "南平市",
+   "e8g_score": 0.9199975791226592,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6683.jpg"
+  },
+  "K09": {
+   "image_id": "img_0797",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HDR7SW12",
+   "city": "上饶市",
+   "e8g_score": 0.906471033932522,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5150.jpg"
+  },
+  "K10": {
+   "image_id": "img_0804",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0H33PP97U",
+   "city": "上饶市",
+   "e8g_score": 0.9974124003275276,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4759.jpg"
+  },
+  "K11": {
+   "image_id": "img_0778",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MUA146T1",
+   "city": "南昌市",
+   "e8g_score": 0.9998098627419431,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4489.jpg"
+  },
+  "K12": {
+   "image_id": "img_0346",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.24969504506287513,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0499_082725bdc309.jpg"
+  },
+  "K13": {
+   "image_id": "img_0817",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JDTA2MHQ",
+   "city": "上饶市",
+   "e8g_score": 0.7547090798429874,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4865.jpg"
+  },
+  "K14": {
+   "image_id": "img_0784",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LGJLQMP3",
+   "city": "上饶市",
+   "e8g_score": 0.9998967504755552,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4722.jpg"
+  },
+  "K15": {
+   "image_id": "img_0774",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LRBKMU45",
+   "city": "景德镇市",
+   "e8g_score": 0.999999824280254,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5818.jpg"
+  }
+ },
+ "4": {
+  "K01": {
+   "image_id": "img_0852",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KG990ZNE",
+   "city": "南平市",
+   "e8g_score": 0.725419413833349,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6714.jpg"
+  },
+  "K02": {
+   "image_id": "img_0846",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L6RK21BH",
+   "city": "鹰潭市",
+   "e8g_score": 0.8212949632706141,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6100.jpg"
+  },
+  "K03": {
+   "image_id": "img_0792",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JGMC7491",
+   "city": "景德镇市",
+   "e8g_score": 0.9998909418196003,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5843.jpg"
+  },
+  "K04": {
+   "image_id": "img_0847",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LR7HIJ8C",
+   "city": "南昌市",
+   "e8g_score": 0.9178720532228939,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4533.jpg"
+  },
+  "K05": {
+   "image_id": "img_0803",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFG0HCSV",
+   "city": "上饶市",
+   "e8g_score": 0.8873483368358497,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4827.jpg"
+  },
+  "K06": {
+   "image_id": "img_0808",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HG3ADEOT",
+   "city": "上饶市",
+   "e8g_score": 0.8399984616916761,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4743.jpg"
+  },
+  "K07": {
+   "image_id": "img_0260",
+   "label": "negative",
+   "neg_type": "uncertain",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.5238294873884205,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0396_cf9ec09b96c6.png"
+  },
+  "K08": {
+   "image_id": "img_0800",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K2FBBV66",
+   "city": "上饶市",
+   "e8g_score": 0.8399900275276857,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5158.jpg"
+  },
+  "K09": {
+   "image_id": "img_0821",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LK67KWET",
+   "city": "上饶市",
+   "e8g_score": 0.814370093502787,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5198.jpg"
+  },
+  "K10": {
+   "image_id": "img_0204",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.49395713728206136,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0330_834cb0e85001.jpg"
+  },
+  "K11": {
+   "image_id": "img_0802",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MR57I064",
+   "city": "南昌市",
+   "e8g_score": 0.8000187285024104,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4509.jpg"
+  },
+  "K12": {
+   "image_id": "img_0099",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.1154039714575275,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0118_aeafd5a578cb.jpg"
+  },
+  "K13": {
+   "image_id": "img_0490",
+   "label": "negative",
+   "neg_type": "indoor",
+   "store_id": "store_amap_B0FFM0KX3P",
+   "city": "金华市",
+   "e8g_score": 0.412271738400928,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap_88cc130396df_f4108149.jpg"
+  },
+  "K14": {
+   "image_id": "img_0848",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBD5GITW",
+   "city": "南昌市",
+   "e8g_score": 0.9012607699309277,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4501.jpg"
+  },
+  "K15": {
+   "image_id": "img_0794",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HUXRL1PT",
+   "city": "上饶市",
+   "e8g_score": 0.9996555873668753,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4911.jpg"
+  }
+ },
+ "5": {
+  "K01": {
+   "image_id": "img_0799",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MBF56SS6",
+   "city": "上饶市",
+   "e8g_score": 0.8191408094039164,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4796.jpg"
+  },
+  "K02": {
+   "image_id": "img_0853",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LG0Z262E",
+   "city": "上饶市",
+   "e8g_score": 0.999998563623446,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4873.jpg"
+  },
+  "K03": {
+   "image_id": "img_0842",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFHM3ZRZ",
+   "city": "上饶市",
+   "e8g_score": 0.6713478374478655,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4976.jpg"
+  },
+  "K04": {
+   "image_id": "img_0845",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K25ZITB4",
+   "city": "上饶市",
+   "e8g_score": 0.8386357212815653,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5016.jpg"
+  },
+  "K05": {
+   "image_id": "img_0835",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KGUU30G2",
+   "city": "上饶市",
+   "e8g_score": 0.9194859535870568,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4923.jpg"
+  },
+  "K06": {
+   "image_id": "img_0819",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HBXOTM0I",
+   "city": "南平市",
+   "e8g_score": 0.9988117703846782,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6730.jpg"
+  },
+  "K07": {
+   "image_id": "img_0783",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K1ASQH7I",
+   "city": "鹰潭市",
+   "e8g_score": 0.999997856048711,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6097.jpg"
+  },
+  "K08": {
+   "image_id": "img_0795",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KDOMSIDQ",
+   "city": "南平市",
+   "e8g_score": 0.8891717935100962,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6665.jpg"
+  },
+  "K09": {
+   "image_id": "img_0791",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFHMDYUY",
+   "city": "上饶市",
+   "e8g_score": 0.7599958872422468,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5112.jpg"
+  },
+  "K10": {
+   "image_id": "img_0810",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K6TZOXLJ",
+   "city": "上饶市",
+   "e8g_score": 0.9999999994772379,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5187.jpg"
+  },
+  "K11": {
+   "image_id": "img_0816",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HGTXBPFU",
+   "city": "上饶市",
+   "e8g_score": 0.9925564984876983,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5267.jpg"
+  },
+  "K12": {
+   "image_id": "img_0862",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "store_id": "poi_B0KAGUSDZ4",
+   "city": "上饶市",
+   "e8g_score": 0.6415351949709148,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5153.jpg"
+  },
+  "K13": {
+   "image_id": "img_0836",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KUR92DMJ",
+   "city": "上饶市",
+   "e8g_score": 0.9994570833483238,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5213.jpg"
+  },
+  "K14": {
+   "image_id": "img_0892",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "poi_B0FFKGMVS6",
+   "city": "咸宁市",
+   "e8g_score": 0.8839178619669692,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c10598.jpg"
+  },
+  "K15": {
+   "image_id": "img_0807",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFHVWG7M",
+   "city": "上饶市",
+   "e8g_score": 0.9976552567996008,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5062.jpg"
+  }
+ },
+ "6": {
+  "K01": {
+   "image_id": "img_0829",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFKXR0W3",
+   "city": "上饶市",
+   "e8g_score": 0.9999670461949748,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5264.jpg"
+  },
+  "K02": {
+   "image_id": "img_0838",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HKBHTSHW",
+   "city": "上饶市",
+   "e8g_score": 0.9972412197205666,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5011.jpg"
+  },
+  "K03": {
+   "image_id": "img_0854",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MGJUC3TI",
+   "city": "景德镇市",
+   "e8g_score": 0.9929360702998453,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5817.jpg"
+  },
+  "K04": {
+   "image_id": "img_0328",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.31227150605521115,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0476_3dfa957324c3.jpg"
+  },
+  "K05": {
+   "image_id": "img_0837",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFKDE75X",
+   "city": "上饶市",
+   "e8g_score": 0.9985440346165183,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5142.jpg"
+  },
+  "K06": {
+   "image_id": "img_0812",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MUUSWOP4",
+   "city": "萍乡市",
+   "e8g_score": 0.9197407191387914,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5935.jpg"
+  },
+  "K07": {
+   "image_id": "img_0777",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFHVUFZ9",
+   "city": "上饶市",
+   "e8g_score": 0.9999338182492818,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5208.jpg"
+  },
+  "K08": {
+   "image_id": "img_0813",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFG33QHQ",
+   "city": "上饶市",
+   "e8g_score": 0.9981119897614138,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4716.jpg"
+  },
+  "K09": {
+   "image_id": "img_0850",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MD2U6NKZ",
+   "city": "上饶市",
+   "e8g_score": 0.9199992650902891,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4843.jpg"
+  },
+  "K10": {
+   "image_id": "img_0788",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KD67G1UR",
+   "city": "上饶市",
+   "e8g_score": 0.9738765017763067,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4842.jpg"
+  },
+  "K11": {
+   "image_id": "img_0844",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K6OCX0NH",
+   "city": "上饶市",
+   "e8g_score": 0.9198533800219836,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5125.jpg"
+  },
+  "K12": {
+   "image_id": "img_0876",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "store_id": "poi_B0MUFZFUTM",
+   "city": "景德镇市",
+   "e8g_score": 0.7334613394464948,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5912.jpg"
+  },
+  "K13": {
+   "image_id": "img_0824",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K2GKN5CF",
+   "city": "上饶市",
+   "e8g_score": 0.845378913484531,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5261.jpg"
+  },
+  "K14": {
+   "image_id": "img_0780",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KG1L8FCY",
+   "city": "鹰潭市",
+   "e8g_score": 0.9902097656629055,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6084.jpg"
+  },
+  "K15": {
+   "image_id": "img_0786",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0M699DRWU",
+   "city": "南昌市",
+   "e8g_score": 0.9998350353981339,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4490.jpg"
+  }
+ },
+ "7": {
+  "K01": {
+   "image_id": "img_0258",
+   "label": "negative",
+   "neg_type": "logo",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.14763622841955873,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0394_f9da10d96b9e.jpg"
+  },
+  "K02": {
+   "image_id": "img_0839",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFLGVTEY",
+   "city": "上饶市",
+   "e8g_score": 0.9144831548018766,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4930.jpg"
+  },
+  "K03": {
+   "image_id": "img_0782",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0M627X0U4",
+   "city": "景德镇市",
+   "e8g_score": 0.9999999957708348,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5826.jpg"
+  },
+  "K04": {
+   "image_id": "img_0832",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KKC1OKZ0",
+   "city": "上饶市",
+   "e8g_score": 0.9996871500996453,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4949.jpg"
+  },
+  "K05": {
+   "image_id": "img_0775",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MG6NHF89",
+   "city": "景德镇市",
+   "e8g_score": 0.9999773267856803,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5835.jpg"
+  },
+  "K06": {
+   "image_id": "img_0855",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFLOZH62",
+   "city": "上饶市",
+   "e8g_score": 0.8941943417494377,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4820.jpg"
+  },
+  "K07": {
+   "image_id": "img_0820",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0J3GHAY5M",
+   "city": "南平市",
+   "e8g_score": 0.9149665581543551,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6696.jpg"
+  },
+  "K08": {
+   "image_id": "img_0790",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFIAAZJH",
+   "city": "南平市",
+   "e8g_score": 0.8425376138069351,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6711.jpg"
+  },
+  "K09": {
+   "image_id": "img_0776",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MRR92JJG",
+   "city": "鹰潭市",
+   "e8g_score": 0.9999642955552374,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6080.jpg"
+  },
+  "K10": {
+   "image_id": "img_0796",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MAAL9SW7",
+   "city": "南昌市",
+   "e8g_score": 0.9998911022292775,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4482.jpg"
+  }
+ }
+}

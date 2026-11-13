@@ -1,0 +1,15 @@
+K01|MATCH|左邻·右舍
+K02|MATCH|左邻·右舍
+K03|MATCH|左邻·右舍
+K04|MATCH|左邻·右舍
+K05|NON_MATCH|一品便利店
+K06|MATCH|左邻·右舍
+K07|MATCH|左邻·右舍
+K08|OUT_OF_SCOPE|无
+K09|MATCH|左邻·右舍
+K10|OUT_OF_SCOPE|口腔诊所
+K11|MATCH|左邻·右舍
+K12|MATCH|左邻·右舍
+K13|MATCH|左邻·右舍
+K14|MATCH|左邻·右舍
+K15|NON_MATCH|世美

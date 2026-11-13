@@ -1,0 +1,37 @@
+[
+ {
+  "batch": 1,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b01.jpg",
+  "n": 15
+ },
+ {
+  "batch": 2,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b02.jpg",
+  "n": 15
+ },
+ {
+  "batch": 3,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b03.jpg",
+  "n": 15
+ },
+ {
+  "batch": 4,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b04.jpg",
+  "n": 15
+ },
+ {
+  "batch": 5,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b05.jpg",
+  "n": 15
+ },
+ {
+  "batch": 6,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b06.jpg",
+  "n": 15
+ },
+ {
+  "batch": 7,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_gen2/grid_b07.jpg",
+  "n": 10
+ }
+]

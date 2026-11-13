@@ -1,0 +1,10 @@
+K01|OUT_OF_SCOPE|左邻右舍
+K02|MATCH|左邻·右舍
+K03|MATCH|左邻·右舍
+K04|MATCH|左邻·右舍
+K05|MATCH|左邻·右舍
+K06|MATCH|左邻·右舍
+K07|MATCH|左邻·右舍
+K08|MATCH|左邻·右舍
+K09|MATCH|左邻·右舍
+K10|MATCH|左邻·右舍

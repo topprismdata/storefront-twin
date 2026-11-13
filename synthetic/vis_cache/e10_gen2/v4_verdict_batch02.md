@@ -1,0 +1,15 @@
+K01|MATCH|左邻·右舍
+K02|MATCH|左邻·右舍
+K03|MATCH|左邻·右舍
+K04|OUT_OF_SCOPE|左邻右舍
+K05|MATCH|左邻·右舍
+K06|MATCH|左邻·右舍
+K07|MATCH|左邻·右舍
+K08|MATCH|左邻·右舍
+K09|NON_MATCH|巷邻 AlleyMart
+K10|MATCH|左邻·右舍
+K11|NON_MATCH|五金工具
+K12|MATCH|左邻·右舍
+K13|MATCH|左邻·右舍
+K14|NON_MATCH|全家 FamilyMart
+K15|MATCH|左邻·右舍

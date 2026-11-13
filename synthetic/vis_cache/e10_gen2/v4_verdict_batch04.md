@@ -1,0 +1,15 @@
+K01|MATCH|左邻·右舍
+K02|MATCH|左邻·右舍
+K03|MATCH|左邻·右舍
+K04|MATCH|左邻·右舍
+K05|MATCH|左邻·右舍
+K06|MATCH|左邻·右舍
+K07|UNKNOWN|无
+K08|MATCH|左邻·右舍
+K09|MATCH|左邻·右舍
+K10|OUT_OF_SCOPE|学生私房早餐
+K11|MATCH|左邻·右舍
+K12|NON_MATCH|眠图便利店
+K13|OUT_OF_SCOPE|无
+K14|MATCH|左邻·右舍
+K15|MATCH|左邻·右舍
