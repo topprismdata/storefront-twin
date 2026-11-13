@@ -1,0 +1,159 @@
+[
+ {
+  "badge": "A01",
+  "file": "c5818.jpg",
+  "score": 1.0,
+  "poi_name": "左邻右舍",
+  "city": "景德镇市"
+ },
+ {
+  "badge": "A02",
+  "file": "c5835.jpg",
+  "score": 1.0,
+  "poi_name": "左邻·右舍攸棠便利店",
+  "city": "景德镇市"
+ },
+ {
+  "badge": "A03",
+  "file": "c6080.jpg",
+  "score": 1.0,
+  "poi_name": "左邻右舍",
+  "city": "鹰潭市"
+ },
+ {
+  "badge": "A04",
+  "file": "c5208.jpg",
+  "score": 0.9999,
+  "poi_name": "左邻右舍便利超市(宏达小区店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A05",
+  "file": "c4489.jpg",
+  "score": 0.9998,
+  "poi_name": "左邻右舍",
+  "city": "南昌市"
+ },
+ {
+  "badge": "A06",
+  "file": "c4937.jpg",
+  "score": 0.9991,
+  "poi_name": "左邻右舍便利超市(带湖景苑店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A07",
+  "file": "c6084.jpg",
+  "score": 0.9902,
+  "poi_name": "左邻右舍",
+  "city": "鹰潭市"
+ },
+ {
+  "badge": "A08",
+  "file": "c5831.jpg",
+  "score": 0.9879,
+  "poi_name": "左邻·右舍",
+  "city": "景德镇市"
+ },
+ {
+  "badge": "A09",
+  "file": "c5826.jpg",
+  "score": 0.92,
+  "poi_name": "左邻右舍便利超市(景德镇宝龙广场店)",
+  "city": "景德镇市"
+ },
+ {
+  "badge": "A10",
+  "file": "c6097.jpg",
+  "score": 0.92,
+  "poi_name": "左邻右舍便利超市(信江帝景店)",
+  "city": "鹰潭市"
+ },
+ {
+  "badge": "A11",
+  "file": "c4722.jpg",
+  "score": 0.9199,
+  "poi_name": "左邻右舍(赣东北大道店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A12",
+  "file": "c4952.jpg",
+  "score": 0.9199,
+  "poi_name": "左邻右舍翡翠国际城店(玉清大道店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A13",
+  "file": "c4490.jpg",
+  "score": 0.9198,
+  "poi_name": "左邻右舍(九龙湖妇保店)",
+  "city": "南昌市"
+ },
+ {
+  "badge": "A14",
+  "file": "c4650.jpg",
+  "score": 0.9198,
+  "poi_name": "左邻右舍便利店",
+  "city": "九江市"
+ },
+ {
+  "badge": "A15",
+  "file": "c4842.jpg",
+  "score": 0.8939,
+  "poi_name": "左邻右舍(万年一中学府店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A16",
+  "file": "c4649.jpg",
+  "score": 0.8548,
+  "poi_name": "左邻右舍",
+  "city": "九江市"
+ },
+ {
+  "badge": "A17",
+  "file": "c6711.jpg",
+  "score": 0.8425,
+  "poi_name": "左邻右舍便利超市(紫兴新城店)",
+  "city": "南平市"
+ },
+ {
+  "badge": "A18",
+  "file": "c5112.jpg",
+  "score": 0.84,
+  "poi_name": "左邻右舍超市(战畈店)",
+  "city": "上饶市"
+ },
+ {
+  "badge": "A19",
+  "file": "c5843.jpg",
+  "score": 0.8399,
+  "poi_name": "左邻右舍便利店乐福临店",
+  "city": "景德镇市"
+ },
+ {
+  "badge": "A20",
+  "file": "c4478.jpg",
+  "score": 0.8398,
+  "poi_name": "左邻右舍便利店(禧湖店)",
+  "city": "南昌市"
+ },
+ {
+  "badge": "A21",
+  "file": "c4911.jpg",
+  "score": 0.8397,
+  "poi_name": "左邻右舍店",
+  "city": "上饶市"
+ },
+ {
+  "badge": "C1",
+  "file": "c0037_28d555c7449b.png",
+  "control": "C1"
+ },
+ {
+  "badge": "C2",
+  "file": "c0165_52347b971b14.jpg",
+  "control": "C2"
+ }
+]
