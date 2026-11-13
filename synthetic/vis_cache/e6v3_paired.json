@@ -1,0 +1,27 @@
+{
+ "op_point": {
+  "base": {
+   "thr": 0.8
+  },
+  "e6v3": {
+   "thr": 0.8005
+  }
+ },
+ "paired_deltaF1_oppoint": {
+  "mean": 0.04273722030382636,
+  "ci": [
+   0.02031813795925957,
+   0.06716161327215095
+  ],
+  "p_le0": 0.0
+ },
+ "paired_deltaF1_frozen0636": {
+  "mean": 0.03492579137331449,
+  "ci": [
+   0.020322286282799827,
+   0.050563950710239204
+  ],
+  "p_le0": 0.0
+ },
+ "note": "multicrop\u901a\u9053\u6709RNG, e6v3\u5185\u90e8\u4e24\u7248\u5171\u4eab\u540c\u4e00clip/dino\u5b9e\u73b0, \u914d\u5bf9\u5dee\u53ea\u9694\u79bb\u63a2\u9488\u53d8\u91cf; \u57fa\u7ebf\u590d\u7b97max|ds|=0.104\u5373\u8be5\u566a\u58f0\u91cf\u7ea7"
+}

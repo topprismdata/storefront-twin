@@ -1,0 +1,52 @@
+{
+ "decision": "GD-2026-11-14-01",
+ "rows": 647,
+ "n_pos": 256,
+ "n_groups": 639,
+ "frozen_0636": {
+  "base_syn_only": {
+   "P": 0.683,
+   "R": 0.977,
+   "F1": 0.804,
+   "tp": 250,
+   "fp": 116,
+   "fn": 6
+  },
+  "e6v3_real_loso": {
+   "P": 0.735,
+   "R": 0.977,
+   "F1": 0.839,
+   "tp": 250,
+   "fp": 90,
+   "fn": 6
+  }
+ },
+ "nested_loso": {
+  "base_syn_only": {
+   "P": 0.833,
+   "R": 0.914,
+   "F1": 0.872,
+   "tp": 234,
+   "fp": 47,
+   "fn": 22,
+   "fp_by_type": {
+    "render_stock": 4,
+    "confusable_brand": 35,
+    "same_name_unrelated": 8
+   }
+  },
+  "e6v3_real_loso": {
+   "P": 0.919,
+   "R": 0.891,
+   "F1": 0.905,
+   "tp": 228,
+   "fp": 20,
+   "fn": 28,
+   "fp_by_type": {
+    "render_stock": 2,
+    "confusable_brand": 17,
+    "same_name_unrelated": 1
+   }
+  }
+ }
+}
