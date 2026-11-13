@@ -1,0 +1,25 @@
+{
+ "v2_stratified": {
+  "by_neg_type_false_match": {
+   "uncertain": 1,
+   "same_name_unrelated": 0,
+   "logo": 0,
+   "render_stock": 0,
+   "map": 0,
+   "confusable_brand": 0,
+   "competitor": 0,
+   "indoor": 0
+  },
+  "conclusion": "\u552f\u4e00\u8befMATCH\u96c6\u4e2d\u5728uncertain(1/3); \u5176\u4f59\u8d1f\u7c7b\u5f62\u60010\u8befMATCH",
+  "unknown_fallback_by_score_band": {
+   "low<0.3": "79/79\u6b63\u786e",
+   "mid0.3-0.636": "21/21\u6b63\u786e",
+   "high>0.636": "2/3\u6b63\u786e(1\u8bef)"
+  },
+  "conclusion2": "\u56de\u9000\u9519\u8bef\u5168\u90e8\u96c6\u4e2d\u5728\u9ad8\u5206\u533a(\u8bc1\u636e\u4e0d\u8db3\u00d7\u57fa\u7ebf\u9ad8\u5206=\u7ee7\u627f\u6027\u9519\u8bef\u552f\u4e00\u6765\u6e90); \u4f4e\u5206\u533a\u56de\u9000\u96f6\u9519\u8bef",
+  "positive_miss_by_group_size": {
+   "single": "1/21",
+   "2-3": "2/9"
+  }
+ }
+}
