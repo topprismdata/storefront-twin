@@ -1,0 +1,22 @@
+{
+ "date": "2026-11-13",
+ "flips": [
+  "img_0037",
+  "img_0140",
+  "img_0141",
+  "img_0155",
+  "img_0182",
+  "img_0217",
+  "img_0404",
+  "img_0405",
+  "img_0479"
+ ],
+ "drop_placeholder": "img_0488",
+ "arb_conv": "6af686b2-d1d0-83ea-a822-6f1e9080f687",
+ "arb_result": "9/9 A",
+ "v4_eval": {
+  "pos": 38,
+  "neg": 294,
+  "total": 332
+ }
+}

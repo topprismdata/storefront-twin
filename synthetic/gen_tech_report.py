@@ -18,6 +18,10 @@ def f1row(name, m, extra=""):
 
 def main():
     e8g = load(VC / "e8g_protocol.json")
+    v4res = load(VC / "e8g_v4_results.json")
+    v4 = v4res["e8g_v4"]; v4n = v4["nested_loso"]
+    va = v4res["e10_v4"]["vlm_alone"]; mA = v4res["e10_v4"]["mode_a"]; mB = v4res["e10_v4"]["mode_b"]
+    v4ci = v4["ci95"]["f1_ci95"]
     stats = load(VC / "e8g_stats.json")
     v1rec = load(VC / "e10_full/reconciliation.json")
     v1rows = load(VC / "e10_full/records.json")
@@ -182,6 +186,20 @@ AuPR {e8g['auprc']:.3f};P@95R {e8g['p_at_95r']:.3f};R@95P {e8g['r_at_95p']:.3f}�
 | 配对 bootstrap | e10_full_bootstrap.py(v1/v2_paired_bootstrap.json) |
 | 素材基准 | data/stock_benchmark.json;代理评分 stock_e8g_results.json |
 | 金标准 | synthetic/gold_sample.py → annotation_pack_v2/gold/;synthetic/kappa_tool.py |
+
+## 8. 2026-11-13 标签修正 (registry v4) — 本报告 §1-§7 数字基于 v3 标签, 含下列偏差
+
+素材池分类战役(4×scout 334图归类 + 11格双通道仲裁 conv 6af686b2)发现并修正:
+1. **9 张 render_stock 误标**: 图像搜索素材波混入品牌宣传/新闻实拍图, 实为真实本品牌门店 → 翻正(6张在评测内: 0140/0141/0155/0217/0404/0479; 3张新增: 0037/0182/0405)。
+2. **img_0488 本地文件=防盗链占位图**(400×400提示图, 非门店): 曾以占位嵌入得 E8G 0.64 计 TP, 且是 v1"Mode B 救援优势"叙事的支柱 → 剔除评测, "B>A"结论撤回。
+3. **0.636 阈值系在被污染标签上校准**, v4 下失准。
+
+**v4 修正后基线** (e8g_v4_results.json, 332行/38正):
+- E8-G 冻结阈值: P {v4['P']} / R {v4['R']} / F1 {v4['F1']} (CI95 {v4ci}); 嵌套 LOSO 阈值重选: F1 {v4n['F1']} (P {v4n['P']} / R {v4n['R']})
+- E10 v4 (329行/35正, 历史盲裁沿用): VLM 单独 F1 {va['F1']}; Mode A {mA['F1']} / Mode B {mB['F1']} — **A/B 差异不再显著, v1"B 更优"撤回**
+- VLM 新失效模式: 夜拍小招牌系统性误读成竞品(0140→唐久/0141→新佳宜/0155→十足), E10 三次暗错误
+- 同名异业族谱扩充: 火锅/民宿/餐馆/左邻右社/楼盘广告
+- 结论修订: v3 报告的 0.862/0.931/0.951 系标签污染下的乐观值; 修正标签上系统真实水平约 F1 0.77(冻结阈值)-0.81(重选阈值), VLM 层 0.86。改进优先级 = 夜拍/远距小招牌读码能力, 非阈值调参。
 """
     txt = lines
     (ROOT / "TECH_REPORT.md").write_text(txt)
