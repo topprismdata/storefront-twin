@@ -1,0 +1,17 @@
+[
+ {
+  "batch": 1,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_newpos/grid_b01.jpg",
+  "n": 15
+ },
+ {
+  "batch": 2,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_newpos/grid_b02.jpg",
+  "n": 15
+ },
+ {
+  "batch": 3,
+  "grid": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_newpos/grid_b03.jpg",
+  "n": 15
+ }
+]

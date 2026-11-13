@@ -1,0 +1,458 @@
+{
+ "1": {
+  "N01": {
+   "image_id": "img_0258",
+   "label": "negative",
+   "neg_type": "logo",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.14763622841955873,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0394_f9da10d96b9e.jpg"
+  },
+  "N02": {
+   "image_id": "img_0623",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFL9WJ81",
+   "city": "绍兴市",
+   "e8g_score": 0.9999993204023462,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1240_136a292a9d27.jpg"
+  },
+  "N03": {
+   "image_id": "img_0629",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LD6H2HQM",
+   "city": "金华市",
+   "e8g_score": 0.9967723277201411,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1699_7f74af7ebd33.jpg"
+  },
+  "N04": {
+   "image_id": "img_0103",
+   "label": "negative",
+   "neg_type": "competitor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.560000062919908,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0125_2b3f4aa21169.png"
+  },
+  "N05": {
+   "image_id": "img_0608",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JRVZNAN1",
+   "city": "杭州市",
+   "e8g_score": 0.9980908898588078,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0318_95cc8a2addb2.jpg"
+  },
+  "N06": {
+   "image_id": "img_0494",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "成都市",
+   "e8g_score": 0.6550539401520347,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap2_72eff5ec987e_1cca061c.jpg"
+  },
+  "N07": {
+   "image_id": "img_0615",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MGLRO2FJ",
+   "city": "宁波市",
+   "e8g_score": 0.9999864586860187,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0538_2e96656dc2b1.jpg"
+  },
+  "N08": {
+   "image_id": "img_0346",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.24969504506287513,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0499_082725bdc309.jpg"
+  },
+  "N09": {
+   "image_id": "img_0603",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MDZ575BX",
+   "city": "宁波市",
+   "e8g_score": 0.9999824979409389,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0468_1fac922f2b27.jpg"
+  },
+  "N10": {
+   "image_id": "img_0290",
+   "label": "negative",
+   "neg_type": "competitor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.2387628236917802,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0433_439bc3766c9b.jpg"
+  },
+  "N11": {
+   "image_id": "img_0611",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFL1L9DL",
+   "city": "绍兴市",
+   "e8g_score": 0.9999917504117515,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1369_1ca80ada4dca.jpg"
+  },
+  "N12": {
+   "image_id": "img_0606",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0K1ZHVRWR",
+   "city": "宁波市",
+   "e8g_score": 0.9994323995466462,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0542_28cc02c52c4f.jpg"
+  },
+  "N13": {
+   "image_id": "img_0130",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.34674647889855276,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0206_aac71b33fe78.jpg"
+  },
+  "N14": {
+   "image_id": "img_0613",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LRCDF6IU",
+   "city": "宁波市",
+   "e8g_score": 0.999999948591349,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0478_92bf4e85c1eb.jpg"
+  },
+  "N15": {
+   "image_id": "img_0619",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JAKCKPDE",
+   "city": "湖州市",
+   "e8g_score": 0.9555039125458522,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0929_d54844ec888f.jpg"
+  }
+ },
+ "2": {
+  "N01": {
+   "image_id": "img_0625",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JB1M9R1R",
+   "city": "绍兴市",
+   "e8g_score": 0.8005677440744777,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1283_6b8f5cf0fc20.jpg"
+  },
+  "N02": {
+   "image_id": "img_0490",
+   "label": "negative",
+   "neg_type": "indoor",
+   "store_id": "store_amap_B0FFM0KX3P",
+   "city": "金华市",
+   "e8g_score": 0.09930936371373318,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap_88cc130396df_f4108149.jpg"
+  },
+  "N03": {
+   "image_id": "img_0393",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.20754908068687525,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0547_63518164334c.jpg"
+  },
+  "N04": {
+   "image_id": "img_0614",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MGLRO2FJ",
+   "city": "宁波市",
+   "e8g_score": 0.9995578533853969,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0537_518e2fe71aa3.jpg"
+  },
+  "N05": {
+   "image_id": "img_0617",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0JK3SGAR3",
+   "city": "嘉兴市",
+   "e8g_score": 0.8014351819104992,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0828_0ca10cecf348.jpg"
+  },
+  "N06": {
+   "image_id": "img_0285",
+   "label": "negative",
+   "neg_type": "competitor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.5143247205858725,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0428_dd995f0bf84c.jpg"
+  },
+  "N07": {
+   "image_id": "img_0622",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0I0KGXBUJ",
+   "city": "绍兴市",
+   "e8g_score": 0.9985373727714056,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1225_06453e922d4c.jpg"
+  },
+  "N08": {
+   "image_id": "img_0621",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0G2MZX3GT",
+   "city": "绍兴市",
+   "e8g_score": 0.9888518247386132,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1186_542d8f8b5d0f.jpg"
+  },
+  "N09": {
+   "image_id": "img_0627",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0L6KGMUYR",
+   "city": "绍兴市",
+   "e8g_score": 0.9862920567266691,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1339_6fec0b36be1d.jpg"
+  },
+  "N10": {
+   "image_id": "img_0616",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KU79L7XM",
+   "city": "嘉兴市",
+   "e8g_score": 0.9999988370758,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0788_e23f8f54286a.jpg"
+  },
+  "N11": {
+   "image_id": "img_0628",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0G0VUMF10",
+   "city": "绍兴市",
+   "e8g_score": 0.9843964418680154,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1380_6df7beb2959e.jpg"
+  },
+  "N12": {
+   "image_id": "img_0043",
+   "label": "negative",
+   "neg_type": "competitor",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.35388631734176906,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0038_064eab03ef19.jpg"
+  },
+  "N13": {
+   "image_id": "img_0610",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0HK7ZLVV6",
+   "city": "嘉兴市",
+   "e8g_score": 0.9986393103525804,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0796_3e52a6ed9541.jpg"
+  },
+  "N14": {
+   "image_id": "img_0620",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0M6OZKYMG",
+   "city": "湖州市",
+   "e8g_score": 0.814347672447434,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0942_9bb9ba27a930.jpg"
+  },
+  "N15": {
+   "image_id": "img_0099",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.1154039714575275,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0118_aeafd5a578cb.jpg"
+  }
+ },
+ "3": {
+  "N01": {
+   "image_id": "img_0618",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0M607M9SD",
+   "city": "湖州市",
+   "e8g_score": 0.800007253768595,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0926_52d96b90fe14.jpg"
+  },
+  "N02": {
+   "image_id": "img_0186",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.0800027858417004,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0307_732baa638b2f.png"
+  },
+  "N03": {
+   "image_id": "img_0626",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0H3THGN62",
+   "city": "绍兴市",
+   "e8g_score": 0.9985713293889245,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1304_5304de0a1568.jpg"
+  },
+  "N04": {
+   "image_id": "img_0604",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0KKXK4CGC",
+   "city": "宁波市",
+   "e8g_score": 0.9999872564283541,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0487_aac9ad30cc87.jpg"
+  },
+  "N05": {
+   "image_id": "img_0607",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LDP71GJC",
+   "city": "杭州市",
+   "e8g_score": 0.9989527769307546,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0154_8e2cc1ac672d.jpg"
+  },
+  "N06": {
+   "image_id": "img_0189",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.4834649923863815,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0310_8821b209c59a.png"
+  },
+  "N07": {
+   "image_id": "img_0328",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.31227150605521115,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0476_3dfa957324c3.jpg"
+  },
+  "N08": {
+   "image_id": "img_0605",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LDCHTL1D",
+   "city": "宁波市",
+   "e8g_score": 0.9999981769466217,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0656_de99c2f43193.jpg"
+  },
+  "N09": {
+   "image_id": "img_0630",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B023A14BKO",
+   "city": "衢州市",
+   "e8g_score": 0.9901906593725771,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2179_b51754e5ae4a.jpg"
+  },
+  "N10": {
+   "image_id": "img_0601",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0FFMBZOHB",
+   "city": "嘉兴市",
+   "e8g_score": 0.9999891761572615,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0776_13dd0f7aba53.jpg"
+  },
+  "N11": {
+   "image_id": "img_0036",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "store_id": "",
+   "city": "",
+   "e8g_score": 0.5470383230648885,
+   "e8g_pred": false,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0024_6d6e1b04446d.jpg"
+  },
+  "N12": {
+   "image_id": "img_0624",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0GRYUVLA6",
+   "city": "绍兴市",
+   "e8g_score": 0.9894417836135024,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_1263_600effe0fcfa.jpg"
+  },
+  "N13": {
+   "image_id": "img_0609",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0IAZ5SPO7",
+   "city": "嘉兴市",
+   "e8g_score": 0.9950735001837571,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0774_6d49d2de929d.jpg"
+  },
+  "N14": {
+   "image_id": "img_0602",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0LKA79D78",
+   "city": "宁波市",
+   "e8g_score": 0.9986012897462075,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0629_847080f393bf.jpg"
+  },
+  "N15": {
+   "image_id": "img_0612",
+   "label": "positive",
+   "neg_type": "",
+   "store_id": "poi_B0MR4DFKGX",
+   "city": "宁波市",
+   "e8g_score": 0.999998995127337,
+   "e8g_pred": true,
+   "file": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0587_230cc4d1963e.jpg"
+  }
+ }
+}
