@@ -1,0 +1,35 @@
+{
+ "batch": "img_0499-0579 crawl tail (76 张, 注册表冻结后抓取, 未入账本)",
+ "screen": "E8-G 冻结三通道 0.636 严格>, 画廊=32 正例; 0/76 过阈值, 最高 0.602",
+ "visual_verification": {
+  "n": 16,
+  "positives_found": 0,
+  "coverage": "分数段 0.44-0.60 全覆盖(全部 top-20 内 16 张)",
+  "verdicts": {
+   "tail_524": "competitor_stock(一家生活馆,昵图网素材)",
+   "tail_508": "competitor_stock(利佳生活超市,设计稿)",
+   "tail_562": "competitor_stock(裕家超市,设计稿×5)",
+   "tail_528": "design_stock(hyman便利店效果图)",
+   "tail_547": "competitor_stock(鲜品汇生鲜,nipic)",
+   "tail_560": "competitor_stock(每日生鲜,nipic)",
+   "tail_504": "competitor_stock(裕家超市,nipic)",
+   "tail_578": "competitor_stock(壹兴店LIFEMART,nipic)",
+   "tail_526": "competitor_stock(隆臻商行/便民超市,效果图)",
+   "tail_511": "competitor_stock(友联生活超市,设计稿)",
+   "tail_521": "competitor_stock(好又多生活超市,效果图)",
+   "tail_515": "competitor_stock(乐卖特/乐万家,CDR模板)",
+   "tail_541": "competitor_stock(慧购超市,效果图)",
+   "tail_499": "competitor_stock(甘靖优选,效果图)",
+   "tail_563": "design_stock(果蔬超级市场,效果图)",
+   "tail_571": "competitor_stock(家宝生鲜综合超市,模板)"
+  },
+  "finding": "全部为昵图网(nipic)门头设计模板/效果图或他牌素材图 — 该批次是'超市门头设计'素材抓取波, 非品牌 POI 波"
+ },
+ "batch_class": "design_stock",
+ "remaining_60": {
+  "class_inferred": "design_stock(同批次推定, 未逐张核验)",
+  "evidence_level": "low",
+  "note": "治理: 推定类仅作账本备注, 不自动写 registry; 若需入正式负例集须逐张全分辨率核验"
+ },
+ "conclusion": "抓取池正例产量已耗尽: 656 文件 = 435 已注册 + 76 长尾(0 正例, 素材批次) + 145 非抓取(seed/官方/logo)"
+}

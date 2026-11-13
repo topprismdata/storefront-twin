@@ -1,0 +1,539 @@
+{
+ "thr": 0.636,
+ "n_tail": 76,
+ "hits": 0,
+ "ranked": [
+  {
+   "image_id": "tail_524",
+   "file": "c0524_f7eac158a9ab.webp",
+   "score": 0.602,
+   "pred": false,
+   "s_clip": 1.0
+  },
+  {
+   "image_id": "tail_508",
+   "file": "c0508_552e17852d93.jpg",
+   "score": 0.5744,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_562",
+   "file": "c0562_449842bb0b8b.jpg",
+   "score": 0.5652,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_528",
+   "file": "c0528_e559841a6e9d.jpg",
+   "score": 0.5644,
+   "pred": false,
+   "s_clip": 0.8
+  },
+  {
+   "image_id": "tail_547",
+   "file": "c0547_63518164334c.jpg",
+   "score": 0.56,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_560",
+   "file": "c0560_f04ed1a73b5a.jpg",
+   "score": 0.56,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_504",
+   "file": "c0504_d7104472f17b.jpg",
+   "score": 0.5497,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_578",
+   "file": "c0578_d5a9cbcfcaf0.jpg",
+   "score": 0.546,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_526",
+   "file": "c0526_77d523d75aa2.jpg",
+   "score": 0.5373,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_511",
+   "file": "c0511_2b2e8e48c240.jpg",
+   "score": 0.5316,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_521",
+   "file": "c0521_07e74ea640d1.jpg",
+   "score": 0.5277,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_515",
+   "file": "c0515_a4ec207eabd8.jpg",
+   "score": 0.4928,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_569",
+   "file": "c0569_23fd87277008.jpg",
+   "score": 0.4861,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_541",
+   "file": "c0541_80cec976a59e.jpg",
+   "score": 0.4857,
+   "pred": false,
+   "s_clip": 0.6
+  },
+  {
+   "image_id": "tail_563",
+   "file": "c0563_15188801b7ad.jpg",
+   "score": 0.48,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_525",
+   "file": "c0525_5d996cb7c4a5.jpg",
+   "score": 0.4723,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_568",
+   "file": "c0568_8dd6f0b24aa0.jpg",
+   "score": 0.4616,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_499",
+   "file": "c0499_082725bdc309.jpg",
+   "score": 0.442,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_571",
+   "file": "c0571_eb5761343aaf.jpg",
+   "score": 0.4397,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_502",
+   "file": "c0502_390d244dcaef.jpg",
+   "score": 0.4388,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_549",
+   "file": "c0549_045d9a4bc3e7.jpg",
+   "score": 0.4315,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_544",
+   "file": "c0544_58f66a76d3a6.jpg",
+   "score": 0.4212,
+   "pred": false,
+   "s_clip": 0.6
+  },
+  {
+   "image_id": "tail_543",
+   "file": "c0543_71d2328162f3.jpg",
+   "score": 0.4065,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_527",
+   "file": "c0527_f9a2b48e4744.jpg",
+   "score": 0.4063,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_566",
+   "file": "c0566_c3203623c099.jpg",
+   "score": 0.3921,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_532",
+   "file": "c0532_2f10d041e46e.jpg",
+   "score": 0.3909,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_505",
+   "file": "c0505_030b699ec8f4.jpg",
+   "score": 0.3901,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_507",
+   "file": "c0507_397d4e0fd508.jpg",
+   "score": 0.3807,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_545",
+   "file": "c0545_c387308958e4.jpg",
+   "score": 0.3807,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_536",
+   "file": "c0536_62800599efda.jpg",
+   "score": 0.3736,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_520",
+   "file": "c0520_dcf43a8c30ca.webp",
+   "score": 0.3646,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_554",
+   "file": "c0554_cbdb86a36fea.jpg",
+   "score": 0.3645,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_548",
+   "file": "c0548_e26d0b7cf533.jpg",
+   "score": 0.3505,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_559",
+   "file": "c0559_96ed62303298.jpg",
+   "score": 0.3472,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_512",
+   "file": "c0512_7007860b3a38.webp",
+   "score": 0.3393,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_533",
+   "file": "c0533_4c6aab2aa0e6.webp",
+   "score": 0.3367,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_534",
+   "file": "c0534_86c34d063eb5.jpg",
+   "score": 0.328,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_523",
+   "file": "c0523_475acf18ae8f.jpg",
+   "score": 0.3269,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_522",
+   "file": "c0522_5ad7e187e0f4.jpg",
+   "score": 0.323,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_537",
+   "file": "c0537_14b3309116a6.jpg",
+   "score": 0.3224,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_500",
+   "file": "c0500_c36c19869bbf.jpg",
+   "score": 0.3197,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_503",
+   "file": "c0503_7b7513e85732.jpg",
+   "score": 0.3129,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_565",
+   "file": "c0565_5adf075477b6.jpg",
+   "score": 0.3122,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_535",
+   "file": "c0535_cbb20a2015fa.jpg",
+   "score": 0.31,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_575",
+   "file": "c0575_816b30987939.jpg",
+   "score": 0.3067,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_579",
+   "file": "c0579_3c1f6fbcf4c9.webp",
+   "score": 0.3051,
+   "pred": false,
+   "s_clip": 0.4
+  },
+  {
+   "image_id": "tail_510",
+   "file": "c0510_16aa16384d29.jpg",
+   "score": 0.3,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_538",
+   "file": "c0538_414c699b107f.jpg",
+   "score": 0.2957,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_501",
+   "file": "c0501_f38bc9cc8620.jpg",
+   "score": 0.2947,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_506",
+   "file": "c0506_d9f1c5236f6e.jpg",
+   "score": 0.2783,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_530",
+   "file": "c0530_593a3dd6371c.jpg",
+   "score": 0.2746,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_552",
+   "file": "c0552_51ecd7e14517.jpg",
+   "score": 0.2739,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_519",
+   "file": "c0519_316b2df2cca0.jpg",
+   "score": 0.2714,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_572",
+   "file": "c0572_d18e25db97e5.jpg",
+   "score": 0.271,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_518",
+   "file": "c0518_cdc382a37d69.jpg",
+   "score": 0.2672,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_509",
+   "file": "c0509_ebaa47759f51.jpg",
+   "score": 0.2659,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_513",
+   "file": "c0513_05bc648f9a62.jpg",
+   "score": 0.2645,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_540",
+   "file": "c0540_b78a532eeaa2.jpg",
+   "score": 0.2575,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_553",
+   "file": "c0553_6048c88c2b59.jpg",
+   "score": 0.2553,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_550",
+   "file": "c0550_192fa4415ec6.jpg",
+   "score": 0.2528,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_542",
+   "file": "c0542_19f90e40d473.jpg",
+   "score": 0.2486,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_539",
+   "file": "c0539_690124c1da29.jpg",
+   "score": 0.2482,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_558",
+   "file": "c0558_393e4213930d.jpg",
+   "score": 0.2455,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_516",
+   "file": "c0516_f47e9a60a49a.jpg",
+   "score": 0.2296,
+   "pred": false,
+   "s_clip": 0.2
+  },
+  {
+   "image_id": "tail_577",
+   "file": "c0577_282af92349ce.jpg",
+   "score": 0.2282,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_529",
+   "file": "c0529_8599162eb359.jpg",
+   "score": 0.2258,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_517",
+   "file": "c0517_71e94604b99c.jpg",
+   "score": 0.2076,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_551",
+   "file": "c0551_4b05dc299ace.jpg",
+   "score": 0.2076,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_576",
+   "file": "c0576_9f4207db3fc7.jpg",
+   "score": 0.1886,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_546",
+   "file": "c0546_01d454eed353.jpg",
+   "score": 0.1787,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_531",
+   "file": "c0531_5b2f8b1f8cd7.jpg",
+   "score": 0.1695,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_514",
+   "file": "c0514_ce9493a151da.jpg",
+   "score": 0.1492,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_557",
+   "file": "c0557_5f9cd433dc80.jpg",
+   "score": 0.0876,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_556",
+   "file": "c0556_8ab95d761cea.jpg",
+   "score": 0.0786,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_564",
+   "file": "c0564_2d8e9e54d3c1.jpg",
+   "score": 0.0753,
+   "pred": false,
+   "s_clip": 0.0
+  },
+  {
+   "image_id": "tail_561",
+   "file": "c0561_fe03a6786540.jpg",
+   "score": 0.0509,
+   "pred": false,
+   "s_clip": 0.0
+  }
+ ]
+}
