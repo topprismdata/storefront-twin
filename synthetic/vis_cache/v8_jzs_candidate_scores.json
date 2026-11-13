@@ -1,0 +1,9567 @@
+{
+ "thr": 0.636,
+ "n": 956,
+ "hits": 58,
+ "ranked": [
+  {
+   "image_id": "c8_c556",
+   "file": "c556.jpg",
+   "score": 0.9996,
+   "pred": true,
+   "s_clip": 1.0,
+   "poi": "B0MR79YLS6",
+   "poi_name": "左邻右舍(恒大观澜府店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c563",
+   "file": "c563.jpg",
+   "score": 0.9985,
+   "pred": true,
+   "s_clip": 1.0,
+   "poi": "B0MGS5MJM8",
+   "poi_name": "左邻·右舍(眼镜城店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c251",
+   "file": "c251.jpg",
+   "score": 0.9864,
+   "pred": true,
+   "s_clip": 1.0,
+   "poi": "B0LA6DCG70",
+   "poi_name": "左邻右舍便利超市(名馨花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c277",
+   "file": "c277.jpg",
+   "score": 0.92,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0L29ZRH7W",
+   "poi_name": "左邻右舍便利超市(华贸姑苏里店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c428",
+   "file": "c428.jpg",
+   "score": 0.92,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0FFGEYJ4A",
+   "poi_name": "左邻右舍便利店(云享城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c741",
+   "file": "c741.jpg",
+   "score": 0.9196,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0LR9HPGR6",
+   "poi_name": "左邻右舍便利店(玖璋雅园店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c264",
+   "file": "c264.jpg",
+   "score": 0.9191,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0LROXXAZV",
+   "poi_name": "左邻右舍便利超市(珠江路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c272",
+   "file": "c272.jpg",
+   "score": 0.9171,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0K069BE4H",
+   "poi_name": "左邻右舍便利超市(国风华苑店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c374",
+   "file": "c374.jpg",
+   "score": 0.9163,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0FFGCAMO2",
+   "poi_name": "左邻右舍便利店(融城丰汇店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c256",
+   "file": "c256.jpg",
+   "score": 0.9118,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0L3MSKGR6",
+   "poi_name": "左邻右舍便利超市(金山南路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c595",
+   "file": "c595.jpg",
+   "score": 0.8555,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0FFHMLBR1",
+   "poi_name": "好一家馄饨(明发·国际新城东区店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c338",
+   "file": "c338.jpg",
+   "score": 0.84,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0LDPLPUUD",
+   "poi_name": "左邻右舍便利超市(金浦路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c391",
+   "file": "c391.jpg",
+   "score": 0.8399,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0MDDAM4HB",
+   "poi_name": "左邻·右舍便利店(盘胥路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c352",
+   "file": "c352.jpg",
+   "score": 0.8391,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0L1HRY6ZT",
+   "poi_name": "左邻右舍便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c738",
+   "file": "c738.jpg",
+   "score": 0.8095,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0IRJLP1RM",
+   "poi_name": "左邻右舍便利店(西夏墅店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c736",
+   "file": "c736.jpg",
+   "score": 0.808,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0MG5L5HS0",
+   "poi_name": "左邻右舍便利超市(横山桥店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c569",
+   "file": "c569.jpg",
+   "score": 0.7886,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0MDF7APT2",
+   "poi_name": "左邻·右舍(云林苑店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c704",
+   "file": "c704.jpg",
+   "score": 0.7868,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0L054SSEV",
+   "poi_name": "左邻右舍便利超市(局前街店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c380",
+   "file": "c380.jpg",
+   "score": 0.7718,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0KRCH80BI",
+   "poi_name": "左邻右舍便利超市(市后街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c292",
+   "file": "c292.jpg",
+   "score": 0.7702,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0K0G75AEC",
+   "poi_name": "左邻右舍便利超市(香港街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c716",
+   "file": "c716.jpg",
+   "score": 0.76,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0M6ZL1FPV",
+   "poi_name": "左邻右舍便利超市(香树湾店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c393",
+   "file": "c393.jpg",
+   "score": 0.7572,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0MU69WH1P",
+   "poi_name": "左邻·右舍(新联大厦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c722",
+   "file": "c722.jpg",
+   "score": 0.7507,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MRCDQJO5",
+   "poi_name": "左邻右舍(万博广场店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c26",
+   "file": "c26.jpg",
+   "score": 0.7455,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0K1ACT72G",
+   "poi_name": "左邻右舍便利超市(临港洞泾大厦店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c327",
+   "file": "c327.jpg",
+   "score": 0.7417,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MD2U66AW",
+   "poi_name": "左邻右舍便利店(吴风甫里街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c382",
+   "file": "c382.jpg",
+   "score": 0.7407,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0L1HXZ01O",
+   "poi_name": "左邻右舍(世界服装中心店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c298",
+   "file": "c298.jpg",
+   "score": 0.7365,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MUHLQIGW",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c268",
+   "file": "c268.jpg",
+   "score": 0.7355,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MUF7HJI5",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c365",
+   "file": "c365.jpg",
+   "score": 0.7218,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0M67RYYTB",
+   "poi_name": "左邻右舍便利超市(吴江盛泽财富中心购物公园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c325",
+   "file": "c325.jpg",
+   "score": 0.7209,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0M69CCYYI",
+   "poi_name": "左邻右舍便利超市(立雅先番荟店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c45",
+   "file": "c45.jpg",
+   "score": 0.7203,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0MRVUCY79",
+   "poi_name": "左邻·右舍便利店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c288",
+   "file": "c288.jpg",
+   "score": 0.718,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MBBCWIPU",
+   "poi_name": "左邻右舍便利超市(合景·领峰店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c356",
+   "file": "c356.jpg",
+   "score": 0.7119,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MBNASIFV",
+   "poi_name": "左邻右舍便利超市(秋泽路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c806",
+   "file": "c806.jpg",
+   "score": 0.703,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0FFGWY1NX",
+   "poi_name": "绝味香酥爆鱼",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c314",
+   "file": "c314.jpg",
+   "score": 0.6942,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0LKKLOPAP",
+   "poi_name": "左邻右舍便利超市(苏州龙之梦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c88",
+   "file": "c88.jpg",
+   "score": 0.6931,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0KURH3V7P",
+   "poi_name": "立邦金牌授权店-德国都芳漆多乐士涂料微水泥艺术漆地坪漆销售",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c359",
+   "file": "c359.jpg",
+   "score": 0.687,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MUS49SSD",
+   "poi_name": "左邻右舍便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c19",
+   "file": "c19.jpg",
+   "score": 0.683,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0L3X12EBF",
+   "poi_name": "左邻右舍便利店(虹梅南路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c396",
+   "file": "c396.jpg",
+   "score": 0.68,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0LRUPCK5A",
+   "poi_name": "左邻右舍便利超市(胥口中市街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c573",
+   "file": "c573.jpg",
+   "score": 0.68,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0MUFSG28U",
+   "poi_name": "左邻·右舍(五三零大厦店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c718",
+   "file": "c718.jpg",
+   "score": 0.6796,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0MGL9NWLX",
+   "poi_name": "左邻右舍便利超市(世茂广场店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c400",
+   "file": "c400.jpg",
+   "score": 0.679,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0L6Z52CL5",
+   "poi_name": "左邻·右舍(前进中路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c723",
+   "file": "c723.jpg",
+   "score": 0.6786,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0MAPNV8VE",
+   "poi_name": "左邻右舍(招商花园城店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c398",
+   "file": "c398.jpg",
+   "score": 0.6733,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0M60XMZCR",
+   "poi_name": "左邻右舍便利超市(盛泽城中花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c850",
+   "file": "c850.jpg",
+   "score": 0.672,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0H2JMTAKT",
+   "poi_name": "左邻右舍社区团购(爱民路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1155",
+   "file": "c1155.jpg",
+   "score": 0.6704,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0JD1M1CJZ",
+   "poi_name": "喵一个便利店(满芳庭店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c287",
+   "file": "c287.jpg",
+   "score": 0.6664,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0M697DI6J",
+   "poi_name": "左邻右舍便利超市(金河国际大厦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c262",
+   "file": "c262.jpg",
+   "score": 0.6654,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0L197HUT2",
+   "poi_name": "左邻右舍便利超市(苏州城市生活广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1200",
+   "file": "c1200.jpg",
+   "score": 0.6625,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0I2HU2V8N",
+   "poi_name": "美好便利(扬州蒋王邻里汇店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c347",
+   "file": "c347.jpg",
+   "score": 0.6605,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0M6G9PFK7",
+   "poi_name": "左邻右舍超市",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c419",
+   "file": "c419.jpg",
+   "score": 0.6491,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0FFG6YAGJ",
+   "poi_name": "左邻右舍便利超市(方家桥小区店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c227",
+   "file": "c227.jpg",
+   "score": 0.6456,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0FFKRBC08",
+   "poi_name": "好瑞家百货超市(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1096",
+   "file": "c1096.jpg",
+   "score": 0.6439,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0201085E4",
+   "poi_name": "都是一家人土菜馆",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c453",
+   "file": "c453.jpg",
+   "score": 0.6435,
+   "pred": true,
+   "s_clip": 0.8,
+   "poi": "B0G0PRFBFA",
+   "poi_name": "四海一家超市(理想城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1160",
+   "file": "c1160.jpg",
+   "score": 0.6428,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0M6XXTA0X",
+   "poi_name": "三胖家便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1219",
+   "file": "c1219.jpg",
+   "score": 0.6414,
+   "pred": true,
+   "s_clip": 0.2,
+   "poi": "B0FFGYGPBV",
+   "poi_name": "佳佳便利超市(资福巷店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c269",
+   "file": "c269.jpg",
+   "score": 0.6403,
+   "pred": true,
+   "s_clip": 0.6,
+   "poi": "B0LKSDICJC",
+   "poi_name": "左邻右舍便利店(中市街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c576",
+   "file": "c576.jpg",
+   "score": 0.6395,
+   "pred": true,
+   "s_clip": 0.4,
+   "poi": "B0MACLW42B",
+   "poi_name": "左邻右舍(长山中学店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c282",
+   "file": "c282.jpg",
+   "score": 0.6327,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MU9C0GJL",
+   "poi_name": "左邻右舍便利超市(金色家园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1392",
+   "file": "c1392.jpg",
+   "score": 0.6299,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFM7A538",
+   "poi_name": "左邻右里日用品店",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c714",
+   "file": "c714.jpg",
+   "score": 0.6256,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0M6MUUWRH",
+   "poi_name": "左邻右舍便利超市(聚禄大厦店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c240",
+   "file": "c240.jpg",
+   "score": 0.6215,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MDJOLBZ6",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c107",
+   "file": "c107.jpg",
+   "score": 0.6127,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFGCEOTU",
+   "poi_name": "一家人超市(闸航公路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c301",
+   "file": "c301.jpg",
+   "score": 0.61,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0L0NHRYU7",
+   "poi_name": "左邻右舍便利超市(苏高新大成珺店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1158",
+   "file": "c1158.jpg",
+   "score": 0.603,
+   "pred": false,
+   "s_clip": 0.8,
+   "poi": "B0LRTD9EGK",
+   "poi_name": "美好便利(扬州观潮路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c397",
+   "file": "c397.jpg",
+   "score": 0.6018,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MRMCURAN",
+   "poi_name": "左邻·右舍便利店(晨丰路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c375",
+   "file": "c375.jpg",
+   "score": 0.6,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M6MCUPWQ",
+   "poi_name": "左邻右舍便利超市(梦之悦花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c408",
+   "file": "c408.jpg",
+   "score": 0.6,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MU35PARL",
+   "poi_name": "左邻右舍便利店(嘉宝花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c799",
+   "file": "c799.jpg",
+   "score": 0.6,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0207035GP",
+   "poi_name": "一家人饭店(清溪别墅店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1583",
+   "file": "c1583.jpg",
+   "score": 0.6,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG1DUJN",
+   "poi_name": "人人快餐(北门大街店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1752",
+   "file": "c1752.jpg",
+   "score": 0.6,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KA1AQI8W",
+   "poi_name": "尚源超市(泽园·未来城店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c378",
+   "file": "c378.jpg",
+   "score": 0.5999,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MU9ZYNMC",
+   "poi_name": "左邻右舍便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c15",
+   "file": "c15.jpg",
+   "score": 0.5967,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L1R5BTXR",
+   "poi_name": "左邻右舍便利超市",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1325",
+   "file": "c1325.jpg",
+   "score": 0.5934,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3GZHVSZ",
+   "poi_name": "泰州惠惠数码",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c553",
+   "file": "c553.jpg",
+   "score": 0.5929,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0M6JCF507",
+   "poi_name": "左邻·右舍",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1383",
+   "file": "c1383.jpg",
+   "score": 0.5927,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6BHG6O6",
+   "poi_name": "左邻右舍便利超市(德惠·尚书房店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c322",
+   "file": "c322.jpg",
+   "score": 0.592,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRDULE4K",
+   "poi_name": "左邻右舍便利店(华杨南路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c248",
+   "file": "c248.jpg",
+   "score": 0.5911,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MGMRARYS",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c406",
+   "file": "c406.jpg",
+   "score": 0.5895,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0M1NOWDPF",
+   "poi_name": "左邻右舍便利店(名城花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1953",
+   "file": "c1953.jpg",
+   "score": 0.5868,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFDF92E",
+   "poi_name": "黄记第一家擀面皮(中山堂店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1906",
+   "file": "c1906.jpg",
+   "score": 0.5857,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JBRHMP36",
+   "poi_name": "左邻右舍鲜果园",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1250",
+   "file": "c1250.jpg",
+   "score": 0.5784,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM848RF",
+   "poi_name": "哈尔滨轴承(高峰大楼店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c559",
+   "file": "c559.jpg",
+   "score": 0.576,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0MUG6GUTQ",
+   "poi_name": "左邻右舍便利店(24小时营业)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1470",
+   "file": "c1470.jpg",
+   "score": 0.5756,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG8PMR8",
+   "poi_name": "一家人酒店(金汇龙湖店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1884",
+   "file": "c1884.jpg",
+   "score": 0.5751,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L2RZMJE2",
+   "poi_name": "石安河五粮酒坊(苏禾酒业直营店001)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c605",
+   "file": "c605.jpg",
+   "score": 0.5748,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI5SU6E",
+   "poi_name": "徐州第一家擀面皮",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c709",
+   "file": "c709.jpg",
+   "score": 0.5727,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M6ZR1FMK",
+   "poi_name": "左邻·右舍",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c570",
+   "file": "c570.jpg",
+   "score": 0.5726,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKLR93W4",
+   "poi_name": "左邻右舍便利店(24小时营业)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c980",
+   "file": "c980.jpg",
+   "score": 0.5722,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KAXA6AE6",
+   "poi_name": "左邻右舍(万林名都城店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c4",
+   "file": "c4.jpg",
+   "score": 0.5678,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M1G57FV1",
+   "poi_name": "左邻右舍(24h)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c304",
+   "file": "c304.jpg",
+   "score": 0.5674,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MUTXN7OD",
+   "poi_name": "左邻右舍(启迪科技城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c36",
+   "file": "c36.jpg",
+   "score": 0.5658,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B001576YBZ",
+   "poi_name": "左邻右舍便利超市(誉品·谷水湾店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c833",
+   "file": "c833.jpg",
+   "score": 0.565,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG9FS1G",
+   "poi_name": "老字号北京脆皮烤鸭",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c567",
+   "file": "c567.jpg",
+   "score": 0.5637,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFICOFOZ",
+   "poi_name": "左邻右舍便利店",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1143",
+   "file": "c1143.jpg",
+   "score": 0.563,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H6L5DMQU",
+   "poi_name": "天天便利店(维扬路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1178",
+   "file": "c1178.jpg",
+   "score": 0.5628,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFMCHQHA",
+   "poi_name": "子辰便利店(上林苑店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1126",
+   "file": "c1126.jpg",
+   "score": 0.5625,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02020I19T",
+   "poi_name": "左邻右舍(东花园街店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1632",
+   "file": "c1632.jpg",
+   "score": 0.5623,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG6NXW6",
+   "poi_name": "基家农资",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1333",
+   "file": "c1333.jpg",
+   "score": 0.5616,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFDM7B1",
+   "poi_name": "全有玻璃移门",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c332",
+   "file": "c332.jpg",
+   "score": 0.5609,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MG47XL6A",
+   "poi_name": "左邻右舍便利店(文缘人才公寓店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c426",
+   "file": "c426.jpg",
+   "score": 0.5606,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MR05I93B",
+   "poi_name": "左邻右舍便利店(半月湾店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c371",
+   "file": "c371.jpg",
+   "score": 0.5604,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0KUNOXWOO",
+   "poi_name": "左邻右舍便利超市(昆山青阳万达广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c551",
+   "file": "c551.jpg",
+   "score": 0.56,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0L2J77CUS",
+   "poi_name": "左邻右舍便利超市(蓝墅店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c945",
+   "file": "c945.jpg",
+   "score": 0.56,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0G2AK1W2Q",
+   "poi_name": "美好便利(新世界花苑店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c174",
+   "file": "c174.jpg",
+   "score": 0.5578,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFIPGBTQ",
+   "poi_name": "链家(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1221",
+   "file": "c1221.jpg",
+   "score": 0.5569,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHVYID0",
+   "poi_name": "一家人烧烤(荷花池商业街区店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c403",
+   "file": "c403.jpg",
+   "score": 0.5558,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0HUVZ1MPP",
+   "poi_name": "左邻右舍便利超市(花样城商业广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c762",
+   "file": "c762.jpg",
+   "score": 0.5532,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0H3SNHANW",
+   "poi_name": "十足便利店(常州左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c279",
+   "file": "c279.jpg",
+   "score": 0.5523,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MUHCPBQ3",
+   "poi_name": "左邻右舍(红星生活广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1982",
+   "file": "c1982.jpg",
+   "score": 0.5519,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHRWI7O",
+   "poi_name": "胖哥牌第一家擀面皮(官湖店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1786",
+   "file": "c1786.jpg",
+   "score": 0.55,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L04UXK4L",
+   "poi_name": "左邻右舍便利超市(金海西路店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c219",
+   "file": "c219.jpg",
+   "score": 0.5483,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0JRK16PNA",
+   "poi_name": "享年轻悦浮生美容中心(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c852",
+   "file": "c852.jpg",
+   "score": 0.5452,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MGLRNV9T",
+   "poi_name": "左邻右舍私房菜",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c2044",
+   "file": "c2044.jpg",
+   "score": 0.5442,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL7BUD9",
+   "poi_name": "邳州第一家擀面皮(万象天地购物广场店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1554",
+   "file": "c1554.jpg",
+   "score": 0.5439,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKWLMCY",
+   "poi_name": "四海一家超市(陆集路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c724",
+   "file": "c724.jpg",
+   "score": 0.5436,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MBOHX61D",
+   "poi_name": "左邻右舍(星港花苑店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c2037",
+   "file": "c2037.jpg",
+   "score": 0.5427,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFFV88M",
+   "poi_name": "邳州第一家擀面皮(青年东路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1747",
+   "file": "c1747.jpg",
+   "score": 0.5426,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3Y4UD",
+   "poi_name": "好一家服饰(半城店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1501",
+   "file": "c1501.jpg",
+   "score": 0.5406,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2S95Z",
+   "poi_name": "好一家服饰广场(新港店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1712",
+   "file": "c1712.jpg",
+   "score": 0.54,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL983ZV",
+   "poi_name": "宝贝当家",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1347",
+   "file": "c1347.jpg",
+   "score": 0.5396,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZRC0J",
+   "poi_name": "烟酒百货(华联购物广场店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1693",
+   "file": "c1693.jpg",
+   "score": 0.5378,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF2RJS7",
+   "poi_name": "好一家服饰广场(滨河店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1703",
+   "file": "c1703.jpg",
+   "score": 0.5376,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0CHX9TW",
+   "poi_name": "嘿有家锅贴(御景山庄汇景园店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1518",
+   "file": "c1518.jpg",
+   "score": 0.5365,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK9KNET",
+   "poi_name": "老舅妈烤猪蹄·烤冷面(银厦店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1850",
+   "file": "c1850.jpg",
+   "score": 0.5358,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGYHKHH",
+   "poi_name": "冠珠陶瓷(家家爱家居店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c2050",
+   "file": "c2050.jpg",
+   "score": 0.5355,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKGN16LW",
+   "poi_name": "京东家居厨房卫浴",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c469",
+   "file": "c469.jpg",
+   "score": 0.5351,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFISHH14",
+   "poi_name": "后门第一家烧烤",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1687",
+   "file": "c1687.jpg",
+   "score": 0.5334,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHHUYFI",
+   "poi_name": "第一家凉皮店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1514",
+   "file": "c1514.jpg",
+   "score": 0.5332,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHW6EYR",
+   "poi_name": "爱心小厨(东亭二村店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c877",
+   "file": "c877.jpg",
+   "score": 0.5326,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B01FF01YZN",
+   "poi_name": "海顺便利店(爱民路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c730",
+   "file": "c730.jpg",
+   "score": 0.5324,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJP1PZU",
+   "poi_name": "左邻右舍怀旧家乡小吃(龙城创客社区店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1783",
+   "file": "c1783.jpg",
+   "score": 0.5322,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRBHAPMV",
+   "poi_name": "左邻右舍便利店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1726",
+   "file": "c1726.jpg",
+   "score": 0.5313,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGQ6HVT",
+   "poi_name": "公牛插座钢材彩钢五金电缆电动工具保利管道",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1524",
+   "file": "c1524.jpg",
+   "score": 0.5311,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGLHGH39",
+   "poi_name": "左邻右舍私房菜",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1232",
+   "file": "c1232.jpg",
+   "score": 0.5303,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFG8RSIL",
+   "poi_name": "兔子家(仪征工农路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1295",
+   "file": "c1295.jpg",
+   "score": 0.5295,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZQEE2",
+   "poi_name": "好一家服饰(易买得店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1394",
+   "file": "c1394.jpg",
+   "score": 0.5292,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L1RRB37E",
+   "poi_name": "左邻右鲜生鲜超市",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1865",
+   "file": "c1865.jpg",
+   "score": 0.5289,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL5KI8D",
+   "poi_name": "科利隆徐丙洋农资销售部",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1748",
+   "file": "c1748.jpg",
+   "score": 0.5284,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JRGMZQEW",
+   "poi_name": "三国烧烤(恒奕嘉苑店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1966",
+   "file": "c1966.jpg",
+   "score": 0.526,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HD77RVYE",
+   "poi_name": "第一家童装(天马小区建邺花园店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1475",
+   "file": "c1475.jpg",
+   "score": 0.5258,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKH0TNY",
+   "poi_name": "火星人集成灶(射阳旗舰店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1053",
+   "file": "c1053.jpg",
+   "score": 0.5251,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZA9J5",
+   "poi_name": "好一家窗帘床上用品",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1002",
+   "file": "c1002.jpg",
+   "score": 0.5222,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0K0FZB7LC",
+   "poi_name": "巡茶(南通市石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c562",
+   "file": "c562.jpg",
+   "score": 0.5207,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2K8CJ",
+   "poi_name": "左邻右舍(人民北路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1328",
+   "file": "c1328.jpg",
+   "score": 0.5204,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUPDXFCQ",
+   "poi_name": "好一家熟食店",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c328",
+   "file": "c328.jpg",
+   "score": 0.5195,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LK5UTLK7",
+   "poi_name": "左邻右舍便利超市(橙天里店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c565",
+   "file": "c565.jpg",
+   "score": 0.5143,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKUSWM38",
+   "poi_name": "左邻右舍便利超市(无锡分公司上汽大通汽车有限公司店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c7",
+   "file": "c7.jpg",
+   "score": 0.5139,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0L2A731F9",
+   "poi_name": "左邻右舍(张江科技港店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1659",
+   "file": "c1659.jpg",
+   "score": 0.5137,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J6MCJJ9Y",
+   "poi_name": "萨木森·披萨(金鼎华府店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1805",
+   "file": "c1805.jpg",
+   "score": 0.5137,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02060P7CN",
+   "poi_name": "好一家服饰广场(李埝店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c346",
+   "file": "c346.jpg",
+   "score": 0.5127,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3UBFME9",
+   "poi_name": "左邻右舍便利超市(沁香园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1133",
+   "file": "c1133.jpg",
+   "score": 0.5122,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0J3UL15LC",
+   "poi_name": "维扬便利(海信鸿扬世家和园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1479",
+   "file": "c1479.jpg",
+   "score": 0.5113,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHMAZBF",
+   "poi_name": "好一家服饰城(西团店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1665",
+   "file": "c1665.jpg",
+   "score": 0.5111,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G2MKVK2C",
+   "poi_name": "曹氏第一家包子店",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1173",
+   "file": "c1173.jpg",
+   "score": 0.5102,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHW8PPS",
+   "poi_name": "跨越移动通讯便利店(竹西花苑店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1887",
+   "file": "c1887.jpg",
+   "score": 0.5097,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020601V8I",
+   "poi_name": "鸿瑞批发部",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1285",
+   "file": "c1285.jpg",
+   "score": 0.5095,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KKRCKCJD",
+   "poi_name": "左邻右里超市(龙凤店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1637",
+   "file": "c1637.jpg",
+   "score": 0.5093,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDCUMZEI",
+   "poi_name": "好想来零食乐园(淮安涟水县保滩镇店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1898",
+   "file": "c1898.jpg",
+   "score": 0.5092,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT2RGK",
+   "poi_name": "左邻右舍超市(淮海西路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c508",
+   "file": "c508.jpg",
+   "score": 0.5085,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0XN6G",
+   "poi_name": "好一家冷冻食品批发部(江苏奚强农贸市场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c951",
+   "file": "c951.jpg",
+   "score": 0.5079,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFMBTDDT",
+   "poi_name": "青柚便利超市(水蓝湾店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c564",
+   "file": "c564.jpg",
+   "score": 0.5076,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MGCRF7MJ",
+   "poi_name": "左邻右舍(花园三村店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c926",
+   "file": "c926.jpg",
+   "score": 0.5055,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFKMFRWM",
+   "poi_name": "缘味便利(吾悦店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c592",
+   "file": "c592.jpg",
+   "score": 0.5052,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFF5OM66",
+   "poi_name": "好一家超市(湘江路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c2076",
+   "file": "c2076.jpg",
+   "score": 0.5019,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G0VXNPVK",
+   "poi_name": "嶂仓第一家擀面皮(北王线店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c929",
+   "file": "c929.jpg",
+   "score": 0.5017,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H2TAOQLT",
+   "poi_name": "妍博便利超市(凤翔花园城店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c267",
+   "file": "c267.jpg",
+   "score": 0.501,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0MU9UZOMM",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1086",
+   "file": "c1086.jpg",
+   "score": 0.5009,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H6FS2VCC",
+   "poi_name": "安徽一家人快餐店",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1336",
+   "file": "c1336.jpg",
+   "score": 0.5003,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0KD05V4IO",
+   "poi_name": "公共卫生间隔断",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c245",
+   "file": "c245.jpg",
+   "score": 0.499,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0L14D16H2",
+   "poi_name": "左邻右舍(云熙店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1571",
+   "file": "c1571.jpg",
+   "score": 0.4988,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF4IGBV",
+   "poi_name": "好一家服饰广场(保滩店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c873",
+   "file": "c873.jpg",
+   "score": 0.4974,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G2TL5PMX",
+   "poi_name": "零点便利(勤政路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1724",
+   "file": "c1724.jpg",
+   "score": 0.4963,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L067OAGT",
+   "poi_name": "悦来第一家轮胎店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1585",
+   "file": "c1585.jpg",
+   "score": 0.4956,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFTY1N3",
+   "poi_name": "第一家馒头店",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1888",
+   "file": "c1888.jpg",
+   "score": 0.4946,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKD1ZSE",
+   "poi_name": "山水钓具(浦西大桥店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c392",
+   "file": "c392.jpg",
+   "score": 0.4942,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L2K7G841",
+   "poi_name": "左邻·右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1193",
+   "file": "c1193.jpg",
+   "score": 0.494,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0MBTDC2EG",
+   "poi_name": "时来优选一便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c441",
+   "file": "c441.jpg",
+   "score": 0.4933,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0G335VX3E",
+   "poi_name": "海一家(苏州观前街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1718",
+   "file": "c1718.jpg",
+   "score": 0.4927,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0I1X5M0Z4",
+   "poi_name": "一家人饭店(奥韵都城店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1211",
+   "file": "c1211.jpg",
+   "score": 0.4919,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0I2K5K8YI",
+   "poi_name": "佳时利便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c865",
+   "file": "c865.jpg",
+   "score": 0.4912,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFFZ3YT2",
+   "poi_name": "得购24小时便利连锁风华店(枫华丽府店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1819",
+   "file": "c1819.jpg",
+   "score": 0.4911,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2QF9D",
+   "poi_name": "好一家服饰城(新集店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c608",
+   "file": "c608.jpg",
+   "score": 0.491,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H2HSIBAT",
+   "poi_name": "无锡第一家小黄鱼",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1301",
+   "file": "c1301.jpg",
+   "score": 0.491,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF5H1C9",
+   "poi_name": "好一家服饰广场(竹泓店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c891",
+   "file": "c891.jpg",
+   "score": 0.4902,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF4ZVEG",
+   "poi_name": "东一家酒楼",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1816",
+   "file": "c1816.jpg",
+   "score": 0.4882,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHO9IA0",
+   "poi_name": "金玉办公家具",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c313",
+   "file": "c313.jpg",
+   "score": 0.4878,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LR0OP0JG",
+   "poi_name": "左邻右舍便利超市(花苑三村店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1194",
+   "file": "c1194.jpg",
+   "score": 0.4876,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B02020J8X4",
+   "poi_name": "宏信便利(解放路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1822",
+   "file": "c1822.jpg",
+   "score": 0.4871,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIFGP3Q",
+   "poi_name": "第一家文具店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1630",
+   "file": "c1630.jpg",
+   "score": 0.487,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0K319U9TZ",
+   "poi_name": "鲜顽渔",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c2014",
+   "file": "c2014.jpg",
+   "score": 0.4864,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0K24UE7PI",
+   "poi_name": "俏佳人1家1美妆生活馆(帝景城店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1634",
+   "file": "c1634.jpg",
+   "score": 0.4857,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF446EC",
+   "poi_name": "好一家鞋服广场",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1782",
+   "file": "c1782.jpg",
+   "score": 0.4854,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M14Z0ECO",
+   "poi_name": "左邻右舍农乐购二店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1784",
+   "file": "c1784.jpg",
+   "score": 0.4849,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JK0ASQF8",
+   "poi_name": "左邻右舍生活超市",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1429",
+   "file": "c1429.jpg",
+   "score": 0.4846,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KKS54AZ7",
+   "poi_name": "一家人餐厅(港湾明珠店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c471",
+   "file": "c471.jpg",
+   "score": 0.4845,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KAVS8NER",
+   "poi_name": "Relx电子烟体验馆(乐享汇店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c261",
+   "file": "c261.jpg",
+   "score": 0.4837,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LKDLOP0H",
+   "poi_name": "左邻右舍便利超市(平泷路地铁店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c721",
+   "file": "c721.jpg",
+   "score": 0.4837,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MG6HI23D",
+   "poi_name": "左邻右舍便利超市(常州纺织服装职业技术学院店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1820",
+   "file": "c1820.jpg",
+   "score": 0.4836,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LUPB42OC",
+   "poi_name": "美宜佳",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c172",
+   "file": "c172.jpg",
+   "score": 0.4832,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGV17GJP",
+   "poi_name": "诺家(左邻右里社区店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c131",
+   "file": "c131.jpg",
+   "score": 0.4829,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KU4YZLX1",
+   "poi_name": "立邦水泥黄沙五金油漆防水涂料批发罗泉龙浦店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c505",
+   "file": "c505.jpg",
+   "score": 0.4823,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKPDON0",
+   "poi_name": "第一家烧烤",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1546",
+   "file": "c1546.jpg",
+   "score": 0.482,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050SO7C",
+   "poi_name": "四海一家超市(徐杨店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1991",
+   "file": "c1991.jpg",
+   "score": 0.4816,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGWENVQ",
+   "poi_name": "邳州第一家擀面皮",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c459",
+   "file": "c459.jpg",
+   "score": 0.4812,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HUACBPV8",
+   "poi_name": "四海一家超市(鹿山雅苑南区店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c335",
+   "file": "c335.jpg",
+   "score": 0.4804,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MRNR7O8A",
+   "poi_name": "左邻右舍(阜湖路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1151",
+   "file": "c1151.jpg",
+   "score": 0.4803,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LRHP7JS0",
+   "poi_name": "京东便利店(佳家如意园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c706",
+   "file": "c706.jpg",
+   "score": 0.4802,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MD777MBE",
+   "poi_name": "左邻右舍(新乐路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c186",
+   "file": "c186.jpg",
+   "score": 0.48,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JD1R7AI5",
+   "poi_name": "北铭电脑(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1922",
+   "file": "c1922.jpg",
+   "score": 0.4774,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KGNSWIQK",
+   "poi_name": "1家1(文泰康城店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c831",
+   "file": "c831.jpg",
+   "score": 0.4769,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGC517M",
+   "poi_name": "鑫尔美灯饰",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c307",
+   "file": "c307.jpg",
+   "score": 0.4766,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MD55VXJL",
+   "poi_name": "左邻右舍便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1203",
+   "file": "c1203.jpg",
+   "score": 0.4761,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0202168WI",
+   "poi_name": "老张便利(双拥商业街店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c407",
+   "file": "c407.jpg",
+   "score": 0.474,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MGZUJQDV",
+   "poi_name": "左邻右舍便利超市(金浦产业园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c2002",
+   "file": "c2002.jpg",
+   "score": 0.4735,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFLO376E",
+   "poi_name": "六中第一家擀面皮快餐",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1271",
+   "file": "c1271.jpg",
+   "score": 0.473,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0H129BLU1",
+   "poi_name": "美好便利店(香格里拉店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c2049",
+   "file": "c2049.jpg",
+   "score": 0.4727,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI5HN8D",
+   "poi_name": "一家人批发超市",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c848",
+   "file": "c848.jpg",
+   "score": 0.471,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFI6NWUD",
+   "poi_name": "溧阳市达康电子安防有限公司",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1702",
+   "file": "c1702.jpg",
+   "score": 0.4705,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0LGSR98TK",
+   "poi_name": "芝谷香黑芝麻糊",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c939",
+   "file": "c939.jpg",
+   "score": 0.4676,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0GDUA67YY",
+   "poi_name": "怡可便利店(吾悦店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c258",
+   "file": "c258.jpg",
+   "score": 0.4674,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LAABCFBW",
+   "poi_name": "左邻右舍便利超市(枫瑞路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1322",
+   "file": "c1322.jpg",
+   "score": 0.4672,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KA9AM3C1",
+   "poi_name": "叶甸第一家服饰",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c628",
+   "file": "c628.jpg",
+   "score": 0.4629,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G0KBPW82",
+   "poi_name": "东北一家人(敔山美嘉城店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1350",
+   "file": "c1350.jpg",
+   "score": 0.4626,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFMHHORE",
+   "poi_name": "雅慧琳家居生活馆",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c674",
+   "file": "c674.jpg",
+   "score": 0.4612,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHSPESY",
+   "poi_name": "第一家酸菜鱼馆(高塍店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c589",
+   "file": "c589.jpg",
+   "score": 0.4596,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HDG7OY3J",
+   "poi_name": "第一家烧烤(美新广场店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1678",
+   "file": "c1678.jpg",
+   "score": 0.4586,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J25MO6VN",
+   "poi_name": "左邻右里超市(扎颜线店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c678",
+   "file": "c678.jpg",
+   "score": 0.458,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFY6TQU",
+   "poi_name": "伟萍床上用品副食百货(周铁农贸市场店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c720",
+   "file": "c720.jpg",
+   "score": 0.4571,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M60XMHMZ",
+   "poi_name": "左邻右舍便利超市(九洲花园店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1360",
+   "file": "c1360.jpg",
+   "score": 0.4567,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0IRJ7MADO",
+   "poi_name": "Simon西蒙电气专卖店(照明开关智能)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1952",
+   "file": "c1952.jpg",
+   "score": 0.4564,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MR4RGBVS",
+   "poi_name": "老三鱼屋水族馆(一店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c650",
+   "file": "c650.jpg",
+   "score": 0.456,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KBRUQNN4",
+   "poi_name": "晨光文具(春江花园店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c899",
+   "file": "c899.jpg",
+   "score": 0.4558,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HDJ7W205",
+   "poi_name": "特惠便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1877",
+   "file": "c1877.jpg",
+   "score": 0.4556,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0J2UCZEW3",
+   "poi_name": "1家1新一代美妆生活馆(安峰店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c16",
+   "file": "c16.jpg",
+   "score": 0.4555,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0M629WNOF",
+   "poi_name": "左邻右舍便利超市(君莲新城中城苑店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1421",
+   "file": "c1421.jpg",
+   "score": 0.4547,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGP1IZ5",
+   "poi_name": "第一家炒河粉(名都店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1028",
+   "file": "c1028.jpg",
+   "score": 0.4538,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LUBUAF5N",
+   "poi_name": "美的智慧家(小海安创好一家旗舰店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c711",
+   "file": "c711.jpg",
+   "score": 0.4519,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MR9D7WCT",
+   "poi_name": "左邻右舍(九州新世界店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c919",
+   "file": "c919.jpg",
+   "score": 0.4516,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HAMO1WHK",
+   "poi_name": "美好便利店(港南花苑店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1075",
+   "file": "c1075.jpg",
+   "score": 0.4515,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFIZRRLG",
+   "poi_name": "一家人家纺",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1891",
+   "file": "c1891.jpg",
+   "score": 0.4512,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFIVK9VO",
+   "poi_name": "小天才文体批发(和平东路店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1650",
+   "file": "c1650.jpg",
+   "score": 0.4511,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HD9C0EJB",
+   "poi_name": "公牛装饰开关(锦绣国际装饰城店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c2065",
+   "file": "c2065.jpg",
+   "score": 0.4511,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG8CUS2",
+   "poi_name": "第一家擀面皮",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c2004",
+   "file": "c2004.jpg",
+   "score": 0.451,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02040RFP6",
+   "poi_name": "一家人超市(苏源北路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c299",
+   "file": "c299.jpg",
+   "score": 0.4495,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LDU5BTLQ",
+   "poi_name": "左邻右舍便利超市(许家桥路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1454",
+   "file": "c1454.jpg",
+   "score": 0.4495,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020316FIY",
+   "poi_name": "好一家服饰(富民西路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1298",
+   "file": "c1298.jpg",
+   "score": 0.4493,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJ4Z7DQ",
+   "poi_name": "马利美术画材",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1469",
+   "file": "c1469.jpg",
+   "score": 0.4491,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020315B8V",
+   "poi_name": "好一家时尚生活馆",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1162",
+   "file": "c1162.jpg",
+   "score": 0.4489,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JA5SMRSX",
+   "poi_name": "美好便利(扬州东悦府店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c647",
+   "file": "c647.jpg",
+   "score": 0.4473,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KAC50PRD",
+   "poi_name": "华为手机(国网科技店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c586",
+   "file": "c586.jpg",
+   "score": 0.447,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IAL5YRNI",
+   "poi_name": "左邻右美美发·私人定制(华兴安居小区店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1997",
+   "file": "c1997.jpg",
+   "score": 0.4457,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0K3YRJDT0",
+   "poi_name": "乐柠cake",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1695",
+   "file": "c1695.jpg",
+   "score": 0.4456,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK32TGJ",
+   "poi_name": "第一家焊接洗车",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c541",
+   "file": "c541.jpg",
+   "score": 0.4451,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0HKOUJDVK",
+   "poi_name": "百誉手机店(府南街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1364",
+   "file": "c1364.jpg",
+   "score": 0.4447,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B020B01PEX",
+   "poi_name": "文章烟酒(文昌苑店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c447",
+   "file": "c447.jpg",
+   "score": 0.4446,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG1ZTFU",
+   "poi_name": "好一家客厅家具批发城(蠡瑞路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1815",
+   "file": "c1815.jpg",
+   "score": 0.4436,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0FFKUEGYD",
+   "poi_name": "鸿源科技",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c180",
+   "file": "c180.jpg",
+   "score": 0.4431,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGFV3J1",
+   "poi_name": "好莱坞(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1759",
+   "file": "c1759.jpg",
+   "score": 0.4423,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF41K4Y",
+   "poi_name": "柔和时尚田田超市(状元路店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c881",
+   "file": "c881.jpg",
+   "score": 0.4422,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L656GB4M",
+   "poi_name": "彩虹便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1305",
+   "file": "c1305.jpg",
+   "score": 0.4419,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUTAGXEM",
+   "poi_name": "泰兴市一家人海鲜",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c384",
+   "file": "c384.jpg",
+   "score": 0.4406,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K1HZPZ69",
+   "poi_name": "左邻右舍家常菜(新庄花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c728",
+   "file": "c728.jpg",
+   "score": 0.4406,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRGHM0HV",
+   "poi_name": "左邻右舍河苑新村店",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1185",
+   "file": "c1185.jpg",
+   "score": 0.4403,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0YHL6",
+   "poi_name": "俊珂便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1527",
+   "file": "c1527.jpg",
+   "score": 0.4397,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0J35CV4W4",
+   "poi_name": "乐远地产(左邻右舍加盟店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1671",
+   "file": "c1671.jpg",
+   "score": 0.4383,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LD6AETD5",
+   "poi_name": "左邻右舍便利店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1612",
+   "file": "c1612.jpg",
+   "score": 0.4372,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J0UA095W",
+   "poi_name": "冰觉茶囍串(银蕨广场店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c345",
+   "file": "c345.jpg",
+   "score": 0.4371,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L099E8GU",
+   "poi_name": "左邻右舍便利超市(花园角店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c413",
+   "file": "c413.jpg",
+   "score": 0.4368,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFCOZ6G",
+   "poi_name": "左右邻里便利店(东吴北路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c423",
+   "file": "c423.jpg",
+   "score": 0.4367,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0MG19U18T",
+   "poi_name": "左邻右舍便利超市(桥北新村店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c874",
+   "file": "c874.jpg",
+   "score": 0.4367,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KKXS4LMN",
+   "poi_name": "佳华便利店(吉祥街店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1574",
+   "file": "c1574.jpg",
+   "score": 0.4362,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0G07P0BEP",
+   "poi_name": "第一家小鱼(锅贴店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1707",
+   "file": "c1707.jpg",
+   "score": 0.4361,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3X5IK",
+   "poi_name": "好一家服饰城(官墩店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c164",
+   "file": "c164.jpg",
+   "score": 0.435,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0B90MZV",
+   "poi_name": "左邻右里麻将档(友谊街店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c170",
+   "file": "c170.jpg",
+   "score": 0.4337,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0I65S6ST7",
+   "poi_name": "我爱我家(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c5",
+   "file": "c5.jpg",
+   "score": 0.4322,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MDGHQNB7",
+   "poi_name": "左邻右舍",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c969",
+   "file": "c969.jpg",
+   "score": 0.4313,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUML7LTS",
+   "poi_name": "左邻右舍外贸(莲花苑店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c244",
+   "file": "c244.jpg",
+   "score": 0.4311,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MG1SSO6P",
+   "poi_name": "左邻右舍(姑苏广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1490",
+   "file": "c1490.jpg",
+   "score": 0.4311,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JRV9L6WV",
+   "poi_name": "一家子超市(幸福家园-北区店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c40",
+   "file": "c40.jpg",
+   "score": 0.4309,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0L057TCU6",
+   "poi_name": "左邻·右舍",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1567",
+   "file": "c1567.jpg",
+   "score": 0.4302,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G3J626UA",
+   "poi_name": "盱眙有一家便利店(淮建路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c370",
+   "file": "c370.jpg",
+   "score": 0.4289,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0M1SSOHJL",
+   "poi_name": "左邻右舍便利超市",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1762",
+   "file": "c1762.jpg",
+   "score": 0.4279,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0IK5SNQ4O",
+   "poi_name": "德国威能(泗阳旗舰总店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c768",
+   "file": "c768.jpg",
+   "score": 0.4276,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGDAYR3",
+   "poi_name": "鑫苹果水果大卖场(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1913",
+   "file": "c1913.jpg",
+   "score": 0.4275,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFH1GKTH",
+   "poi_name": "左邻右舍私房菜(天虹大道店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c750",
+   "file": "c750.jpg",
+   "score": 0.4271,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIXJ4OC",
+   "poi_name": "左邻水岸浴场(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1356",
+   "file": "c1356.jpg",
+   "score": 0.4242,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFPU0R8",
+   "poi_name": "爱群地毯海绵包装材料(富海新世界商贸城店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c936",
+   "file": "c936.jpg",
+   "score": 0.4241,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LGD5I99H",
+   "poi_name": "美好便利店(星悦湾店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c811",
+   "file": "c811.jpg",
+   "score": 0.4233,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFIH63XK",
+   "poi_name": "嘉嘉熟食·正宗重庆夫妻肺片(太湖店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1175",
+   "file": "c1175.jpg",
+   "score": 0.4228,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JAAUDH6O",
+   "poi_name": "一级棒便利店(扬州宝龙广场店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1145",
+   "file": "c1145.jpg",
+   "score": 0.4223,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MUH1QUCK",
+   "poi_name": "全集家便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c444",
+   "file": "c444.jpg",
+   "score": 0.4218,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4Z8U4",
+   "poi_name": "四海一家超市(竹园路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c515",
+   "file": "c515.jpg",
+   "score": 0.4218,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFGN4K2S",
+   "poi_name": "顾家家居(昆山店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1245",
+   "file": "c1245.jpg",
+   "score": 0.4206,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIATSDB",
+   "poi_name": "满好便利店(西贝路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1276",
+   "file": "c1276.jpg",
+   "score": 0.4203,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B02020J97Y",
+   "poi_name": "可的便利店(南园中路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c935",
+   "file": "c935.jpg",
+   "score": 0.4196,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H2RB04VK",
+   "poi_name": "瑞兴源便利超市(天福花园店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1731",
+   "file": "c1731.jpg",
+   "score": 0.4187,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H6M5H8NM",
+   "poi_name": "富家家便利店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1963",
+   "file": "c1963.jpg",
+   "score": 0.4185,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFYT8US",
+   "poi_name": "邳州第一家擀面皮(大榆树街店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c201",
+   "file": "c201.jpg",
+   "score": 0.4183,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JR9XJ9ZQ",
+   "poi_name": "农之夫生鲜(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1452",
+   "file": "c1452.jpg",
+   "score": 0.4183,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJXYXZR",
+   "poi_name": "盐城市素梅水产品有限公司",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c290",
+   "file": "c290.jpg",
+   "score": 0.4177,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LA2LPBIO",
+   "poi_name": "左邻右舍便利超市(北小港路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1810",
+   "file": "c1810.jpg",
+   "score": 0.4165,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFMADPXK",
+   "poi_name": "汤沟国藏名酒大卖场(通灌南路店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c387",
+   "file": "c387.jpg",
+   "score": 0.4142,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFH48TIH",
+   "poi_name": "左邻右舍房产(阳光店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c477",
+   "file": "c477.jpg",
+   "score": 0.4141,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFMGQQ5Y",
+   "poi_name": "一家人水族鱼缸定做(亿象城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1272",
+   "file": "c1272.jpg",
+   "score": 0.4128,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L2CYHO0L",
+   "poi_name": "宝应县一家人餐饮店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c524",
+   "file": "c524.jpg",
+   "score": 0.4114,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHFNIES",
+   "poi_name": "吴江第一家万州烤鱼·音乐烤吧(吴江南方时代广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1311",
+   "file": "c1311.jpg",
+   "score": 0.4106,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJOIGA7",
+   "poi_name": "味知香引凤店",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c394",
+   "file": "c394.jpg",
+   "score": 0.4104,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKJ51N34",
+   "poi_name": "左邻·右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c66",
+   "file": "c66.jpg",
+   "score": 0.4103,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HGJ7KEGI",
+   "poi_name": "上海左邻五金(横桥路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1331",
+   "file": "c1331.jpg",
+   "score": 0.4093,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGHHD5F",
+   "poi_name": "好一家服饰广场(江平路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c2053",
+   "file": "c2053.jpg",
+   "score": 0.4087,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1BZPIOZ",
+   "poi_name": "杨家糕点点心行(天虹大道店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1157",
+   "file": "c1157.jpg",
+   "score": 0.4074,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0L2ZB3NWR",
+   "poi_name": "全家便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1025",
+   "file": "c1025.jpg",
+   "score": 0.4066,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH2LWUU",
+   "poi_name": "通达筛网批发(中国南通工业博览城店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1146",
+   "file": "c1146.jpg",
+   "score": 0.4055,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFF41JXA",
+   "poi_name": "佳家源便利(佳家花园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1903",
+   "file": "c1903.jpg",
+   "score": 0.4052,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L26OF5YX",
+   "poi_name": "左邻右舍精品生活超市(四土线店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1644",
+   "file": "c1644.jpg",
+   "score": 0.405,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050SS4S",
+   "poi_name": "好一家服饰城(朱坝店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1673",
+   "file": "c1673.jpg",
+   "score": 0.4045,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUXXD3EV",
+   "poi_name": "左邻右舍批发部(乔口花园店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c9",
+   "file": "c9.jpg",
+   "score": 0.401,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDRHCHG2",
+   "poi_name": "左邻右舍便利店(东绣苑店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1014",
+   "file": "c1014.jpg",
+   "score": 0.4009,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IUP7QZNQ",
+   "poi_name": "中贵黄金(万福路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1282",
+   "file": "c1282.jpg",
+   "score": 0.4008,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHCFNMU",
+   "poi_name": "左邻右舍便利超市(园林路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c300",
+   "file": "c300.jpg",
+   "score": 0.4007,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MA5SN55F",
+   "poi_name": "左邻右舍便利店(兴昂花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c841",
+   "file": "c841.jpg",
+   "score": 0.4007,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFF2CW7E",
+   "poi_name": "一家人超市(前黄店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1915",
+   "file": "c1915.jpg",
+   "score": 0.4004,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKQSNCC",
+   "poi_name": "左邻右舍批发超市",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c310",
+   "file": "c310.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1AC0UKK",
+   "poi_name": "左邻右舍便利店(白云街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c502",
+   "file": "c502.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFV7XF1",
+   "poi_name": "第一家文具",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c684",
+   "file": "c684.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG7IIFP",
+   "poi_name": "华宏鲜肉批发",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c898",
+   "file": "c898.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KGYLNDA7",
+   "poi_name": "日佳便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c995",
+   "file": "c995.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK9239T",
+   "poi_name": "京东家电(石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c2070",
+   "file": "c2070.jpg",
+   "score": 0.4001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKSZX3H",
+   "poi_name": "第1家牛肉板面(沛县店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c168",
+   "file": "c168.jpg",
+   "score": 0.4,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K13YU495",
+   "poi_name": "阿满百香鸡(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c955",
+   "file": "c955.jpg",
+   "score": 0.4,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUOO75U3",
+   "poi_name": "美好便利(扬中康居苑店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1268",
+   "file": "c1268.jpg",
+   "score": 0.4,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G17MTBPC",
+   "poi_name": "易客便利店(名仕华庭店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1404",
+   "file": "c1404.jpg",
+   "score": 0.4,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFHMKXP",
+   "poi_name": "一家人饭店(盐阜嘉园店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1828",
+   "file": "c1828.jpg",
+   "score": 0.4,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G1ASYLJU",
+   "poi_name": "诺贝尔瓷砖(宝康巷店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1525",
+   "file": "c1525.jpg",
+   "score": 0.3997,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3XS0YYE",
+   "poi_name": "左邻右果",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1016",
+   "file": "c1016.jpg",
+   "score": 0.3995,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LAJ5OOI0",
+   "poi_name": "中药热敷",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c402",
+   "file": "c402.jpg",
+   "score": 0.3992,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KR94C855",
+   "poi_name": "左邻右舍便利超市(黄浦城市花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1706",
+   "file": "c1706.jpg",
+   "score": 0.3992,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKJC1W1U",
+   "poi_name": "十八先生鲜果",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1450",
+   "file": "c1450.jpg",
+   "score": 0.3988,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG6WC1G",
+   "poi_name": "好一家服饰(芦蒲店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c933",
+   "file": "c933.jpg",
+   "score": 0.3981,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IDKCL8OP",
+   "poi_name": "福祥便利店(丹桂路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c487",
+   "file": "c487.jpg",
+   "score": 0.3971,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KADUM1AK",
+   "poi_name": "伟领思家具办公店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1235",
+   "file": "c1235.jpg",
+   "score": 0.397,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HB6RMFPM",
+   "poi_name": "美好便利(江都世纪天城店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c960",
+   "file": "c960.jpg",
+   "score": 0.3965,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKK7OOEV",
+   "poi_name": "美好便利(人民医院店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1168",
+   "file": "c1168.jpg",
+   "score": 0.3959,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGY0X3L",
+   "poi_name": "一乐便利店(金园街店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1955",
+   "file": "c1955.jpg",
+   "score": 0.3959,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG81DNE",
+   "poi_name": "第一家擀面皮(国际·未来城店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1883",
+   "file": "c1883.jpg",
+   "score": 0.3942,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1CSF89R",
+   "poi_name": "汤记东海第一家擀面皮砂锅(凯马特店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c2009",
+   "file": "c2009.jpg",
+   "score": 0.3942,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H25ZNDA5",
+   "poi_name": "新沂第一家擀面皮(富民路)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1807",
+   "file": "c1807.jpg",
+   "score": 0.3932,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFPKMIV",
+   "poi_name": "朵朵花童装品牌集合店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1777",
+   "file": "c1777.jpg",
+   "score": 0.3928,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L3C5JLQL",
+   "poi_name": "古茗(泗洪界集店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c367",
+   "file": "c367.jpg",
+   "score": 0.3918,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JUPGQGY3",
+   "poi_name": "左邻右舍(天虹服装城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c6",
+   "file": "c6.jpg",
+   "score": 0.3917,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MUSLEE5D",
+   "poi_name": "左邻右舍土菜馆",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1363",
+   "file": "c1363.jpg",
+   "score": 0.3911,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020B0PG1Y",
+   "poi_name": "一家人批发部",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1",
+   "file": "c1.jpg",
+   "score": 0.3909,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LAMCBDI7",
+   "poi_name": "左邻右舍",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c983",
+   "file": "c983.jpg",
+   "score": 0.3902,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4ID7G",
+   "poi_name": "左邻右舍超市(209乡道店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1515",
+   "file": "c1515.jpg",
+   "score": 0.3902,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I21ZNNFZ",
+   "poi_name": "金牌亚洲瓷砖岩板(淮河路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c214",
+   "file": "c214.jpg",
+   "score": 0.3894,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HGH79GT1",
+   "poi_name": "皙之密专业皮肤管理中心(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1944",
+   "file": "c1944.jpg",
+   "score": 0.3888,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JBTO6N4S",
+   "poi_name": "第一家蔬菜(锦湖大楼店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c44",
+   "file": "c44.jpg",
+   "score": 0.3883,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MUYNPJWF",
+   "poi_name": "左邻·右舍",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1288",
+   "file": "c1288.jpg",
+   "score": 0.3873,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GRD9KLPM",
+   "poi_name": "第一家凉皮(恒通·百年豪景店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c491",
+   "file": "c491.jpg",
+   "score": 0.3871,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJCIQBO",
+   "poi_name": "汇百佳生鲜(车坊农贸市场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1831",
+   "file": "c1831.jpg",
+   "score": 0.3866,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKEGTDD",
+   "poi_name": "猫咪的森林女装店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c294",
+   "file": "c294.jpg",
+   "score": 0.3865,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L6PHCWA1",
+   "poi_name": "左邻右舍便利超市(棕榈湾店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c702",
+   "file": "c702.jpg",
+   "score": 0.3859,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MABUSQG7",
+   "poi_name": "左邻右舍(景粼天著店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c98",
+   "file": "c98.jpg",
+   "score": 0.3849,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGK7QML",
+   "poi_name": "一家人超市(临汾路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1432",
+   "file": "c1432.jpg",
+   "score": 0.3849,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHFGO17",
+   "poi_name": "第一家服饰(裴刘店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c734",
+   "file": "c734.jpg",
+   "score": 0.3839,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MG9SODFK",
+   "poi_name": "左邻右舍(凤凰谷店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c142",
+   "file": "c142.jpg",
+   "score": 0.3832,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGFV46F",
+   "poi_name": "南京江宁左邻右里社区口腔诊所",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c695",
+   "file": "c695.jpg",
+   "score": 0.3829,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHSNRWI",
+   "poi_name": "第一家长寿面",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c202",
+   "file": "c202.jpg",
+   "score": 0.3828,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MD95PCGC",
+   "poi_name": "康唯士痛解处循经调理馆(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c942",
+   "file": "c942.jpg",
+   "score": 0.3822,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HGOBTR1O",
+   "poi_name": "中央美地小谭便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1003",
+   "file": "c1003.jpg",
+   "score": 0.3821,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRXLLRGP",
+   "poi_name": "筋研堂颈肩腰腿",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c46",
+   "file": "c46.jpg",
+   "score": 0.3817,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1S7QRA6",
+   "poi_name": "左邻右畔(三林店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1060",
+   "file": "c1060.jpg",
+   "score": 0.3815,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG35IBT",
+   "poi_name": "好一家服饰城(雪岸店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c350",
+   "file": "c350.jpg",
+   "score": 0.3808,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MG7ZH12V",
+   "poi_name": "邻聚力左邻右舍(韩山村)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1969",
+   "file": "c1969.jpg",
+   "score": 0.3808,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020403D3U",
+   "poi_name": "第一家擀面皮(通城写字楼店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1683",
+   "file": "c1683.jpg",
+   "score": 0.3797,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0FCKQED",
+   "poi_name": "第一家菜馆",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c189",
+   "file": "c189.jpg",
+   "score": 0.3789,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JD9RUHUI",
+   "poi_name": "顾筱面馆(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1511",
+   "file": "c1511.jpg",
+   "score": 0.3779,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I3NRBOPO",
+   "poi_name": "华红超市(鹤都路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c87",
+   "file": "c87.jpg",
+   "score": 0.3768,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI05E2C",
+   "poi_name": "宝山第一家",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c972",
+   "file": "c972.jpg",
+   "score": 0.3768,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GRYYSLDS",
+   "poi_name": "左邻右舍便利超市(海尚家园东区店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c49",
+   "file": "c49.jpg",
+   "score": 0.3766,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K1HCHP4X",
+   "poi_name": "左邻右果(万达城市公寓店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1719",
+   "file": "c1719.jpg",
+   "score": 0.3765,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDKHDBFV",
+   "poi_name": "1家洗车房",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c410",
+   "file": "c410.jpg",
+   "score": 0.3762,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFKXHTSG",
+   "poi_name": "佐邻佑社(江南理想店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1697",
+   "file": "c1697.jpg",
+   "score": 0.3758,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HA2BNXGW",
+   "poi_name": "1家1美妆生活馆丽人洗化",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c978",
+   "file": "c978.jpg",
+   "score": 0.3755,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L2A526DC",
+   "poi_name": "左邻右李老菜馆",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1040",
+   "file": "c1040.jpg",
+   "score": 0.375,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIR65QR",
+   "poi_name": "一家人包子铺(红星路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c2034",
+   "file": "c2034.jpg",
+   "score": 0.3747,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIKZ2R7",
+   "poi_name": "鼎管家食品文苑路店",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1438",
+   "file": "c1438.jpg",
+   "score": 0.374,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020316F6O",
+   "poi_name": "好一家服饰城(冈西店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c861",
+   "file": "c861.jpg",
+   "score": 0.3738,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IRRREC0L",
+   "poi_name": "7+便利店(绿地·香颂苑店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1009",
+   "file": "c1009.jpg",
+   "score": 0.3735,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H31SZKYM",
+   "poi_name": "梦祥银(万福路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c492",
+   "file": "c492.jpg",
+   "score": 0.3734,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LB97YJZW",
+   "poi_name": "禧番尼花店(姑苏店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c438",
+   "file": "c438.jpg",
+   "score": 0.3733,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020007T1S",
+   "poi_name": "左邻右里假日宾馆",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1223",
+   "file": "c1223.jpg",
+   "score": 0.3731,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GRH5W2TJ",
+   "poi_name": "惠佰佳便利店(运河人家店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c134",
+   "file": "c134.jpg",
+   "score": 0.3728,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HUD7LL71",
+   "poi_name": "新陆第一家(福口饭店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1780",
+   "file": "c1780.jpg",
+   "score": 0.3719,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF62L2H",
+   "poi_name": "左邻右舍烟酒店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1949",
+   "file": "c1949.jpg",
+   "score": 0.3712,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT86ST",
+   "poi_name": "唯爱鲜花婚庆(泰隆商业街店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c317",
+   "file": "c317.jpg",
+   "score": 0.3708,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKVD490C",
+   "poi_name": "左邻右舍便利超市(双银国际金融城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1019",
+   "file": "c1019.jpg",
+   "score": 0.3707,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KDCHIWLR",
+   "poi_name": "沙县小吃(左邻右里店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1483",
+   "file": "c1483.jpg",
+   "score": 0.3705,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02031912S",
+   "poi_name": "好一家服饰广场(颜单店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1043",
+   "file": "c1043.jpg",
+   "score": 0.3704,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0K03C1FNG",
+   "poi_name": "慕思床垫健康睡眠开发区好一家体验店(星湖大道店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c191",
+   "file": "c191.jpg",
+   "score": 0.3702,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFGIFVR9",
+   "poi_name": "中城在线(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c615",
+   "file": "c615.jpg",
+   "score": 0.37,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFV1X9R",
+   "poi_name": "好一家餐馆(西木路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c284",
+   "file": "c284.jpg",
+   "score": 0.3696,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K117IL4A",
+   "poi_name": "左邻右舍便利超市(桐仁花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1825",
+   "file": "c1825.jpg",
+   "score": 0.3695,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFX1N0V",
+   "poi_name": "爱佳风尚陶瓷",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1011",
+   "file": "c1011.jpg",
+   "score": 0.3688,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H1F7F62S",
+   "poi_name": "正新鸡排(石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c916",
+   "file": "c916.jpg",
+   "score": 0.367,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G3MSV1XG",
+   "poi_name": "木桶家便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1544",
+   "file": "c1544.jpg",
+   "score": 0.3664,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L6NHUNH5",
+   "poi_name": "鑫壹家便利店",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1092",
+   "file": "c1092.jpg",
+   "score": 0.366,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02010UM9S",
+   "poi_name": "好一家实木家具馆",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1153",
+   "file": "c1153.jpg",
+   "score": 0.3658,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0202168U4",
+   "poi_name": "美士多便利店(名城花园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1353",
+   "file": "c1353.jpg",
+   "score": 0.3658,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020B0267S",
+   "poi_name": "一家子酒楼",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1560",
+   "file": "c1560.jpg",
+   "score": 0.365,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHEU12F",
+   "poi_name": "海一家(淮海北路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1111",
+   "file": "c1111.jpg",
+   "score": 0.3649,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H06CHU8S",
+   "poi_name": "DAIKIN大金空调(奥华精品馆店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1303",
+   "file": "c1303.jpg",
+   "score": 0.3648,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFA31UL",
+   "poi_name": "好一家服饰超市(王石店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1187",
+   "file": "c1187.jpg",
+   "score": 0.3644,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02020JAG0",
+   "poi_name": "宏信便利(南吴路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c518",
+   "file": "c518.jpg",
+   "score": 0.3636,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02001B2TE",
+   "poi_name": "鑫隆便利店(玉盘路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c582",
+   "file": "c582.jpg",
+   "score": 0.3635,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KKKLLB7C",
+   "poi_name": "左邻右果(公园路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1249",
+   "file": "c1249.jpg",
+   "score": 0.3634,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK6COR0",
+   "poi_name": "天猫小店星星之火便利(东园南路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c544",
+   "file": "c544.jpg",
+   "score": 0.3632,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG3EV6G",
+   "poi_name": "一家人菜店(牡丹苑店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1254",
+   "file": "c1254.jpg",
+   "score": 0.3625,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IKTCKCNC",
+   "poi_name": "美好便利店(中央郡店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1402",
+   "file": "c1402.jpg",
+   "score": 0.3623,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IADHWVXA",
+   "poi_name": "徐记一家人(燕达花园店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c230",
+   "file": "c230.jpg",
+   "score": 0.3617,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3JGCTTV",
+   "poi_name": "金丝利零售",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c863",
+   "file": "c863.jpg",
+   "score": 0.3611,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JAKHHKEF",
+   "poi_name": "家和百货(恒大铂珺花园一区店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c296",
+   "file": "c296.jpg",
+   "score": 0.361,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LUC7R41I",
+   "poi_name": "左邻右舍便利超市(中山东路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1448",
+   "file": "c1448.jpg",
+   "score": 0.3609,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZDKEN",
+   "poi_name": "一家人美食(经三路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1034",
+   "file": "c1034.jpg",
+   "score": 0.3607,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KGH9XBNW",
+   "poi_name": "第一家擀面皮(中南店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1640",
+   "file": "c1640.jpg",
+   "score": 0.3605,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF454VJ",
+   "poi_name": "多乐士材料馆(兴保路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c843",
+   "file": "c843.jpg",
+   "score": 0.3599,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGXVKOH",
+   "poi_name": "安华卫浴(清泓路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1418",
+   "file": "c1418.jpg",
+   "score": 0.3594,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203177KJ",
+   "poi_name": "好一家鞋服广场",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1129",
+   "file": "c1129.jpg",
+   "score": 0.3591,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MBRSR1LF",
+   "poi_name": "左邻右舍便利超市",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1957",
+   "file": "c1957.jpg",
+   "score": 0.3585,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6RMBHID",
+   "poi_name": "壹度便利(盛世茗居店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1960",
+   "file": "c1960.jpg",
+   "score": 0.358,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJS0OS9",
+   "poi_name": "第一家擀面皮(万兴店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c122",
+   "file": "c122.jpg",
+   "score": 0.3573,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDUR1BTG",
+   "poi_name": "众达建材工厂店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c827",
+   "file": "c827.jpg",
+   "score": 0.3573,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0H2FSLVZA",
+   "poi_name": "好一家汽修",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1520",
+   "file": "c1520.jpg",
+   "score": 0.3566,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0LQM6",
+   "poi_name": "左邻右舍超市(广州路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1081",
+   "file": "c1081.jpg",
+   "score": 0.3552,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0PHVU",
+   "poi_name": "一家人私房菜(海安204国道店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1738",
+   "file": "c1738.jpg",
+   "score": 0.3552,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2TRTF",
+   "poi_name": "沭阳第一家专业修脚(福州路)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c886",
+   "file": "c886.jpg",
+   "score": 0.3551,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGL60TM",
+   "poi_name": "首创便利店(首创店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1789",
+   "file": "c1789.jpg",
+   "score": 0.355,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI9C8AG",
+   "poi_name": "好一家服饰广场(火炬路店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c355",
+   "file": "c355.jpg",
+   "score": 0.3548,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MBY63N58",
+   "poi_name": "左邻右舍便利超市(欧盛花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c987",
+   "file": "c987.jpg",
+   "score": 0.3537,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUD9FPFU",
+   "poi_name": "奥莱左邻右里",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c761",
+   "file": "c761.jpg",
+   "score": 0.3535,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGYOOYC",
+   "poi_name": "左邻右里便利超市(孟津路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1802",
+   "file": "c1802.jpg",
+   "score": 0.3535,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0NHVJ4I",
+   "poi_name": "泰山石膏(亚欧建材广场店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1636",
+   "file": "c1636.jpg",
+   "score": 0.3534,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRODH7O6",
+   "poi_name": "好一家石锅拌饭",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1588",
+   "file": "c1588.jpg",
+   "score": 0.3518,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG1EM4W",
+   "poi_name": "艳子正宗四川泸州麻辣鹅(富春花园西门店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1710",
+   "file": "c1710.jpg",
+   "score": 0.3507,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH1MYHR",
+   "poi_name": "好一家服饰城太平店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c837",
+   "file": "c837.jpg",
+   "score": 0.3499,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1N7MXNC",
+   "poi_name": "星光二手手机电脑相机电动车回收置换",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1642",
+   "file": "c1642.jpg",
+   "score": 0.3499,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HKYBMLKQ",
+   "poi_name": "百分百感觉(丰登路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1771",
+   "file": "c1771.jpg",
+   "score": 0.3496,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IKGC5YRL",
+   "poi_name": "四海一家批发部(泗洪县许彩侠烟酒店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1063",
+   "file": "c1063.jpg",
+   "score": 0.3493,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0201080DZ",
+   "poi_name": "好一家小超市(704乡道店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c626",
+   "file": "c626.jpg",
+   "score": 0.3492,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KR5XT23R",
+   "poi_name": "四海一家东北炒菜.烧烤",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1661",
+   "file": "c1661.jpg",
+   "score": 0.3492,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFJY9CWS",
+   "poi_name": "小韩家(活)禽店",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1427",
+   "file": "c1427.jpg",
+   "score": 0.349,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02030JHVI",
+   "poi_name": "好一家鞋服城(长荡店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1355",
+   "file": "c1355.jpg",
+   "score": 0.3488,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JBM5XCSA",
+   "poi_name": "科凡定制(兴化国际商城店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1047",
+   "file": "c1047.jpg",
+   "score": 0.3479,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFFOM8E7",
+   "poi_name": "好一家菜馆(学苑大厦店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1577",
+   "file": "c1577.jpg",
+   "score": 0.3478,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I0ZUF1BK",
+   "poi_name": "美心元素木门防盗门",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c710",
+   "file": "c710.jpg",
+   "score": 0.3475,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDSBDIPD",
+   "poi_name": "左邻·右舍便利店",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1646",
+   "file": "c1646.jpg",
+   "score": 0.3472,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3Y5FT",
+   "poi_name": "一家人超市(金渔路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1395",
+   "file": "c1395.jpg",
+   "score": 0.3468,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDSLX9KX",
+   "poi_name": "左邻右里便利店(东园路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1837",
+   "file": "c1837.jpg",
+   "score": 0.3466,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0GUNXJF6T",
+   "poi_name": "小米之家(连云港灌南县悦来集路授权店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1248",
+   "file": "c1248.jpg",
+   "score": 0.3465,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0H6CYVGTG",
+   "poi_name": "齐乐便利店(龙川街店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1508",
+   "file": "c1508.jpg",
+   "score": 0.3458,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H065EN7B",
+   "poi_name": "顾家木门(时代家园店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c802",
+   "file": "c802.jpg",
+   "score": 0.3452,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFWLWJZ",
+   "poi_name": "好一家超市",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1538",
+   "file": "c1538.jpg",
+   "score": 0.3448,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B020505F84",
+   "poi_name": "第一家饭店(财满街)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1114",
+   "file": "c1114.jpg",
+   "score": 0.3447,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L0AUCOHX",
+   "poi_name": "施家一家人私房菜",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1149",
+   "file": "c1149.jpg",
+   "score": 0.3446,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFDBCBI",
+   "poi_name": "家美好便利店(文苑路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1263",
+   "file": "c1263.jpg",
+   "score": 0.3439,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJRX2R9",
+   "poi_name": "老毕便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c383",
+   "file": "c383.jpg",
+   "score": 0.3437,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KK2CCXGN",
+   "poi_name": "左邻右舍皓康园区便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c540",
+   "file": "c540.jpg",
+   "score": 0.3436,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J3HZM2NF",
+   "poi_name": "一家人水果店(萧林路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c318",
+   "file": "c318.jpg",
+   "score": 0.3428,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDPXN3RU",
+   "poi_name": "左邻右舍(14269天添汇便利店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1939",
+   "file": "c1939.jpg",
+   "score": 0.3428,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGUCUP7",
+   "poi_name": "邳州第一家擀面皮(矿大文昌店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c923",
+   "file": "c923.jpg",
+   "score": 0.3426,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HAFYTFKY",
+   "poi_name": "利家利友便利超市(中南熙悦城店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1812",
+   "file": "c1812.jpg",
+   "score": 0.3426,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG9UYLP",
+   "poi_name": "好一家石锅土豆粉(一店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1532",
+   "file": "c1532.jpg",
+   "score": 0.3419,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050SVNI",
+   "poi_name": "四海一家超市(月季花园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1916",
+   "file": "c1916.jpg",
+   "score": 0.3419,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JUF7UCL6",
+   "poi_name": "徐州左邻五金运营中心",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c2020",
+   "file": "c2020.jpg",
+   "score": 0.3413,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFRNI6M",
+   "poi_name": "爱·北欧",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1472",
+   "file": "c1472.jpg",
+   "score": 0.3408,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02030JILX",
+   "poi_name": "第一家酒楼",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c774",
+   "file": "c774.jpg",
+   "score": 0.3405,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFTUOT4",
+   "poi_name": "惠美佳超市(南环一路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c31",
+   "file": "c31.jpg",
+   "score": 0.3403,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J0AKA36H",
+   "poi_name": "左邻右舍生鲜食品超市(淞虹路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1488",
+   "file": "c1488.jpg",
+   "score": 0.3402,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFLKEG6Y",
+   "poi_name": "AUPU奥普浴霸集成吊顶(东台居然之家三楼店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1241",
+   "file": "c1241.jpg",
+   "score": 0.3401,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G25XYVM1",
+   "poi_name": "美好便利店(开元世家店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c583",
+   "file": "c583.jpg",
+   "score": 0.3395,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIF2CSD",
+   "poi_name": "左邻右里便利店(广瑞路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1626",
+   "file": "c1626.jpg",
+   "score": 0.3391,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J34R26YZ",
+   "poi_name": "江苏淮安SUHO HOME体验店",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1535",
+   "file": "c1535.jpg",
+   "score": 0.3387,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H127AJWY",
+   "poi_name": "四海一家超市(都市花园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c883",
+   "file": "c883.jpg",
+   "score": 0.3377,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6T5OYPG",
+   "poi_name": "汇集仓便利店(天玺花园店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1609",
+   "file": "c1609.jpg",
+   "score": 0.3377,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0PHG2ZA",
+   "poi_name": "全网通手机卖场浩佳通讯iQOO(手机维修)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1658",
+   "file": "c1658.jpg",
+   "score": 0.3372,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZ9SPK",
+   "poi_name": "好一家服饰广场(共和店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c431",
+   "file": "c431.jpg",
+   "score": 0.337,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFKMQUYB",
+   "poi_name": "菜鸟驿站(苏州白云街91号店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1615",
+   "file": "c1615.jpg",
+   "score": 0.3365,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGP96H0",
+   "poi_name": "好一家服饰",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1266",
+   "file": "c1266.jpg",
+   "score": 0.3359,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0JGASF9UC",
+   "poi_name": "美好便利店(宝应碧桂园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1396",
+   "file": "c1396.jpg",
+   "score": 0.3355,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJEZMJY",
+   "poi_name": "好一家鞋服时尚馆(南洋店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c196",
+   "file": "c196.jpg",
+   "score": 0.3352,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKPZ824",
+   "poi_name": "匠厨(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1072",
+   "file": "c1072.jpg",
+   "score": 0.3348,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFMET0SO",
+   "poi_name": "一比一家纺(被城北路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c198",
+   "file": "c198.jpg",
+   "score": 0.334,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00190Z0O8",
+   "poi_name": "E购联华超市(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c513",
+   "file": "c513.jpg",
+   "score": 0.334,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKMOW1SG",
+   "poi_name": "一家人超市(安定街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1077",
+   "file": "c1077.jpg",
+   "score": 0.334,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJL5RYY",
+   "poi_name": "好一家窗帘",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1919",
+   "file": "c1919.jpg",
+   "score": 0.3331,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JG6HHK5K",
+   "poi_name": "品于行教育大儒校区",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c319",
+   "file": "c319.jpg",
+   "score": 0.3329,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0MBZKBDQE",
+   "poi_name": "左邻右舍便利超市(南京路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1425",
+   "file": "c1425.jpg",
+   "score": 0.3329,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203191I4",
+   "poi_name": "好一家服饰广场(新丰店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1618",
+   "file": "c1618.jpg",
+   "score": 0.3324,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050TDBV",
+   "poi_name": "好一家鞋服广场(马坝店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1597",
+   "file": "c1597.jpg",
+   "score": 0.3318,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZDU9W",
+   "poi_name": "北京生态家园淮安服务中心",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1099",
+   "file": "c1099.jpg",
+   "score": 0.3312,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK7MT9L",
+   "poi_name": "好一家窗帘家纺",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c2040",
+   "file": "c2040.jpg",
+   "score": 0.3309,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I3VKAMGF",
+   "poi_name": "Dan",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c157",
+   "file": "c157.jpg",
+   "score": 0.3304,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00190AAQO",
+   "poi_name": "左邻风度",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1229",
+   "file": "c1229.jpg",
+   "score": 0.3304,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K34HYF9L",
+   "poi_name": "101烟酒便利店(中信泰富店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c2068",
+   "file": "c2068.jpg",
+   "score": 0.33,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H1RU96J6",
+   "poi_name": "老边家熟食店(帝景城店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1000",
+   "file": "c1000.jpg",
+   "score": 0.3295,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M61ZGSXF",
+   "poi_name": "米盼盼.小炒大碗饭(如皋石庄镇店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c416",
+   "file": "c416.jpg",
+   "score": 0.329,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MA45UK4B",
+   "poi_name": "左邻右里便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c956",
+   "file": "c956.jpg",
+   "score": 0.3288,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L2BUL2NL",
+   "poi_name": "惠泽便利超市",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c207",
+   "file": "c207.jpg",
+   "score": 0.3282,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KAX5DIHD",
+   "poi_name": "凤强冷饮批发(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c499",
+   "file": "c499.jpg",
+   "score": 0.3273,
+   "pred": false,
+   "s_clip": 0.6,
+   "poi": "B0KD6RG2CT",
+   "poi_name": "泾园菜场冷饮批发",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1464",
+   "file": "c1464.jpg",
+   "score": 0.3273,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KBOL9U2S",
+   "poi_name": "金志霞窗帘家具城总店",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c2073",
+   "file": "c2073.jpg",
+   "score": 0.3268,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK7LKZ1",
+   "poi_name": "京东时光驿站便利店(暂停营业)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c836",
+   "file": "c836.jpg",
+   "score": 0.3265,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUSCMYFH",
+   "poi_name": "好一家服饰",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1976",
+   "file": "c1976.jpg",
+   "score": 0.3264,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIDDEWS",
+   "poi_name": "女1号",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c790",
+   "file": "c790.jpg",
+   "score": 0.3263,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LD3HCJX3",
+   "poi_name": "第一家早餐店",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1549",
+   "file": "c1549.jpg",
+   "score": 0.3257,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0205069A4",
+   "poi_name": "四海一家超市(弘康店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1462",
+   "file": "c1462.jpg",
+   "score": 0.3256,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFKYFR73",
+   "poi_name": "好一家酒店",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c747",
+   "file": "c747.jpg",
+   "score": 0.3255,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJ27Q9U",
+   "poi_name": "大众足疗(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c360",
+   "file": "c360.jpg",
+   "score": 0.325,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J6AX8AMZ",
+   "poi_name": "左邻右舍便利店(黄河路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c253",
+   "file": "c253.jpg",
+   "score": 0.324,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFK58YOL",
+   "poi_name": "左邻右舍便利超市(花苑西路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c84",
+   "file": "c84.jpg",
+   "score": 0.3238,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGPG5B9",
+   "poi_name": "好一家建材(金上海生活广场店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c660",
+   "file": "c660.jpg",
+   "score": 0.3236,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K3RDX52Q",
+   "poi_name": "一家人公寓",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c520",
+   "file": "c520.jpg",
+   "score": 0.323,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JA29EP0D",
+   "poi_name": "一家人超市店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1541",
+   "file": "c1541.jpg",
+   "score": 0.3229,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G25YTAPB",
+   "poi_name": "四海一家生活超市(南惠佳园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c494",
+   "file": "c494.jpg",
+   "score": 0.3226,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0I1ZSMCII",
+   "poi_name": "新沂第一家擀面皮(港龙城商业广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1346",
+   "file": "c1346.jpg",
+   "score": 0.3225,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFHP0NFW",
+   "poi_name": "桥头第一家",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1244",
+   "file": "c1244.jpg",
+   "score": 0.3224,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H6S4V7NJ",
+   "poi_name": "好一家面馆(莲花路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1478",
+   "file": "c1478.jpg",
+   "score": 0.3223,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02030JB5Q",
+   "poi_name": "好一家服饰广场(刘庄店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1257",
+   "file": "c1257.jpg",
+   "score": 0.3221,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6PAZ5N6",
+   "poi_name": "美好便利店(高邮盂城驿店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1565",
+   "file": "c1565.jpg",
+   "score": 0.3209,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050699U",
+   "poi_name": "四海一家超市(城东花园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1668",
+   "file": "c1668.jpg",
+   "score": 0.3205,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFTE1Z8",
+   "poi_name": "左邻右舍烟酒店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1670",
+   "file": "c1670.jpg",
+   "score": 0.3189,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0HKDL58GJ",
+   "poi_name": "左邻右舍茶馆",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1723",
+   "file": "c1723.jpg",
+   "score": 0.3189,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG32HVY",
+   "poi_name": "好一家服饰百货(城头店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1853",
+   "file": "c1853.jpg",
+   "score": 0.3186,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IDS7J8J2",
+   "poi_name": "万豪酒店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c902",
+   "file": "c902.jpg",
+   "score": 0.3179,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJUW27Z",
+   "poi_name": "好一家酒楼",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1316",
+   "file": "c1316.jpg",
+   "score": 0.3179,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020B01T1D",
+   "poi_name": "好一家服饰分界店",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c998",
+   "file": "c998.jpg",
+   "score": 0.3173,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFQ4LAD",
+   "poi_name": "曼天雨品牌服装折扣店",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c64",
+   "file": "c64.jpg",
+   "score": 0.3172,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H19CLH30",
+   "poi_name": "左邻空间定制",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c70",
+   "file": "c70.jpg",
+   "score": 0.3167,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK1PRTH",
+   "poi_name": "左邻有社生活超市(国顺路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1604",
+   "file": "c1604.jpg",
+   "score": 0.3164,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HA6OE0SD",
+   "poi_name": "老板电器(国际商城专卖店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c744",
+   "file": "c744.jpg",
+   "score": 0.3161,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHK71FK",
+   "poi_name": "左邻右居门窗加工",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c390",
+   "file": "c390.jpg",
+   "score": 0.3159,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L1T7566V",
+   "poi_name": "左邻·右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c497",
+   "file": "c497.jpg",
+   "score": 0.3135,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JD16WUEW",
+   "poi_name": "好一家家具商行",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c771",
+   "file": "c771.jpg",
+   "score": 0.3129,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFFT3N3M",
+   "poi_name": "速8酒店(金坛左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1125",
+   "file": "c1125.jpg",
+   "score": 0.3127,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFMFU6QG",
+   "poi_name": "好一家配菜(长庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c777",
+   "file": "c777.jpg",
+   "score": 0.3125,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LD5UXC8W",
+   "poi_name": "东门第一家冷菜店(新世界花苑店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c2074",
+   "file": "c2074.jpg",
+   "score": 0.3122,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFY2Z4O",
+   "poi_name": "邳南第一家凉皮老店",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1134",
+   "file": "c1134.jpg",
+   "score": 0.3104,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2W4WV",
+   "poi_name": "小朱便利(京华御景苑店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1376",
+   "file": "c1376.jpg",
+   "score": 0.31,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRKD3YOW",
+   "poi_name": "一家人餐馆(分雅路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1504",
+   "file": "c1504.jpg",
+   "score": 0.3096,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JDOCF9BS",
+   "poi_name": "兰惠精品名妆(滨海港店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c2023",
+   "file": "c2023.jpg",
+   "score": 0.3096,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0J0FAK1J8",
+   "poi_name": "徐州亿佳门业",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1880",
+   "file": "c1880.jpg",
+   "score": 0.3094,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HRCSL5MU",
+   "poi_name": "仁喜便利店(锦绣家园店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c909",
+   "file": "c909.jpg",
+   "score": 0.3089,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I0HRWDO3",
+   "poi_name": "美好便利(荣城国际店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1217",
+   "file": "c1217.jpg",
+   "score": 0.3088,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGYKH5N",
+   "poi_name": "好一家服饰城(通邮路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1847",
+   "file": "c1847.jpg",
+   "score": 0.3087,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT66S5",
+   "poi_name": "洪建水产批发部",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c868",
+   "file": "c868.jpg",
+   "score": 0.3084,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J33DNXOP",
+   "poi_name": "每尚惠便利店(润清路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c480",
+   "file": "c480.jpg",
+   "score": 0.3079,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020006W66",
+   "poi_name": "好一家茶业(东园公路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c967",
+   "file": "c967.jpg",
+   "score": 0.3077,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LAMH6GDJ",
+   "poi_name": "有福burger",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1345",
+   "file": "c1345.jpg",
+   "score": 0.3071,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJX6XL1",
+   "poi_name": "扬州盐水鹅(靖江美食创业一条街店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1624",
+   "file": "c1624.jpg",
+   "score": 0.3068,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0DD3H",
+   "poi_name": "第一家服装",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c895",
+   "file": "c895.jpg",
+   "score": 0.3054,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4F3JH",
+   "poi_name": "华盛便利(中心嘉园店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1715",
+   "file": "c1715.jpg",
+   "score": 0.3054,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020F15D4R",
+   "poi_name": "友谊餐厅(洪泽湖路)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1411",
+   "file": "c1411.jpg",
+   "score": 0.3042,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHSKA28",
+   "poi_name": "好一家服饰广场(便仓店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1855",
+   "file": "c1855.jpg",
+   "score": 0.3032,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GDT4X5VS",
+   "poi_name": "灌云县圩丰冬友超市",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c418",
+   "file": "c418.jpg",
+   "score": 0.3031,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MGROLZF1",
+   "poi_name": "左邻右舍便利超市(广鸿大厦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1442",
+   "file": "c1442.jpg",
+   "score": 0.3022,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203171MX",
+   "poi_name": "好一家服饰城(人民路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1830",
+   "file": "c1830.jpg",
+   "score": 0.3008,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF2FS9V",
+   "poi_name": "好一家鞋服城(穆圩店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c2046",
+   "file": "c2046.jpg",
+   "score": 0.3005,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G1NH37FG",
+   "poi_name": "帝王洁具",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c858",
+   "file": "c858.jpg",
+   "score": 0.3002,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KAUZLVM7",
+   "poi_name": "左邻右里便利店(茅山风景区夏林店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1495",
+   "file": "c1495.jpg",
+   "score": 0.2999,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K2H7M1FB",
+   "poi_name": "轻素栖花里(射阳万成尚景店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1401",
+   "file": "c1401.jpg",
+   "score": 0.2995,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020315I7B",
+   "poi_name": "好一家服饰超市(伍佑店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1486",
+   "file": "c1486.jpg",
+   "score": 0.2995,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGA8MMN",
+   "poi_name": "主一家具(永泰翡翠城店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c752",
+   "file": "c752.jpg",
+   "score": 0.299,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3DHQ4XZ",
+   "poi_name": "时时名表维修(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1621",
+   "file": "c1621.jpg",
+   "score": 0.2982,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HK5CL66J",
+   "poi_name": "GOJO高卓办公(人体工学椅品牌集合体验馆)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1729",
+   "file": "c1729.jpg",
+   "score": 0.2979,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHPV6DS",
+   "poi_name": "好一家服饰(爱园店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1238",
+   "file": "c1238.jpg",
+   "score": 0.2977,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L0VRIWIY",
+   "poi_name": "之上便利店(扬州之上仪征汽车产业园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c241",
+   "file": "c241.jpg",
+   "score": 0.2972,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LAD9AAEX",
+   "poi_name": "左邻右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c2062",
+   "file": "c2062.jpg",
+   "score": 0.2971,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFI8J9SG",
+   "poi_name": "小新家凉皮店",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1116",
+   "file": "c1116.jpg",
+   "score": 0.2968,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRFSICEB",
+   "poi_name": "1家宠物店",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c733",
+   "file": "c733.jpg",
+   "score": 0.296,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKLD8VJJ",
+   "poi_name": "左邻右舍便利超市(龙德花园店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c749",
+   "file": "c749.jpg",
+   "score": 0.2958,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MD4UJC45",
+   "poi_name": "9+coffee(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1862",
+   "file": "c1862.jpg",
+   "score": 0.2954,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFTM0HA",
+   "poi_name": "花里花店(心情不错)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1669",
+   "file": "c1669.jpg",
+   "score": 0.2949,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K2O129X6",
+   "poi_name": "丽景湾华庭左邻右舍便利店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1591",
+   "file": "c1591.jpg",
+   "score": 0.2942,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3X1MB",
+   "poi_name": "好一家服饰广场",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1226",
+   "file": "c1226.jpg",
+   "score": 0.2932,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02020J47K",
+   "poi_name": "宏信便利(花荡路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c653",
+   "file": "c653.jpg",
+   "score": 0.2927,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZNMIB",
+   "poi_name": "明光一家人",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1772",
+   "file": "c1772.jpg",
+   "score": 0.2918,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JUMKRSOA",
+   "poi_name": "有米女装(青阳南路店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1069",
+   "file": "c1069.jpg",
+   "score": 0.2915,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUBDY11H",
+   "poi_name": "金牌衣柜(星湖大道店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1874",
+   "file": "c1874.jpg",
+   "score": 0.2915,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I62UI985",
+   "poi_name": "万顺彩钢瓦夹芯板树脂瓦",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1934",
+   "file": "c1934.jpg",
+   "score": 0.2908,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02040RKKR",
+   "poi_name": "好一家百货超市(人民路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1602",
+   "file": "c1602.jpg",
+   "score": 0.2907,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG1GZWD",
+   "poi_name": "兔宝宝板材专卖店(新世纪商贸城店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1734",
+   "file": "c1734.jpg",
+   "score": 0.2903,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2AZ6NDN",
+   "poi_name": "米兰纳衣柜整家定制",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1240",
+   "file": "c1240.jpg",
+   "score": 0.2902,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG98HC9",
+   "poi_name": "真的便利店(建盈御景花园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1506",
+   "file": "c1506.jpg",
+   "score": 0.2898,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020315C1K",
+   "poi_name": "好一家超市(202县道店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1273",
+   "file": "c1273.jpg",
+   "score": 0.2897,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020217XN3",
+   "poi_name": "迎辉便利店(秦邮茗都南苑店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1197",
+   "file": "c1197.jpg",
+   "score": 0.2893,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J3UAYCTI",
+   "poi_name": "惠邻家便利店(中海世玺店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1765",
+   "file": "c1765.jpg",
+   "score": 0.2889,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2TOR1",
+   "poi_name": "台冠鸡排(东关大街店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c2006",
+   "file": "c2006.jpg",
+   "score": 0.2888,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK9HKZT",
+   "poi_name": "新沂第一家擀面皮(新沂高铁站如家精选酒店店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1183",
+   "file": "c1183.jpg",
+   "score": 0.2886,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H16RZONG",
+   "poi_name": "千木便利(汊河银河路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1446",
+   "file": "c1446.jpg",
+   "score": 0.2863,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGAA20V",
+   "poi_name": "好一家窗帘",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1680",
+   "file": "c1680.jpg",
+   "score": 0.2862,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K2HGLX4N",
+   "poi_name": "元卓广告加工",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c511",
+   "file": "c511.jpg",
+   "score": 0.2854,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02001IKBB",
+   "poi_name": "好一家推拿",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c52",
+   "file": "c52.jpg",
+   "score": 0.2851,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LGNRX0HP",
+   "poi_name": "LuxuryTailor左邻右里",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1576",
+   "file": "c1576.jpg",
+   "score": 0.285,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDA61BSI",
+   "poi_name": "馋辰纪甜辣鸭货(南方花园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1836",
+   "file": "c1836.jpg",
+   "score": 0.2844,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL5F0RT",
+   "poi_name": "美的专卖店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c2061",
+   "file": "c2061.jpg",
+   "score": 0.2839,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HKYHUW9R",
+   "poi_name": "第一家柳州螺蛳粉(车夫山店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c991",
+   "file": "c991.jpg",
+   "score": 0.2833,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGHKV3T",
+   "poi_name": "如皋市羊名天下羊肉店(石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1896",
+   "file": "c1896.jpg",
+   "score": 0.2831,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3ZCEXJY",
+   "poi_name": "花样蛋糕坊",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1066",
+   "file": "c1066.jpg",
+   "score": 0.2829,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH812VC",
+   "poi_name": "好一家购物(古坳店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c690",
+   "file": "c690.jpg",
+   "score": 0.282,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B01FE0I8DA",
+   "poi_name": "一家人家常菜馆(中山北路)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1302",
+   "file": "c1302.jpg",
+   "score": 0.2805,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJKNHR9",
+   "poi_name": "好一家服饰(刘陈店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1165",
+   "file": "c1165.jpg",
+   "score": 0.2798,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I0HZPOLM",
+   "poi_name": "美好便利店(帝景蓝湾店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1090",
+   "file": "c1090.jpg",
+   "score": 0.2796,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IK6HL8EX",
+   "poi_name": "好一家时尚服饰",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1208",
+   "file": "c1208.jpg",
+   "score": 0.2784,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6FRSY7A",
+   "poi_name": "尚书便利店(24小时无人超市)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c62",
+   "file": "c62.jpg",
+   "score": 0.2775,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKKEB5Y",
+   "poi_name": "左邻青年社区",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c2051",
+   "file": "c2051.jpg",
+   "score": 0.2775,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF4GFJ1",
+   "poi_name": "有一家数码",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c871",
+   "file": "c871.jpg",
+   "score": 0.2773,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JBTOBFKD",
+   "poi_name": "一家亲便利店(聚和园店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c725",
+   "file": "c725.jpg",
+   "score": 0.2772,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LUVKDIND",
+   "poi_name": "左邻右舍便利店",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c905",
+   "file": "c905.jpg",
+   "score": 0.2771,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUOO8FOR",
+   "poi_name": "美好便利(花园路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c78",
+   "file": "c78.jpg",
+   "score": 0.2768,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JK0RS45T",
+   "poi_name": "一家人生鲜超市(定边路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1893",
+   "file": "c1893.jpg",
+   "score": 0.2764,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L1DCUT52",
+   "poi_name": "喵小丸滨海肉丸(二中店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1367",
+   "file": "c1367.jpg",
+   "score": 0.2751,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHD7GW7",
+   "poi_name": "一家人饭庄(福泰路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1389",
+   "file": "c1389.jpg",
+   "score": 0.275,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJG0MLQ",
+   "poi_name": "左邻右里(中南世纪城康城店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1103",
+   "file": "c1103.jpg",
+   "score": 0.2748,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020106MZC",
+   "poi_name": "好一家服饰时尚生活馆(大公店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c846",
+   "file": "c846.jpg",
+   "score": 0.2747,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH5U7GG",
+   "poi_name": "金坛第一家夫妻肺片(常胜路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c879",
+   "file": "c879.jpg",
+   "score": 0.2741,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGME27S",
+   "poi_name": "日一便利",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c598",
+   "file": "c598.jpg",
+   "score": 0.2738,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH1ML26",
+   "poi_name": "四海一家直销中心",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c274",
+   "file": "c274.jpg",
+   "score": 0.2735,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0K3JLFOYI",
+   "poi_name": "左邻右舍便利超市(明清街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c616",
+   "file": "c616.jpg",
+   "score": 0.2734,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IUA5YXBR",
+   "poi_name": "第一家",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1001",
+   "file": "c1001.jpg",
+   "score": 0.2729,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0LRRO",
+   "poi_name": "建林五金灯具水暖器材(左邻右里店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c601",
+   "file": "c601.jpg",
+   "score": 0.2726,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUCSYUGE",
+   "poi_name": "四海一家(好得家国际食品城店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1653",
+   "file": "c1653.jpg",
+   "score": 0.272,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GR3HIKJW",
+   "poi_name": "出售草帘草绳",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c55",
+   "file": "c55.jpg",
+   "score": 0.2719,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDPCLXS3",
+   "poi_name": "左邻右畔超市(永康店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c195",
+   "file": "c195.jpg",
+   "score": 0.2713,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFP9Z04",
+   "poi_name": "南京双杨门窗(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1972",
+   "file": "c1972.jpg",
+   "score": 0.2712,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0I1TCDZ3D",
+   "poi_name": "海联干货店(建工小区南区店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1260",
+   "file": "c1260.jpg",
+   "score": 0.2707,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1VD91HP",
+   "poi_name": "美好便利店(吾悦广场店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c617",
+   "file": "c617.jpg",
+   "score": 0.2706,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL6XD3I",
+   "poi_name": "好1家房产(曹张店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c842",
+   "file": "c842.jpg",
+   "score": 0.2692,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020703L8G",
+   "poi_name": "这一家自选批发",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1648",
+   "file": "c1648.jpg",
+   "score": 0.2687,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KKFAO0VQ",
+   "poi_name": "这一碗家常小炒",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1868",
+   "file": "c1868.jpg",
+   "score": 0.2664,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM4BNNV",
+   "poi_name": "大艺树地板(赣榆旗舰店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1329",
+   "file": "c1329.jpg",
+   "score": 0.2663,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HD0SZ5K7",
+   "poi_name": "桥架.KBG.JDG穿线管华峰建筑材料经营部(暂停营业)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c69",
+   "file": "c69.jpg",
+   "score": 0.265,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LDLRTFO9",
+   "poi_name": "左邻五金(一号店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c908",
+   "file": "c908.jpg",
+   "score": 0.2649,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRXB12TG",
+   "poi_name": "日久便利(汇金天地店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1119",
+   "file": "c1119.jpg",
+   "score": 0.2642,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JDPCUHNW",
+   "poi_name": "金丝利零售邻好生鲜超市(长宏·水岸名城三期店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c2011",
+   "file": "c2011.jpg",
+   "score": 0.2638,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF2SGT1",
+   "poi_name": "第一家擀面皮(劳武路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1744",
+   "file": "c1744.jpg",
+   "score": 0.2632,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG12F95",
+   "poi_name": "一家人宾馆",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c481",
+   "file": "c481.jpg",
+   "score": 0.263,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020017DJF",
+   "poi_name": "天下一家",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1751",
+   "file": "c1751.jpg",
+   "score": 0.263,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G3XADR6N",
+   "poi_name": "博宇板材整体橱柜卫浴电器(君临天下店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1505",
+   "file": "c1505.jpg",
+   "score": 0.2626,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203193VX",
+   "poi_name": "一家人超市(西博路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1443",
+   "file": "c1443.jpg",
+   "score": 0.262,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT3UTY",
+   "poi_name": "好一家服饰城(兴桥店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1078",
+   "file": "c1078.jpg",
+   "score": 0.2613,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MUC93DVY",
+   "poi_name": "文记一家人(如皋店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1385",
+   "file": "c1385.jpg",
+   "score": 0.2608,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGPJSCV",
+   "poi_name": "左邻右舍(阳光海岸店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1291",
+   "file": "c1291.jpg",
+   "score": 0.2604,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3WOXO",
+   "poi_name": "好一家服饰(苏陈店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1049",
+   "file": "c1049.jpg",
+   "score": 0.2603,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020107YQT",
+   "poi_name": "好一家超市(经管大楼西)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1521",
+   "file": "c1521.jpg",
+   "score": 0.2601,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J6GSJ4ZN",
+   "poi_name": "左邻右居超市(广州路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c116",
+   "file": "c116.jpg",
+   "score": 0.2593,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2USV6LA",
+   "poi_name": "好一家理发店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c456",
+   "file": "c456.jpg",
+   "score": 0.2591,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B02001EEO3",
+   "poi_name": "四海一家超市(幸福未来花园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c2026",
+   "file": "c2026.jpg",
+   "score": 0.2586,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFIOBM7A",
+   "poi_name": "第一家水果店",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c604",
+   "file": "c604.jpg",
+   "score": 0.258,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B01FE19913",
+   "poi_name": "四海一家超市(无锡天鹏食品城店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1840",
+   "file": "c1840.jpg",
+   "score": 0.2576,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HRVRZA10",
+   "poi_name": "一家人洗车",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1340",
+   "file": "c1340.jpg",
+   "score": 0.2553,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFF43V7S",
+   "poi_name": "第一家刀削面店(S231东环快速)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c669",
+   "file": "c669.jpg",
+   "score": 0.2552,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK5W18T",
+   "poi_name": "一家人副食超市(红星路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1674",
+   "file": "c1674.jpg",
+   "score": 0.2541,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IBHDEKNC",
+   "poi_name": "左邻优社(泗州大街店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1856",
+   "file": "c1856.jpg",
+   "score": 0.2528,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4JCNP",
+   "poi_name": "上海黑马饲料",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c787",
+   "file": "c787.jpg",
+   "score": 0.251,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02070TME9",
+   "poi_name": "常州好一家宾馆",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1735",
+   "file": "c1735.jpg",
+   "score": 0.2503,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIL1WF8",
+   "poi_name": "沁园净水器专卖店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1909",
+   "file": "c1909.jpg",
+   "score": 0.2503,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIAOXQB",
+   "poi_name": "左邻右舍生活超市",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c641",
+   "file": "c641.jpg",
+   "score": 0.2498,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MUPDED2E",
+   "poi_name": "古街第一家",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1792",
+   "file": "c1792.jpg",
+   "score": 0.2488,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF05LJR",
+   "poi_name": "好一家服饰广场(小伊店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c331",
+   "file": "c331.jpg",
+   "score": 0.2487,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKSMHVES",
+   "poi_name": "左邻右舍(花园天悦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c35",
+   "file": "c35.jpg",
+   "score": 0.2486,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MDV9OTZ7",
+   "poi_name": "左邻右舍便利店(龙翔路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c693",
+   "file": "c693.jpg",
+   "score": 0.2473,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFVCF5A",
+   "poi_name": "万福江南大闸蟹销售公司(百兴小湖商贸城店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c954",
+   "file": "c954.jpg",
+   "score": 0.247,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HDF5G156",
+   "poi_name": "一为便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1498",
+   "file": "c1498.jpg",
+   "score": 0.2462,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKAKWRA3",
+   "poi_name": "雨虹保温防水材料批发",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c717",
+   "file": "c717.jpg",
+   "score": 0.2459,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KGKSZ6G4",
+   "poi_name": "左邻右舍便利店(金玉苑店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c681",
+   "file": "c681.jpg",
+   "score": 0.2441,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JB39HDKB",
+   "poi_name": "老头炒货",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c226",
+   "file": "c226.jpg",
+   "score": 0.2432,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0ID7U9KU2",
+   "poi_name": "皖丰超市(泊客公寓店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c965",
+   "file": "c965.jpg",
+   "score": 0.243,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGEWEQO",
+   "poi_name": "小蒋家电车辆专卖",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1242",
+   "file": "c1242.jpg",
+   "score": 0.2427,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG8ORJU",
+   "poi_name": "好一家宾馆",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1386",
+   "file": "c1386.jpg",
+   "score": 0.2427,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HRA7K4YX",
+   "poi_name": "左邻右舍超市(双湖壹品店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c620",
+   "file": "c620.jpg",
+   "score": 0.2424,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6LCJTFJ",
+   "poi_name": "海一家(江阴人民中路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1700",
+   "file": "c1700.jpg",
+   "score": 0.2421,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHQ4E5V",
+   "poi_name": "好一家百货服饰(城南小区店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c225",
+   "file": "c225.jpg",
+   "score": 0.2415,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L15MZ4DZ",
+   "poi_name": "左邻右里生鲜超市",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1079",
+   "file": "c1079.jpg",
+   "score": 0.2407,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGACG2P",
+   "poi_name": "好一家厨卫家电照明",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c687",
+   "file": "c687.jpg",
+   "score": 0.2405,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4J3LV",
+   "poi_name": "永昌石业(南塍路)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c885",
+   "file": "c885.jpg",
+   "score": 0.2403,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIG6R3X",
+   "poi_name": "欧耶便利店(旭辉东壹小区店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c975",
+   "file": "c975.jpg",
+   "score": 0.2399,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02010URF6",
+   "poi_name": "左邻右舍酒店(闸东路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c76",
+   "file": "c76.jpg",
+   "score": 0.2394,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00155HDLT",
+   "poi_name": "好一家超市(浦东北路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c401",
+   "file": "c401.jpg",
+   "score": 0.2394,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0LGHGNVDQ",
+   "poi_name": "左邻右舍便利超市(GHC绿地滨江汇店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1308",
+   "file": "c1308.jpg",
+   "score": 0.2372,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G3MR2FM1",
+   "poi_name": "第一家凉皮",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c51",
+   "file": "c51.jpg",
+   "score": 0.2369,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G336TMF7",
+   "poi_name": "左邻右邻生鲜生活超市(练祥佳苑店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1948",
+   "file": "c1948.jpg",
+   "score": 0.2365,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0FFGME41Q",
+   "poi_name": "第一家擀面(三汊河店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c994",
+   "file": "c994.jpg",
+   "score": 0.2362,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JRDHQI5Q",
+   "poi_name": "花艺空间(凌翔花苑东区店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c194",
+   "file": "c194.jpg",
+   "score": 0.2356,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HKODHN13",
+   "poi_name": "购庆烟酒店(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1206",
+   "file": "c1206.jpg",
+   "score": 0.2352,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK92NXQ",
+   "poi_name": "美好便利(扬州运河世家店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1344",
+   "file": "c1344.jpg",
+   "score": 0.235,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6NM0RBT",
+   "poi_name": "一家人土菜馆(府前花苑小区店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1942",
+   "file": "c1942.jpg",
+   "score": 0.234,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GDXHQQL7",
+   "poi_name": "得一家居(徐州升辉店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1489",
+   "file": "c1489.jpg",
+   "score": 0.2339,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203172B1",
+   "poi_name": "好一家服饰(运河店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1319",
+   "file": "c1319.jpg",
+   "score": 0.2331,
+   "pred": false,
+   "s_clip": 0.4,
+   "poi": "B0FFGAIW4O",
+   "poi_name": "好一家服饰广场(张桥店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c342",
+   "file": "c342.jpg",
+   "score": 0.233,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K11RVXTJ",
+   "poi_name": "左邻右舍便利超市(银环路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c135",
+   "file": "c135.jpg",
+   "score": 0.2317,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0ID77K80C",
+   "poi_name": "左邻右舍便利超市(中海·燕矶听潮店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1415",
+   "file": "c1415.jpg",
+   "score": 0.231,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3MA81QX",
+   "poi_name": "好一家鞋服时尚馆(庆丰店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c776",
+   "file": "c776.jpg",
+   "score": 0.2306,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJVDPJI",
+   "poi_name": "秀华超市(南环一路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c436",
+   "file": "c436.jpg",
+   "score": 0.2297,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJF1RB9",
+   "poi_name": "昆山商厦佐邻佑社(锦溪花园商业中心店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1264",
+   "file": "c1264.jpg",
+   "score": 0.2286,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGTZQOEM",
+   "poi_name": "好到家便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1768",
+   "file": "c1768.jpg",
+   "score": 0.2279,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LD5XHCM1",
+   "poi_name": "晓晓",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c112",
+   "file": "c112.jpg",
+   "score": 0.2265,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HKOUGU8M",
+   "poi_name": "旺邦木门(金博店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1343",
+   "file": "c1343.jpg",
+   "score": 0.2264,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L6MMVNKG",
+   "poi_name": "天大木门墙板(人民南路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c93",
+   "file": "c93.jpg",
+   "score": 0.2263,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00156YXI2",
+   "poi_name": "一家人果业(华展路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1170",
+   "file": "c1170.jpg",
+   "score": 0.2257,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02020ICH5",
+   "poi_name": "有的便利(大学北路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1253",
+   "file": "c1253.jpg",
+   "score": 0.2255,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFMFCQWX",
+   "poi_name": "万金芳便利",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c145",
+   "file": "c145.jpg",
+   "score": 0.2249,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIK73UF",
+   "poi_name": "花筑·南京汤山左邻右舍温泉民宿",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1292",
+   "file": "c1292.jpg",
+   "score": 0.2247,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM9GZ86",
+   "poi_name": "好一家服饰广场(府前路店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c176",
+   "file": "c176.jpg",
+   "score": 0.2245,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I60H9MJ9",
+   "poi_name": "超妍美容SPA会所(江宁左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1008",
+   "file": "c1008.jpg",
+   "score": 0.2239,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG49EYS",
+   "poi_name": "中国移动手机连锁卖场(石庄亿通店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1690",
+   "file": "c1690.jpg",
+   "score": 0.2229,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020F0IDWC",
+   "poi_name": "第一家轮胎",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c182",
+   "file": "c182.jpg",
+   "score": 0.2228,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H6P6KPZC",
+   "poi_name": "悦妍皮肤管理美甲美睫(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c812",
+   "file": "c812.jpg",
+   "score": 0.2227,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4490D",
+   "poi_name": "金宝利灯饰",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1456",
+   "file": "c1456.jpg",
+   "score": 0.2224,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JBZPJVM6",
+   "poi_name": "四海一家宾馆",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c765",
+   "file": "c765.jpg",
+   "score": 0.2211,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HU7UYM2Y",
+   "poi_name": "Miss LuLu女装店左邻右里",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1871",
+   "file": "c1871.jpg",
+   "score": 0.2211,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IK6ZFLYW",
+   "poi_name": "爱丽丝语蛋糕(陶然居店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1122",
+   "file": "c1122.jpg",
+   "score": 0.221,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HDYRQZ98",
+   "poi_name": "一家人超市(金霞路店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1084",
+   "file": "c1084.jpg",
+   "score": 0.2196,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKJCY03Y",
+   "poi_name": "ABC青少年家居",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1005",
+   "file": "c1005.jpg",
+   "score": 0.2178,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGZMC8C",
+   "poi_name": "巴十克(石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1994",
+   "file": "c1994.jpg",
+   "score": 0.2155,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHNKXKO",
+   "poi_name": "邳州第一家驴肉馆",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c90",
+   "file": "c90.jpg",
+   "score": 0.2152,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRMU15IW",
+   "poi_name": "徐小徐·XUXU美学生活工厂(天鸿创新园)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1373",
+   "file": "c1373.jpg",
+   "score": 0.2152,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I6K7FTXG",
+   "poi_name": "斐雷拉艺术涂料",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c433",
+   "file": "c433.jpg",
+   "score": 0.2146,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKWKAHY",
+   "poi_name": "左邻优鲜",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c427",
+   "file": "c427.jpg",
+   "score": 0.2142,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKBNDCG2",
+   "poi_name": "左邻左舍生鲜超市(摩玛自由城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c810",
+   "file": "c810.jpg",
+   "score": 0.2135,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJ7W8TG",
+   "poi_name": "邳州第一家擀面皮",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c12",
+   "file": "c12.jpg",
+   "score": 0.2132,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJL5MMQ",
+   "poi_name": "上海左邻右舍民宿",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c707",
+   "file": "c707.jpg",
+   "score": 0.2101,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFMHKOV7",
+   "poi_name": "十荟团左邻右舍(新西路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1774",
+   "file": "c1774.jpg",
+   "score": 0.2099,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IKSC4ZXW",
+   "poi_name": "周记批发商行(振兴商贸城振兴路店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1563",
+   "file": "c1563.jpg",
+   "score": 0.2092,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT64XP",
+   "poi_name": "好一家服饰城(码太路店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1936",
+   "file": "c1936.jpg",
+   "score": 0.2092,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HAZ78LFQ",
+   "poi_name": "炉火童话",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c888",
+   "file": "c888.jpg",
+   "score": 0.2044,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K2XL8K30",
+   "poi_name": "利购联华便利店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c957",
+   "file": "c957.jpg",
+   "score": 0.2043,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K3X5V95O",
+   "poi_name": "渔悦渔具店便利店体彩店",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c830",
+   "file": "c830.jpg",
+   "score": 0.2032,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KRAS3LPW",
+   "poi_name": "常州市梦琳工厂食品批发",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1423",
+   "file": "c1423.jpg",
+   "score": 0.2024,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IRTXI1SA",
+   "poi_name": "幸福一家人(张庄路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1925",
+   "file": "c1925.jpg",
+   "score": 0.2024,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI84XZP",
+   "poi_name": "邳州第一家擀面皮(静博园小区店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1437",
+   "file": "c1437.jpg",
+   "score": 0.2014,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHSK46B",
+   "poi_name": "小胖子夫妻肺片(盐湾店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c529",
+   "file": "c529.jpg",
+   "score": 0.1994,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J3OAQ0J7",
+   "poi_name": "佳得乐超市(两岸新天地店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1657",
+   "file": "c1657.jpg",
+   "score": 0.1988,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJ6CCKR",
+   "poi_name": "帝王洁具(万通国际商城店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1800",
+   "file": "c1800.jpg",
+   "score": 0.1986,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHDRULN",
+   "poi_name": "好一家服饰工厂直营(灌云店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c1593",
+   "file": "c1593.jpg",
+   "score": 0.1983,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF428XH",
+   "poi_name": "好一家服饰城(黄营店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1101",
+   "file": "c1101.jpg",
+   "score": 0.1976,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0M62CWMDU",
+   "poi_name": "杜小川活鱼川小馆(通州水街店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1656",
+   "file": "c1656.jpg",
+   "score": 0.1958,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF4G0AH",
+   "poi_name": "好一家服饰(管镇店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1440",
+   "file": "c1440.jpg",
+   "score": 0.195,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203173UC",
+   "poi_name": "好一家服饰时尚馆",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c526",
+   "file": "c526.jpg",
+   "score": 0.1936,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H2UCPA7D",
+   "poi_name": "鹰牌瓷砖(总代理)KT瓷砖",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c212",
+   "file": "c212.jpg",
+   "score": 0.193,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0VT62",
+   "poi_name": "章记面馆(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c700",
+   "file": "c700.jpg",
+   "score": 0.1925,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HR5MAQNV",
+   "poi_name": "倒贴烧饼(和信广场店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c578",
+   "file": "c578.jpg",
+   "score": 0.1912,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDPL9VB1",
+   "poi_name": "左邻右里(绿城·凤起和鸣店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c997",
+   "file": "c997.jpg",
+   "score": 0.189,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKSFY39",
+   "poi_name": "蔬果家园(左邻右里店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1859",
+   "file": "c1859.jpg",
+   "score": 0.1887,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3Y5J8OD",
+   "poi_name": "赣榆区北海和田JK制服&Lolita",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c548",
+   "file": "c548.jpg",
+   "score": 0.1878,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HKXHQNHK",
+   "poi_name": "志邦全屋定制(昆山红星店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c986",
+   "file": "c986.jpg",
+   "score": 0.1877,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JR3LAE1X",
+   "poi_name": "左邻右舍房产(长龙一村西区店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c932",
+   "file": "c932.jpg",
+   "score": 0.1871,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G29HORNC",
+   "poi_name": "便利之星(三二路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c614",
+   "file": "c614.jpg",
+   "score": 0.1866,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MAZ7ET8X",
+   "poi_name": "落霞第一家牛羊肉(付氏牛羊肉)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1834",
+   "file": "c1834.jpg",
+   "score": 0.1819,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G0BN0W7L",
+   "poi_name": "第一家超市(石平线店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c818",
+   "file": "c818.jpg",
+   "score": 0.1812,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0H0JSVF09",
+   "poi_name": "一家人厨房",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1015",
+   "file": "c1015.jpg",
+   "score": 0.18,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIS2WM5",
+   "poi_name": "石庄镇政法综治中心",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c119",
+   "file": "c119.jpg",
+   "score": 0.1793,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGTHMC4",
+   "poi_name": "安徽料理第一家",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c303",
+   "file": "c303.jpg",
+   "score": 0.1793,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JRXXJ2V3",
+   "poi_name": "左邻右舍百货",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c948",
+   "file": "c948.jpg",
+   "score": 0.1787,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFEYPBR",
+   "poi_name": "易捷便利店(人民路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1379",
+   "file": "c1379.jpg",
+   "score": 0.1781,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKD7THSM",
+   "poi_name": "爱红礼盒厂价直销(中国永丰河蟹交易市场店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1595",
+   "file": "c1595.jpg",
+   "score": 0.1771,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J3UH1ZA3",
+   "poi_name": "正宗四川麻辣鹅",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1218",
+   "file": "c1218.jpg",
+   "score": 0.177,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM3E3IO",
+   "poi_name": "一点点生活便利店",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c2031",
+   "file": "c2031.jpg",
+   "score": 0.177,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JRZH9GBJ",
+   "poi_name": "华为全屋智能(韩世步行街店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c464",
+   "file": "c464.jpg",
+   "score": 0.1763,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JADCDOBY",
+   "poi_name": "得库全球美妆集合店(塔园路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1108",
+   "file": "c1108.jpg",
+   "score": 0.1763,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KAO95DYP",
+   "poi_name": "一家人内衣生活馆(丰乐苑南区店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c988",
+   "file": "c988.jpg",
+   "score": 0.175,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0HUZW",
+   "poi_name": "左邻右里",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c623",
+   "file": "c623.jpg",
+   "score": 0.1735,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IDJMO1BJ",
+   "poi_name": "有家麦田(天一店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c964",
+   "file": "c964.jpg",
+   "score": 0.1699,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HB459A8M",
+   "poi_name": "双子星便利店(君悦华庭店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1441",
+   "file": "c1441.jpg",
+   "score": 0.1699,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020319309",
+   "poi_name": "好一家鞋服大卖场(通庆路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1677",
+   "file": "c1677.jpg",
+   "score": 0.1693,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3YC15",
+   "poi_name": "左邻超市批发零售(黄河花园店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c961",
+   "file": "c961.jpg",
+   "score": 0.1678,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0G39SOW7Y",
+   "poi_name": "秀惠便利店(碧桂园·凤凰城店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c745",
+   "file": "c745.jpg",
+   "score": 0.1639,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020705DIW",
+   "poi_name": "左邻右里",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c2056",
+   "file": "c2056.jpg",
+   "score": 0.1639,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG8MZ6U",
+   "poi_name": "家乡特产便利店(奉华小区店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c755",
+   "file": "c755.jpg",
+   "score": 0.1636,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGBM1X9M",
+   "poi_name": "LAWSON罗森(左邻右里店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1756",
+   "file": "c1756.jpg",
+   "score": 0.1617,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K23H0Q03",
+   "poi_name": "亮视点眼镜(将星路店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1503",
+   "file": "c1503.jpg",
+   "score": 0.16,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0L3M5KC3E",
+   "poi_name": "NOWWA挪瓦咖啡(美宜佳盐城帝逸国际小区店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c95",
+   "file": "c95.jpg",
+   "score": 0.1598,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGYVE9I",
+   "poi_name": "一家人衣柜(南翔店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c785",
+   "file": "c785.jpg",
+   "score": 0.1584,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF9QVCT",
+   "poi_name": "好一家百货超市(清莲街店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1190",
+   "file": "c1190.jpg",
+   "score": 0.1581,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B02020IDP4",
+   "poi_name": "优家超市",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1181",
+   "file": "c1181.jpg",
+   "score": 0.1527,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGJ7JKX",
+   "poi_name": "天城便利店(骏和天城店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1059",
+   "file": "c1059.jpg",
+   "score": 0.1516,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02010VRO0",
+   "poi_name": "好一家服饰广场(六甲店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c512",
+   "file": "c512.jpg",
+   "score": 0.1515,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KACCSSI3",
+   "poi_name": "邳州第一家擀面皮",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1900",
+   "file": "c1900.jpg",
+   "score": 0.1504,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIFH6DN",
+   "poi_name": "左邻右舍",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1359",
+   "file": "c1359.jpg",
+   "score": 0.1503,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H0VSYAAV",
+   "poi_name": "第一家餐厅",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c925",
+   "file": "c925.jpg",
+   "score": 0.1499,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1AC3JUU",
+   "poi_name": "美好便利(丹阳幸福里店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c204",
+   "file": "c204.jpg",
+   "score": 0.1458,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I60HALLE",
+   "poi_name": "富达众冉门窗(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1529",
+   "file": "c1529.jpg",
+   "score": 0.1449,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF5KV5J",
+   "poi_name": "四海一家生活超市(南方花园店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c422",
+   "file": "c422.jpg",
+   "score": 0.1447,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUNL677L",
+   "poi_name": "左邻右里便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c783",
+   "file": "c783.jpg",
+   "score": 0.1442,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF8Z5KS",
+   "poi_name": "好一家超市(黄河西路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1148",
+   "file": "c1148.jpg",
+   "score": 0.1441,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIDQDL7",
+   "poi_name": "一家人防水",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1412",
+   "file": "c1412.jpg",
+   "score": 0.1439,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6FRM31E",
+   "poi_name": "一家人餐厅(榆河路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c222",
+   "file": "c222.jpg",
+   "score": 0.142,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2KA2F4D",
+   "poi_name": "汤农幸福家园左邻",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1100",
+   "file": "c1100.jpg",
+   "score": 0.1381,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUFA6W6F",
+   "poi_name": "无瑕家居",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c546",
+   "file": "c546.jpg",
+   "score": 0.1365,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02001B756",
+   "poi_name": "一家人超市(儒浜路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c34",
+   "file": "c34.jpg",
+   "score": 0.1362,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDS9Y4QL",
+   "poi_name": "左邻右舍便利超市(夏园恒茂广场店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c638",
+   "file": "c638.jpg",
+   "score": 0.1355,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KGD5R966",
+   "poi_name": "加拿大彩马艺术涂料(华厦家具港)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1931",
+   "file": "c1931.jpg",
+   "score": 0.1337,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MDBAH62Z",
+   "poi_name": "徐州解忧瓷砖修缮中心",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c579",
+   "file": "c579.jpg",
+   "score": 0.13,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J295TZCY",
+   "poi_name": "左邻五金(春江花园C区店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1722",
+   "file": "c1722.jpg",
+   "score": 0.1267,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJXCNSC",
+   "poi_name": "第一家饭店",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c340",
+   "file": "c340.jpg",
+   "score": 0.1248,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3TZG6LW",
+   "poi_name": "左邻·右舍",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c855",
+   "file": "c855.jpg",
+   "score": 0.1241,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KAHAX59K",
+   "poi_name": "左邻佑礼(钻石铭苑店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c184",
+   "file": "c184.jpg",
+   "score": 0.1226,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH25HY2",
+   "poi_name": "南师大左邻右里幼儿园",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c645",
+   "file": "c645.jpg",
+   "score": 0.1223,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM1GB1S",
+   "poi_name": "第一家手擀面",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c523",
+   "file": "c523.jpg",
+   "score": 0.1221,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFLE5DI4",
+   "poi_name": "心若花卉甪直店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1480",
+   "file": "c1480.jpg",
+   "score": 0.1188,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3G5HIO5",
+   "poi_name": "ORVIBO欧瑞博全屋智能(大丰店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c166",
+   "file": "c166.jpg",
+   "score": 0.1168,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJ5HV7J",
+   "poi_name": "南京江宁左邻右里诊所",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1607",
+   "file": "c1607.jpg",
+   "score": 0.1167,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI1NMO2",
+   "poi_name": "好一家服饰(鲍集店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c577",
+   "file": "c577.jpg",
+   "score": 0.1164,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GUKDCSO7",
+   "poi_name": "左邻·右舍(融创东方御园店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1798",
+   "file": "c1798.jpg",
+   "score": 0.1149,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KGM5P2HT",
+   "poi_name": "DAXI大禧(汇金购物广场店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c232",
+   "file": "c232.jpg",
+   "score": 0.1136,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L2UHE556",
+   "poi_name": "魔乐斑马科技生活馆(南京南站店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1207",
+   "file": "c1207.jpg",
+   "score": 0.1108,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020216GBR",
+   "poi_name": "腾飞便利店(滨河路店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1754",
+   "file": "c1754.jpg",
+   "score": 0.1108,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG1NBMT",
+   "poi_name": "雅迪电动车(宿众线店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c211",
+   "file": "c211.jpg",
+   "score": 0.1093,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K10URPVY",
+   "poi_name": "21世纪不动产(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c58",
+   "file": "c58.jpg",
+   "score": 0.1089,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GKK7YHI4",
+   "poi_name": "富民新村左邻右里·睦邻坊议事会",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1031",
+   "file": "c1031.jpg",
+   "score": 0.1071,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020103LFL",
+   "poi_name": "好一家纺织品有限公司",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1407",
+   "file": "c1407.jpg",
+   "score": 0.102,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0203171M8",
+   "poi_name": "好一家便利店(冠华西路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c820",
+   "file": "c820.jpg",
+   "score": 0.1014,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKPH238",
+   "poi_name": "一方之印常州特产(青果巷店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c915",
+   "file": "c915.jpg",
+   "score": 0.1002,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K21BP6O0",
+   "poi_name": "京东便利店(利宝小区店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c823",
+   "file": "c823.jpg",
+   "score": 0.0998,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02070U3WK",
+   "poi_name": "一家人饭店(延陵中路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1465",
+   "file": "c1465.jpg",
+   "score": 0.096,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3RZF7CR",
+   "poi_name": "薛鹏飞钢板销售切割",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1382",
+   "file": "c1382.jpg",
+   "score": 0.0955,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GRO630QU",
+   "poi_name": "左邻右舍便利店(开元路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1844",
+   "file": "c1844.jpg",
+   "score": 0.095,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L099EHP4",
+   "poi_name": "九牧专卖店赣榆总代理",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c210",
+   "file": "c210.jpg",
+   "score": 0.094,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT9KQU",
+   "poi_name": "左邻右里1号停车场",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c218",
+   "file": "c218.jpg",
+   "score": 0.0908,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFT904T",
+   "poi_name": "左邻右里3号停车场",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1439",
+   "file": "c1439.jpg",
+   "score": 0.0882,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL6PRUU",
+   "poi_name": "好一家服饰城(惠民路店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c450",
+   "file": "c450.jpg",
+   "score": 0.0841,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL9KOGR",
+   "poi_name": "四海一家(御亭水岸店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c758",
+   "file": "c758.jpg",
+   "score": 0.0841,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K1PS8F5F",
+   "poi_name": "左邻右礼食品生活超市",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c395",
+   "file": "c395.jpg",
+   "score": 0.0819,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J13KE7TK",
+   "poi_name": "左邻·右舍便利店",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1580",
+   "file": "c1580.jpg",
+   "score": 0.0819,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KU91OGK8",
+   "poi_name": "友邦吊顶(淮安总店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c151",
+   "file": "c151.jpg",
+   "score": 0.0809,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0MRA70NT2",
+   "poi_name": "特来电目的地充电站(特来电南京浦口汤农幸福家园右舍小区充电站)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c125",
+   "file": "c125.jpg",
+   "score": 0.08,
+   "pred": false,
+   "s_clip": 0.2,
+   "poi": "B0KAC51XOR",
+   "poi_name": "镜之道眼镜(世纪联华海江路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c844",
+   "file": "c844.jpg",
+   "score": 0.0795,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IDSSFFHJ",
+   "poi_name": "库琪家具(汇贤中路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1930",
+   "file": "c1930.jpg",
+   "score": 0.0794,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GR26AZ86",
+   "poi_name": "德尔惠第一家童鞋(东方美地南区店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c633",
+   "file": "c633.jpg",
+   "score": 0.077,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDTCHKS7",
+   "poi_name": "得尚门窗(华厦家居港店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1109",
+   "file": "c1109.jpg",
+   "score": 0.0746,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02010VQTK",
+   "poi_name": "好一家装饰商行",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1947",
+   "file": "c1947.jpg",
+   "score": 0.0667,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MDBUH8WA",
+   "poi_name": "蜜柚家居服饰集合店",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c912",
+   "file": "c912.jpg",
+   "score": 0.066,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I3F122T8",
+   "poi_name": "美好便利(丹阳普善人家店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c894",
+   "file": "c894.jpg",
+   "score": 0.0651,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKJOFU3",
+   "poi_name": "天悦便利超市(天悦名城店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c946",
+   "file": "c946.jpg",
+   "score": 0.0629,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H11RORRJ",
+   "poi_name": "乖一点(耀达商城店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1142",
+   "file": "c1142.jpg",
+   "score": 0.0629,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IA3XIX8L",
+   "poi_name": "便利仔便利超市(御峰华府店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1788",
+   "file": "c1788.jpg",
+   "score": 0.0625,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MAPCWNRM",
+   "poi_name": "左邻右里超市(海州花鸟鱼虫街区店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c840",
+   "file": "c840.jpg",
+   "score": 0.0609,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRBB9FBE",
+   "poi_name": "季米(常州金坛吾悦店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c154",
+   "file": "c154.jpg",
+   "score": 0.0586,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00190CMP6",
+   "poi_name": "左邻右里",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1339",
+   "file": "c1339.jpg",
+   "score": 0.0559,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDZSLR7Q",
+   "poi_name": "第一家菜馆",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c409",
+   "file": "c409.jpg",
+   "score": 0.0553,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HKOHIIA5",
+   "poi_name": "左邻佑社(凌家路星海大厦店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1459",
+   "file": "c1459.jpg",
+   "score": 0.0516,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JG9A73AJ",
+   "poi_name": "盐城钢材市场昊业钢材",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c56",
+   "file": "c56.jpg",
+   "score": 0.0494,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KU493N71",
+   "poi_name": "六墩村左邻右理调解室",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1568",
+   "file": "c1568.jpg",
+   "score": 0.0473,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02050660P",
+   "poi_name": "锅贴第一家酒楼",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c634",
+   "file": "c634.jpg",
+   "score": 0.0464,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MAN5QDYN",
+   "poi_name": "布昇家居(无锡店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1662",
+   "file": "c1662.jpg",
+   "score": 0.0462,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G3GST358",
+   "poi_name": "柚见鲜茶(红窑店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1095",
+   "file": "c1095.jpg",
+   "score": 0.0431,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LB2CROEA",
+   "poi_name": "好一家窗帘",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1136",
+   "file": "c1136.jpg",
+   "score": 0.0416,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H1MRY9TT",
+   "poi_name": "第一家擀面皮(振兴花园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1139",
+   "file": "c1139.jpg",
+   "score": 0.0381,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LRMCYQWZ",
+   "poi_name": "BROSHOP(BROMPTON瘦西湖店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c115",
+   "file": "c115.jpg",
+   "score": 0.0376,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00156ZZ21",
+   "poi_name": "一家人家敬老院",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1105",
+   "file": "c1105.jpg",
+   "score": 0.0373,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG34DG9",
+   "poi_name": "家和泰喜庆礼品店",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1787",
+   "file": "c1787.jpg",
+   "score": 0.0371,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HGMCXN61",
+   "poi_name": "左邻五金",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c217",
+   "file": "c217.jpg",
+   "score": 0.0356,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFH254KG",
+   "poi_name": "左邻右里15号停车场",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1370",
+   "file": "c1370.jpg",
+   "score": 0.0329,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFZ5JWC",
+   "poi_name": "一家人土菜馆(张万店)",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c48",
+   "file": "c48.jpg",
+   "score": 0.0309,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1BSNODO",
+   "poi_name": "左邻右里(北蔡北中路280弄店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c1182",
+   "file": "c1182.jpg",
+   "score": 0.0283,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I0MO590A",
+   "poi_name": "美好便利(华建上院店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c872",
+   "file": "c872.jpg",
+   "score": 0.0281,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI0OWGO",
+   "poi_name": "一家人(板桥店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1128",
+   "file": "c1128.jpg",
+   "score": 0.0235,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I6BLSCYJ",
+   "poi_name": "左邻遇右舍",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c29",
+   "file": "c29.jpg",
+   "score": 0.022,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MRH5DEIV",
+   "poi_name": "左邻右舍便利店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c921",
+   "file": "c921.jpg",
+   "score": 0.0217,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM1LD3N",
+   "poi_name": "心心便利店(恒盛西路店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c1434",
+   "file": "c1434.jpg",
+   "score": 0.0188,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFLWCV0",
+   "poi_name": "葛二精品水果(盐城紫薇国际广场店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1044",
+   "file": "c1044.jpg",
+   "score": 0.0178,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HDMASHJR",
+   "poi_name": "东北一家人(新桥店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1408",
+   "file": "c1408.jpg",
+   "score": 0.0177,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFF3BQNA",
+   "poi_name": "青墩生态老鹅第一家",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1599",
+   "file": "c1599.jpg",
+   "score": 0.0174,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G064LKM7",
+   "poi_name": "葛记臭干(上坂街店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1842",
+   "file": "c1842.jpg",
+   "score": 0.0163,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKYNHBW",
+   "poi_name": "志强瓷砖地板",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c884",
+   "file": "c884.jpg",
+   "score": 0.013,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HGVXS1VJ",
+   "poi_name": "酒街便利(第一楼街步行街店)",
+   "city": "镇江市"
+  },
+  {
+   "image_id": "c8_c237",
+   "file": "c237.jpg",
+   "score": 0.0119,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJV2TCV",
+   "poi_name": "左邻右舍超市(春申路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c148",
+   "file": "c148.jpg",
+   "score": 0.0115,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGNCVWN2",
+   "poi_name": "南京竹院私汤美宿(汤家家温泉村店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c109",
+   "file": "c109.jpg",
+   "score": 0.0114,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HA1CERP4",
+   "poi_name": "一家人饭店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c2017",
+   "file": "c2017.jpg",
+   "score": 0.0107,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KG9U2GRN",
+   "poi_name": "邳州第一家擀面皮(碾庄店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1466",
+   "file": "c1466.jpg",
+   "score": 0.008,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0G0DS98E8",
+   "poi_name": "姚记花甲第一家铁板炒鱿鱼",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c136",
+   "file": "c136.jpg",
+   "score": 0.005,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2O4K2MR",
+   "poi_name": "左邻右舍浦口区大学城店民宿(惠达路分店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c1843",
+   "file": "c1843.jpg",
+   "score": 0.0048,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LDOR1T01",
+   "poi_name": "王家百货店",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c484",
+   "file": "c484.jpg",
+   "score": 0.0036,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KAJDUYKT",
+   "poi_name": "山彩狸汉服体验馆(山塘街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1979",
+   "file": "c1979.jpg",
+   "score": 0.0035,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJFJ9TU",
+   "poi_name": "第一家擀面皮(民主路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c532",
+   "file": "c532.jpg",
+   "score": 0.0025,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGV58H8D",
+   "poi_name": "新沂第一家擀面皮(上海东路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c1492",
+   "file": "c1492.jpg",
+   "score": 0.0025,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GK29L8ZI",
+   "poi_name": "Oh My Bear(盐城大丰吾悦广场店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1398",
+   "file": "c1398.jpg",
+   "score": 0.002,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI5CZMH",
+   "poi_name": "第一家鸭血粉丝(裕新小区店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1627",
+   "file": "c1627.jpg",
+   "score": 0.002,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HDFAGLJB",
+   "poi_name": "清欢缘",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1557",
+   "file": "c1557.jpg",
+   "score": 0.0017,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIR8PUR",
+   "poi_name": "东北一家人(郁金蓝湾店)",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1022",
+   "file": "c1022.jpg",
+   "score": 0.0016,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFOHCE6",
+   "poi_name": "佶佰味餐馆(石庄店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1910",
+   "file": "c1910.jpg",
+   "score": 0.0013,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM9XP1J",
+   "poi_name": "左邻右舍土菜馆(华润路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c815",
+   "file": "c815.jpg",
+   "score": 0.0012,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JG7HZLHX",
+   "poi_name": "第一家擀面皮炒鸡",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c20",
+   "file": "c20.jpg",
+   "score": 0.0007,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J26ULINJ",
+   "poi_name": "左邻右居本帮小海鲜(龙州路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c630",
+   "file": "c630.jpg",
+   "score": 0.0007,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I33MSQWP",
+   "poi_name": "上海爆鱼(周新市场店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c534",
+   "file": "c534.jpg",
+   "score": 0.0005,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HA978P1J",
+   "poi_name": "程秀梅新沂第一家擀面皮(太仓店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c160",
+   "file": "c160.jpg",
+   "score": 0.0004,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B001907EWX",
+   "poi_name": "左邻右里食府(颐和商厦店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c697",
+   "file": "c697.jpg",
+   "score": 0.0004,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM8804Q",
+   "poi_name": "东北特色铁锅炖(大树人家店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1485",
+   "file": "c1485.jpg",
+   "score": 0.0004,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020319H74",
+   "poi_name": "好一家服饰广场(花舍店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c671",
+   "file": "c671.jpg",
+   "score": 0.0003,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KGUA0FV0",
+   "poi_name": "蜜雪冰城(洛城店(洛城招商银行旁边))",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c1741",
+   "file": "c1741.jpg",
+   "score": 0.0003,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFTDD79",
+   "poi_name": "朱大姐酸菜鱼米线",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c663",
+   "file": "c663.jpg",
+   "score": 0.0002,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JUKA43RR",
+   "poi_name": "一家人龙虾(绿城帝景花园3期店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c796",
+   "file": "c796.jpg",
+   "score": 0.0002,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JDBS716W",
+   "poi_name": "第一家擀面皮(薛家店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c654",
+   "file": "c654.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHFOWMU",
+   "poi_name": "一家人(人民北路店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c675",
+   "file": "c675.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUSURGJY",
+   "poi_name": "Uu+手办雕像主题咖啡屋(陶二厂店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c803",
+   "file": "c803.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020704TX5",
+   "poi_name": "一家人驴肉馆",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1279",
+   "file": "c1279.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIQ6GUO",
+   "poi_name": "左邻右舍私厨",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1388",
+   "file": "c1388.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J6ZNBGUE",
+   "poi_name": "左邻右舍超市(文莱小区店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1795",
+   "file": "c1795.jpg",
+   "score": 0.0001,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKBDSOYY",
+   "poi_name": "一家人海鲜加工(步行街店)",
+   "city": "连云港市"
+  },
+  {
+   "image_id": "c8_c23",
+   "file": "c23.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL8GNRS",
+   "poi_name": "左邻右舍民宿",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c37",
+   "file": "c37.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KUVSMGN7",
+   "poi_name": "左邻右舍便利超市(临港洞泾店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c41",
+   "file": "c41.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFL9ILJX",
+   "poi_name": "崇明区左邻右舍精品名宿度假别墅(镇中路分店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c59",
+   "file": "c59.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0MAV64129",
+   "poi_name": "NOWWA挪瓦咖啡(左邻右舍上海誉品谷水湾店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c73",
+   "file": "c73.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFP6TD9",
+   "poi_name": "牛杂第一家(御前街店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c81",
+   "file": "c81.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B00153953C",
+   "poi_name": "骑龙一家园",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c101",
+   "file": "c101.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFHSN9G7",
+   "poi_name": "第一家早点铺(古恩路店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c104",
+   "file": "c104.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6M7IH6W",
+   "poi_name": "罗莱超柔床品(百联中环购物广场店)",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c128",
+   "file": "c128.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK6SVDY",
+   "poi_name": "古镇第一家顺荣烧卖店",
+   "city": "上海市"
+  },
+  {
+   "image_id": "c8_c139",
+   "file": "c139.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0JGR44ZE1",
+   "poi_name": "左邻右舍浦口区大学城店民宿(侨康路分店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c163",
+   "file": "c163.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2R5U0PP",
+   "poi_name": "汤农·幸福家园右舍",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c177",
+   "file": "c177.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGEXQ0U",
+   "poi_name": "玉豪饭店(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c203",
+   "file": "c203.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KD57VJVM",
+   "poi_name": "金博鼎超市(左邻右里店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c234",
+   "file": "c234.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0L3BHE962",
+   "poi_name": "亲如驿家·青旅公寓(建邺云锦路地铁站店)",
+   "city": "南京市"
+  },
+  {
+   "image_id": "c8_c362",
+   "file": "c362.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJC9G99",
+   "poi_name": "左邻右舍(大渔商业广场店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c461",
+   "file": "c461.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG4VOPI",
+   "poi_name": "徐州第一家擀面皮(苏州总店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c466",
+   "file": "c466.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B020001S5J",
+   "poi_name": "第一家包子铺(南洋广场步行街店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c474",
+   "file": "c474.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFFWKSK5",
+   "poi_name": "一家人酒楼(相城区万里路店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c488",
+   "file": "c488.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFJC1EV2",
+   "poi_name": "麦棠婚纱(虎丘婚纱城店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c537",
+   "file": "c537.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LA6H9ZZA",
+   "poi_name": "HERLLA(湾士岸创意园店)",
+   "city": "苏州市"
+  },
+  {
+   "image_id": "c8_c611",
+   "file": "c611.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H1SUJS6Y",
+   "poi_name": "龙记第一家秘制烤羊腿(南禅寺紫金广场店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c635",
+   "file": "c635.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B01FE16V36",
+   "poi_name": "阿六羊肉馆",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c642",
+   "file": "c642.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B01FE15STE",
+   "poi_name": "一家人私房菜馆(锦隆一村店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c657",
+   "file": "c657.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK1AH5T",
+   "poi_name": "西桥手作馄饨(宁海里北区店)",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c666",
+   "file": "c666.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG80IV4",
+   "poi_name": "宜林第一家饭店",
+   "city": "无锡市"
+  },
+  {
+   "image_id": "c8_c780",
+   "file": "c780.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J1J5ROQD",
+   "poi_name": "第一家快餐店(纺织公寓店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c793",
+   "file": "c793.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I11S7KRR",
+   "poi_name": "新沂第一家擀面皮(绿都·万和城店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c807",
+   "file": "c807.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0H3LZLPU1",
+   "poi_name": "后作HOOZ家居(常州店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c824",
+   "file": "c824.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0IDXUW8VE",
+   "poi_name": "一家人农家菜(盛业路店)",
+   "city": "常州市"
+  },
+  {
+   "image_id": "c8_c1037",
+   "file": "c1037.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0ID6KQCYM",
+   "poi_name": "第一家擀面皮(荷兰街店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1050",
+   "file": "c1050.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0J2TMZPLG",
+   "poi_name": "一家人包子铺(优山美地店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1056",
+   "file": "c1056.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0KDNUTDRQ",
+   "poi_name": "第一家擀面皮(世贸店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1087",
+   "file": "c1087.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG2C3L4",
+   "poi_name": "一家人包子铺(明珠花园店)",
+   "city": "南通市"
+  },
+  {
+   "image_id": "c8_c1130",
+   "file": "c1130.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK9FPNI",
+   "poi_name": "左邻右礼(世贸金街店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1214",
+   "file": "c1214.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0I33MSQYO",
+   "poi_name": "美好便利(富川瑞园店)",
+   "city": "扬州市"
+  },
+  {
+   "image_id": "c8_c1313",
+   "file": "c1313.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFKSABSL",
+   "poi_name": "徐州第一家擀面皮",
+   "city": "泰州市"
+  },
+  {
+   "image_id": "c8_c1463",
+   "file": "c1463.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFM8XIBU",
+   "poi_name": "大丰第一家烤面筋(商业街店)",
+   "city": "盐城市"
+  },
+  {
+   "image_id": "c8_c1551",
+   "file": "c1551.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFI5RLOJ",
+   "poi_name": "楚州一家人",
+   "city": "淮安市"
+  },
+  {
+   "image_id": "c8_c1684",
+   "file": "c1684.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGD8W92",
+   "poi_name": "第一家擀面皮(宿迁宿城银座百货店)",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1725",
+   "file": "c1725.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0HK01L3RS",
+   "poi_name": "四海一家生活超市",
+   "city": "宿迁市"
+  },
+  {
+   "image_id": "c8_c1927",
+   "file": "c1927.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFGWYXUK",
+   "poi_name": "西苑第一家菜煎饼(西苑店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1973",
+   "file": "c1973.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFIB55IC",
+   "poi_name": "一家人人生一串(苏堤路)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1985",
+   "file": "c1985.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFG0W25H",
+   "poi_name": "新沂第一家擀面皮(青年路店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1988",
+   "file": "c1988.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0GR6Z07QG",
+   "poi_name": "第一家盐豆鸡蛋私房菜",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c1999",
+   "file": "c1999.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0FFK0P6DZ",
+   "poi_name": "邳州第一家擀面皮(邳州人民广场店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c2028",
+   "file": "c2028.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0K6Y7487S",
+   "poi_name": "苹果零售店(大楼最西侧第一家)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c2041",
+   "file": "c2041.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B02040QZHV",
+   "poi_name": "徐州第一家铁锅炖老公鸡(新华家园店)",
+   "city": "徐州市"
+  },
+  {
+   "image_id": "c8_c2058",
+   "file": "c2058.jpg",
+   "score": 0.0,
+   "pred": false,
+   "s_clip": 0.0,
+   "poi": "B0LKUL02QH",
+   "poi_name": "塔斯汀中国汉堡(睢宁东升街店)",
+   "city": "徐州市"
+  }
+ ]
+}

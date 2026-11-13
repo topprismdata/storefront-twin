@@ -1,0 +1,188 @@
+[
+ {
+  "badge": "A01",
+  "file": "c556.jpg",
+  "dir": "images_v4",
+  "score": 0.9996,
+  "poi_name": "左邻右舍(恒大观澜府店)",
+  "city": "无锡市"
+ },
+ {
+  "badge": "A02",
+  "file": "c563.jpg",
+  "dir": "images_v4",
+  "score": 0.9985,
+  "poi_name": "左邻·右舍(眼镜城店)",
+  "city": "无锡市"
+ },
+ {
+  "badge": "A03",
+  "file": "c251.jpg",
+  "dir": "images_v4",
+  "score": 0.9864,
+  "poi_name": "左邻右舍便利超市(名馨花园店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A04",
+  "file": "c277.jpg",
+  "dir": "images_v4",
+  "score": 0.92,
+  "poi_name": "左邻右舍便利超市(华贸姑苏里店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A05",
+  "file": "c428.jpg",
+  "dir": "images_v4",
+  "score": 0.92,
+  "poi_name": "左邻右舍便利店(云享城店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A06",
+  "file": "c741.jpg",
+  "dir": "images_v4",
+  "score": 0.9196,
+  "poi_name": "左邻右舍便利店(玖璋雅园店)",
+  "city": "常州市"
+ },
+ {
+  "badge": "A07",
+  "file": "c264.jpg",
+  "dir": "images_v4",
+  "score": 0.9191,
+  "poi_name": "左邻右舍便利超市(珠江路店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A08",
+  "file": "c272.jpg",
+  "dir": "images_v4",
+  "score": 0.9171,
+  "poi_name": "左邻右舍便利超市(国风华苑店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A09",
+  "file": "c374.jpg",
+  "dir": "images_v4",
+  "score": 0.9163,
+  "poi_name": "左邻右舍便利店(融城丰汇店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A10",
+  "file": "c256.jpg",
+  "dir": "images_v4",
+  "score": 0.9118,
+  "poi_name": "左邻右舍便利超市(金山南路店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A11",
+  "file": "c595.jpg",
+  "dir": "images_v4",
+  "score": 0.8555,
+  "poi_name": "好一家馄饨(明发·国际新城东区店)",
+  "city": "无锡市"
+ },
+ {
+  "badge": "A12",
+  "file": "c338.jpg",
+  "dir": "images_v4",
+  "score": 0.84,
+  "poi_name": "左邻右舍便利超市(金浦路店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A13",
+  "file": "c391.jpg",
+  "dir": "images_v4",
+  "score": 0.8399,
+  "poi_name": "左邻·右舍便利店(盘胥路店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A14",
+  "file": "c352.jpg",
+  "dir": "images_v4",
+  "score": 0.8391,
+  "poi_name": "左邻右舍便利店",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A15",
+  "file": "c738.jpg",
+  "dir": "images_v4",
+  "score": 0.8095,
+  "poi_name": "左邻右舍便利店(西夏墅店)",
+  "city": "常州市"
+ },
+ {
+  "badge": "A16",
+  "file": "c736.jpg",
+  "dir": "images_v4",
+  "score": 0.808,
+  "poi_name": "左邻右舍便利超市(横山桥店)",
+  "city": "常州市"
+ },
+ {
+  "badge": "A17",
+  "file": "c569.jpg",
+  "dir": "images_v4",
+  "score": 0.7886,
+  "poi_name": "左邻·右舍(云林苑店)",
+  "city": "无锡市"
+ },
+ {
+  "badge": "A18",
+  "file": "c704.jpg",
+  "dir": "images_v4",
+  "score": 0.7868,
+  "poi_name": "左邻右舍便利超市(局前街店)",
+  "city": "常州市"
+ },
+ {
+  "badge": "A19",
+  "file": "c380.jpg",
+  "dir": "images_v4",
+  "score": 0.7718,
+  "poi_name": "左邻右舍便利超市(市后街店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A20",
+  "file": "c292.jpg",
+  "dir": "images_v4",
+  "score": 0.7702,
+  "poi_name": "左邻右舍便利超市(香港街店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A21",
+  "file": "c716.jpg",
+  "dir": "images_v4",
+  "score": 0.76,
+  "poi_name": "左邻右舍便利超市(香树湾店)",
+  "city": "常州市"
+ },
+ {
+  "badge": "A22",
+  "file": "c393.jpg",
+  "dir": "images_v4",
+  "score": 0.7572,
+  "poi_name": "左邻·右舍(新联大厦店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "C1",
+  "file": "c0037_28d555c7449b.png",
+  "dir": "images"
+ },
+ {
+  "badge": "C2",
+  "file": "c0165_52347b971b14.jpg",
+  "dir": "images"
+ }
+]

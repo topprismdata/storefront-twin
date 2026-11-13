@@ -1,0 +1,124 @@
+[
+ {
+  "badge": "A01",
+  "file": "c850.jpg",
+  "dir": "images_v4",
+  "score": 0.672,
+  "poi_name": "左邻右舍社区团购(爱民路店)",
+  "city": "镇江市"
+ },
+ {
+  "badge": "A02",
+  "file": "c1155.jpg",
+  "dir": "images_v4",
+  "score": 0.6704,
+  "poi_name": "喵一个便利店(满芳庭店)",
+  "city": "扬州市"
+ },
+ {
+  "badge": "A03",
+  "file": "c287.jpg",
+  "dir": "images_v4",
+  "score": 0.6664,
+  "poi_name": "左邻右舍便利超市(金河国际大厦店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A04",
+  "file": "c262.jpg",
+  "dir": "images_v4",
+  "score": 0.6654,
+  "poi_name": "左邻右舍便利超市(苏州城市生活广场店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A05",
+  "file": "c1200.jpg",
+  "dir": "images_v4",
+  "score": 0.6625,
+  "poi_name": "美好便利(扬州蒋王邻里汇店)",
+  "city": "扬州市"
+ },
+ {
+  "badge": "A06",
+  "file": "c347.jpg",
+  "dir": "images_v4",
+  "score": 0.6605,
+  "poi_name": "左邻右舍超市",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A07",
+  "file": "c419.jpg",
+  "dir": "images_v4",
+  "score": 0.6491,
+  "poi_name": "左邻右舍便利超市(方家桥小区店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A08",
+  "file": "c227.jpg",
+  "dir": "images_v4",
+  "score": 0.6456,
+  "poi_name": "好瑞家百货超市(左邻右里店)",
+  "city": "南京市"
+ },
+ {
+  "badge": "A09",
+  "file": "c1096.jpg",
+  "dir": "images_v4",
+  "score": 0.6439,
+  "poi_name": "都是一家人土菜馆",
+  "city": "南通市"
+ },
+ {
+  "badge": "A10",
+  "file": "c453.jpg",
+  "dir": "images_v4",
+  "score": 0.6435,
+  "poi_name": "四海一家超市(理想城店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A11",
+  "file": "c1160.jpg",
+  "dir": "images_v4",
+  "score": 0.6428,
+  "poi_name": "三胖家便利店",
+  "city": "扬州市"
+ },
+ {
+  "badge": "A12",
+  "file": "c1219.jpg",
+  "dir": "images_v4",
+  "score": 0.6414,
+  "poi_name": "佳佳便利超市(资福巷店)",
+  "city": "扬州市"
+ },
+ {
+  "badge": "A13",
+  "file": "c269.jpg",
+  "dir": "images_v4",
+  "score": 0.6403,
+  "poi_name": "左邻右舍便利店(中市街店)",
+  "city": "苏州市"
+ },
+ {
+  "badge": "A14",
+  "file": "c576.jpg",
+  "dir": "images_v4",
+  "score": 0.6395,
+  "poi_name": "左邻右舍(长山中学店)",
+  "city": "无锡市"
+ },
+ {
+  "badge": "C1",
+  "file": "c0037_28d555c7449b.png",
+  "dir": "images"
+ },
+ {
+  "badge": "C2",
+  "file": "c0165_52347b971b14.jpg",
+  "dir": "images"
+ }
+]
