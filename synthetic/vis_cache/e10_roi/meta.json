@@ -1,0 +1,86 @@
+{
+ "img_0483": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap_072d6aa50af9_378ba89b.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0483.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0101": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0122_ec23f56caa97.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0101.jpg",
+  "truth": "negative",
+  "neg_type": "render_stock"
+ },
+ "img_0488": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6716.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0488.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0025": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/seed_P-02_09_6e33c3c77e.png",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0025.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0012": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0035_1715d84bd155.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0012.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0023": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0479_60b879539ec3.png",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0023.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0003": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0005_750f7522b1d0.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0003.jpg",
+  "truth": "positive",
+  "neg_type": ""
+ },
+ "img_0204": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0330_834cb0e85001.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0204.jpg",
+  "truth": "negative",
+  "neg_type": "same_name_unrelated"
+ },
+ "img_0036": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0024_6d6e1b04446d.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0036.jpg",
+  "truth": "negative",
+  "neg_type": "same_name_unrelated"
+ },
+ "img_0301": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0446_3b76c20cfd75.png",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0301.jpg",
+  "truth": "negative",
+  "neg_type": "confusable_brand"
+ },
+ "img_0494": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap2_72eff5ec987e_1cca061c.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0494.jpg",
+  "truth": "negative",
+  "neg_type": "same_name_unrelated"
+ },
+ "img_0186": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0307_732baa638b2f.png",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0186.jpg",
+  "truth": "negative",
+  "neg_type": "render_stock"
+ },
+ "img_0441": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/seed_P-04_18_ed09adbe21.jpg",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0441.jpg",
+  "truth": "negative",
+  "neg_type": "render_stock"
+ },
+ "img_0259": {
+  "full": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0395_1922b30007f0.png",
+  "roi": "/Users/mac/chatgpt-harvest/6af41562/synthetic/vis_cache/e10_roi/roi_img_0259.jpg",
+  "truth": "negative",
+  "neg_type": "logo"
+ }
+}
