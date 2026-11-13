@@ -8,15 +8,22 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path("/Users/mac/chatgpt-harvest/6af41562")
 sys.path.insert(0, str(ROOT / "synthetic"))
 
-# 编号 A01..A11: 9 候选 + C1 已知正例对照 + C2 已知模板对照
+# 编号 A01..A12: 12 张 v4 POI 候选 + C1 已知正例对照 + C2 已知模板对照
 CANDS = [
-    ("img_0037", "c0037_28d555c7449b.png"), ("img_0140", "c0140_35751f12e7f2.png"),
-    ("img_0141", "c0141_f87fa9277c29.jpg"), ("img_0155", "c0155_1fa4c5aa401c.jpg"),
-    ("img_0182", "c0182_263504af01c3.jpg"), ("img_0217", "c0217_0c2b4604bbd6.jpg"),
-    ("img_0404", "c0404_f987f8a1f804.png"), ("img_0405", "c0405_23abbad8944a.jpg"),
-    ("img_0479", "c0479_60b879539ec3.png"),
+    ("v4_0776_13dd0f7aba53.jpg", "images_v4", "嘉兴 左邻右舍"),
+    ("v4_0629_847080f393bf.jpg", "images_v4", "宁波 方前村店"),
+    ("v4_0468_1fac922f2b27.jpg", "images_v4", "宁波 德居公寓店"),
+    ("v4_0487_aac9ad30cc87.jpg", "images_v4", "宁波 大黄桥南路店"),
+    ("v4_0656_de99c2f43193.jpg", "images_v4", "宁波 芳华景苑店"),
+    ("v4_0542_28cc02c52c4f.jpg", "images_v4", "宁波 滨海锦苑店"),
+    ("v4_0154_8e2cc1ac672d.jpg", "images_v4", "杭州 东湖北路店"),
+    ("v4_0318_95cc8a2addb2.jpg", "images_v4", "杭州 临空SOHO店"),
+    ("v4_0774_6d49d2de929d.jpg", "images_v4", "嘉兴 紫金路店"),
+    ("v4_0796_3e52a6ed9541.jpg", "images_v4", "嘉兴 星河CocoCity店"),
+    ("v4_1369_1ca80ada4dca.jpg", "images_v4", "绍兴 京新花苑店"),
+    ("v4_0587_230cc4d1963e.jpg", "images_v4", "宁波 左邻右舍便利店"),
 ]
-CONTROLS = [("img_0488", None), ("img_0165", None)]  # 已知正例对照 / 已知模板对照
+CONTROLS = [("img_0037", "images"), ("img_0165", "images")]  # 已知正例对照 / 已知模板对照
 
 
 def find_file(image_id):
@@ -36,17 +43,15 @@ def main():
     F = "/System/Library/Fonts/STHeiti Medium.ttc"
     fc = lambda s: ImageFont.truetype(F, s)
     CW, CH, BADGE = 640, 512, 44
-    cells = []
-    for i, (iid, f) in enumerate(CANDS):
-        cells.append((f"A{i+1:02d}", iid, f))
-    for j, (iid, _) in enumerate(CONTROLS):
-        cells.append((f"C{j+1}", iid, find_file(iid)))
+    cells = [(f"A{i+1:02d}", f, d) for i, (f, d, _note) in enumerate(CANDS)]
+    for j, (iid, d) in enumerate(CONTROLS):
+        cells.append((f"C{j+1}", find_file(iid), d))
     cols, rows_n = 4, (len(cells) + 3) // 4
     sheet = Image.new("RGB", (CW * cols, CH * rows_n), (70, 74, 82))
     dr = ImageDraw.Draw(sheet)
     manifest = []
-    for ci, (badge, iid, f) in enumerate(cells):
-        p = ROOT / "data/images" / f
+    for ci, (badge, f, d) in enumerate(cells):
+        p = ROOT / "data" / d / f
         im = Image.open(p).convert("RGB")
         im.thumbnail((CW, CH - BADGE))
         x0, y0 = (ci % cols) * CW, (ci // cols) * CH
@@ -54,14 +59,14 @@ def main():
         dr.rectangle([x0, y0, x0 + 138, y0 + BADGE], fill=(196, 30, 30))
         dr.text((x0 + 10, y0 + 8), badge, font=fc(28), fill=(255, 255, 255))
         dr.rectangle([x0, y0, x0 + CW - 1, y0 + CH - 1], outline=(40, 42, 46), width=2)
-        manifest.append({"badge": badge, "image_id": iid, "file": f})
-    out = ROOT / "data/annotation_pack/gen_sheets/arb_ownbrand.jpg"
+        manifest.append({"badge": badge, "file": f, "dir": d})
+    out = ROOT / "data/annotation_pack/gen_sheets/arb_ownbrand_v5.jpg"
     out.parent.mkdir(parents=True, exist_ok=True)
     sheet.save(out, quality=88)
     json.dump(manifest, open(out.with_suffix(".json"), "w"), ensure_ascii=False, indent=1)
     print(f"sheet: {out} ({len(cells)} 格)")
     for m in manifest:
-        print(" ", m["badge"], m["image_id"])
+        print(" ", m["badge"], m["file"], m["dir"])
 
 
 if __name__ == "__main__":
