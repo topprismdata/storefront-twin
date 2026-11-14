@@ -85,6 +85,26 @@ def iou(a, b):
     return inter / max(1e-9, u)
 
 
+def iou_box_poly(box, poly):
+    """归一化 box [x0,y0,x1,y1] vs sign_polygon(凸包) 的 IoU (栅格采样 200x200)。"""
+    H = hull(poly)
+    px = np.array([p[0] for p in H]); py = np.array([p[1] for p in H])
+    n = len(H)
+    x0, y0, x1, y1 = box
+    N = 200
+    gx, gy = np.meshgrid(np.linspace(0, 1, N), np.linspace(1, 0, N))
+    inside = np.zeros((N, N), dtype=bool)
+    for i in range(n):
+        x1p, y1p = px[i], py[i]
+        x2p, y2p = px[(i + 1) % n], py[(i + 1) % n]
+        cond = ((y1p > gy) != (y2p > gy)) & (gx < (x2p - x1p) * (gy - y1p) / (y2p - y1p + 1e-12) + x1p)
+        inside ^= cond
+    inb = (gx >= x0) & (gx <= x1) & (gy >= y0) & (gy <= y1)
+    inter = (inside & inb).sum()
+    union = (inside | inb).sum()
+    return float(inter / max(1, union))
+
+
 def main():
     rows = [json.loads(l) for l in open(ROOT / "synthetic/renders_3d/manifest_3d.jsonl")]
     rows = [r for r in rows if r.get("sign_polygon")]
