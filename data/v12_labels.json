@@ -1,0 +1,1299 @@
+{
+ "v12_B0HBTA2GNK_411.jpg": {
+  "verdict": "A",
+  "brand_text": "一日优鲜",
+  "fusion": 0.803,
+  "poi": "B0HBTA2GNK",
+  "poi_name": "天猫小店(扬帆路店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0HGRMNMMS_124.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.802,
+  "poi": "B0HGRMNMMS",
+  "poi_name": "美宜佳(滨安路店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0KAJC4R8H_468.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.801,
+  "poi": "B0KAJC4R8H",
+  "poi_name": "京东便利店(利一家园店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0L06BMLQI_105.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.801,
+  "poi": "B0L06BMLQI",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0MBBGVQ7S_23.jpg": {
+  "verdict": "A",
+  "brand_text": "源浩便利店",
+  "fusion": 0.799,
+  "poi": "B0MBBGVQ7S",
+  "poi_name": "美宜佳(新地中心店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0H2BSKIMF_292.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.795,
+  "poi": "B0H2BSKIMF",
+  "poi_name": "源浩便利店",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0FFKOXV9F_173.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店·长运便利店",
+  "fusion": 0.793,
+  "poi": "B0FFKOXV9F",
+  "poi_name": "芙蓉兴盛便利店(九品便利店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0G229UEUV_402.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.793,
+  "poi": "B0G229UEUV",
+  "poi_name": "天猫小店(长途便利店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0L02BN6K8_16.jpg": {
+  "verdict": "A",
+  "brand_text": "十足",
+  "fusion": 0.793,
+  "poi": "B0L02BN6K8",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0FFGI6FGR_371.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.792,
+  "poi": "B0FFGI6FGR",
+  "poi_name": "十足便利店(杭州东宁路店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFKW330Q_17.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.791,
+  "poi": "B0FFKW330Q",
+  "poi_name": "美宜佳(和昌里店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0LRNDK5B0_425.jpg": {
+  "verdict": "A",
+  "brand_text": "街角便利店",
+  "fusion": 0.789,
+  "poi": "B0LRNDK5B0",
+  "poi_name": "京东便利店(象湖中心店)",
+  "brand_query": "京东便利店",
+  "city": "南昌市"
+ },
+ "v12_B0I6JU21LJ_288.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.788,
+  "poi": "B0I6JU21LJ",
+  "poi_name": "街角便利店(叶挺北大道店)",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0FFKOXV9F_172.jpg": {
+  "verdict": "A",
+  "brand_text": "新力有家",
+  "fusion": 0.786,
+  "poi": "B0FFKOXV9F",
+  "poi_name": "芙蓉兴盛便利店(九品便利店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0FFJN9V6B_3.jpg": {
+  "verdict": "A",
+  "brand_text": "家乐便利店",
+  "fusion": 0.785,
+  "poi": "B0FFJN9V6B",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0G1RO4D5C_260.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.785,
+  "poi": "B0G1RO4D5C",
+  "poi_name": "新力有家便利店(安石路店)",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0H1M7XU1W_374.jpg": {
+  "verdict": "A",
+  "brand_text": "东元府便利店",
+  "fusion": 0.785,
+  "poi": "B0H1M7XU1W",
+  "poi_name": "阿乐便利店",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0HGNOR1C0_33.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.785,
+  "poi": "B0HGNOR1C0",
+  "poi_name": "美宜佳(上饶步行街万达广场云尚酒店店)",
+  "brand_query": "美宜佳",
+  "city": "上饶市"
+ },
+ "v12_B0FFL6PSBL_358.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.784,
+  "poi": "B0FFL6PSBL",
+  "poi_name": "东元府便利店(东祥元府店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0LKSBGWGQ_121.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.784,
+  "poi": "B0LKSBGWGQ",
+  "poi_name": "美宜佳(观音塘小区店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0K3PZ44QP_128.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.783,
+  "poi": "B0K3PZ44QP",
+  "poi_name": "芙蓉兴盛",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0L1DCUSDC_178.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.782,
+  "poi": "B0L1DCUSDC",
+  "poi_name": "芙蓉兴盛",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0LKSBGWGQ_122.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.781,
+  "poi": "B0LKSBGWGQ",
+  "poi_name": "美宜佳(观音塘小区店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0MBBGVQ7S_22.jpg": {
+  "verdict": "A",
+  "brand_text": "鲜食·便利",
+  "fusion": 0.781,
+  "poi": "B0MBBGVQ7S",
+  "poi_name": "美宜佳(新地中心店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0MU67V87M_418.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.781,
+  "poi": "B0MU67V87M",
+  "poi_name": "京东便利店",
+  "brand_query": "京东便利店",
+  "city": "南昌市"
+ },
+ "v12_B0FFL3ULMO_283.jpg": {
+  "verdict": "A",
+  "brand_text": "易美便利店",
+  "fusion": 0.78,
+  "poi": "B0FFL3ULMO",
+  "poi_name": "易美便利店",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0JDL7PX44_81.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.78,
+  "poi": "B0JDL7PX44",
+  "poi_name": "美宜佳(南国名城店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0LGPBH5VI_385.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店·军辉便利店",
+  "fusion": 0.779,
+  "poi": "B0LGPBH5VI",
+  "poi_name": "天猫小店军军超市(银海路店)",
+  "brand_query": "天猫小店",
+  "city": "金华市"
+ },
+ "v12_B0FFGGCUDX_255.jpg": {
+  "verdict": "A",
+  "brand_text": "168便利店",
+  "fusion": 0.778,
+  "poi": "B0FFGGCUDX",
+  "poi_name": "168便利店(沁园路店)",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0FFLOYXYN_28.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.778,
+  "poi": "B0FFLOYXYN",
+  "poi_name": "美宜佳(胜利路店)",
+  "brand_query": "美宜佳",
+  "city": "上饶市"
+ },
+ "v12_B0FFKOXV9F_171.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.777,
+  "poi": "B0FFKOXV9F",
+  "poi_name": "芙蓉兴盛便利店(九品便利店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0MRUSL80V_14.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.777,
+  "poi": "B0MRUSL80V",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0JGPZIIYO_115.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.776,
+  "poi": "B0JGPZIIYO",
+  "poi_name": "美宜佳(星澜里店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0MUD5IUH3_102.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.776,
+  "poi": "B0MUD5IUH3",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0L1OZNJK9_249.jpg": {
+  "verdict": "A",
+  "brand_text": "学郡便利店",
+  "fusion": 0.775,
+  "poi": "B0L1OZNJK9",
+  "poi_name": "学邻便利店",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0MBG53GTM_474.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.775,
+  "poi": "B0MBG53GTM",
+  "poi_name": "京东便利店(杭州滨江店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFKZSSLU_396.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店",
+  "fusion": 0.774,
+  "poi": "B0FFKZSSLU",
+  "poi_name": "天猫小店(腾总便利店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0HGHC850X_137.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.774,
+  "poi": "B0HGHC850X",
+  "poi_name": "芙蓉兴盛(贤湖·澜景店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0LKAB80ND_87.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.774,
+  "poi": "B0LKAB80ND",
+  "poi_name": "美宜佳(西市街商业步行街店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0MGMG92D8_109.jpg": {
+  "verdict": "C",
+  "brand_text": "美宜佳室内",
+  "fusion": 0.774,
+  "poi": "B0MGMG92D8",
+  "poi_name": "美宜佳超市",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0G229UEUV_403.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店·长运便利店",
+  "fusion": 0.773,
+  "poi": "B0G229UEUV",
+  "poi_name": "天猫小店(长途便利店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0FFM70A7D_285.jpg": {
+  "verdict": "A",
+  "brand_text": "华润万家便利店",
+  "fusion": 0.772,
+  "poi": "B0FFM70A7D",
+  "poi_name": "京玉便利店(五三大道店)",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0LDOO1VB6_318.jpg": {
+  "verdict": "B",
+  "brand_text": "不可读",
+  "fusion": 0.772,
+  "poi": "B0LDOO1VB6",
+  "poi_name": "便利店",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0FFL3ULMO_284.jpg": {
+  "verdict": "A",
+  "brand_text": "易美便利店",
+  "fusion": 0.771,
+  "poi": "B0FFL3ULMO",
+  "poi_name": "易美便利店",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0K2ADZFKP_69.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.77,
+  "poi": "B0K2ADZFKP",
+  "poi_name": "美宜佳(广场南路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0IA9ZM7OB_38.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.769,
+  "poi": "B0IA9ZM7OB",
+  "poi_name": "美宜佳(八角塘店)",
+  "brand_query": "美宜佳",
+  "city": "上饶市"
+ },
+ "v12_B0FFFGUGNL_227.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.768,
+  "poi": "B0FFFGUGNL",
+  "poi_name": "芙蓉兴盛便利店(近江四园店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "杭州市"
+ },
+ "v12_B0FFJN9V6B_4.jpg": {
+  "verdict": "D",
+  "brand_text": "照相打字复印",
+  "fusion": 0.768,
+  "poi": "B0FFJN9V6B",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0FFMCWAW1_394.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店",
+  "fusion": 0.768,
+  "poi": "B0FFMCWAW1",
+  "poi_name": "天猫小店(翰林花园店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0GKP4V3ZO_363.jpg": {
+  "verdict": "A",
+  "brand_text": "华润万家",
+  "fusion": 0.768,
+  "poi": "B0GKP4V3ZO",
+  "poi_name": "便利店",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFHFAGSM_217.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.767,
+  "poi": "B0FFHFAGSM",
+  "poi_name": "芙蓉兴盛便利超市(义乌国际商贸城铂莱曼酒店店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "金华市"
+ },
+ "v12_B0G229UEUV_401.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店",
+  "fusion": 0.766,
+  "poi": "B0G229UEUV",
+  "poi_name": "天猫小店(长途便利店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0MRUSL80V_13.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.766,
+  "poi": "B0MRUSL80V",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0GK7R1VDN_366.jpg": {
+  "verdict": "A",
+  "brand_text": "你的便利店",
+  "fusion": 0.765,
+  "poi": "B0GK7R1VDN",
+  "poi_name": "你的便利店",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0H2BSKIMF_291.jpg": {
+  "verdict": "A",
+  "brand_text": "源浩便利店",
+  "fusion": 0.765,
+  "poi": "B0H2BSKIMF",
+  "poi_name": "源浩便利店",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0G225UHLY_174.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.762,
+  "poi": "B0G225UHLY",
+  "poi_name": "芙蓉兴盛(联泰·万泰城店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0MACOX8DC_12.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.762,
+  "poi": "B0MACOX8DC",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0FFG75H6W_361.jpg": {
+  "verdict": "A",
+  "brand_text": "你的便利店",
+  "fusion": 0.761,
+  "poi": "B0FFG75H6W",
+  "poi_name": "你的便利店(秋涛路店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFLAU860_415.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店",
+  "fusion": 0.76,
+  "poi": "B0FFLAU860",
+  "poi_name": "天猫小店(滨康小区店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0GDJY42TU_177.jpg": {
+  "verdict": "C",
+  "brand_text": "美宜佳室内",
+  "fusion": 0.76,
+  "poi": "B0GDJY42TU",
+  "poi_name": "芙蓉兴盛便利店(新湖·庐山国际店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0IG7SR08X_334.jpg": {
+  "verdict": "A",
+  "brand_text": "源泉便利店",
+  "fusion": 0.76,
+  "poi": "B0IG7SR08X",
+  "poi_name": "源泉便利店(朝阳街店)",
+  "brand_query": "邻几便利店",
+  "city": "金华市"
+ },
+ "v12_B0K3Y5EO5X_119.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.76,
+  "poi": "B0K3Y5EO5X",
+  "poi_name": "美宜佳(新天地街店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0L6ARUJ2T_158.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.76,
+  "poi": "B0L6ARUJ2T",
+  "poi_name": "芙蓉兴盛便利超市(学府名城店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "上饶市"
+ },
+ "v12_B0FFHGOB4R_132.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳便利店",
+  "fusion": 0.759,
+  "poi": "B0FFHGOB4R",
+  "poi_name": "芙蓉兴盛",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0L16LTDFR_0.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.759,
+  "poi": "B0L16LTDFR",
+  "poi_name": "美宜佳(学府大道店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0L3RAN531_46.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.759,
+  "poi": "B0L3RAN531",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0FFFTBVVX_196.jpg": {
+  "verdict": "D",
+  "brand_text": "三泰烟酒",
+  "fusion": 0.758,
+  "poi": "B0FFFTBVVX",
+  "poi_name": "三泰芙蓉兴盛超市",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0I255DTEZ_206.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.758,
+  "poi": "B0I255DTEZ",
+  "poi_name": "芙蓉兴盛便利店(站前三路店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "景德镇市"
+ },
+ "v12_B0L0TCA2J0_104.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.757,
+  "poi": "B0L0TCA2J0",
+  "poi_name": "美宜佳(健风大厦店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0L26DEB53_472.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.757,
+  "poi": "B0L26DEB53",
+  "poi_name": "京东便利店(文一路店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0LA76L5RQ_308.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.757,
+  "poi": "B0LA76L5RQ",
+  "poi_name": "京东便利店(翠云路店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0L0FC5YP9_328.jpg": {
+  "verdict": "A",
+  "brand_text": "佳宜便利店",
+  "fusion": 0.756,
+  "poi": "B0L0FC5YP9",
+  "poi_name": "佳宜便利店",
+  "brand_query": "邻几便利店",
+  "city": "金华市"
+ },
+ "v12_B0FFFGUKT4_247.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.657,
+  "poi": "B0FFFGUKT4",
+  "poi_name": "芙蓉兴盛便利超市(新百姓店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "杭州市"
+ },
+ "v12_B0H2NOJ7DU_296.jpg": {
+  "verdict": "D",
+  "brand_text": "汇家福超市",
+  "fusion": 0.715,
+  "poi": "B0H2NOJ7DU",
+  "poi_name": "汇家便利店(七六西路店)",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0FFHKLZAI_211.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.613,
+  "poi": "B0FFHKLZAI",
+  "poi_name": "芙蓉兴盛便利超市(御金嘉园店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "金华市"
+ },
+ "v12_B0FFH1I8AH_57.jpg": {
+  "verdict": "C",
+  "brand_text": "烟酒货架",
+  "fusion": 0.437,
+  "poi": "B0FFH1I8AH",
+  "poi_name": "美宜佳(世纪通集团大厦店)",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0LKX1P5EE_142.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.739,
+  "poi": "B0LKX1P5EE",
+  "poi_name": "芙蓉兴盛(筠霁路店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0H3YS5904_277.jpg": {
+  "verdict": "A",
+  "brand_text": "林鲜便利店",
+  "fusion": 0.731,
+  "poi": "B0H3YS5904",
+  "poi_name": "林邻便利店",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0H32953NR_301.jpg": {
+  "verdict": "B",
+  "brand_text": "模糊",
+  "fusion": 0.539,
+  "poi": "B0H32953NR",
+  "poi_name": "街角便利店(珠山大道店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0FFHSSALM_267.jpg": {
+  "verdict": "A",
+  "brand_text": "便利店",
+  "fusion": 0.727,
+  "poi": "B0FFHSSALM",
+  "poi_name": "陈氏便利店(赣通路店)",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0M1ZONFJH_477.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.63,
+  "poi": "B0M1ZONFJH",
+  "poi_name": "京东便利店(奥体店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0KDXBWMT8_430.jpg": {
+  "verdict": "A",
+  "brand_text": "便利店",
+  "fusion": 0.498,
+  "poi": "B0KDXBWMT8",
+  "poi_name": "京东便利店(公园道1号店)",
+  "brand_query": "京东便利店",
+  "city": "上饶市"
+ },
+ "v12_B0FFFZ084P_412.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.734,
+  "poi": "B0FFFZ084P",
+  "poi_name": "天猫小店(杭州站店)",
+  "brand_query": "天猫小店",
+  "city": "杭州市"
+ },
+ "v12_B0H2NOJ7DU_297.jpg": {
+  "verdict": "B",
+  "brand_text": "不可辨",
+  "fusion": 0.555,
+  "poi": "B0H2NOJ7DU",
+  "poi_name": "汇家便利店(七六西路店)",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0G2AR756U_61.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.696,
+  "poi": "B0G2AR756U",
+  "poi_name": "美宜佳(星河湾店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0JUMSC1J0_96.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.742,
+  "poi": "B0JUMSC1J0",
+  "poi_name": "美宜佳(三江印店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0I2F7PW1E_299.jpg": {
+  "verdict": "D",
+  "brand_text": "泵房",
+  "fusion": 0.729,
+  "poi": "B0I2F7PW1E",
+  "poi_name": "乌拉便利店",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0I6JU21LJ_290.jpg": {
+  "verdict": "C",
+  "brand_text": "室内柜台",
+  "fusion": 0.6,
+  "poi": "B0I6JU21LJ",
+  "poi_name": "街角便利店(叶挺北大道店)",
+  "brand_query": "邻几便利店",
+  "city": "上饶市"
+ },
+ "v12_B0MD5ZW267_433.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.608,
+  "poi": "B0MD5ZW267",
+  "poi_name": "京东便利店(上饶师院店)",
+  "brand_query": "京东便利店",
+  "city": "上饶市"
+ },
+ "v12_B0LKRH6HET_19.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.732,
+  "poi": "B0LKRH6HET",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0FFL2RKOR_435.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.688,
+  "poi": "B0FFL2RKOR",
+  "poi_name": "京东便利店",
+  "brand_query": "京东便利店",
+  "city": "上饶市"
+ },
+ "v12_B0FFKKK36L_389.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.728,
+  "poi": "B0FFKKK36L",
+  "poi_name": "天猫小店丹丹超市(诚信一区店)",
+  "brand_query": "天猫小店",
+  "city": "金华市"
+ },
+ "v12_B0FFHGOB4R_133.jpg": {
+  "verdict": "B",
+  "brand_text": "遮挡",
+  "fusion": 0.528,
+  "poi": "B0FFHGOB4R",
+  "poi_name": "芙蓉兴盛",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0GUZOJRGB_64.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.607,
+  "poi": "B0GUZOJRGB",
+  "poi_name": "美宜佳(曙光路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0FFGI6FGR_373.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.734,
+  "poi": "B0FFGI6FGR",
+  "poi_name": "十足便利店(杭州东宁路店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFKCJHSU_452.jpg": {
+  "verdict": "A",
+  "brand_text": "天猫小店·丹丹超市",
+  "fusion": 0.514,
+  "poi": "B0FFKCJHSU",
+  "poi_name": "京东便利店社区服务站(鑫瑞华庭店)",
+  "brand_query": "京东便利店",
+  "city": "九江市"
+ },
+ "v12_B0FFHBGB84_192.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.72,
+  "poi": "B0FFHBGB84",
+  "poi_name": "芙蓉兴盛便利超市(万诚·中央公园店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0LKAB80ND_89.jpg": {
+  "verdict": "C",
+  "brand_text": "室内货架",
+  "fusion": 0.692,
+  "poi": "B0LKAB80ND",
+  "poi_name": "美宜佳(西市街商业步行街店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0L16LTDFR_1.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.458,
+  "poi": "B0L16LTDFR",
+  "poi_name": "美宜佳(学府大道店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0LUGCL0CV_130.jpg": {
+  "verdict": "C",
+  "brand_text": "室内柜台",
+  "fusion": 0.459,
+  "poi": "B0LUGCL0CV",
+  "poi_name": "芙蓉兴盛",
+  "brand_query": "芙蓉兴盛",
+  "city": "南昌市"
+ },
+ "v12_B0HBK7TTCN_169.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.734,
+  "poi": "B0HBK7TTCN",
+  "poi_name": "芙蓉兴盛便利超市(阳光瑞园店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "上饶市"
+ },
+ "v12_B0G3MSVGLR_41.jpg": {
+  "verdict": "B",
+  "brand_text": "不清",
+  "fusion": 0.5,
+  "poi": "B0G3MSVGLR",
+  "poi_name": "美宜佳(前进东路店)",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0K2ADZFKP_71.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.495,
+  "poi": "B0K2ADZFKP",
+  "poi_name": "美宜佳(广场南路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0L1SUQ098_449.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.613,
+  "poi": "B0L1SUQ098",
+  "poi_name": "京东便利店(康瑞和园店)",
+  "brand_query": "京东便利店",
+  "city": "九江市"
+ },
+ "v12_B0L6ARUJ2T_157.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.738,
+  "poi": "B0L6ARUJ2T",
+  "poi_name": "芙蓉兴盛便利超市(学府名城店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "上饶市"
+ },
+ "v12_B0LA76L5RQ_309.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.693,
+  "poi": "B0LA76L5RQ",
+  "poi_name": "京东便利店(翠云路店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0LA76L5RQ_310.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.739,
+  "poi": "B0LA76L5RQ",
+  "poi_name": "京东便利店(翠云路店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0JDL7PX44_82.jpg": {
+  "verdict": "C",
+  "brand_text": "室内货架",
+  "fusion": 0.525,
+  "poi": "B0JDL7PX44",
+  "poi_name": "美宜佳(南国名城店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0LDFBTLGH_67.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.719,
+  "poi": "B0LDFBTLGH",
+  "poi_name": "美宜佳(白金汉宫店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0JRHDFBGS_422.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.671,
+  "poi": "B0JRHDFBGS",
+  "poi_name": "京东便利店(九龙湖)",
+  "brand_query": "京东便利店",
+  "city": "南昌市"
+ },
+ "v12_B0FFKSP6DD_195.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.716,
+  "poi": "B0FFKSP6DD",
+  "poi_name": "芙蓉兴盛(明昊平价超市)",
+  "brand_query": "芙蓉兴盛",
+  "city": "九江市"
+ },
+ "v12_B0HGRMNMMS_125.jpg": {
+  "verdict": "C",
+  "brand_text": "室内货架",
+  "fusion": 0.537,
+  "poi": "B0HGRMNMMS",
+  "poi_name": "美宜佳(滨安路店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0FFGO9U70_221.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.722,
+  "poi": "B0FFGO9U70",
+  "poi_name": "芙蓉兴盛便利超市(体东社区店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "杭州市"
+ },
+ "v12_B0H3YC8L2P_259.jpg": {
+  "verdict": "A",
+  "brand_text": "中百便利店",
+  "fusion": 0.511,
+  "poi": "B0H3YC8L2P",
+  "poi_name": "718便利店",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0KRUS2LFB_353.jpg": {
+  "verdict": "C",
+  "brand_text": "室内超市",
+  "fusion": 0.661,
+  "poi": "B0KRUS2LFB",
+  "poi_name": "全家便利店(博地中心店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0KGHSYBLW_467.jpg": {
+  "verdict": "B",
+  "brand_text": "过小",
+  "fusion": 0.52,
+  "poi": "B0KGHSYBLW",
+  "poi_name": "京东便利店(滨兴家园店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0JDODJ3OA_9.jpg": {
+  "verdict": "D",
+  "brand_text": "三泰烟酒",
+  "fusion": 0.419,
+  "poi": "B0JDODJ3OA",
+  "poi_name": "美宜佳(博能中心II店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0H6GC0UV4_270.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.707,
+  "poi": "B0H6GC0UV4",
+  "poi_name": "华夏便利店(广场南路店)",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0JRV1L6XW_463.jpg": {
+  "verdict": "C",
+  "brand_text": "室内陈列",
+  "fusion": 0.726,
+  "poi": "B0JRV1L6XW",
+  "poi_name": "京东便利店(东港嘉苑店)",
+  "brand_query": "京东便利店",
+  "city": "杭州市"
+ },
+ "v12_B0JDZUEFAG_348.jpg": {
+  "verdict": "B",
+  "brand_text": "不可辨",
+  "fusion": 0.498,
+  "poi": "B0JDZUEFAG",
+  "poi_name": "京东便利店(九曲巷店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0FFLNLV2H_344.jpg": {
+  "verdict": "TARGET_BRAND_POSITIVE",
+  "brand_text": "左邻·右舍(全分辨率亲验)",
+  "fusion": 0.963,
+  "note": "候选新正例, POI B0FFLNLV2H",
+  "poi": "B0FFLNLV2H",
+  "poi_name": "左邻右舍便利店(马市街店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ },
+ "v12_B0KDNGRFXR_327.jpg": {
+  "verdict": "B",
+  "brand_text": "便利店（品牌不明）",
+  "fusion": 0.853,
+  "poi": "B0KDNGRFXR",
+  "poi_name": "便利店",
+  "brand_query": "邻几便利店",
+  "city": "金华市"
+ },
+ "v12_B0MBBGVQ7S_21.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.853,
+  "poi": "B0MBBGVQ7S",
+  "poi_name": "美宜佳(新地中心店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0I255DTEZ_204.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.842,
+  "poi": "B0I255DTEZ",
+  "poi_name": "芙蓉兴盛便利店(站前三路店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "景德镇市"
+ },
+ "v12_B0JR2AE0JY_304.jpg": {
+  "verdict": "A",
+  "brand_text": "美邻便利店",
+  "fusion": 0.833,
+  "poi": "B0JR2AE0JY",
+  "poi_name": "美邻便利店(新厂东路店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0K2ADZFKP_70.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.828,
+  "poi": "B0K2ADZFKP",
+  "poi_name": "美宜佳(广场南路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0G27OH1F2_37.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.827,
+  "poi": "B0G27OH1F2",
+  "poi_name": "美宜佳(民政局店)",
+  "brand_query": "美宜佳",
+  "city": "上饶市"
+ },
+ "v12_B0GUZOJRGB_63.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.823,
+  "poi": "B0GUZOJRGB",
+  "poi_name": "美宜佳(曙光路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0LAXS4C5E_90.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.822,
+  "poi": "B0LAXS4C5E",
+  "poi_name": "美宜佳(何宅小区店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0FFKJMHB9_314.jpg": {
+  "verdict": "A",
+  "brand_text": "京东便利店",
+  "fusion": 0.82,
+  "poi": "B0FFKJMHB9",
+  "poi_name": "京东便利店(小康村店)",
+  "brand_query": "邻几便利店",
+  "city": "景德镇市"
+ },
+ "v12_B0I0550ZFV_47.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.818,
+  "poi": "B0I0550ZFV",
+  "poi_name": "美宜佳(1746店)",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0FFHLZUZR_252.jpg": {
+  "verdict": "A",
+  "brand_text": "叮噹便利店",
+  "fusion": 0.816,
+  "poi": "B0FFHLZUZR",
+  "poi_name": "叮咚便利店(孺子亭公园店)",
+  "brand_query": "邻几便利店",
+  "city": "南昌市"
+ },
+ "v12_B0FFM3YR4O_164.jpg": {
+  "verdict": "A",
+  "brand_text": "芙蓉兴盛",
+  "fusion": 0.815,
+  "poi": "B0FFM3YR4O",
+  "poi_name": "芙蓉兴盛便利超市(桃花源记店)",
+  "brand_query": "芙蓉兴盛",
+  "city": "上饶市"
+ },
+ "v12_B0L6U15DKH_5.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.815,
+  "poi": "B0L6U15DKH",
+  "poi_name": "美宜佳(商务中心店)",
+  "brand_query": "美宜佳",
+  "city": "南昌市"
+ },
+ "v12_B0ID2SEBC8_126.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.814,
+  "poi": "B0ID2SEBC8",
+  "poi_name": "美宜佳(中豪·江河时代店)",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0KKMB497L_58.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.814,
+  "poi": "B0KKMB497L",
+  "poi_name": "美宜佳(广场南路店)",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0MUD5IUH3_101.jpg": {
+  "verdict": "A",
+  "brand_text": "便利蜂",
+  "fusion": 0.814,
+  "poi": "B0MUD5IUH3",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "杭州市"
+ },
+ "v12_B0L6MUUWWP_73.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.813,
+  "poi": "B0L6MUUWWP",
+  "poi_name": "美宜佳",
+  "brand_query": "美宜佳",
+  "city": "景德镇市"
+ },
+ "v12_B0I0550ZFV_48.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.811,
+  "poi": "B0I0550ZFV",
+  "poi_name": "美宜佳(1746店)",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0FFJZI3LI_53.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.809,
+  "poi": "B0FFJZI3LI",
+  "poi_name": "美宜佳(万达华府店)",
+  "brand_query": "美宜佳",
+  "city": "九江市"
+ },
+ "v12_B0L2F723ZP_95.jpg": {
+  "verdict": "A",
+  "brand_text": "便利佳",
+  "fusion": 0.807,
+  "poi": "B0L2F723ZP",
+  "poi_name": "美宜佳(金华站店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0L1451GS4_92.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.806,
+  "poi": "B0L1451GS4",
+  "poi_name": "美宜佳(金华市第二医院店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0L2F723ZP_93.jpg": {
+  "verdict": "A",
+  "brand_text": "美宜佳",
+  "fusion": 0.806,
+  "poi": "B0L2F723ZP",
+  "poi_name": "美宜佳(金华站店)",
+  "brand_query": "美宜佳",
+  "city": "金华市"
+ },
+ "v12_B0FFL6PSBL_357.jpg": {
+  "verdict": "A",
+  "brand_text": "东元府便利店",
+  "fusion": 0.804,
+  "poi": "B0FFL6PSBL",
+  "poi_name": "东元府便利店(东祥元府店)",
+  "brand_query": "邻几便利店",
+  "city": "杭州市"
+ }
+}
