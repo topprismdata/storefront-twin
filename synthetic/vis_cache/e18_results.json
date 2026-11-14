@@ -1,0 +1,66 @@
+{
+ "B1_pool_loso": {
+  "n": 293,
+  "fp@0.636": 5,
+  "fp@0.80": 2,
+  "rate@0.636": 0.017,
+  "rate@0.80": 0.007
+ },
+ "A_baseline_frozen": {
+  "n": 293,
+  "fp@0.636": 228,
+  "fp@0.80": 26
+ },
+ "B2_registry_with_pool": {
+  "thr0.636": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "fp": 0,
+   "fn": 0
+  },
+  "thr0.80": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "fp": 0,
+   "fn": 0
+  }
+ },
+ "B2_registry_baseline": {
+  "thr0.636": {
+   "F1": 0.839,
+   "fp": 90
+  },
+  "thr0.80": {
+   "F1": 0.913,
+   "fp": 26
+  }
+ },
+ "T_threshold_sweep": [
+  {
+   "thr": 0.636,
+   "pool_fp_rate": 0.778
+  },
+  {
+   "thr": 0.7,
+   "pool_fp_rate": 0.594
+  },
+  {
+   "thr": 0.8,
+   "pool_fp_rate": 0.089
+  },
+  {
+   "thr": 0.85,
+   "pool_fp_rate": 0.003
+  },
+  {
+   "thr": 0.9,
+   "pool_fp_rate": 0.0
+  },
+  {
+   "thr": 0.95,
+   "pool_fp_rate": 0.0
+  }
+ ]
+}
