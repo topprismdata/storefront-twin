@@ -1,0 +1,3513 @@
+{
+ "acc": 0.93125,
+ "source": {
+  "visual_fallback": 36,
+  "text_cand": 126,
+  "text_all": 4
+ },
+ "per_brand": {
+  "7-11": {
+   "n": 11,
+   "acc": 0.7272727272727273
+  },
+  "京东便利店": {
+   "n": 12,
+   "acc": 0.9166666666666666
+  },
+  "全家": {
+   "n": 11,
+   "acc": 0.7272727272727273
+  },
+  "天猫小店": {
+   "n": 5,
+   "acc": 1.0
+  },
+  "左邻右舍": {
+   "n": 73,
+   "acc": 0.9863013698630136
+  },
+  "罗森": {
+   "n": 11,
+   "acc": 0.9090909090909091
+  },
+  "美宜佳": {
+   "n": 17,
+   "acc": 1.0
+  },
+  "芙蓉兴盛": {
+   "n": 20,
+   "acc": 0.9
+  }
+ },
+ "detail": [
+  {
+   "file": "v13_B00156E4FZ_132.jpg",
+   "gold": "7-11",
+   "cands": [
+    "local",
+    "7-11",
+    "美宜佳"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.987,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0G3390VAS_123.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "京东便利店",
+    "罗森"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    "MAGNUN",
+    "奥利澳"
+   ],
+   "p_top1": 0.929,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0K2T5ROE1_91.jpg",
+   "gold": "7-11",
+   "cands": [
+    "local",
+    "全家",
+    "左邻右舍"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "Paaien",
+    "推安"
+   ],
+   "p_top1": 0.425,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0KDYMSZSA_133.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "全家",
+    "京东便利店"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 1.0,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0L0MB8BPX_196.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "local",
+    "全家"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.987,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0L0MB8BPX_197.jpg",
+   "gold": "7-11",
+   "cands": [
+    "全家",
+    "7-11",
+    "local"
+   ],
+   "pred": "全家",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.497,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0LD05FGZ1_144.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "左邻右舍",
+    "全家"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    "红",
+    ""
+   ],
+   "p_top1": 0.715,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0LD05FGZ1_145.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "京东便利店",
+    "全家"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    "-ELEVEn",
+    "CEET",
+    ""
+   ],
+   "p_top1": 0.759,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0LKDCNJLZ_164.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "local",
+    "全家"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.874,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0LKDCNJLZ_166.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "local",
+    "罗森"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    "好烧",
+    "房6研究所"
+   ],
+   "p_top1": 0.736,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0M6BAGYVC_142.jpg",
+   "gold": "7-11",
+   "cands": [
+    "7-11",
+    "美宜佳",
+    "十足"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    ""
+   ],
+   "p_top1": 0.939,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0MBBGVQ7S_23.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳",
+    "M",
+    "M.Y.J",
+    ""
+   ],
+   "p_top1": 0.974,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0FFJN9V6B_3.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "南昌",
+    "美宜佳",
+    "三明治",
+    "本店有"
+   ],
+   "p_top1": 0.99,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0MBBGVQ7S_22.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "左邻右舍",
+    "美宜佳"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "鲜食·便示",
+    "美佳",
+    "鲜食便",
+    "员"
+   ],
+   "p_top1": 0.409,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0FFL3ULMO_283.jpg",
+   "gold": "local",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "m易美",
+    "智利庭",
+    "",
+    "棒冰"
+   ],
+   "p_top1": 0.46,
+   "pred_vision": "左邻右舍"
+  },
+  {
+   "file": "v12_B0FFGGCUDX_255.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "左邻右舍",
+    "天猫小店"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "168便利店",
+    "纯粮",
+    "纯粮固态发酵白酒",
+    "纯粮固态发酵白酒"
+   ],
+   "p_top1": 0.636,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0FFL3ULMO_284.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "京东便利店"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "EM",
+    "易美",
+    "便利店",
+    "照相打字复印"
+   ],
+   "p_top1": 0.494,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0GK7R1VDN_366.jpg",
+   "gold": "local",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "你的",
+    "更利店",
+    "need",
+    "解放路店"
+   ],
+   "p_top1": 0.316,
+   "pred_vision": "左邻右舍"
+  },
+  {
+   "file": "v12_B0KDXBWMT8_430.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店"
+   ],
+   "p_top1": 0.238,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0JR2AE0JY_304.jpg",
+   "gold": "local",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "古井有领·年份原装",
+    "承接",
+    "美邻便利店酒席"
+   ],
+   "p_top1": 0.495,
+   "pred_vision": "左邻右舍"
+  },
+  {
+   "file": "v12_B0FFHLZUZR_252.jpg",
+   "gold": "local",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "昌市浩宝园",
+    "OT啥",
+    "花物",
+    "便利店"
+   ],
+   "p_top1": 0.125,
+   "pred_vision": "左邻右舍"
+  },
+  {
+   "file": "v12_B0L2F723ZP_95.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "7-11"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "便利店",
+    "更利佳",
+    "行李",
+    "寄存"
+   ],
+   "p_top1": 0.528,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0MU2ZCWTF_339.jpg",
+   "gold": "local",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "菜鸟驿站",
+    "三木便利店",
+    ""
+   ],
+   "p_top1": 0.353,
+   "pred_vision": "左邻右舍"
+  },
+  {
+   "file": "v12_B0FFL3ULMO_282.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "天猫小店",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "礼",
+    "易美",
+    "便利店",
+    "照相打字复印"
+   ],
+   "p_top1": 0.215,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0FFGBY7W6_273.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "天猫小店",
+    "芙蓉兴盛"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "",
+    "郑发便利店"
+   ],
+   "p_top1": 0.995,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0FFGBY7W6_274.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "天猫小店"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "部发便利店"
+   ],
+   "p_top1": 0.992,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0KDXBWMT8_429.jpg",
+   "gold": "local",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "中",
+    "京东便店",
+    "鲜口炒粉",
+    "中"
+   ],
+   "p_top1": 0.862,
+   "pred_vision": "芙蓉兴盛"
+  },
+  {
+   "file": "v12_B0FFKPGOUC_268.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "新刀有家",
+    "可口"
+   ],
+   "p_top1": 0.685,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0JR2AE0JY_306.jpg",
+   "gold": "local",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "visual_fallback",
+   "texts": [
+    "吉海有码·年粉原家",
+    "水果批发行",
+    "美邻便利店座",
+    "品南无味"
+   ],
+   "p_top1": 0.821,
+   "pred_vision": "芙蓉兴盛"
+  },
+  {
+   "file": "v12_B0FFIQFVB1_320.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "左邻右舍",
+    "天猫小店"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "区区便利店"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0MACOX8DC_11.jpg",
+   "gold": "local",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "芙蓉兴盛"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳（便利店"
+   ],
+   "p_top1": 0.793,
+   "pred_vision": "美宜佳"
+  },
+  {
+   "file": "v12_B0MRUSL80V_15.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "京东便利店",
+    "左邻右舍"
+   ],
+   "pred": "美宜佳",
+   "source": "text_all",
+   "texts": [
+    "荆花园社区卫生服务站",
+    "黄",
+    "美宜佳"
+   ],
+   "p_top1": 0.75,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0HKXCTEQX_307.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "京东便利店",
+    "左邻右舍"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "小朱便利店"
+   ],
+   "p_top1": 0.993,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B023B07ES6_351.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "天猫小店",
+    "芙蓉兴盛"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "炖酱面老邻居便利店"
+   ],
+   "p_top1": 0.984,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0FFLH4CCD_148.jpg",
+   "gold": "local",
+   "cands": [
+    "京东便利店",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "S",
+    "芙蓉兴盛",
+    "轰大鱼",
+    ""
+   ],
+   "p_top1": 0.168,
+   "pred_vision": "京东便利店"
+  },
+  {
+   "file": "v12_B0H63U9CNK_404.jpg",
+   "gold": "local",
+   "cands": [
+    "全家",
+    "local",
+    "罗森"
+   ],
+   "pred": "美宜佳",
+   "source": "text_all",
+   "texts": [
+    "FEELINGME"
+   ],
+   "p_top1": 0.698,
+   "pred_vision": "全家"
+  },
+  {
+   "file": "v12_B0FFIF8WFO_207.jpg",
+   "gold": "local",
+   "cands": [
+    "京东便利店",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_all",
+   "texts": [
+    "建通养生",
+    "创盛生命不能当儿图",
+    "芙蓉超市"
+   ],
+   "p_top1": 0.162,
+   "pred_vision": "京东便利店"
+  },
+  {
+   "file": "v12_B0IDYMV6CB_417.jpg",
+   "gold": "local",
+   "cands": [
+    "京东便利店",
+    "左邻右舍",
+    "全家"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京喜便利",
+    "京东荔下社区生态店",
+    "011001"
+   ],
+   "p_top1": 0.963,
+   "pred_vision": "京东便利店"
+  },
+  {
+   "file": "v12_B0FFL2RKOR_436.jpg",
+   "gold": "local",
+   "cands": [
+    "local",
+    "京东便利店",
+    "芙蓉兴盛"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利厂"
+   ],
+   "p_top1": 0.835,
+   "pred_vision": "local"
+  },
+  {
+   "file": "v12_B0FFKW330Q_17.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "京东便利店",
+    "美宜佳",
+    "罗森"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳"
+   ],
+   "p_top1": 0.085,
+   "pred_vision": "京东便利店",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0L26DEB53_472.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "京东便利店",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "文一路店",
+    "京东便利店",
+    "限公司",
+    "1896宋江印小商品币场"
+   ],
+   "p_top1": 0.831,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0M1ZONFJH_477.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "京东便利店",
+    "天猫小店",
+    "local"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "431",
+    "京东便利店",
+    "（奥体店）"
+   ],
+   "p_top1": 0.239,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFFZ084P_412.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "美宜佳",
+    "7-11",
+    "天猫小店"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天抛小店（整指退利店中国体育彩车",
+    "天猫小店",
+    "",
+    "行李寄有"
+   ],
+   "p_top1": 0.436,
+   "pred_vision": "美宜佳",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0MD5ZW267_433.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "天猫小店",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店"
+   ],
+   "p_top1": 0.14,
+   "pred_vision": "天猫小店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L1SUQ098_449.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "芙蓉兴盛",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店",
+    ""
+   ],
+   "p_top1": 0.524,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0JRHDFBGS_422.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "京东便利店",
+    "左邻右舍",
+    "美宜佳"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "九龙湖店",
+    "京东便利店"
+   ],
+   "p_top1": 0.903,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFKSP6DD_195.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "芙蓉兴盛",
+    "美宜佳",
+    "local"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "",
+    "芙蓉兴盛超市",
+    "烟酒副食"
+   ],
+   "p_top1": 0.999,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0FFKJMHB9_314.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "芙蓉兴盛"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "景川便利",
+    "京东便利店1002",
+    "京东"
+   ],
+   "p_top1": 0.745,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFK2BATI_455.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "芙蓉兴盛",
+    "美宜佳",
+    "天猫小店"
+   ],
+   "pred": "京东便利店",
+   "source": "text_all",
+   "texts": [
+    "京东便利店",
+    "京东",
+    "名都超市JG0320011",
+    "JD版名排超市"
+   ],
+   "p_top1": 0.723,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L1SUQ098_450.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "京东便利店",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店"
+   ],
+   "p_top1": 0.889,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0MD5ZW267_431.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "local",
+    "京东便利店",
+    "芙蓉兴盛"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店",
+    "上饶师院店",
+    "授权店：1046047542"
+   ],
+   "p_top1": 0.558,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L1SUQ098_451.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "芙蓉兴盛",
+    "京东便利店",
+    "美宜佳"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "赣系",
+    "康瑞",
+    "京东便利店",
+    ""
+   ],
+   "p_top1": 0.677,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0JRHDFBGS_421.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "local",
+    "京东便利店",
+    "天猫小店"
+   ],
+   "pred": "京东便利店",
+   "source": "text_cand",
+   "texts": [
+    "京东便利店"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L3SN237U_442.jpg",
+   "gold": "京东便利店",
+   "cands": [
+    "local",
+    "7-11",
+    "美宜佳"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "果生"
+   ],
+   "p_top1": 0.635,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B00155IHPB_76.jpg",
+   "gold": "全家",
+   "cands": [
+    "local",
+    "全家",
+    "美宜佳"
+   ],
+   "pred": "全家",
+   "source": "text_cand",
+   "texts": [
+    "全家FamilyMar",
+    "KIREALON"
+   ],
+   "p_top1": 0.983,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFF5VH3A_67.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "左邻右舍",
+    "京东便利店"
+   ],
+   "pred": "全家",
+   "source": "visual_fallback",
+   "texts": [
+    "电",
+    "更民",
+    "东方证券",
+    "E工印"
+   ],
+   "p_top1": 0.155,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFGYOCPZ_108.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "全家",
+   "source": "text_cand",
+   "texts": [
+    "主家FamilyMar"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFGYOI9H_115.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "罗森",
+    "左邻右舍"
+   ],
+   "pred": "全家",
+   "source": "visual_fallback",
+   "texts": [
+    "woe"
+   ],
+   "p_top1": 0.993,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFH33KHP_112.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "美宜佳",
+    "罗森"
+   ],
+   "pred": "全家",
+   "source": "visual_fallback",
+   "texts": [
+    "war",
+    "杭州中煜贸易连",
+    "锁发展有限公司"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFH5PNUM_86.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "local",
+    "左邻右舍"
+   ],
+   "pred": "全家",
+   "source": "visual_fallback",
+   "texts": [
+    "全"
+   ],
+   "p_top1": 0.828,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFI0SXZK_126.jpg",
+   "gold": "全家",
+   "cands": [
+    "local",
+    "左邻右舍",
+    "全家"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "全",
+    "中司",
+    "电话2",
+    "woe"
+   ],
+   "p_top1": 0.124,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFI0SXZK_127.jpg",
+   "gold": "全家",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "全家",
+   "source": "text_all",
+   "texts": [
+    "中全福",
+    "全家福便利店"
+   ],
+   "p_top1": 0.058,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0KU4YZLVR_80.jpg",
+   "gold": "全家",
+   "cands": [
+    "全家",
+    "美宜佳",
+    "罗森"
+   ],
+   "pred": "全家",
+   "source": "text_cand",
+   "texts": [
+    "Ce",
+    "运来全家"
+   ],
+   "p_top1": 0.142,
+   "pred_vision": "全家",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0KU97TPRX_156.jpg",
+   "gold": "全家",
+   "cands": [
+    "7-11",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [
+    "LEVEN",
+    "上线啦",
+    "南昌拌粉",
+    "嘉大肉包"
+   ],
+   "p_top1": 0.93,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0KU97TPRX_157.jpg",
+   "gold": "全家",
+   "cands": [
+    "7-11",
+    "全家",
+    "local"
+   ],
+   "pred": "7-11",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.888,
+   "pred_vision": "7-11",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0LGPBH5VI_385.jpg",
+   "gold": "天猫小店",
+   "cands": [
+    "芙蓉兴盛",
+    "天猫小店",
+    "京东便利店"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店|军军超市"
+   ],
+   "p_top1": 0.551,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFMCWAW1_394.jpg",
+   "gold": "天猫小店",
+   "cands": [
+    "天猫小店",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店|强鑫便利店",
+    "中国体育彩票"
+   ],
+   "p_top1": 0.685,
+   "pred_vision": "天猫小店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFL7B33A_400.jpg",
+   "gold": "天猫小店",
+   "cands": [
+    "美宜佳",
+    "天猫小店",
+    "京东便利店"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店",
+    "直优超市",
+    "授权电作：NO3",
+    "可口可乐"
+   ],
+   "p_top1": 0.251,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0HGSS2545_383.jpg",
+   "gold": "天猫小店",
+   "cands": [
+    "天猫小店",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店|仙霞超市"
+   ],
+   "p_top1": 0.201,
+   "pred_vision": "天猫小店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B024315BR0_380.jpg",
+   "gold": "天猫小店",
+   "cands": [
+    "京东便利店",
+    "美宜佳",
+    "天猫小店"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店|美家乐"
+   ],
+   "p_top1": 0.407,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0141",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "新有",
+    "连锁便利店"
+   ],
+   "p_top1": 0.747,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0484",
+   "gold": "左邻右舍",
+   "cands": [
+    "京东便利店",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "食孟味大食堂",
+    "",
+    "",
+    "左邻右舍"
+   ],
+   "p_top1": 0.179,
+   "pred_vision": "京东便利店",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0485",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍"
+   ],
+   "p_top1": 0.138,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0489",
+   "gold": "左邻右舍",
+   "cands": [
+    "美宜佳",
+    "local",
+    "7-11"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "邻石舍",
+    "和区便利店"
+   ],
+   "p_top1": 0.774,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0496",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "7-11",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0603",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "7-11",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "市",
+    "左邻?石舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0608",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍",
+    "",
+    "②"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0617",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "P?石舍"
+   ],
+   "p_top1": 0.568,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0623",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "十足"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "Good Neighbors亲如一家"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0624",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻。石舍",
+    "Gode",
+    "烟酒副食百货",
+    "烟酒副食"
+   ],
+   "p_top1": 0.988,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0628",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0634",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "科配色",
+    "左邻?右舍"
+   ],
+   "p_top1": 0.976,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0635",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "瑜香",
+    "左邻?右舍"
+   ],
+   "p_top1": 0.998,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0636",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍"
+   ],
+   "p_top1": 0.994,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0638",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "7-11",
+    "罗森"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 0.996,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0642",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "天猫小店",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "oodNeighbors亲如-"
+   ],
+   "p_top1": 0.988,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0648",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "天猫小店",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "生美容",
+    "左邻右舍",
+    "便利店"
+   ],
+   "p_top1": 0.98,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0653",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0659",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "社区超市",
+    "",
+    "左邻?右舍"
+   ],
+   "p_top1": 0.84,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0662",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0663",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0665",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 0.998,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0668",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "",
+    "万",
+    ""
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0670",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 0.601,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0671",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "塘志加盟店"
+   ],
+   "p_top1": 0.507,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0672",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "MER",
+    "左邻?右舍"
+   ],
+   "p_top1": 0.994,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0673",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0674",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "罗森",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0675",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 0.098,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0676",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "OA",
+    "GoodNeighbors亲如一家"
+   ],
+   "p_top1": 0.917,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0681",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0683",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "罗森"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍",
+    "便利店"
+   ],
+   "p_top1": 0.98,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0686",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "斤邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0688",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "7-11",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0698",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "十足",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0699",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0700",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "7-11",
+    "罗森"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍",
+    "便利店"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0708",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "天猫小店",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "便利店"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0710",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0717",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "春秋旅游",
+    "3862149329",
+    "0左邻·石舍便利店",
+    "旗现店"
+   ],
+   "p_top1": 0.075,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0720",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0725",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0726",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "罗森"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍",
+    ""
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0727",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0728",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "斤邻石舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0732",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "海有限公司",
+    "左邻?右舍",
+    "IRANCEGOLTD"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0774",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "左邹·右香"
+   ],
+   "p_top1": 0.994,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0782",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "便利蜂"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻石舍",
+    "400-26-0010"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0787",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0788",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "7-11"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0789",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "十足",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0791",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 0.962,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0793",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 0.955,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0798",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍",
+    "左邻右舍超市试营业"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0799",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "丘邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0802",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "邻?右舍",
+    "000000o0",
+    "NO.16809小蓝正职溪岸店"
+   ],
+   "p_top1": 0.837,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0803",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "HOMOTOR",
+    "好美特蓄电池",
+    "汽车电瓶大全",
+    "左邻·右舍"
+   ],
+   "p_top1": 0.37,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0807",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0808",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "全家",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "邻·石全",
+    "GoodNeighbors亲如一家"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0815",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0817",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍"
+   ],
+   "p_top1": 0.995,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0819",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "邻?右舍",
+    "长虹空调车工品"
+   ],
+   "p_top1": 0.999,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0821",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍",
+    "中国强融彩票",
+    "酒",
+    "上因"
+   ],
+   "p_top1": 0.984,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0823",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "十足"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍",
+    "24"
+   ],
+   "p_top1": 0.999,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0825",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "便利蜂",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "电",
+    "中",
+    "400-2-010"
+   ],
+   "p_top1": 0.999,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0827",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍",
+    "中国"
+   ],
+   "p_top1": 0.835,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0829",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "芙蓉兴盛"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "全插座",
+    "金工具",
+    "左邻?石舍",
+    "18152138133"
+   ],
+   "p_top1": 0.991,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0831",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻·右舍"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0832",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "京东便利店",
+    "罗森"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍"
+   ],
+   "p_top1": 0.999,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0833",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?石舍"
+   ],
+   "p_top1": 0.485,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0842",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "visual_fallback",
+   "texts": [
+    "中都·石名"
+   ],
+   "p_top1": 0.912,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0845",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "全家"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻?右舍",
+    "配体控通化"
+   ],
+   "p_top1": 0.998,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "img_0848",
+   "gold": "左邻右舍",
+   "cands": [
+    "左邻右舍",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "左邻右舍",
+   "source": "text_cand",
+   "texts": [
+    "左邻右舍"
+   ],
+   "p_top1": 0.998,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B00155QGF5_0.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "全家",
+    "7-11"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSON",
+    "便利店"
+   ],
+   "p_top1": 0.991,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B00155QGF5_1.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "天猫小店",
+    "京东便利店"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSON",
+    "LAWBON"
+   ],
+   "p_top1": 0.986,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B00155QGF5_2.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "全家",
+    "左邻右舍"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSONE",
+    "LAWSON"
+   ],
+   "p_top1": 0.994,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0FFM9K87I_33.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "全家",
+    "7-11"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSON",
+    "便利店"
+   ],
+   "p_top1": 0.987,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0J31UIS5I_42.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "7-11",
+    "左邻右舍"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "更利店",
+    "ATNSOE",
+    "LAWSON",
+    "STATION"
+   ],
+   "p_top1": 0.576,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0JBZORW9S_11.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSON",
+    "弯店",
+    "罗森便利店"
+   ],
+   "p_top1": 0.912,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0M6JXHDA2_45.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "local",
+    "全家"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSON",
+    "便利店",
+    "LAWSON",
+    "LAWWEN"
+   ],
+   "p_top1": 0.899,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0M6JXHDA2_46.jpg",
+   "gold": "罗森",
+   "cands": [
+    "local",
+    "全家",
+    "罗森"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.983,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0M6JXHDA2_47.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "全家",
+    "左邻右舍"
+   ],
+   "pred": "罗森",
+   "source": "visual_fallback",
+   "texts": [],
+   "p_top1": 0.221,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0MDLAGOVB_24.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "7-11",
+    "全家"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LAWSOT"
+   ],
+   "p_top1": 0.978,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v13_B0MUFAFU0B_40.jpg",
+   "gold": "罗森",
+   "cands": [
+    "罗森",
+    "全家",
+    "local"
+   ],
+   "pred": "罗森",
+   "source": "text_cand",
+   "texts": [
+    "LASONE"
+   ],
+   "p_top1": 0.882,
+   "pred_vision": "罗森",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0HGRMNMMS_124.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "24hl模",
+    "四个朋友",
+    "暖江",
+    "美宜佳"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGI6FGR_371.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "7-11",
+    "左邻右舍",
+    "罗森"
+   ],
+   "pred": "十足",
+   "source": "text_all",
+   "texts": [
+    "十足"
+   ],
+   "p_top1": 0.129,
+   "pred_vision": "7-11",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0HGNOR1C0_33.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "罗森"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "",
+    "美宜制"
+   ],
+   "p_top1": 0.983,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0LKAB80ND_87.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "赛谊佳",
+    "更！",
+    "烟草专"
+   ],
+   "p_top1": 0.968,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0IA9ZM7OB_38.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳",
+    "24小时"
+   ],
+   "p_top1": 0.107,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0MACOX8DC_12.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "芙蓉兴盛",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "便利店",
+    "美宜佳"
+   ],
+   "p_top1": 0.375,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFKKK36L_389.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "天猫小店",
+    "京东便利店",
+    "local"
+   ],
+   "pred": "天猫小店",
+   "source": "text_cand",
+   "texts": [
+    "天猫小店|丹丹超市"
+   ],
+   "p_top1": 0.716,
+   "pred_vision": "天猫小店",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0LAXS4C5E_90.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "芙蓉兴盛"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜信",
+    "便利店"
+   ],
+   "p_top1": 0.954,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0I0550ZFV_47.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "天猫小店",
+    "左邻右舍"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "B",
+    "美宜佳",
+    "烟酒"
+   ],
+   "p_top1": 0.507,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L6MUUWWP_73.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "芙蓉兴盛",
+    "美宜佳",
+    "左邻右舍"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳",
+    "便利店"
+   ],
+   "p_top1": 0.483,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0I0550ZFV_48.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "visual_fallback",
+   "texts": [
+    "",
+    "烟酒"
+   ],
+   "p_top1": 0.542,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L1451GS4_92.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "7-11",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "便利店",
+    "美宜佳"
+   ],
+   "p_top1": 0.991,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFIYMC0D_55.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "左邻右舍",
+    "美宜佳",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳",
+    "河区理保"
+   ],
+   "p_top1": 0.138,
+   "pred_vision": "左邻右舍",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0L6MUUWWP_74.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "local",
+    "左邻右舍",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_all",
+   "texts": [
+    "大药房",
+    "美宜佳",
+    "便利店",
+    "美宜佳"
+   ],
+   "p_top1": 0.091,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0MDT7CN6Q_40.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "便利店",
+    "m）美宜佳"
+   ],
+   "p_top1": 0.97,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGIZWCE_114.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "左邻右舍",
+    "天猫小店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳",
+    "便利店"
+   ],
+   "p_top1": 0.97,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0I6HA4XK8_199.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "天猫小店",
+    "芙蓉兴盛"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "国小",
+    "",
+    "",
+    ""
+   ],
+   "p_top1": 0.19,
+   "pred_vision": "美宜佳",
+   "gold_disputed": true
+  },
+  {
+   "file": "v12_B0L6MUUWWP_72.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "美宜佳"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "便利店",
+    "美宜佳",
+    "美宜佳"
+   ],
+   "p_top1": 0.13,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0G0BN0N8M_25.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "芙蓉兴盛",
+    "京东便利店"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "海鲜菜",
+    "美宜佳美宜佳"
+   ],
+   "p_top1": 0.118,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFHVDOAY_50.jpg",
+   "gold": "美宜佳",
+   "cands": [
+    "美宜佳",
+    "全家",
+    "便利蜂"
+   ],
+   "pred": "美宜佳",
+   "source": "text_cand",
+   "texts": [
+    "美宜佳"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "美宜佳",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0I6JU21LJ_288.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "天猫小店",
+    "美宜佳"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "针角便利店",
+    "鱼烤"
+   ],
+   "p_top1": 0.108,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFL6PSBL_358.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "罗森"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "visual_fallback",
+   "texts": [
+    "东元府便利店"
+   ],
+   "p_top1": 0.807,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFFGUGNL_227.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛",
+    "塑市：加盟热线：400-6611-001"
+   ],
+   "p_top1": 0.512,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0G225UHLY_174.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛",
+    "便利超市",
+    "金"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFFGUKT4_247.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "京东便利店",
+    "左邻右舍"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "美容兴盛店",
+    "爱惠通",
+    "手机准控安车"
+   ],
+   "p_top1": 1.0,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGO9U70_221.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "美宜佳",
+    "芙蓉兴盛"
+   ],
+   "pred": "local",
+   "source": "visual_fallback",
+   "texts": [
+    "空兴",
+    "文综合经营部中国体有彩票"
+   ],
+   "p_top1": 0.642,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGO9U70_219.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "美蓉兴盛"
+   ],
+   "p_top1": 0.304,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFLHSACZ_161.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "天猫小店",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "装蓉兴盛",
+    "祥和便利店",
+    "麻味早餐",
+    "热"
+   ],
+   "p_top1": 0.1,
+   "pred_vision": "天猫小店",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0LRR5L8M4_203.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "京东便利店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛",
+    "全国连锁便利超市",
+    "星0.最3062店",
+    "加盟热线400-661001"
+   ],
+   "p_top1": 0.468,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFIMHO9S_213.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "美蓉兴盛",
+    "便利超市",
+    "加盟热线400-6611-001"
+   ],
+   "p_top1": 0.945,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGHREQ2_154.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "京东便利店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛"
+   ],
+   "p_top1": 0.997,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFKPDQBN_242.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "左邻右舍"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "蓉兴盛"
+   ],
+   "p_top1": 0.413,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFFGUKT4_246.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛便利店",
+    "全"
+   ],
+   "p_top1": 0.993,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFH4URPS_243.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "蓉兴盛超",
+    "许可证号：33010112",
+    "S",
+    ""
+   ],
+   "p_top1": 0.688,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFI727T7_236.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "京东便利店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛超市",
+    "佰·地产"
+   ],
+   "p_top1": 0.274,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0G2O6C4M2_150.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "local",
+    "天猫小店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "李宁穿线站 芙蓉兴盛",
+    "批发分零售、李、尼克斯、威多、川的、鞋、球包、绒、平",
+    "加热线：40-11001830793294"
+   ],
+   "p_top1": 0.908,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0G225UHLY_175.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴",
+    "饭店",
+    "S"
+   ],
+   "p_top1": 0.923,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFFTBVVX_197.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "芙蓉兴盛",
+    "左邻右舍",
+    "local"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛",
+    "兴盛"
+   ],
+   "p_top1": 0.702,
+   "pred_vision": "芙蓉兴盛",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFGHREQ2_155.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "美宜佳"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "蓝芙蓉兴盛",
+    "18787482229 18213951110"
+   ],
+   "p_top1": 0.973,
+   "pred_vision": "local",
+   "gold_disputed": false
+  },
+  {
+   "file": "v12_B0FFI727T7_238.jpg",
+   "gold": "芙蓉兴盛",
+   "cands": [
+    "local",
+    "芙蓉兴盛",
+    "天猫小店"
+   ],
+   "pred": "芙蓉兴盛",
+   "source": "text_cand",
+   "texts": [
+    "芙蓉兴盛超市"
+   ],
+   "p_top1": 0.657,
+   "pred_vision": "local",
+   "gold_disputed": false
+  }
+ ]
+}
