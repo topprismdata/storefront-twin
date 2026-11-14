@@ -121,7 +121,13 @@ def confirm(cands, texts):
             return False
         strict = na in joined_all(tn)
         fuzzy_ok = len(na) >= 3 and na[:2] not in STOP
-        return strict or (fuzzy_ok and any(na[:2] in t for t in tn))
+        word = strict or (fuzzy_ok and any(na[:2] in t for t in tn))
+        if word:
+            return True
+        # 拉丁别名双向包含(≥5字符): "LEVEN" ⊂ "7-ELEVEN" 也算命中
+        if len(na) >= 5 and all(ord(c) < 256 for c in na):
+            return any(na in t or t in na for t in tn if t)
+        return False
     def joined_all(tn):
         return "".join(tn)
     hits = []

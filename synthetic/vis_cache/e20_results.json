@@ -1,8 +1,8 @@
 {
- "acc": 0.93125,
+ "acc": 0.9371069182389937,
  "source": {
-  "visual_fallback": 36,
-  "text_cand": 126,
+  "visual_fallback": 34,
+  "text_cand": 128,
   "text_all": 4
  },
  "per_brand": {
@@ -15,8 +15,8 @@
    "acc": 0.9166666666666666
   },
   "全家": {
-   "n": 11,
-   "acc": 0.7272727272727273
+   "n": 10,
+   "acc": 0.8
   },
   "天猫小店": {
    "n": 5,
@@ -163,7 +163,7 @@
     "全家"
    ],
    "pred": "7-11",
-   "source": "visual_fallback",
+   "source": "text_cand",
    "texts": [
     "-ELEVEn",
     "CEET",
@@ -1172,7 +1172,7 @@
     "local"
    ],
    "pred": "7-11",
-   "source": "visual_fallback",
+   "source": "text_cand",
    "texts": [
     "LEVEN",
     "上线啦",
@@ -1181,7 +1181,7 @@
    ],
    "p_top1": 0.93,
    "pred_vision": "7-11",
-   "gold_disputed": false
+   "gold_disputed": true
   },
   {
    "file": "v13_B0KU97TPRX_157.jpg",
