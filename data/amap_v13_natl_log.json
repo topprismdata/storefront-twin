@@ -1,0 +1,2012 @@
+{
+ "http://store.is.autonavi.com/showpic/464b38be67d4919d011806864654e266": {
+  "file": "v13_B00155QGF5_0.jpg",
+  "sha256": "61123ca980436786473ba111586f561c7c2196e64af29f8acf1ca3a11ef4ea56",
+  "dhash": 11429729648553683533,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "山东中路与九江路交叉口东南20米"
+ },
+ "http://store.is.autonavi.com/showpic/3a43419dffc360e4e95ffca12573e6f3": {
+  "file": "v13_B00155QGF5_1.jpg",
+  "sha256": "c91322a2623c073ed804c88e1b79cc200e21518207ac2cd0623f1d179ddb5f87",
+  "dhash": 2526394728803981255,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "山东中路与九江路交叉口东南20米"
+ },
+ "http://store.is.autonavi.com/showpic/76d5d4713439f2a12f771b4c078c3acf": {
+  "file": "v13_B00155QGF5_2.jpg",
+  "sha256": "4927c7ca7c8a0e4822aba85d8338f7cfc8df15c3bb9337426a955f42534a03ac",
+  "dhash": 217182988063918081,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "山东中路与九江路交叉口东南20米"
+ },
+ "https://store.is.autonavi.com/showpic/33a9f9f70d497f8e156e078200b6f682": {
+  "file": "v13_B0IBY5WHWD_3.jpg",
+  "sha256": "7c5e5d65f17b6d5a2b2e9a38a3e69a36ac5cec4a68e5bf10171fc35cb8298119",
+  "dhash": 128551327105024,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "天宝路280号"
+ },
+ "http://store.is.autonavi.com/showpic/2b2a6b4fbfbf26e6e8a0d0c8e9e040c1": {
+  "file": "v13_B0IBY5WHWD_4.jpg",
+  "sha256": "59a8524c45a786c339220d71d03757a46fae3eb42aad612825804134713c51be",
+  "dhash": 6720557185210197036,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "天宝路280号"
+ },
+ "http://store.is.autonavi.com/showpic/083a7b82befc20239ba7d643c25fdb4b": {
+  "file": "v13_B0IBY5WHWD_5.jpg",
+  "sha256": "5f5a341119c48bbba676668d09e10ddd54dbaa0a67e920037200758cc26648da",
+  "dhash": 19245131741792001,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "天宝路280号"
+ },
+ "https://store.is.autonavi.com/showpic/fec58d944f559f9b506864c78611b21e": {
+  "file": "v13_B0M1PC567Y_6.jpg",
+  "sha256": "1491de9ed3defa01a9fbd949acfc0fe1be4bcfa4736a52e6b5ccd0aeeaa3af1f",
+  "dhash": 2235489873941183805,
+  "poi": "B0M1PC567Y",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "天钥桥路323号"
+ },
+ "https://store.is.autonavi.com/showpic/dfdf0f99be95131bcb07fbfeed7d369f": {
+  "file": "v13_B0M1PC567Y_7.jpg",
+  "sha256": "70380014bab1f769608ca02727beaf51250556f6f4794b72a1482d468276a44e",
+  "dhash": 14936497127147067986,
+  "poi": "B0M1PC567Y",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "天钥桥路323号"
+ },
+ "https://store.is.autonavi.com/showpic/cfb7ba13258025481212775ddc07a077": {
+  "file": "v13_B0FFI8YBWL_8.jpg",
+  "sha256": "0ea285dac6488b007a9a465788dcb9261a0fc8207276d47bc3fa71aaeaeafceb",
+  "dhash": 5688197079285051694,
+  "poi": "B0FFI8YBWL",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "大宁路街道广中西路99弄之1-92号新梅共和城"
+ },
+ "https://store.is.autonavi.com/showpic/8dcf762f85fbcdac289b7025db785ab3": {
+  "file": "v13_B0FFI8YBWL_9.jpg",
+  "sha256": "3e38176e88562b8e4c1b7584a3759fd95a040f31825d485e721eeb26beb4268c",
+  "dhash": 1812706670278904,
+  "poi": "B0FFI8YBWL",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "大宁路街道广中西路99弄之1-92号新梅共和城"
+ },
+ "http://store.is.autonavi.com/showpic/23303768d321debafb6bb995f5140eab": {
+  "file": "v13_B0FFGEGQKI_10.jpg",
+  "sha256": "0a2bf135a829b237f1c199ac17d6b8b171c87ce481183ccc898d2ec7181f9be4",
+  "dhash": 13876941531816709360,
+  "poi": "B0FFGEGQKI",
+  "poi_name": "罗森便利店(湖北路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "湖北路155号"
+ },
+ "https://store.is.autonavi.com/showpic/996e523ef3d852bd0000000730218061?type=pic": {
+  "file": "v13_B0JBZORW9S_11.jpg",
+  "sha256": "63a7d5d02deb43fecf5dd35d797c00fa624b0b76ead605e319e721727c032d84",
+  "dhash": 380278280831682054,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "娄山关路与紫云西路交叉口北120米"
+ },
+ "https://store.is.autonavi.com/showpic/e4c54391ab8650490000003687036381?type=pic": {
+  "file": "v13_B0JBZORW9S_12.jpg",
+  "sha256": "c318f21e1301ac328131e283117a2ccd0ad7680ab02d98375e30dd33d6aa5c70",
+  "dhash": 5624218647841497219,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "娄山关路与紫云西路交叉口北120米"
+ },
+ "https://store.is.autonavi.com/showpic/5e4b9c085a1edd040000003687038344?type=pic": {
+  "file": "v13_B0JBZORW9S_13.jpg",
+  "sha256": "878d0ed611b90e9c33428eb1131f441ca7ea591f3dde12e83fc469c5427b804f",
+  "dhash": 16130729912094035201,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "娄山关路与紫云西路交叉口北120米"
+ },
+ "https://store.is.autonavi.com/showpic/58872a052597672c0000003084012123?type=pic": {
+  "file": "v13_B00155HOE9_14.jpg",
+  "sha256": "dc41f903c02264df5374670851ad1b81627ac2da69a4527eb26b7fa949874581",
+  "dhash": 16673279144354915954,
+  "poi": "B00155HOE9",
+  "poi_name": "罗森便利店(永嘉路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "永嘉路601号(乌鲁木齐南路永嘉路)"
+ },
+ "https://aos-comment.amap.com/B00155HOE9/comment/D723B41F_6B5B_4059_974D_403F94C56108_L0_001_1290_165_1764351562206_75287404.jpg": {
+  "file": "v13_B00155HOE9_15.jpg",
+  "sha256": "1f84d80c8056bd3a674e809bf6fea7542b7cbd39339697f02876222d7f7b00e1",
+  "dhash": 1699870434779288957,
+  "poi": "B00155HOE9",
+  "poi_name": "罗森便利店(永嘉路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "永嘉路601号(乌鲁木齐南路永嘉路)"
+ },
+ "http://store.is.autonavi.com/showpic/387ddb1b9e2951718b12226e588335e6": {
+  "file": "v13_B0FFHBT9LR_16.jpg",
+  "sha256": "b9d29e217dee5b68c60bce397a5729a9e967a43e7939f1eafcaa8923b087da48",
+  "dhash": 5863800408658912434,
+  "poi": "B0FFHBT9LR",
+  "poi_name": "罗森便利店(马当路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "淡水湾花园东3门旁(马当路地铁站出口步行100米)"
+ },
+ "http://store.is.autonavi.com/showpic/e3876d0b84cea7adc9291f838964a7c9": {
+  "file": "v13_B0IB3H83S2_17.jpg",
+  "sha256": "e8ea357564b7f1d972c7339c22d3abd1a3de6e62a6effa203979d38ea0a2eeab",
+  "dhash": 11613700726317239757,
+  "poi": "B0IB3H83S2",
+  "poi_name": "罗森便利店(塘沽路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "河南北路233号圣和圣时尚汇西区1F层"
+ },
+ "http://store.is.autonavi.com/showpic/04cc5e80f431f3ae40f7e20b344f0e2f": {
+  "file": "v13_B0IB3H83S2_18.jpg",
+  "sha256": "a4931d18959b0f767b3aee094a3315a692c5a73c4c9b7380c84505b2734095c7",
+  "dhash": 14280956219779973388,
+  "poi": "B0IB3H83S2",
+  "poi_name": "罗森便利店(塘沽路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "河南北路233号圣和圣时尚汇西区1F层"
+ },
+ "https://store.is.autonavi.com/showpic/d8e69dc9e05bc9377da46b27e45d60df": {
+  "file": "v13_B0IGHZCSB0_19.jpg",
+  "sha256": "f23b5980814a34d53813ea7994c6f37fe72e44b88be6184a1f65fa72ff6e4113",
+  "dhash": 11764684565725187853,
+  "poi": "B0IGHZCSB0",
+  "poi_name": "罗森便利店(中山北路三店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "中山北路2041号(镇坪路地铁站4号口步行240米)"
+ },
+ "https://aos-comment.amap.com/B0IGHZCSB0/comment/a10cc13f83af0ba7dc525bd233af8122_2048_2048_80.jpg": {
+  "file": "v13_B0IGHZCSB0_20.jpg",
+  "sha256": "39a4f1f55a1f401a7418b1d39ef7d19195cbc11c5cf0ce54ba8541cc51e32656",
+  "dhash": 1977311490943982258,
+  "poi": "B0IGHZCSB0",
+  "poi_name": "罗森便利店(中山北路三店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市",
+  "addr": "中山北路2041号(镇坪路地铁站4号口步行240米)"
+ },
+ "https://store.is.autonavi.com/showpic/61e0c5adea3a420d0000002745612496?type=pic": {
+  "file": "v13_B0MUXN81NE_21.jpg",
+  "sha256": "838155d6b5297896f99f3f124153bd0fae0ca01a53eeb5d071e3e3ec5f66c0a5",
+  "dhash": 14741006276864878638,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路1069号(乐桥地铁站3号口步行240米)"
+ },
+ "https://store.is.autonavi.com/showpic/501fd04b4dcede270000002745660125?type=pic": {
+  "file": "v13_B0MUXN81NE_22.jpg",
+  "sha256": "6bffaf64c0240f6463a0f576af9b825ece204210c0fcd694873869a5ea5719a9",
+  "dhash": 558157616289009133,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路1069号(乐桥地铁站3号口步行240米)"
+ },
+ "http://store.is.autonavi.com/showpic/81ff0e00dbe8551cb89580bbd2224f31": {
+  "file": "v13_B0MUXN81NE_23.jpg",
+  "sha256": "86dea10541b2b426732235eeca7c7beccf1491df8b9fdd3d9b454eac10961575",
+  "dhash": 8221053131599089920,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路1069号(乐桥地铁站3号口步行240米)"
+ },
+ "https://store.is.autonavi.com/showpic/18da1735cc7b62de1ad130797aedd9b4": {
+  "file": "v13_B0MDLAGOVB_24.jpg",
+  "sha256": "2e4c9d251abcbf9c3f6fb94813bab77fb779ca239829986bb061d41155ce3784",
+  "dhash": 75187968721897223,
+  "poi": "B0MDLAGOVB",
+  "poi_name": "罗森便利店(丰融巷店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "钟园路788号"
+ },
+ "https://store.is.autonavi.com/showpic/add6413ac67c6b51ac827f6decc95311": {
+  "file": "v13_B0FFKQ2IXR_25.jpg",
+  "sha256": "1467b84a48f02ba458b25f06dd0390db1d3c9bacb229879abc9709ed66754a0e",
+  "dhash": 5461536486497053121,
+  "poi": "B0FFKQ2IXR",
+  "poi_name": "罗森便利店(苏州人民路二店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路1463号浦东发展银行对面"
+ },
+ "https://aos-comment.amap.com/B0FFKQ2IXR/comment/a08e7b834d148e010adcab206c5a850b_2048_2048_80.jpg": {
+  "file": "v13_B0FFKQ2IXR_26.jpg",
+  "sha256": "445509852a34b8c1370c2ebe613618e529a6a37aa7e514f491a61bd4130493b0",
+  "dhash": 14854585244559320989,
+  "poi": "B0FFKQ2IXR",
+  "poi_name": "罗森便利店(苏州人民路二店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路1463号浦东发展银行对面"
+ },
+ "https://store.is.autonavi.com/showpic/5c6056ad4b966acc375462733696e177": {
+  "file": "v13_B0J2FU3W28_27.jpg",
+  "sha256": "ec8926a8eec837881d57f49f5e0e042a6665ae20a9479c34aee4097c3d227914",
+  "dhash": 18225621678378733291,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "学府路100号苏州科技大学国际技术培训中心G105商铺"
+ },
+ "https://aos-comment.amap.com/B0J2FU3W28/comment/13bde391-66d8-4578-81e3-11df7dd9b7d8.png": {
+  "file": "v13_B0J2FU3W28_28.jpg",
+  "sha256": "e9a0201558610ac97718733f69f4ccea71fda3d30b95d6e1ca9ae94941d88f0a",
+  "dhash": 6964346550399403235,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "学府路100号苏州科技大学国际技术培训中心G105商铺"
+ },
+ "https://aos-comment.amap.com/B0J2FU3W28/comment/287DDA16_5769_4D52_893E_5CBDCD6370DF_L0_001_2000_150_1767976162689_21201924.jpg": {
+  "file": "v13_B0J2FU3W28_29.jpg",
+  "sha256": "4dd410c16eb81a1e02244ad951ec0a044c94451d7ba4ce7b8d6a6443cea6d721",
+  "dhash": 7420573448246976710,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "学府路100号苏州科技大学国际技术培训中心G105商铺"
+ },
+ "https://aos-comment.amap.com/B0KGHD4BFR/comment/content_media_external_file_3242_1756668534795_32901369.jpg": {
+  "file": "v13_B0MUMUWO8G_30.jpg",
+  "sha256": "3f43751ae70fb979f2351fc18a9bd70624b90794d865078a8ccffaafd5a168c0",
+  "dhash": 17042191502296399505,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "东平路260号国创大厦F1层"
+ },
+ "https://aos-comment.amap.com/B0KGHD4BFR/comment/content_media_external_file_1000039863_ss__1765767164613_02968396.jpg": {
+  "file": "v13_B0MUMUWO8G_31.jpg",
+  "sha256": "022645f4cee86c7a657897554d2700d1ec9d8ad695699a18ce4b96ce2c01e537",
+  "dhash": 7443256000169599843,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "东平路260号国创大厦F1层"
+ },
+ "https://aos-comment.amap.com/B0KGHD4BFR/comment/content_media_external_file_1000039862_ss__1765767164613_34925928.jpg": {
+  "file": "v13_B0MUMUWO8G_32.jpg",
+  "sha256": "762426f9f5606f2139d66e645bcb57249b92f3ade29a63d1dac76479f3029235",
+  "dhash": 5081841815689393141,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "东平路260号国创大厦F1层"
+ },
+ "http://store.is.autonavi.com/showpic/2acc62d9f5e5414a257b7ab3220ec28a": {
+  "file": "v13_B0FFM9K87I_33.jpg",
+  "sha256": "ee8fcec7a6707a6b2301e26970c86f57f9b91838c4719e2932bd8677a55bde03",
+  "dhash": 28187864301943264,
+  "poi": "B0FFM9K87I",
+  "poi_name": "罗森便利店(天成时代商务广场店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "青龙港路58号美好荟2楼印象水街美好荟L1层L105-2"
+ },
+ "https://store.is.autonavi.com/showpic/748482d1efd9ca790000000938394138?type=pic": {
+  "file": "v13_B0FFM9K87I_34.jpg",
+  "sha256": "b968ee05baae151c30f15514362267ab58d42b83885c4ac3540ef3219c363d3b",
+  "dhash": 12332092813320069899,
+  "poi": "B0FFM9K87I",
+  "poi_name": "罗森便利店(天成时代商务广场店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "青龙港路58号美好荟2楼印象水街美好荟L1层L105-2"
+ },
+ "http://store.is.autonavi.com/showpic/6a3906271abfc179e9d2b6e2931570b9": {
+  "file": "v13_B0IGV52VKP_35.jpg",
+  "sha256": "ff1fc25b1438472370c20b1f6544fac680f39b6474682b24ff8b04fcb9edcbfe",
+  "dhash": 14469164969321685512,
+  "poi": "B0IGV52VKP",
+  "poi_name": "罗森(217903国金中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "苏州工业园区金鸡湖街道苏州大道东409号苏州国际金融中心3幢102室-02号"
+ },
+ "https://store.is.autonavi.com/showpic/7de6883fec1f671285811f8adc2bf3d2": {
+  "file": "v13_B0IGV52VKP_36.jpg",
+  "sha256": "56ca69aac0e1309e45ab7d093a3de513afea25802e770f1b4bd18d6d68429dd2",
+  "dhash": 16931993688008600708,
+  "poi": "B0IGV52VKP",
+  "poi_name": "罗森(217903国金中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "苏州工业园区金鸡湖街道苏州大道东409号苏州国际金融中心3幢102室-02号"
+ },
+ "https://aos-comment.amap.com/B0LKRM5TXV/comment/content_media_external_file_11572_ss__1770377994503_50238227.jpg": {
+  "file": "v13_B0LKRM5TXV_37.jpg",
+  "sha256": "a23193ca0198090b8ed93a07638c7c1699787845ed59dbe36f90d4d36dcf6041",
+  "dhash": 6596537170634815286,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "白塔东路65号宏信大厦F1层"
+ },
+ "https://aos-comment.amap.com/B0LKRM5TXV/comment/content_media_external_file_11571_ss__1770377994501_83611033.jpg": {
+  "file": "v13_B0LKRM5TXV_38.jpg",
+  "sha256": "4a0ae7537e2cc98ec9a5e94a942d40a40df799604eb8950d9036b948a5f68a0c",
+  "dhash": 10088915408372564176,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "白塔东路65号宏信大厦F1层"
+ },
+ "https://store.is.autonavi.com/showpic/7a73d8289f494eb48b2761d5076a00ca": {
+  "file": "v13_B0LKRM5TXV_39.jpg",
+  "sha256": "980318a9e858f7ee514ab6a164125ed2df1b87bad4a358b7361e9f649ec3527d",
+  "dhash": 15697799032807200148,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "白塔东路65号宏信大厦F1层"
+ },
+ "http://store.is.autonavi.com/showpic/df1a88a3f1423ade5d7c72adfc720908": {
+  "file": "v13_B0MUFAFU0B_40.jpg",
+  "sha256": "a383b7e62b675463b4d25ad0a5e96e5685ff63539e2a1224d42b8105d23cf5aa",
+  "dhash": 908552174543017398,
+  "poi": "B0MUFAFU0B",
+  "poi_name": "LAWSON罗森(苏州县前街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "县前街1-1号"
+ },
+ "http://store.is.autonavi.com/showpic/ceb053027a1427dd99601590eb669888": {
+  "file": "v13_B0MUFAFU0B_41.jpg",
+  "sha256": "7acebcf5ac9c89d368441d1c0ad480ac148aab15bd4a66b3411c8f02a1a9c9f9",
+  "dhash": 9515836689412462476,
+  "poi": "B0MUFAFU0B",
+  "poi_name": "LAWSON罗森(苏州县前街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "县前街1-1号"
+ },
+ "https://aos-comment.amap.com/B0J31UIS5I/comment/A305406A_4513_41B7_BFD2_CD27F329EB96_L0_001_1284_79_1762508798366_11233014.jpg": {
+  "file": "v13_B0J31UIS5I_42.jpg",
+  "sha256": "e613f4c092856039eae5ba05aa68e7c66c8bdd012df9d7ca85c9556507d2a39a",
+  "dhash": 4411683991370313432,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路4555号繁花中心F1层5-1001-8号"
+ },
+ "https://aos-comment.amap.com/B0J31UIS5I/comment/e787a679fe4849aa96fa8a1bc0bfcb64_2048_2048_80.jpg": {
+  "file": "v13_B0J31UIS5I_43.jpg",
+  "sha256": "8c587461bf6af81422367dde3833a8d4abd56fcb2b6ae3da3a3251e4d6aff719",
+  "dhash": 17794491671416793008,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路4555号繁花中心F1层5-1001-8号"
+ },
+ "https://store.is.autonavi.com/showpic/acad7894e5624f2f0000003083066796?type=pic": {
+  "file": "v13_B0J31UIS5I_44.jpg",
+  "sha256": "0dbfe973c9aa406f5a2f141046a86b6b42543b5e3b89db4da3bf0306c4398bdd",
+  "dhash": 16673292619478910708,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "人民路4555号繁花中心F1层5-1001-8号"
+ },
+ "https://store.is.autonavi.com/showpic/d90b8db0d7bee8f5e583f84dbd603ff8": {
+  "file": "v13_B0M6JXHDA2_45.jpg",
+  "sha256": "a91ec9f7e7deaa07dd678c9b1bcc61bf526ed3960af8bd08289c7e2afb4b45ed",
+  "dhash": 3969666390362907427,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "元和街道采莲路666号中国移动营业厅一楼内"
+ },
+ "https://store.is.autonavi.com/showpic/67ff21c4fa92bd9481588916f1566202": {
+  "file": "v13_B0M6JXHDA2_46.jpg",
+  "sha256": "e29725ba4c54536f3c99d662aa4737ecda946a64828fe31fc2ad7f07239c7d93",
+  "dhash": 1455846253526320000,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "元和街道采莲路666号中国移动营业厅一楼内"
+ },
+ "https://store.is.autonavi.com/showpic/9af87c55a51424110000003116706912?type=pic": {
+  "file": "v13_B0M6JXHDA2_47.jpg",
+  "sha256": "f373370ba57e8f11d2a8a2023ef2d540bf9c0de87d8edb1cd2d8aa0dfb6d2fd3",
+  "dhash": 3325387482944204684,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市",
+  "addr": "元和街道采莲路666号中国移动营业厅一楼内"
+ },
+ "https://store.is.autonavi.com/showpic/b4de94056a85f5260000002896270247?type=pic": {
+  "file": "v13_B0GR3UJFJ5_48.jpg",
+  "sha256": "360c2a0b373b9bdbc83273d42693fc26c2aade0accea47c97ccd077fa5a17cc8",
+  "dhash": 8360436073935293010,
+  "poi": "B0GR3UJFJ5",
+  "poi_name": "LAWSON罗森(市民街店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "城星路98号迪凯·城星国际F1层"
+ },
+ "https://aos-comment.amap.com/B0GR3UJFJ5/comment/7ee663fdce926cc650e07469f40172ce_2048_2048_80.jpg": {
+  "file": "v13_B0GR3UJFJ5_49.jpg",
+  "sha256": "37aaf12f6b0fd8fb0e58ef14656d03b85b911ce5a56e123ef25a651116306420",
+  "dhash": 15262468938290044422,
+  "poi": "B0GR3UJFJ5",
+  "poi_name": "LAWSON罗森(市民街店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "城星路98号迪凯·城星国际F1层"
+ },
+ "https://aos-comment.amap.com/B023B1FFY9/comment/95576baeb89766675addff9dd40e6c40_2048_2048_80.jpg": {
+  "file": "v13_B023B1FFY9_50.jpg",
+  "sha256": "cce1d27e162573bd861fcd4855ab27f88b15952539e68ab805be9cd6bb32d551",
+  "dhash": 6506662865902902468,
+  "poi": "B023B1FFY9",
+  "poi_name": "罗森便利店(双城国际店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "江汉路1785号网新双城大厦3幢"
+ },
+ "https://aos-comment.amap.com/B023B1FFY9/comment/bd028b7e89bba25891a62739e4bf59aa_2048_2048_80.jpg": {
+  "file": "v13_B023B1FFY9_51.jpg",
+  "sha256": "601ac791921782bbece79507b240e15d2dd7c717933a7f6bbc69f7c37594777d",
+  "dhash": 18339967303251137916,
+  "poi": "B023B1FFY9",
+  "poi_name": "罗森便利店(双城国际店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "江汉路1785号网新双城大厦3幢"
+ },
+ "https://store.is.autonavi.com/showpic/f542c5e3c0ddf3ff1fe631d01c31961f": {
+  "file": "v13_B0LUNS1BB1_52.jpg",
+  "sha256": "cb8b3af7d9467e93c16142a5131a3a569483f8b63affa2d8b4f14c4715a7c94d",
+  "dhash": 3546510744835312068,
+  "poi": "B0LUNS1BB1",
+  "poi_name": "罗森便利店(6507杭州盛世钱塘店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "庆谐路20号"
+ },
+ "https://store.is.autonavi.com/showpic/ec4c615f97bae3e2cdc44edafe9f3431": {
+  "file": "v13_B0LUNS1BB1_53.jpg",
+  "sha256": "c6ac903f0b4791c8965da5ce55b147defd1a2a2d75be7ad339ec3dc22468e2d2",
+  "dhash": 4709494628479544604,
+  "poi": "B0LUNS1BB1",
+  "poi_name": "罗森便利店(6507杭州盛世钱塘店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "庆谐路20号"
+ },
+ "https://store.is.autonavi.com/showpic/89eac9d0fdf93fb294f8d25b1da2c5fa": {
+  "file": "v13_B0FFK8DW2G_54.jpg",
+  "sha256": "e297d19458a87f607d63abed16f0874a9aa16b15c00ebb906fef1c4b4c0eac8c",
+  "dhash": 2895867543928463416,
+  "poi": "B0FFK8DW2G",
+  "poi_name": "罗森便利店(杭州四季青中纺店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市",
+  "addr": "解放东路258号中纺中心服装城F7层"
+ },
+ "https://aos-comment.amap.com/B0JGPUHPJK/comment/6684e602124c165318ad912f19fd75f1_2048_2048_80.jpg": {
+  "file": "v13_B0JGPUHPJK_55.jpg",
+  "sha256": "483fb0f6585ed3104cd2afbfb5e3aa8b4f0224bb838a0fb445aebd3e7bfea45a",
+  "dhash": 14360029967768161037,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市",
+  "addr": "福州路251号1楼(人民公园地铁站1号口步行390米)"
+ },
+ "https://aos-comment.amap.com/B0JGPUHPJK/comment/fdd068452a4cb68ea610bc4bc25cac55_2048_2048_80.jpg": {
+  "file": "v13_B0JGPUHPJK_56.jpg",
+  "sha256": "017717ae10a72f52e868933658257267940e5d286d711d9bbaa3617772ec0f0b",
+  "dhash": 14775694232574407350,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市",
+  "addr": "福州路251号1楼(人民公园地铁站1号口步行390米)"
+ },
+ "http://store.is.autonavi.com/showpic/ed2abd2ce5752b9a23bf2d05a61786b3": {
+  "file": "v13_B0JGPUHPJK_57.jpg",
+  "sha256": "2bc07a6959be4453bb2024b7c050b3a781751eef59c887db78b215582cb04dda",
+  "dhash": 3904800520150392881,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市",
+  "addr": "福州路251号1楼(人民公园地铁站1号口步行390米)"
+ },
+ "https://store.is.autonavi.com/showpic/9378ca798345f2ca25b8997224a9f45b": {
+  "file": "v13_B00155IWDK_58.jpg",
+  "sha256": "65a52eb82d568d30e3b0d6fdfdaf40731ab25c2e72d38e837982709a69e5ce1c",
+  "dhash": 672732807168,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "石门一路60号(南京西路地铁站8号口步行290米)"
+ },
+ "https://store.is.autonavi.com/showpic/dadb7d62b805ada40000001678888507?type=pic": {
+  "file": "v13_B00155IWDK_59.jpg",
+  "sha256": "d05d61369db42c4b20515a470eb641fb4895c7fc29093951eb975a03155ee080",
+  "dhash": 8174438061588316331,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "石门一路60号(南京西路地铁站8号口步行290米)"
+ },
+ "https://store.is.autonavi.com/showpic/d8b50c0b92de46a0896a166cad322d47": {
+  "file": "v13_B00155IWDK_60.jpg",
+  "sha256": "f630c7194aac682a478398045c06f79e681a228c60cbb78aa23a6a497475f0c3",
+  "dhash": 5998188776892829197,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "石门一路60号(南京西路地铁站8号口步行290米)"
+ },
+ "https://store.is.autonavi.com/showpic/c29c079d2f3d62350000007170276569?type=pic": {
+  "file": "v13_B0MRDOB65V_61.jpg",
+  "sha256": "ac419e7cad3688acd5f4fb9f439905ab756f7e1cdbfd1fc9adc2af369f91df3e",
+  "dhash": 2333518684010333702,
+  "poi": "B0MRDOB65V",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "中山南二路107号美奂大厦1幢"
+ },
+ "https://aos-comment.amap.com/B0FFHC5Z2I/comment/content_media_external_images_media_280692_ss__1740060554822_07836425.jpg": {
+  "file": "v13_B0FFHC5Z2I_62.jpg",
+  "sha256": "c50db323b74bf377fa28d8fc3eb2bb49033c1ee25c244b58e89c68e661aaf7a2",
+  "dhash": 1664976366540883911,
+  "poi": "B0FFHC5Z2I",
+  "poi_name": "全家便利店(人民广场站三店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "华盛街a39号(人民广场地铁站19号口步行160米)"
+ },
+ "https://aos-comment.amap.com/B0FFHC5Z2I/comment/041442e47553b10ab31bae27ced63ffb_2048_2048_80.jpg": {
+  "file": "v13_B0FFHC5Z2I_63.jpg",
+  "sha256": "aedf27e75f0d43f437323d93c93c4a6093584c94855ca809cbcb29a424bd9a10",
+  "dhash": 11458265548657625198,
+  "poi": "B0FFHC5Z2I",
+  "poi_name": "全家便利店(人民广场站三店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "华盛街a39号(人民广场地铁站19号口步行160米)"
+ },
+ "https://aos-comment.amap.com/B00155KMBM/comment/a963620ab2ea1a4f0d1614a022a5d1a1_2048_2048_80.jpg": {
+  "file": "v13_B0I1PNGMMJ_64.jpg",
+  "sha256": "6e01d38a38e2711e4e63f426f7ef4d83aae47b39c3e114822d28172b01f1303c",
+  "dhash": 2015916367025361371,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "静安寺街道南京西路1788号1788广场LG1层04B"
+ },
+ "https://aos-comment.amap.com/B00155KMBM/comment/5b77347d7963c853a57a945bf649c294_2048_2048_80.jpg": {
+  "file": "v13_B0I1PNGMMJ_65.jpg",
+  "sha256": "f9e2c098c0251b5301e24dc608cceaf957071334288373f7bf23d58c7b667bd1",
+  "dhash": 10203299020418741048,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "静安寺街道南京西路1788号1788广场LG1层04B"
+ },
+ "https://aos-comment.amap.com/B00155KMBM/comment/c661090831c2e987d3098efc59bdc902_2048_2048_80.jpg": {
+  "file": "v13_B0I1PNGMMJ_66.jpg",
+  "sha256": "62b9043289d799a058b9f4d46c18a700dd9d5b35aa15fad26639a037b3fa54cd",
+  "dhash": 17063573812610820966,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "静安寺街道南京西路1788号1788广场LG1层04B"
+ },
+ "https://aos-comment.amap.com/B0FFF5VH3A/comment/content_media_external_file_1000036971_ss__1768441172549_54054318.jpg": {
+  "file": "v13_B0FFF5VH3A_67.jpg",
+  "sha256": "222f1700834611f626bf0ae8fa64ac88b1c69fa061087e3ee7e208a1dec5d326",
+  "dhash": 17355995975947137907,
+  "poi": "B0FFF5VH3A",
+  "poi_name": "全家便利店(凤阳路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "人民广场地铁站9号口步行270米"
+ },
+ "https://aos-comment.amap.com/B0FFF5VH3A/comment/20260308-7c64b46d0444bedb9f1e9361-6ECkp1CHs0l9ebJYXALkmy.jpg": {
+  "file": "v13_B0FFF5VH3A_68.jpg",
+  "sha256": "407bbabcacc9056072f68a50bbee78747c4c9b4486e585bbc5864fab31070e92",
+  "dhash": 15597855234588864739,
+  "poi": "B0FFF5VH3A",
+  "poi_name": "全家便利店(凤阳路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "人民广场地铁站9号口步行270米"
+ },
+ "http://store.is.autonavi.com/showpic/2a1441ee3f8935d6cb90d1dc1b6bac94": {
+  "file": "v13_B00155HNI4_69.jpg",
+  "sha256": "947b3b289c637086d5b140131147877c2b88b8d2e53fc1cc845dc6b6016f7fea",
+  "dhash": 15028590900419046911,
+  "poi": "B00155HNI4",
+  "poi_name": "全家便利店(丽都店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "静安区石门二路203号(山海关路石门二路)"
+ },
+ "https://aos-comment.amap.com/B00155HNI4/comment/content_media_external_images_media_1000011607_ss__1740213851909_60827831.jpg": {
+  "file": "v13_B00155HNI4_70.jpg",
+  "sha256": "5c32d1c61e71418a934f027cab004705a38711bfee39e84e3b461ca9e6d85c91",
+  "dhash": 10633851564303549757,
+  "poi": "B00155HNI4",
+  "poi_name": "全家便利店(丽都店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "静安区石门二路203号(山海关路石门二路)"
+ },
+ "https://store.is.autonavi.com/showpic/8d052e6adac6e40d0000002997870154?type=pic": {
+  "file": "v13_B0KGCKU40P_71.jpg",
+  "sha256": "88578effc24dd31716415cab69f3f347ded484863c911fd4c22d889b6cc4f639",
+  "dhash": 870359324587802846,
+  "poi": "B0KGCKU40P",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "祁连山路1588号双子塔(南大路地铁站3号口步行250米)"
+ },
+ "https://store.is.autonavi.com/showpic/b00618ca8c55ece50000007048034878?type=pic": {
+  "file": "v13_B0KGCKU40P_72.jpg",
+  "sha256": "698841f33f2446b6c1c3537a8400ccbd51ee01e865b17b80f62edd9a8db4bfcd",
+  "dhash": 8628251688303747441,
+  "poi": "B0KGCKU40P",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "祁连山路1588号双子塔(南大路地铁站3号口步行250米)"
+ },
+ "https://store.is.autonavi.com/showpic/027ee9437ecf637d8ab5a7ce20854c99": {
+  "file": "v13_B0L059UP0W_73.jpg",
+  "sha256": "5a6edff81faaf9ef8f38c0093823603c17a933e7d423093e9fe82a1fe8019f84",
+  "dhash": 12044389227231756353,
+  "poi": "B0L059UP0W",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "隆昌路586号1层C1a-1号"
+ },
+ "https://store.is.autonavi.com/showpic/44f060c7ad52712dae828e09b186e137": {
+  "file": "v13_B00155QGSN_74.jpg",
+  "sha256": "e45a239d8bbe8db7c87cdc98c12523455ea4795bd1f715de5eef1b5b04309116",
+  "dhash": 13401787510174650585,
+  "poi": "B00155QGSN",
+  "poi_name": "全家便利店(尚文路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "尚文路191号(近学前街)"
+ },
+ "https://aos-comment.amap.com/B00155QGSN/comment/600bc5bd71c0da4ce1f572061366512c_2048_2048_80.jpg": {
+  "file": "v13_B00155QGSN_75.jpg",
+  "sha256": "a9838ccfeb711f757c3050f575372a0eeff2c4133045f5f47c68c98829d7c98a",
+  "dhash": 17303924651192415806,
+  "poi": "B00155QGSN",
+  "poi_name": "全家便利店(尚文路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "尚文路191号(近学前街)"
+ },
+ "https://store.is.autonavi.com/showpic/625e03398277d8ff0000002815168192?type=pic": {
+  "file": "v13_B00155IHPB_76.jpg",
+  "sha256": "1a7c137aee78144578274c2f0c362a87c86e467635a289dacce5895dc3b13c6b",
+  "dhash": 9908696289170653055,
+  "poi": "B00155IHPB",
+  "poi_name": "全家便利店(西康路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "西康路260号"
+ },
+ "https://aos-comment.amap.com/B00155IHPB/comment/66EA30BF_46F0_4BD3_9B69_1A9B3E2A48CD_L0_001_1502_200_1765126136458_46489249.jpg": {
+  "file": "v13_B00155IHPB_77.jpg",
+  "sha256": "a078d844deccd8c8fa65fbafa147dbdd54a6b66542efcfbdeaad6db82df8b1cd",
+  "dhash": 8239369170093906120,
+  "poi": "B00155IHPB",
+  "poi_name": "全家便利店(西康路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "西康路260号"
+ },
+ "https://aos-comment.amap.com/B0FFF5VP2L/comment/7e60c5324538279a8eb2d7d65bd39551_2048_2048_80.jpg": {
+  "file": "v13_B0FFF5VP2L_78.jpg",
+  "sha256": "278556332c768dc1ecbe9685460f29aa2e13992c45ead9d50a57f04d156ac937",
+  "dhash": 6498232760968352539,
+  "poi": "B0FFF5VP2L",
+  "poi_name": "全家便利店(威海店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "威海路656号(南京西路地铁站12号口步行80米)"
+ },
+ "https://aos-comment.amap.com/B0FFF5VP2L/comment/cdbf8b84952e28f1a78910916d27aa49_2048_2048_80.jpg": {
+  "file": "v13_B0FFF5VP2L_79.jpg",
+  "sha256": "14f9b7b65feea2e1f017dae53b73c5c3f2df9663a662a90524aaaf8f3275a0b2",
+  "dhash": 16579692818817524817,
+  "poi": "B0FFF5VP2L",
+  "poi_name": "全家便利店(威海店)",
+  "brand_query": "全家便利店",
+  "city": "上海市",
+  "addr": "威海路656号(南京西路地铁站12号口步行80米)"
+ },
+ "https://aos-comment.amap.com/B0KU4YZLVR/comment/content_media_external_file_122022_ss__1768029558928_19956965.jpg": {
+  "file": "v13_B0KU4YZLVR_80.jpg",
+  "sha256": "5551ed10ba9ed3969f6d328e746aab7d79e4d1f3d798c3184a7433f8eedbbf0f",
+  "dhash": 5765698707812292464,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "苏州工业园区金鸡湖路197-223号"
+ },
+ "https://store.is.autonavi.com/showpic/07333de6188fa7ae0000002701546201?type=pic": {
+  "file": "v13_B0KU4YZLVR_81.jpg",
+  "sha256": "f28fdf57918455a6912f89c15624e3469ec4dd8fb99083f290433e7c7a8e340d",
+  "dhash": 10215690618400495915,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "苏州工业园区金鸡湖路197-223号"
+ },
+ "https://aos-comment.amap.com/B0KU4YZLVR/comment/content_media_external_file_122026_ss__1768029558753_86168069.jpg": {
+  "file": "v13_B0KU4YZLVR_82.jpg",
+  "sha256": "4e7293c7cbf4ee2a82bfa09f4db8727d9cf8831bbdab2d669a6692c51ad9ba74",
+  "dhash": 238144401926173982,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "苏州工业园区金鸡湖路197-223号"
+ },
+ "https://aos-comment.amap.com/B0K2H4HGMD/comment/content_media_external_file_188828_ss__1767611883138_99252255.jpg": {
+  "file": "v13_B0K2H4HGMD_83.jpg",
+  "sha256": "3185b4c375506de8e1db4e268142679039cf0dd8d2d48f99c5109ca7e603642b",
+  "dhash": 2078784454053055966,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "宝带西路1177号世茂广场(太湖西路)"
+ },
+ "https://aos-comment.amap.com/B0K2H4HGMD/comment/content_media_external_file_188827_ss__1767611883177_91526803.jpg": {
+  "file": "v13_B0K2H4HGMD_84.jpg",
+  "sha256": "b47b86a6f27e10041afae33f04aeae7dfd88a2b51907eb980a0de4ff67f226b3",
+  "dhash": 12053680622155674418,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "宝带西路1177号世茂广场(太湖西路)"
+ },
+ "https://aos-comment.amap.com/B0K2H4HGMD/comment/content_media_external_file_188831_ss__1767611883195_97061871.jpg": {
+  "file": "v13_B0K2H4HGMD_85.jpg",
+  "sha256": "76135d05d58c310adea5aa855f27f2fad14dcd18e59ce6aa7584868e90067837",
+  "dhash": 13153473146622117767,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "宝带西路1177号世茂广场(太湖西路)"
+ },
+ "https://aos-comment.amap.com/B0200177L1/comment/bd553fdde204b67c639d19b2947b5170_2048_2048_80.jpg": {
+  "file": "v13_B0FFH5PNUM_86.jpg",
+  "sha256": "962760b2fc6ea543afc8cc63cb8568dac06e1d64517aac46a3a1a3c3e1c40a49",
+  "dhash": 4111470882847977633,
+  "poi": "B0FFH5PNUM",
+  "poi_name": "全家便利店(因果巷店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "因果巷7-9号(察院场地铁站4东北口步行460米)"
+ },
+ "https://aos-comment.amap.com/B0200177L1/comment/b62a44891f5252158e3c6d1d134c7cca_2048_2048_80.jpg": {
+  "file": "v13_B0FFH5PNUM_87.jpg",
+  "sha256": "d257af125a5e3a27b6e0c11709450b9cc6552ceae39917ac06d08672f2e166c3",
+  "dhash": 7527592131822473139,
+  "poi": "B0FFH5PNUM",
+  "poi_name": "全家便利店(因果巷店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "因果巷7-9号(察院场地铁站4东北口步行460米)"
+ },
+ "https://aos-comment.amap.com/comment/20260320-4d1f631a25ce6133824a9a35-2aLJVTQk3hn5rNqoBZcUfE.jpg": {
+  "file": "v13_B0MBBUWFTK_88.jpg",
+  "sha256": "1ba2c73679a75ea0d95c5bbf9279a33fb9dc56c5249e8e3fd724bdc9a0100cc5",
+  "dhash": 2668267972989458323,
+  "poi": "B0MBBUWFTK",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "苏州科技大学石湖校区南区宿舍楼"
+ },
+ "https://aos-comment.amap.com/comment/20260320-4d1f631a25ce6133824a9a35-1WgYwg9FuFhACUeZdFY99M.jpg": {
+  "file": "v13_B0MBBUWFTK_89.jpg",
+  "sha256": "1af6f7540c4a0ca0c27cef08cee0f7da8bd31fb1f1e96daf69ae0337b10f2101",
+  "dhash": 3209244709299755137,
+  "poi": "B0MBBUWFTK",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "苏州科技大学石湖校区南区宿舍楼"
+ },
+ "https://store.is.autonavi.com/showpic/595e384ab4fa58b20000000846982891?type=pic": {
+  "file": "v13_B0K2T5ROE1_90.jpg",
+  "sha256": "6f0c82c0d12c2d48d5fa3e1001ad806153ac90aa7edd7dce458bc39935836117",
+  "dhash": 16638064916421870342,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "桐泾北路11号一层(桐泾北路地铁站3号口步行370米)"
+ },
+ "https://store.is.autonavi.com/showpic/6ae6501ee8965e340000005027416631?type=pic": {
+  "file": "v13_B0K2T5ROE1_91.jpg",
+  "sha256": "c525a6bb8276aadc31b5ed41a548166393030a05b1fa9a6e8dfee190758b8876",
+  "dhash": 3689364884879696120,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "桐泾北路11号一层(桐泾北路地铁站3号口步行370米)"
+ },
+ "https://store.is.autonavi.com/showpic/042b2ed27c65865b0000000847032104?type=pic": {
+  "file": "v13_B0K2T5ROE1_92.jpg",
+  "sha256": "de0ee7f488ab009b81ea0951196169adbfc3e65d0fd27bd1d0fc21696b35aae2",
+  "dhash": 11153949842621021959,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "桐泾北路11号一层(桐泾北路地铁站3号口步行370米)"
+ },
+ "https://aos-comment.amap.com/B0FFJNSZ4K/comment/content_media_external_file_1000028494_ss__1772786400408_25795297.jpg": {
+  "file": "v13_B0FFJNSZ4K_93.jpg",
+  "sha256": "cd4a897d3c1adaf0a8dec9d99d80415904b375a6fc05a08f0cdcb33f84dc17f5",
+  "dhash": 14501905657144805584,
+  "poi": "B0FFJNSZ4K",
+  "poi_name": "全家便利店(东北街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "东北街153号(拙政园苏博地铁站2号口步行410米)"
+ },
+ "https://store.is.autonavi.com/showpic/ae9f59676de2bd370000009373120031?type=pic": {
+  "file": "v13_B0FFJNSZ4K_94.jpg",
+  "sha256": "7008f62004c03fc6e05e6d20af06da9add598a0541770ed332f6f43bf1369dfd",
+  "dhash": 1265680664764100704,
+  "poi": "B0FFJNSZ4K",
+  "poi_name": "全家便利店(东北街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "东北街153号(拙政园苏博地铁站2号口步行410米)"
+ },
+ "https://store.is.autonavi.com/showpic/02931bc0edd03bd10000009198144073?type=pic": {
+  "file": "v13_B0K3H6T09I_95.jpg",
+  "sha256": "608e778b94fac5901633cfec9a3483864c04f9280345bf35fa3362454a1d3f8b",
+  "dhash": 402385537467848646,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "寿桃湖路与张泾浜路交叉口东南200米"
+ },
+ "https://store.is.autonavi.com/showpic/44824093fd3fe3210000008235542067?type=pic": {
+  "file": "v13_B0K3H6T09I_96.jpg",
+  "sha256": "3aacba7a30fc3edbc029b31c2526b7c8d64e2173001a5f7d97da8bf4ec323388",
+  "dhash": 3680099265404246044,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "寿桃湖路与张泾浜路交叉口东南200米"
+ },
+ "https://aos-comment.amap.com/B0K3H6T09I/comment/E9E260F4_9D83_4D6A_AE2A_5FFF4F629FCA_L0_001_1500_200_1761402088659_92735012.jpg": {
+  "file": "v13_B0K3H6T09I_97.jpg",
+  "sha256": "a428cb217636f33dc4fb187c8b0c7c222a6f5e0d56fbd876cdcf8d3817b9a2f7",
+  "dhash": 16602209641672373364,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "寿桃湖路与张泾浜路交叉口东南200米"
+ },
+ "https://store.is.autonavi.com/showpic/0b661388fc5e929a0000008914454073?type=pic": {
+  "file": "v13_B0FFG4L57R_98.jpg",
+  "sha256": "23c6c873075ac04b760c5057f71896506170a20a5de05c2a5e697062a247227b",
+  "dhash": 4054303656992577696,
+  "poi": "B0FFG4L57R",
+  "poi_name": "全家便利店(十全街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "十全街851号(三元坊地铁站3号东北口步行440米)"
+ },
+ "https://aos-comment.amap.com/B0FFG4L57R/comment/5c6bd021b9b052772cd1a9d9b5ba7187_2048_2048_80.jpg": {
+  "file": "v13_B0FFG4L57R_99.jpg",
+  "sha256": "932c016a7d5cec7020a094563d60b5b53058659bf3dbf371049b5aae66c22ecf",
+  "dhash": 846902928073280411,
+  "poi": "B0FFG4L57R",
+  "poi_name": "全家便利店(十全街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "十全街851号(三元坊地铁站3号东北口步行440米)"
+ },
+ "http://store.is.autonavi.com/showpic/f5d43788f3c212e3190bfacb5c41b791": {
+  "file": "v13_B0FFG4ZZB6_100.jpg",
+  "sha256": "aecb80ec0a5da82bb076b2cc31acd87741165a349c1999a1d7f97c8d929b0951",
+  "dhash": 5963490428543964782,
+  "poi": "B0FFG4ZZB6",
+  "poi_name": "全家便利店(观前1号店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "宫巷52号(临顿路地铁站悬临通道4号口步行390米)"
+ },
+ "https://aos-comment.amap.com/comment/content_service__1769915324204_42114766_1769915339186_28696292.jpg": {
+  "file": "v13_B0FFG4ZZB6_101.jpg",
+  "sha256": "c79caedcefe0371ca601e2cd5a958c1e5a1330ac20e16c554753f6065bd21e6c",
+  "dhash": 7793220566268808671,
+  "poi": "B0FFG4ZZB6",
+  "poi_name": "全家便利店(观前1号店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "宫巷52号(临顿路地铁站悬临通道4号口步行390米)"
+ },
+ "https://store.is.autonavi.com/showpic/e364b71af7ad6d6179381369cdbbe7bb": {
+  "file": "v13_B0KK75IZO5_102.jpg",
+  "sha256": "1e23b817572600fbbadc5cb4d8890e4e781c56cfcf0f73ecfc06e2b2127290ca",
+  "dhash": 14540401197376992757,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "郭新西路与一品街交叉口东南80米"
+ },
+ "https://store.is.autonavi.com/showpic/119eb6da1f50eb870000004245252025?type=pic": {
+  "file": "v13_B0KK75IZO5_103.jpg",
+  "sha256": "7f339f8e6047e929c0b16fc90bd26750f0fceb842ccefe9e572cb085314278da",
+  "dhash": 16413172461621554917,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "郭新西路与一品街交叉口东南80米"
+ },
+ "https://store.is.autonavi.com/showpic/37525fbac84d69c55b6aebccd0f76681": {
+  "file": "v13_B0KK75IZO5_104.jpg",
+  "sha256": "6583246202c34b3622154e1dad486ac368e37efe330e8b1be6ce630aa6d02ed0",
+  "dhash": 15915224333873210729,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市",
+  "addr": "郭新西路与一品街交叉口东南80米"
+ },
+ "https://aos-comment.amap.com/B0FFIL6EGX/comment/content_media_external_images_media_133850_ss__1767587201041_05216121.jpg": {
+  "file": "v13_B0FFIL6EGX_105.jpg",
+  "sha256": "b864659aa70459c0cc9ce31baa2494ff853df760953eab172e15056bc106b239",
+  "dhash": 10561667293963866198,
+  "poi": "B0FFIL6EGX",
+  "poi_name": "全家便利店(太平门直街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "太平门直街373号(庆春广场地铁站A3口步行380米)"
+ },
+ "https://store.is.autonavi.com/showpic/b62c53310bcae34d0000003596186861?type=pic": {
+  "file": "v13_B0FFIL6EGX_106.jpg",
+  "sha256": "e526397bc41cada99423fd87b06f11a887bf425b43ba17d7c4e589f6c21a2348",
+  "dhash": 16485112948515377746,
+  "poi": "B0FFIL6EGX",
+  "poi_name": "全家便利店(太平门直街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "太平门直街373号(庆春广场地铁站A3口步行380米)"
+ },
+ "https://store.is.autonavi.com/showpic/bae4aee4a3db1ea20000002416440397": {
+  "file": "v13_B0MDAS2VJT_107.jpg",
+  "sha256": "5ae92eff525d61243a5527684dff8dad41e150f35f5fecc671853698244de599",
+  "dhash": 12007339477083080637,
+  "poi": "B0MDAS2VJT",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "杭海路与下沙路交叉口西北100米"
+ },
+ "https://store.is.autonavi.com/showpic/8b410869a87c9caf0000005130240463?type=pic": {
+  "file": "v13_B0FFGYOCPZ_108.jpg",
+  "sha256": "9e04da2e66759411d9aa373ffb5f36983e3986d3186852e800b5e21a503101ff",
+  "dhash": 16732385675829347348,
+  "poi": "B0FFGYOCPZ",
+  "poi_name": "全家便利店(解放路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "解放路148号"
+ },
+ "https://store.is.autonavi.com/showpic/1332021a2ed760c70000005130234736?type=pic": {
+  "file": "v13_B0FFGYOCPZ_109.jpg",
+  "sha256": "7853f965263d27610789cb06a3ed082bd403a5bfec091f3a86d0695b72038ca6",
+  "dhash": 1448228949872761456,
+  "poi": "B0FFGYOCPZ",
+  "poi_name": "全家便利店(解放路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "解放路148号"
+ },
+ "http://store.is.autonavi.com/showpic/d0287705c23eedbdabc6b4308f907836": {
+  "file": "v13_B023B14G15_110.jpg",
+  "sha256": "4a2b78626a17e6442e3d71a9c5adb520f4fe66ea29f8e64c665ca4d6ef6bbbe2",
+  "dhash": 2025661715046251416,
+  "poi": "B023B14G15",
+  "poi_name": "全家便利店(孩儿巷店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "孩儿巷161号(凤起路地铁站A口步行120米)"
+ },
+ "https://aos-comment.amap.com/B023B14G15/comment/202601_21-16122_1768983158320_61572289.jpg": {
+  "file": "v13_B023B14G15_111.jpg",
+  "sha256": "756366cf60b9249e7efe0f940fce230d86624c9a5bd9873b5fc744499bda3365",
+  "dhash": 16054418791769583757,
+  "poi": "B023B14G15",
+  "poi_name": "全家便利店(孩儿巷店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "孩儿巷161号(凤起路地铁站A口步行120米)"
+ },
+ "https://aos-comment.amap.com/B0FFH33KHP/comment/b40847f063d31fcd5c5aa04cfc3c2452_2048_2048_80.jpg": {
+  "file": "v13_B0FFH33KHP_112.jpg",
+  "sha256": "871b3541c22e8a15a1aca3aebb467f7767187b2fb4e3b4da485c2f065d34e3ce",
+  "dhash": 508444995853133188,
+  "poi": "B0FFH33KHP",
+  "poi_name": "全家便利店(屏风街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "屏风街17(中河北路地铁站B1口步行380米)"
+ },
+ "https://aos-comment.amap.com/B0FFH33KHP/comment/264e932c5845fb7949b42f91b5c38259_2048_2048_80.jpg": {
+  "file": "v13_B0FFH33KHP_113.jpg",
+  "sha256": "2dffb92bcea04beef8b0e5b926dd601280f71524d60419cd4966ad8841387fff",
+  "dhash": 5291929071496661820,
+  "poi": "B0FFH33KHP",
+  "poi_name": "全家便利店(屏风街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "屏风街17(中河北路地铁站B1口步行380米)"
+ },
+ "https://store.is.autonavi.com/showpic/6a0548bf8c2be6330000003854192578": {
+  "file": "v13_B0MRJM546A_114.jpg",
+  "sha256": "4340f73850e41fac5d26f853d5b199ee71ada945d2e5b16d53cdd35ab9a8e855",
+  "dhash": 8750831828376159302,
+  "poi": "B0MRJM546A",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "蓝天国际1号楼"
+ },
+ "https://aos-comment.amap.com/B0FFGYOI9H/comment/content_media_external_file_1000019144_ss__1770122507142_07370404.jpg": {
+  "file": "v13_B0FFGYOI9H_115.jpg",
+  "sha256": "39b216370c111cd6f8e3c6412bc5440876b486c7d733977750a0fcb8f9136dd7",
+  "dhash": 74097572658234330,
+  "poi": "B0FFGYOI9H",
+  "poi_name": "全家便利店(解放路二店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "解放路22号"
+ },
+ "https://store.is.autonavi.com/showpic/54fcb3dd46b0ebcd0000000737346678?type=pic": {
+  "file": "v13_B0FFGYOI9H_116.jpg",
+  "sha256": "45ff566dec6cc1ca46a51ae93cf6312fabea3cb0217208ef4c389dae0b7a9d22",
+  "dhash": 670604483547009663,
+  "poi": "B0FFGYOI9H",
+  "poi_name": "全家便利店(解放路二店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "解放路22号"
+ },
+ "https://store.is.autonavi.com/showpic/6dd2535a77706ccbb10a602279c80cef": {
+  "file": "v13_B0LR7CJQ6O_117.jpg",
+  "sha256": "c6617f8ef2b9ab032c927b7762903d81069cb3843dd5a546c810eaf3746e6862",
+  "dhash": 8931536710591935448,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "盈丰街道宁巢美地公寓4-5号商铺"
+ },
+ "https://aos-comment.amap.com/comment/content_service__1769146107648_34403119_1769146178386_20997231.jpg": {
+  "file": "v13_B0LR7CJQ6O_118.jpg",
+  "sha256": "9fb268c8b7b1e102f44fe34a4605c72726363f66c93f4ded785d7c1e208b72b3",
+  "dhash": 5029613043848582144,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "盈丰街道宁巢美地公寓4-5号商铺"
+ },
+ "https://store.is.autonavi.com/showpic/d19d22a6ba236d6d6e194bb676e2e664": {
+  "file": "v13_B0LR7CJQ6O_119.jpg",
+  "sha256": "0b49690ada4199c54dc6841ccef121142da4a87fc954d425493f28830378ec4d",
+  "dhash": 2749068839940729708,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "盈丰街道宁巢美地公寓4-5号商铺"
+ },
+ "https://aos-comment.amap.com/comment/content_service__1770865247536_70613476_1770865248793_00693709.jpg": {
+  "file": "v13_B0FFHCOL86_120.jpg",
+  "sha256": "1f5fb96e4df81f5b6444fbce45d39dab5ee188340babdb1010ef40d5ef571489",
+  "dhash": 1030490511947664713,
+  "poi": "B0FFHCOL86",
+  "poi_name": "全家便利店(解放东路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "公园路和解放东路路口迪凯银座"
+ },
+ "https://aos-comment.amap.com/B0FFHCOL86/comment/1cc78d6942109c974f134fefffb970d8_2048_2048_80.jpg": {
+  "file": "v13_B0FFHCOL86_121.jpg",
+  "sha256": "d5ec793821afe61556ce5dcbfbf9dfdf794514768c978d2fb6bda212fc4283d9",
+  "dhash": 8949254146129386432,
+  "poi": "B0FFHCOL86",
+  "poi_name": "全家便利店(解放东路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "公园路和解放东路路口迪凯银座"
+ },
+ "https://aos-comment.amap.com/B0G3390VAS/comment/175521915582_1755219169541_47257287.jpg": {
+  "file": "v13_B0G3390VAS_122.jpg",
+  "sha256": "22f22bf7de29e9e8a1e021bbc51f2d78d21818739160a2e786329899bc1bd9b5",
+  "dhash": 3420722291546578072,
+  "poi": "B0G3390VAS",
+  "poi_name": "全家便利店(湖滨步行街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "东坡路10-1号(东坡大剧院隔壁)"
+ },
+ "https://store.is.autonavi.com/showpic/3f94718801e0cef50000004180940174?type=pic": {
+  "file": "v13_B0G3390VAS_123.jpg",
+  "sha256": "64134e0a9620d7601500f7e312918ec1d73efbdc4948ba8d2ad1317476a74640",
+  "dhash": 5651997493295804270,
+  "poi": "B0G3390VAS",
+  "poi_name": "全家便利店(湖滨步行街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "东坡路10-1号(东坡大剧院隔壁)"
+ },
+ "https://store.is.autonavi.com/showpic/65f9f2ddd4b3ab930000002878164643?type=pic": {
+  "file": "v13_B0FFI0M8A4_124.jpg",
+  "sha256": "942784f3f26cff0e9e993b2adbbc18702dfb25675900e98e70a58884af85f417",
+  "dhash": 11940523947387663360,
+  "poi": "B0FFI0M8A4",
+  "poi_name": "全家便利店(望京店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "盈丰街道鸿宁路1909号(望京大厦)望京商务中心大厦A座1楼"
+ },
+ "https://aos-comment.amap.com/B0FFI0M8A4/comment/391A5CAD_DE1E_4590_8DE4_C8CFAC6EB555_L0_001_1500_200_1763701183171_22269628.jpg": {
+  "file": "v13_B0FFI0M8A4_125.jpg",
+  "sha256": "fba36e2c4f144af5b7795f394fa83c846a08ed7d276d84742146239ab6e27879",
+  "dhash": 2397435836568335926,
+  "poi": "B0FFI0M8A4",
+  "poi_name": "全家便利店(望京店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市",
+  "addr": "盈丰街道鸿宁路1909号(望京大厦)望京商务中心大厦A座1楼"
+ },
+ "https://store.is.autonavi.com/showpic/220c9c813432eafb0000008291664453?type=pic": {
+  "file": "v13_B0FFI0SXZK_126.jpg",
+  "sha256": "d3087e16f8d83fbb294172c55c6b88d5bdf9c500879f8230df5f6536cb852b97",
+  "dhash": 8246157663949922775,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市",
+  "addr": "民和镇滨湖华城41栋包子铺"
+ },
+ "http://store.is.autonavi.com/showpic/99db136ab1da43fb7250f092b82b1625": {
+  "file": "v13_B0FFI0SXZK_127.jpg",
+  "sha256": "a2eff106ff0ffae0e5bf12d3bdd3be9bd7e4669fcae87860558dd9771d2d666d",
+  "dhash": 10570670237431119399,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市",
+  "addr": "民和镇滨湖华城41栋包子铺"
+ },
+ "https://store.is.autonavi.com/showpic/3a5d59705886d26e0000008291658614?type=pic": {
+  "file": "v13_B0FFI0SXZK_128.jpg",
+  "sha256": "41df7ec2caf95b53edc9eb9be6ec61d8f2da56e0629c96df39c4031b2ad1f7d8",
+  "dhash": 13303245046597039128,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市",
+  "addr": "民和镇滨湖华城41栋包子铺"
+ },
+ "https://store.is.autonavi.com/showpic/1f503a7e4f79e1b73588800db8c88f84": {
+  "file": "v13_B0LDVH4ALC_129.jpg",
+  "sha256": "e62a972c6cfdfe5aabbbcae0b229dd1e34649fc5389a9b7a181d7b0772127578",
+  "dhash": 16077696030755244943,
+  "poi": "B0LDVH4ALC",
+  "poi_name": "7-11便利店(十六铺二店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "中山东二路501号十六铺·水岸B1层"
+ },
+ "http://store.is.autonavi.com/showpic/18f444b7f71c1ed5bf23b420d308e881": {
+  "file": "v13_B00156E4FZ_130.jpg",
+  "sha256": "8f3b3a0dc15f112d2c93471168658dc2eac500b25f2b60313552f32573e76a88",
+  "dhash": 244739439890477875,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "常熟路225-227号(近淮海中路)(常熟路地铁站6号口旁)"
+ },
+ "https://store.is.autonavi.com/showpic/8f7cd33cde7ed7a80000003453428787?type=pic": {
+  "file": "v13_B00156E4FZ_131.jpg",
+  "sha256": "d829e6ca7ef57e4e06d28ba80f3603a1d3b7b3a379420d8191ef5cc3dd82a93f",
+  "dhash": 6655401941387968797,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "常熟路225-227号(近淮海中路)(常熟路地铁站6号口旁)"
+ },
+ "https://store.is.autonavi.com/showpic/e3b1a43b9957fbe60000003453438579?type=pic": {
+  "file": "v13_B00156E4FZ_132.jpg",
+  "sha256": "61bb0e07eb9b3706da2256e05e2d9c2eb1cf873b7093dfbbb53cb4e69ddffe45",
+  "dhash": 10466678325360366273,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "常熟路225-227号(近淮海中路)(常熟路地铁站6号口旁)"
+ },
+ "http://store.is.autonavi.com/showpic/3512bcbbef156c7e96f000ea27454e19": {
+  "file": "v13_B0KDYMSZSA_133.jpg",
+  "sha256": "88ee4be6976e2db0ac81746ee61773b9c001895a633f2b32cc2d1020d774fee5",
+  "dhash": 18360826376674298631,
+  "poi": "B0KDYMSZSA",
+  "poi_name": "7-11便利店(金钟广场店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "淮海中路街道淮海中路98号金钟广场1楼"
+ },
+ "https://store.is.autonavi.com/showpic/6faa407e41b90a0f849ad7bdb254e1b8": {
+  "file": "v13_B0KAZZ8KL1_134.jpg",
+  "sha256": "98686725b0f85f4353e94af238489db9a213f5f03eb61ba700ff71edf7f50a02",
+  "dhash": 15740634786590805744,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "南京西路338号天安中心F1层"
+ },
+ "https://store.is.autonavi.com/showpic/4bdce73188086ec176938d9134454c81": {
+  "file": "v13_B0KAZZ8KL1_135.jpg",
+  "sha256": "5d1e1932d49de85f04e6856119ba30b8132bfe9364555f47580660bc3ed1f63f",
+  "dhash": 1239337684989002246,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "南京西路338号天安中心F1层"
+ },
+ "https://store.is.autonavi.com/showpic/fe860400892b42153e6782f734c9080f": {
+  "file": "v13_B0KAZZ8KL1_136.jpg",
+  "sha256": "4b407c476640291467841385e0c6e0ff4107483d938aa85eed0cb48f68be94da",
+  "dhash": 11253467494266426195,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "南京西路338号天安中心F1层"
+ },
+ "https://aos-comment.amap.com/B0K16HVJ72/comment/F751EBAA_4FBF_4545_9DD1_3269DF9A694B_L0_001_1536_204_1748842711529_15838563.jpg": {
+  "file": "v13_B0K16HVJ72_137.jpg",
+  "sha256": "12b41cdae5a72ed374d1b8ae9755ee3840b0deb0ff9389b1a19a7624402267f7",
+  "dhash": 3618644721632290406,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "陆家嘴东路166号中国保险大厦F1层"
+ },
+ "https://aos-comment.amap.com/B0K16HVJ72/comment/5471EF35_8C0B_41D1_8E60_27314CB69CEB_L0_001_1536_204_1748842711528_26987267.jpg": {
+  "file": "v13_B0K16HVJ72_138.jpg",
+  "sha256": "5e340ed5fd2e910bf7166222b53a13910b19b86ebda225d09bb7357f35062524",
+  "dhash": 8399463623485927576,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "陆家嘴东路166号中国保险大厦F1层"
+ },
+ "https://aos-comment.amap.com/B0K16HVJ72/comment/718CAFAB_2707_41A2_BD0B_4D34633408F3_L0_001_1536_204_1748842711528_88871605.jpg": {
+  "file": "v13_B0K16HVJ72_139.jpg",
+  "sha256": "d221c98438053675c98075f1cc954d55aee11e35394140433cfefa1f5e6cb93e",
+  "dhash": 5138100519558086684,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "陆家嘴东路166号中国保险大厦F1层"
+ },
+ "https://store.is.autonavi.com/showpic/401c4f6389105956e03491609f3d45fc": {
+  "file": "v13_B0MDZA5RJ7_140.jpg",
+  "sha256": "e1e2bf713b447d0b356000b5cbcd35ca5ab67d8009dc82f0fc6bbf43396d4a2e",
+  "dhash": 1084916874277695014,
+  "poi": "B0MDZA5RJ7",
+  "poi_name": "7-11陕西南路一店",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "轨道交通一号线1-105号(陕西南路地铁站3号口步行70米)"
+ },
+ "https://store.is.autonavi.com/showpic/b1206f8b513d31cc23e65b40183dfe4d": {
+  "file": "v13_B0MDZA5RJ7_141.jpg",
+  "sha256": "68d247ee890d824dd7b7a55ed5a9bf0db23ef530b4bf84b2debc1fbc0063f7ae",
+  "dhash": 2238024243818019121,
+  "poi": "B0MDZA5RJ7",
+  "poi_name": "7-11陕西南路一店",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "轨道交通一号线1-105号(陕西南路地铁站3号口步行70米)"
+ },
+ "https://store.is.autonavi.com/showpic/f610c5b0153f35daf2a6cb033891e59f": {
+  "file": "v13_B0M6BAGYVC_142.jpg",
+  "sha256": "be500ed19a14fd48488f2c522dcec964c32a6d21f37d7620d358a92083c2e211",
+  "dhash": 847874257826594,
+  "poi": "B0M6BAGYVC",
+  "poi_name": "7-11便利店(中兴路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "中兴路与孔家木桥路交叉口西南40米"
+ },
+ "https://store.is.autonavi.com/showpic/64062f746c2a1f420000003786332543?type=pic": {
+  "file": "v13_B0LD05FGZ1_143.jpg",
+  "sha256": "2be19c29f6230c077167000fa9ac5945ecd346bb4f26017c72e3b2d1826a400c",
+  "dhash": 11086980051812969231,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "石泉东路280号"
+ },
+ "https://store.is.autonavi.com/showpic/56e5c76d37e4f9fc0000003786318697?type=pic": {
+  "file": "v13_B0LD05FGZ1_144.jpg",
+  "sha256": "d886aadd0d912a3e85e2c8a99c3a33bb9212264419ba4462f952045496aa36f4",
+  "dhash": 219273017244337623,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "石泉东路280号"
+ },
+ "https://store.is.autonavi.com/showpic/befd9a19674ebf386e03656dc29d4998": {
+  "file": "v13_B0LD05FGZ1_145.jpg",
+  "sha256": "998282e69e4fe438127697bf74ace76aaa67554d5d8da1db5faa463605a7f06c",
+  "dhash": 17886098938138278201,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "石泉东路280号"
+ },
+ "https://aos-comment.amap.com/B0LKPBYAIO/comment/content_media_external_file_1000232961_ss__1770993969088_35228122.jpg": {
+  "file": "v13_B0LKPBYAIO_146.jpg",
+  "sha256": "6d83926edf348f023e3874112f83da8219d319f157607727776f9a2550299634",
+  "dhash": 3731559437017920326,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "虹桥路1号上海港汇恒隆广场"
+ },
+ "https://aos-comment.amap.com/B0LKPBYAIO/comment/content_media_external_file_14182_ss__1768902892470_47446444.jpg": {
+  "file": "v13_B0LKPBYAIO_147.jpg",
+  "sha256": "08c31fb410864f00791efc55416543cacc982e56cb9054b6aa9f803fece9ceb3",
+  "dhash": 15046742288212935495,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "虹桥路1号上海港汇恒隆广场"
+ },
+ "https://aos-comment.amap.com/B0LKPBYAIO/comment/content_media_external_file_1000232959_ss__1770993969091_54101155.jpg": {
+  "file": "v13_B0LKPBYAIO_148.jpg",
+  "sha256": "f1dc900fbc87f4999a60f19b3450e959378434530023509cd8cf5378bbb0f200",
+  "dhash": 17671401664991050105,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市",
+  "addr": "虹桥路1号上海港汇恒隆广场"
+ },
+ "https://aos-comment.amap.com/B0K2L1NUPF/comment/C10974D1_C3D2_4AA3_869B_E3033194D2EE_L0_001_1280_170_1773412106580_70245774.jpg": {
+  "file": "v13_B0K2L1NUPF_149.jpg",
+  "sha256": "f67e8fc966cf17dff14b9f14c6c8cc3cb93158ff031e099af403246b2764bd4a",
+  "dhash": 18433108749742149326,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "狮山街道狮山路22号人才广场1幢101室"
+ },
+ "https://aos-comment.amap.com/B0K2L1NUPF/comment/CF8DFDC4_9F99_4B82_8D36_7D643A3F48DB_L0_001_1920_108_1773412106584_72639667.jpg": {
+  "file": "v13_B0K2L1NUPF_150.jpg",
+  "sha256": "d3a48253320e8834b5070a3c43da356917e9f62a55a3cde9c22e1c3501125952",
+  "dhash": 3933496061105395233,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "狮山街道狮山路22号人才广场1幢101室"
+ },
+ "https://aos-comment.amap.com/B0K2L1NUPF/comment/content_media_external_file_55280_ss__1769587478669_70184223.jpg": {
+  "file": "v13_B0K2L1NUPF_151.jpg",
+  "sha256": "43a62341f0a4efb92e53856e4f096e2b398ecd5d12f13fef6cae9ae4d2bfad61",
+  "dhash": 10127695670153095648,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "狮山街道狮山路22号人才广场1幢101室"
+ },
+ "http://store.is.autonavi.com/showpic/b9eaa45f5f2954fadb308d5ebd713ff5": {
+  "file": "v13_B0L6MLXJWP_152.jpg",
+  "sha256": "9cf4bfb82b1a4f6533cc3b551f7f2ea4a0aa855d039d7cb2b90b1c5844cc39d0",
+  "dhash": 16836884824395066018,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "广济南路站站厅负一楼1号商铺(9号出口)"
+ },
+ "https://aos-comment.amap.com/B0L6MLXJWP/comment/content_media_external_file_100010826_1761752526924_17855156.jpg": {
+  "file": "v13_B0L6MLXJWP_153.jpg",
+  "sha256": "22ab5d9fee4becb56463bff75915e6ad85a09c0db0d3e2c4a2fb12b86086a0f1",
+  "dhash": 16836744224352908218,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "广济南路站站厅负一楼1号商铺(9号出口)"
+ },
+ "https://store.is.autonavi.com/showpic/febf1e2db81372ae749203590b428821": {
+  "file": "v13_B0L6MLXJWP_154.jpg",
+  "sha256": "f6fd05143680a130e88e1fd2f09204d5b22706d0d5d863bf7875193198ab2a1b",
+  "dhash": 11061354025967163713,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "广济南路站站厅负一楼1号商铺(9号出口)"
+ },
+ "https://store.is.autonavi.com/showpic/b487330df833b899695e0b8ae0e40711": {
+  "file": "v13_B0L05OUPM9_155.jpg",
+  "sha256": "7f2c844d8e8cf7e7800082610de934d8061aaeb8ea94c3bcc27400c0fa94f92d",
+  "dhash": 7209150452880133180,
+  "poi": "B0L05OUPM9",
+  "poi_name": "7-ELEVEn(苏州西环路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "西环路与干将西路交叉口西40米(西环路地铁站4号口旁)"
+ },
+ "http://store.is.autonavi.com/showpic/68388b07c29dc9670e2dcdebff93ed33": {
+  "file": "v13_B0KU97TPRX_156.jpg",
+  "sha256": "3addf750803bedf20eb6bf6a1a6720e28a95435505e49a310c250512119642e9",
+  "dhash": 10431173305683923474,
+  "poi": "B0KU97TPRX",
+  "poi_name": "7-ELEVEn(苏州绿宝广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "长江路360号步行街2幢1层商铺"
+ },
+ "https://store.is.autonavi.com/showpic/bde3b8aae31600b80000002368994518?type=pic": {
+  "file": "v13_B0KU97TPRX_157.jpg",
+  "sha256": "743cb455c1ed4f41d0b1ce158681f4a2aa03f9167746bdb1074cb74698e02628",
+  "dhash": 2714150103759032206,
+  "poi": "B0KU97TPRX",
+  "poi_name": "7-ELEVEn(苏州绿宝广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "长江路360号步行街2幢1层商铺"
+ },
+ "https://store.is.autonavi.com/showpic/a56c4da9930b3e220000005289276271?type=pic": {
+  "file": "v13_B0K2FUPXP9_158.jpg",
+  "sha256": "e452fff7293d0f9917b32b11e1c180754f0a0edf561251eaa4c00e6952b41b2c",
+  "dhash": 3834011852374428795,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "东吴大厦1-4层一层1017号"
+ },
+ "https://aos-comment.amap.com/B0K2FUPXP9/comment/%5B2025-11-03-15-19-30%5D4132AF79-0076-483C-974F-9BFE2EBFA30_1762154371901_77966599.jpg": {
+  "file": "v13_B0K2FUPXP9_159.jpg",
+  "sha256": "b98d5df2712f6c4319bf8f4f9e7e529072701c0ad92951b7ff75ef6a2641d09c",
+  "dhash": 6315363403681279514,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "东吴大厦1-4层一层1017号"
+ },
+ "https://aos-comment.amap.com/B0K2FUPXP9/comment/4F99FE8A_A5C4_46B8_967A_DEE162B47DD8_L0_001_2016_1512_1731991112104_12038148.jpg": {
+  "file": "v13_B0K2FUPXP9_160.jpg",
+  "sha256": "5c49dfdbc1ed6078c93fd73add5382d58062cc721f34bf605956b87a90168be8",
+  "dhash": 14119820079004390784,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "东吴大厦1-4层一层1017号"
+ },
+ "https://aos-comment.amap.com/B0LRC4FAEP/comment/file_media_Photo_2409_IMG_1770264905_2328_IMG_20260205_121325_jpg_ss__1770264825071_82209663.jpg": {
+  "file": "v13_B0LRC4FAEP_161.jpg",
+  "sha256": "1bcb9d5392d734ff4b202bfdf83fa490758ac70e8022a7074e426f076c0ec6e5",
+  "dhash": 14861633801287666987,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街198号星海大厦1幢102号"
+ },
+ "https://aos-comment.amap.com/B0LRC4FAEP/comment/content_media_external_file_1000015021_ss__1759108301092_82603235.jpg": {
+  "file": "v13_B0LRC4FAEP_162.jpg",
+  "sha256": "2c9f9b246cf834101958773d2c0110dadaca9d27888919f031d060f9511aaa3b",
+  "dhash": 2753455939163624427,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街198号星海大厦1幢102号"
+ },
+ "https://aos-comment.amap.com/B0LRC4FAEP/comment/content_media_external_file_1000015024_ss__1759108301229_71509607.jpg": {
+  "file": "v13_B0LRC4FAEP_163.jpg",
+  "sha256": "77442c2d29f9446cf486b4b3116fae4a68b12df5dbee03d49132175cfe3eed92",
+  "dhash": 1396728207495636583,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街198号星海大厦1幢102号"
+ },
+ "https://store.is.autonavi.com/showpic/2d47a08034e0469298187b166e449e01": {
+  "file": "v13_B0LKDCNJLZ_164.jpg",
+  "sha256": "68155f44d54b94eea7420265731a00fbb6b74b173f8c9da9ffed0580a063ac10",
+  "dhash": 13961264999466017929,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宝带东路194号一楼东(嘉宝一期南门口)地铁迎春路站3号口往东140米"
+ },
+ "https://store.is.autonavi.com/showpic/7bc7710376ef87740000002564720432?type=pic": {
+  "file": "v13_B0LKDCNJLZ_165.jpg",
+  "sha256": "a10ab13dacfe124deb88ea8719f26cee0dc149d1a30ff917d12ad5ba58863f48",
+  "dhash": 12827059963744158471,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宝带东路194号一楼东(嘉宝一期南门口)地铁迎春路站3号口往东140米"
+ },
+ "https://store.is.autonavi.com/showpic/f3f8964c2b042fb90000002564798107?type=pic": {
+  "file": "v13_B0LKDCNJLZ_166.jpg",
+  "sha256": "149c4f9da6696fa760db0e18628f7b8914bf9fa6b1d798bf5d6ba9767a151b41",
+  "dhash": 8531351195245896131,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宝带东路194号一楼东(嘉宝一期南门口)地铁迎春路站3号口往东140米"
+ },
+ "https://store.is.autonavi.com/showpic/f026aa3fe6d63a4f0000003112422393?type=pic": {
+  "file": "v13_B0LKA5941C_167.jpg",
+  "sha256": "64b1b1e850e4aa69ec734b340188fba302bc9032d16f76fd6031e7cfc8652533",
+  "dhash": 1666114246674365990,
+  "poi": "B0LKA5941C",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "人民路东侧1428号黄金大厦(察院场地铁站3东北口旁)"
+ },
+ "https://store.is.autonavi.com/showpic/5eb0e8972ddf4d9e0000009288782261?type=pic": {
+  "file": "v13_B0LDUAEL8T_168.jpg",
+  "sha256": "7c4ec3a2240e84dac8a4f1451b14fd832ece953c2a360bf1d3d572ca982ef12b",
+  "dhash": 14865288964906683707,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "平江街道仓街1号仁恒仓街商业广场B1"
+ },
+ "https://store.is.autonavi.com/showpic/aae78681c14286140000003106526538?type=pic": {
+  "file": "v13_B0LDUAEL8T_169.jpg",
+  "sha256": "24b628de419d9749a4816c7e949155107d89341f465b045d02231d03be5cd576",
+  "dhash": 14369826023158499302,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "平江街道仓街1号仁恒仓街商业广场B1"
+ },
+ "https://aos-comment.amap.com/B0LDUAEL8T/comment/CD22ECC9_3B96_43AB_8F51_CD2DF9F4653C_L0_001_1284_155_1758687920527_49258908.jpg": {
+  "file": "v13_B0LDUAEL8T_170.jpg",
+  "sha256": "c250a57f6dcb390726a40754fb7a67d246a6dc1a8dbca8cf689fc03fe82250a9",
+  "dhash": 4553452624502456320,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "平江街道仓街1号仁恒仓街商业广场B1"
+ },
+ "https://aos-comment.amap.com/B0L0CRZG2B/comment/20260317-9aea6f9fc3671b4191f7f5f2-35VI8pJf9VDAYaN723aJDP.jpg": {
+  "file": "v13_B0L0CRZG2B_171.jpg",
+  "sha256": "727dc21a423c57200461597eae826e26030fa4481836f6ba25dc9871402e6cbb",
+  "dhash": 11802613346511130176,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宫巷80号吴商会馆F1层"
+ },
+ "https://store.is.autonavi.com/showpic/f333ad4a57cd4afd0000002551440243?type=pic": {
+  "file": "v13_B0L0CRZG2B_172.jpg",
+  "sha256": "d75ee0dd20cb661125420be3c365ac8ef5f11905f6bb5f049288730086f31a43",
+  "dhash": 11938784601856251526,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宫巷80号吴商会馆F1层"
+ },
+ "https://aos-comment.amap.com/B0L0CRZG2B/comment/13772D31_597E_40C2_8333_EE61DA1FD365_L0_001_1500_200_1767699614561_70315842.jpg": {
+  "file": "v13_B0L0CRZG2B_173.jpg",
+  "sha256": "5465615ff96bc86103ce1c52b3a4c5167d5e0b85f1b616a8b7430d7dd8789da2",
+  "dhash": 17887611417662116032,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "宫巷80号吴商会馆F1层"
+ },
+ "https://aos-comment.amap.com/B0L3CGIF9Q/comment/202511_06-16224_1762417391885_63826908.jpg": {
+  "file": "v13_B0L3CGIF9Q_174.jpg",
+  "sha256": "b80b845dcc0b864cfa4db7f211ba751cfbdf7b76e2659e961cda4545184a11f8",
+  "dhash": 10142509956531514488,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街199号星海生活广场B2层"
+ },
+ "https://store.is.autonavi.com/showpic/9c62026474f006290000009236518908?type=pic": {
+  "file": "v13_B0L3CGIF9Q_175.jpg",
+  "sha256": "f9280b59320927a130d4bcdd9ceb9914cb0eccc662de727a43a23606155d9d08",
+  "dhash": 568795874710837651,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街199号星海生活广场B2层"
+ },
+ "https://aos-comment.amap.com/B0L3CGIF9Q/comment/55DC515F_2521_4873_876B_851540537BF8_L0_001_1500_200_1768092894265_79051687.jpg": {
+  "file": "v13_B0L3CGIF9Q_176.jpg",
+  "sha256": "b9c1cd2ec13e6bcbac870851eaae144f29cb76756746fcafc830a957fc884fca",
+  "dhash": 7713288900479222788,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市",
+  "addr": "星海街199号星海生活广场B2层"
+ },
+ "http://store.is.autonavi.com/showpic/e2c94aeadd6ebf8b9ef8a1963642644b": {
+  "file": "v13_B0G0CPS6WB_177.jpg",
+  "sha256": "6e85bbad59a104da83b8c72cac4f8ac17ba551634f6fb225e5c22910909aecfe",
+  "dhash": 868364756606978459,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "灵隐路38号隐市F1层"
+ },
+ "https://aos-comment.amap.com/B0G0CPS6WB/comment/content_media_external_file_100004750_1761227475153_80363375.jpg": {
+  "file": "v13_B0G0CPS6WB_178.jpg",
+  "sha256": "3f48bff7d2cc78ba3d98f9f3da4450acfdc68533a00dcb5af3456190e8c1383c",
+  "dhash": 2171704485512217057,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "灵隐路38号隐市F1层"
+ },
+ "http://store.is.autonavi.com/showpic/266cc20fb48e9c38ff25fbc9190af4ab": {
+  "file": "v13_B0G0CPS6WB_179.jpg",
+  "sha256": "d3a46bcba2632a651aaa429c92a84bb5bf462ebdeb6c18e002aef17f042f5ef0",
+  "dhash": 6361594562097247716,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "灵隐路38号隐市F1层"
+ },
+ "https://aos-comment.amap.com/comment/content_service__1770253935490_56784776_1770254019456_53298597.jpg": {
+  "file": "v13_B0LG3U98ML_180.jpg",
+  "sha256": "9f91f7455935cbb44bfa624e3db197054c1ec9a7a5bb47046806a3f72ded547c",
+  "dhash": 16385844350427860364,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "小河路686号"
+ },
+ "https://aos-comment.amap.com/comment/content_service__1770253935494_40132581_1770254019456_69754066.jpg": {
+  "file": "v13_B0LG3U98ML_181.jpg",
+  "sha256": "386a305460539b88f1cc7f5228f0bb4ce67aaa0d9d97ab8c5491123a19938be4",
+  "dhash": 3486799452062572103,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "小河路686号"
+ },
+ "https://aos-comment.amap.com/B0LG3U98ML/comment/content_media_external_file_870_ss__1767281909587_99340456.jpg": {
+  "file": "v13_B0LG3U98ML_182.jpg",
+  "sha256": "9db90926b6b455d22f1b874ed920476a48ac9887ff03d7e273af04d03ce2e7e0",
+  "dhash": 12978798221218527619,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "小河路686号"
+ },
+ "http://store.is.autonavi.com/showpic/2e66d93198a825d0006cea79a1b7e3f1": {
+  "file": "v13_B0KR7XQSWG_183.jpg",
+  "sha256": "e2689ab730a725d97d3c687d2acd624f775e3f44d87c27c45478b5e8cfc77674",
+  "dhash": 9221643516150476542,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "市民街199号太平金融大厦4幢1层110-1单元"
+ },
+ "https://aos-comment.amap.com/658db2f8ce29b8c7406afd39/comment/content_service__1773396217229_80805582_1773396230434_95957605.jpg": {
+  "file": "v13_B0KR7XQSWG_184.jpg",
+  "sha256": "425da9f326a1cc1fff9e22a93313a1fec192b5956330972d951209d36465ad50",
+  "dhash": 14757220822088171070,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "市民街199号太平金融大厦4幢1层110-1单元"
+ },
+ "https://aos-comment.amap.com/comment/20260313-658db2f8ce29b8c7406afd39-1PpIWYuXKfiAPsSIISAhC4.jpg": {
+  "file": "v13_B0KR7XQSWG_185.jpg",
+  "sha256": "d3246f7e9aa442807521108d6f9edb9173f2f73e79c706c46d79e0362575f79f",
+  "dhash": 8751438882567354231,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "市民街199号太平金融大厦4幢1层110-1单元"
+ },
+ "https://aos-comment.amap.com/B0FFIUCVLB/comment/175402610188_1754026120080_25151745.jpg": {
+  "file": "v13_B0FFIUCVLB_186.jpg",
+  "sha256": "d1ed4858e834454f445eec07dff5abf643ae7a808f3492def4aaf7ad55fbe46e",
+  "dhash": 12787639202257059555,
+  "poi": "B0FFIUCVLB",
+  "poi_name": "7-ELEVEn(庆春店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "庆春东路(庆春广场地铁站B1口步行80米)"
+ },
+ "https://aos-comment.amap.com/B0FFIUCVLB/comment/54C431AE_772A_4E23_B959_844E0AA386FB_L0_001_1500_200_1758163939108_99215878.jpg": {
+  "file": "v13_B0FFIUCVLB_187.jpg",
+  "sha256": "ae8e27f1f7b98396f08e5b62240fd59c63741065a2b9b430cb87109272cdc110",
+  "dhash": 7493989911447434140,
+  "poi": "B0FFIUCVLB",
+  "poi_name": "7-ELEVEn(庆春店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "庆春东路(庆春广场地铁站B1口步行80米)"
+ },
+ "https://store.is.autonavi.com/showpic/efb94380c001ac052a19b9e650fa9066": {
+  "file": "v13_B0IKHHFI6A_188.jpg",
+  "sha256": "57f21a7a16440d350a3b0e8f01c826b9b096dc016195ea0eb840c7ef47fede68",
+  "dhash": 5525069155808026462,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "四季青街道解放东路市民中心地铁站N1口(迪凯银座店)"
+ },
+ "https://aos-comment.amap.com/B0IKHHFI6A/comment/content_media_external_file_1000077435_ss__1757054301807_12785831.jpg": {
+  "file": "v13_B0IKHHFI6A_189.jpg",
+  "sha256": "28791c8bfcf1a713281c66c75e4fcc58732cec337f6e9a4ca491002855bb875d",
+  "dhash": 13758003611608739018,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "四季青街道解放东路市民中心地铁站N1口(迪凯银座店)"
+ },
+ "https://store.is.autonavi.com/showpic/807084d1b27635bb5817723d61444fd7": {
+  "file": "v13_B0IKHHFI6A_190.jpg",
+  "sha256": "9bfc9e9df6844cfb45841141f3e9f23cbb05ed3223b30aae51c2d5ab02aa0c83",
+  "dhash": 17004252229277070357,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "四季青街道解放东路市民中心地铁站N1口(迪凯银座店)"
+ },
+ "https://aos-comment.amap.com/B0FFIZIFCQ/comment/content_media_external_file_1000045043_ss__1763336529402_91048465.jpg": {
+  "file": "v13_B0FFIZIFCQ_191.jpg",
+  "sha256": "f1da45a9c1aaa03e44e7e5d9162c9095fede3408a31c74effbe7b1d684143511",
+  "dhash": 15371581462787638830,
+  "poi": "B0FFIZIFCQ",
+  "poi_name": "7-ELEVEn(景芳店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "上城区地铁景芳站下沉式商业广场"
+ },
+ "https://store.is.autonavi.com/showpic/abce10114157d4a7124f6aea1ab57c43": {
+  "file": "v13_B0FFIZIFCQ_192.jpg",
+  "sha256": "1b62f1b392da3e87287f90fcd95d5e27d139baf28aa3c62d0f6253bb6b5e7caf",
+  "dhash": 16997434316033439013,
+  "poi": "B0FFIZIFCQ",
+  "poi_name": "7-ELEVEn(景芳店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "上城区地铁景芳站下沉式商业广场"
+ },
+ "https://store.is.autonavi.com/showpic/fc329d1afd4ecf5700d038d653ee4bf4": {
+  "file": "v13_B0L09CDR2R_193.jpg",
+  "sha256": "5f016af501e54e6f7f08b030004f9c10a0805d5284861af3a1cadbd2243840f9",
+  "dhash": 8519319505367277071,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "杭海路251号采东路口永盈大厦1楼"
+ },
+ "https://store.is.autonavi.com/showpic/e43a023c662767500000003572954076?type=pic": {
+  "file": "v13_B0L09CDR2R_194.jpg",
+  "sha256": "0d41fe41c00c456d88367dfb399481298a7853b65227a136f90c925b24b10ecb",
+  "dhash": 14650902214700674544,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "杭海路251号采东路口永盈大厦1楼"
+ },
+ "https://store.is.autonavi.com/showpic/9ec8b1b56b3d077f0000008670408173?type=pic": {
+  "file": "v13_B0L09CDR2R_195.jpg",
+  "sha256": "52df5a0d177df9a83da29ae3834c9622c98aad9a1d2d271665ebab653a5a10ab",
+  "dhash": 216486345010253633,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "杭海路251号采东路口永盈大厦1楼"
+ },
+ "https://store.is.autonavi.com/showpic/00a6a2fed5397a0529d5e76e1f54a10f": {
+  "file": "v13_B0L0MB8BPX_196.jpg",
+  "sha256": "5e21a8828e2f063021e663f0e342b8cb8fa70f50ade2313eadc858fcff07e07f",
+  "dhash": 8716901904557087748,
+  "poi": "B0L0MB8BPX",
+  "poi_name": "7-ELEVEn(顺福商务中心店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "四季青街道凤起东路211号顺福商务中心1幢"
+ },
+ "https://store.is.autonavi.com/showpic/1f4b76131226676d197be4e808fcbcdf": {
+  "file": "v13_B0L0MB8BPX_197.jpg",
+  "sha256": "cc8d0d9c35136923136a68331973d44f3353928fcff1aaef33d614bb0541b2ab",
+  "dhash": 7077093274119706751,
+  "poi": "B0L0MB8BPX",
+  "poi_name": "7-ELEVEn(顺福商务中心店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "四季青街道凤起东路211号顺福商务中心1幢"
+ },
+ "https://store.is.autonavi.com/showpic/4447b3573c8d69587c0c6ca9e849df3d": {
+  "file": "v13_B0MR1ABRQA_198.jpg",
+  "sha256": "a734a5d6bfa16a731f0fcae619ee95371a3810f94f39f3816b5b0ad4acc5282e",
+  "dhash": 15734028229534590284,
+  "poi": "B0MR1ABRQA",
+  "poi_name": "7-11便利店(滨江银泰百货店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "启智街475号银泰百货C区F1层"
+ },
+ "http://store.is.autonavi.com/showpic/2e459707476514dde2f44780b7338463": {
+  "file": "v13_B0FFI6B6GI_199.jpg",
+  "sha256": "f099f6215a94f6c88b0df30ccda1b852438ed36e8a09423769160b8de23bb55e",
+  "dhash": 1877099773442852637,
+  "poi": "B0FFI6B6GI",
+  "poi_name": "7-ELEVEn(钱江国际时代广场-地下广场店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "富春路290号钱江国际时代广场3号楼B1-103-1室"
+ },
+ "http://store.is.autonavi.com/showpic/6f155fa0c6b1de7802b08ecb2389018f": {
+  "file": "v13_B0FFI6B6GI_200.jpg",
+  "sha256": "5760a64f2fd9341435dceaea199c894f5116e83ebcd9ad792f0d77498cd64b69",
+  "dhash": 12901146163446266353,
+  "poi": "B0FFI6B6GI",
+  "poi_name": "7-ELEVEn(钱江国际时代广场-地下广场店)",
+  "brand_query": "711便利店",
+  "city": "杭州市",
+  "addr": "富春路290号钱江国际时代广场3号楼B1-103-1室"
+ }
+}

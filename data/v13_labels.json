@@ -1,0 +1,1811 @@
+{
+ "v13_B00155HNI4_69.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.687,
+  "poi": "B00155HNI4",
+  "poi_name": "全家便利店(丽都店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155HNI4_70.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.296,
+  "poi": "B00155HNI4",
+  "poi_name": "全家便利店(丽都店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155HOE9_14.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON罗森",
+  "fusion": 0.599,
+  "poi": "B00155HOE9",
+  "poi_name": "罗森便利店(永嘉路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B00155HOE9_15.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.354,
+  "poi": "B00155HOE9",
+  "poi_name": "罗森便利店(永嘉路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B00155IHPB_76.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.621,
+  "poi": "B00155IHPB",
+  "poi_name": "全家便利店(西康路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155IHPB_77.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.497,
+  "poi": "B00155IHPB",
+  "poi_name": "全家便利店(西康路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155IWDK_58.jpg": {
+  "verdict": "C",
+  "brand_text": "全家FamilyMart（Logo素材）",
+  "fusion": 0.444,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155IWDK_59.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.785,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155IWDK_60.jpg": {
+  "verdict": "A",
+  "brand_text": "Allday",
+  "fusion": 0.489,
+  "poi": "B00155IWDK",
+  "poi_name": "全家便利店(大沽店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155QGF5_0.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON罗森",
+  "fusion": 0.708,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B00155QGF5_1.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON罗森",
+  "fusion": 0.694,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B00155QGF5_2.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON罗森",
+  "fusion": 0.676,
+  "poi": "B00155QGF5",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B00155QGSN_74.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.644,
+  "poi": "B00155QGSN",
+  "poi_name": "全家便利店(尚文路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00155QGSN_75.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.332,
+  "poi": "B00155QGSN",
+  "poi_name": "全家便利店(尚文路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B00156E4FZ_130.jpg": {
+  "verdict": "C",
+  "brand_text": "7-ELEVEN（Logo素材）",
+  "fusion": 0.443,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B00156E4FZ_131.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.379,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B00156E4FZ_132.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.477,
+  "poi": "B00156E4FZ",
+  "poi_name": "7-11便利店(常熟路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B023B14G15_110.jpg": {
+  "verdict": "D",
+  "brand_text": "Pet Cafe（宠物咖啡馆）",
+  "fusion": 0.436,
+  "poi": "B023B14G15",
+  "poi_name": "全家便利店(孩儿巷店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B023B14G15_111.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.391,
+  "poi": "B023B14G15",
+  "poi_name": "全家便利店(孩儿巷店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B023B1FFY9_50.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.407,
+  "poi": "B023B1FFY9",
+  "poi_name": "罗森便利店(双城国际店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B023B1FFY9_51.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.404,
+  "poi": "B023B1FFY9",
+  "poi_name": "罗森便利店(双城国际店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFF5VH3A_67.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.614,
+  "poi": "B0FFF5VH3A",
+  "poi_name": "全家便利店(凤阳路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFF5VH3A_68.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.631,
+  "poi": "B0FFF5VH3A",
+  "poi_name": "全家便利店(凤阳路店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFF5VP2L_78.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.777,
+  "poi": "B0FFF5VP2L",
+  "poi_name": "全家便利店(威海店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFF5VP2L_79.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.551,
+  "poi": "B0FFF5VP2L",
+  "poi_name": "全家便利店(威海店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFG4L57R_98.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.566,
+  "poi": "B0FFG4L57R",
+  "poi_name": "全家便利店(十全街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFG4L57R_99.jpg": {
+  "verdict": "C",
+  "brand_text": "全家FamilyMart（室内货架）",
+  "fusion": 0.423,
+  "poi": "B0FFG4L57R",
+  "poi_name": "全家便利店(十全街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFG4ZZB6_100.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.627,
+  "poi": "B0FFG4ZZB6",
+  "poi_name": "全家便利店(观前1号店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFG4ZZB6_101.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.346,
+  "poi": "B0FFG4ZZB6",
+  "poi_name": "全家便利店(观前1号店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFGEGQKI_10.jpg": {
+  "verdict": "C",
+  "brand_text": "LAWSON STATION（Logo素材）",
+  "fusion": 0.172,
+  "poi": "B0FFGEGQKI",
+  "poi_name": "罗森便利店(湖北路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFGYOCPZ_108.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.717,
+  "poi": "B0FFGYOCPZ",
+  "poi_name": "全家便利店(解放路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFGYOCPZ_109.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.53,
+  "poi": "B0FFGYOCPZ",
+  "poi_name": "全家便利店(解放路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFGYOI9H_115.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.759,
+  "poi": "B0FFGYOI9H",
+  "poi_name": "全家便利店(解放路二店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFGYOI9H_116.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.543,
+  "poi": "B0FFGYOI9H",
+  "poi_name": "全家便利店(解放路二店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFH33KHP_112.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.747,
+  "poi": "B0FFH33KHP",
+  "poi_name": "全家便利店(屏风街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFH33KHP_113.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.537,
+  "poi": "B0FFH33KHP",
+  "poi_name": "全家便利店(屏风街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFH5PNUM_86.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.719,
+  "poi": "B0FFH5PNUM",
+  "poi_name": "全家便利店(因果巷店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFH5PNUM_87.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.424,
+  "poi": "B0FFH5PNUM",
+  "poi_name": "全家便利店(因果巷店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFHBT9LR_16.jpg": {
+  "verdict": "B",
+  "brand_text": "招牌不可辨",
+  "fusion": 0.547,
+  "poi": "B0FFHBT9LR",
+  "poi_name": "罗森便利店(马当路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFHC5Z2I_62.jpg": {
+  "verdict": "B",
+  "brand_text": "招牌不可辨",
+  "fusion": 0.709,
+  "poi": "B0FFHC5Z2I",
+  "poi_name": "全家便利店(人民广场站三店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFHC5Z2I_63.jpg": {
+  "verdict": "C",
+  "brand_text": "全家FamilyMart（室内商品场景）",
+  "fusion": 0.416,
+  "poi": "B0FFHC5Z2I",
+  "poi_name": "全家便利店(人民广场站三店)",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFHCOL86_120.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.635,
+  "poi": "B0FFHCOL86",
+  "poi_name": "全家便利店(解放东路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFHCOL86_121.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.406,
+  "poi": "B0FFHCOL86",
+  "poi_name": "全家便利店(解放东路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFI0M8A4_124.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.64,
+  "poi": "B0FFI0M8A4",
+  "poi_name": "全家便利店(望京店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFI0M8A4_125.jpg": {
+  "verdict": "C",
+  "brand_text": "无",
+  "fusion": 0.526,
+  "poi": "B0FFI0M8A4",
+  "poi_name": "全家便利店(望京店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFI0SXZK_126.jpg": {
+  "verdict": "A",
+  "brand_text": "全家（红色招牌）",
+  "fusion": 0.705,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市"
+ },
+ "v13_B0FFI0SXZK_127.jpg": {
+  "verdict": "A",
+  "brand_text": "全家（红色招牌）",
+  "fusion": 0.665,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市"
+ },
+ "v13_B0FFI0SXZK_128.jpg": {
+  "verdict": "B",
+  "brand_text": "招牌文字不完整",
+  "fusion": 0.621,
+  "poi": "B0FFI0SXZK",
+  "poi_name": "全家福便利店(滨湖华城商业街店)",
+  "brand_query": "全家便利店",
+  "city": "南昌市"
+ },
+ "v13_B0FFI6B6GI_199.jpg": {
+  "verdict": "A",
+  "brand_text": "7-Eleven",
+  "fusion": 0.626,
+  "poi": "B0FFI6B6GI",
+  "poi_name": "7-ELEVEn(钱江国际时代广场-地下广场店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFI6B6GI_200.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店货架",
+  "fusion": 0.67,
+  "poi": "B0FFI6B6GI",
+  "poi_name": "7-ELEVEn(钱江国际时代广场-地下广场店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFI8YBWL_8.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.646,
+  "poi": "B0FFI8YBWL",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFI8YBWL_9.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.719,
+  "poi": "B0FFI8YBWL",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0FFIL6EGX_105.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.621,
+  "poi": "B0FFIL6EGX",
+  "poi_name": "全家便利店(太平门直街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFIL6EGX_106.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷柜",
+  "fusion": 0.488,
+  "poi": "B0FFIL6EGX",
+  "poi_name": "全家便利店(太平门直街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFIUCVLB_186.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.468,
+  "poi": "B0FFIUCVLB",
+  "poi_name": "7-ELEVEn(庆春店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFIUCVLB_187.jpg": {
+  "verdict": "C",
+  "brand_text": "商品手持照片",
+  "fusion": 0.217,
+  "poi": "B0FFIUCVLB",
+  "poi_name": "7-ELEVEn(庆春店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFIZIFCQ_191.jpg": {
+  "verdict": "C",
+  "brand_text": "食品货架",
+  "fusion": 0.451,
+  "poi": "B0FFIZIFCQ",
+  "poi_name": "7-ELEVEn(景芳店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFIZIFCQ_192.jpg": {
+  "verdict": "C",
+  "brand_text": "7-Eleven店内",
+  "fusion": 0.695,
+  "poi": "B0FFIZIFCQ",
+  "poi_name": "7-ELEVEn(景芳店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFJNSZ4K_93.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.76,
+  "poi": "B0FFJNSZ4K",
+  "poi_name": "全家便利店(东北街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFJNSZ4K_94.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店货架",
+  "fusion": 0.507,
+  "poi": "B0FFJNSZ4K",
+  "poi_name": "全家便利店(东北街店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFK8DW2G_54.jpg": {
+  "verdict": "C",
+  "brand_text": "YSL标志",
+  "fusion": 0.338,
+  "poi": "B0FFK8DW2G",
+  "poi_name": "罗森便利店(杭州四季青中纺店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0FFKQ2IXR_25.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.7,
+  "poi": "B0FFKQ2IXR",
+  "poi_name": "罗森便利店(苏州人民路二店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFKQ2IXR_26.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷柜",
+  "fusion": 0.412,
+  "poi": "B0FFKQ2IXR",
+  "poi_name": "罗森便利店(苏州人民路二店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFM9K87I_33.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.619,
+  "poi": "B0FFM9K87I",
+  "poi_name": "罗森便利店(天成时代商务广场店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0FFM9K87I_34.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店内部休息区",
+  "fusion": 0.288,
+  "poi": "B0FFM9K87I",
+  "poi_name": "罗森便利店(天成时代商务广场店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0G0CPS6WB_177.jpg": {
+  "verdict": "A",
+  "brand_text": "7-Eleven",
+  "fusion": 0.747,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0G0CPS6WB_178.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品照片",
+  "fusion": 0.254,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0G0CPS6WB_179.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.607,
+  "poi": "B0G0CPS6WB",
+  "poi_name": "7-11便利店(杭州灵隐寺店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0G3390VAS_122.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.681,
+  "poi": "B0G3390VAS",
+  "poi_name": "全家便利店(湖滨步行街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0G3390VAS_123.jpg": {
+  "verdict": "A",
+  "brand_text": "7-Eleven",
+  "fusion": 0.562,
+  "poi": "B0G3390VAS",
+  "poi_name": "全家便利店(湖滨步行街店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0GR3UJFJ5_48.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.696,
+  "poi": "B0GR3UJFJ5",
+  "poi_name": "LAWSON罗森(市民街店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0GR3UJFJ5_49.jpg": {
+  "verdict": "C",
+  "brand_text": "店内收银区",
+  "fusion": 0.266,
+  "poi": "B0GR3UJFJ5",
+  "poi_name": "LAWSON罗森(市民街店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0I1PNGMMJ_64.jpg": {
+  "verdict": "A",
+  "brand_text": "全家FamilyMart",
+  "fusion": 0.717,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0I1PNGMMJ_65.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.52,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0I1PNGMMJ_66.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷柜",
+  "fusion": 0.356,
+  "poi": "B0I1PNGMMJ",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0IB3H83S2_17.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.701,
+  "poi": "B0IB3H83S2",
+  "poi_name": "罗森便利店(塘沽路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IB3H83S2_18.jpg": {
+  "verdict": "C",
+  "brand_text": "食品货架",
+  "fusion": 0.522,
+  "poi": "B0IB3H83S2",
+  "poi_name": "罗森便利店(塘沽路店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IBY5WHWD_3.jpg": {
+  "verdict": "C",
+  "brand_text": "LAWSON品牌Logo素材",
+  "fusion": 0.551,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IBY5WHWD_4.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.635,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IBY5WHWD_5.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.599,
+  "poi": "B0IBY5WHWD",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IGHZCSB0_19.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.674,
+  "poi": "B0IGHZCSB0",
+  "poi_name": "罗森便利店(中山北路三店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IGHZCSB0_20.jpg": {
+  "verdict": "C",
+  "brand_text": "LAWSON品牌Logo素材",
+  "fusion": 0.295,
+  "poi": "B0IGHZCSB0",
+  "poi_name": "罗森便利店(中山北路三店)",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0IGV52VKP_35.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.447,
+  "poi": "B0IGV52VKP",
+  "poi_name": "罗森(217903国金中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0IGV52VKP_36.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.7,
+  "poi": "B0IGV52VKP",
+  "poi_name": "罗森(217903国金中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0IKHHFI6A_188.jpg": {
+  "verdict": "A",
+  "brand_text": "7-Eleven",
+  "fusion": 0.628,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0IKHHFI6A_189.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.612,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0IKHHFI6A_190.jpg": {
+  "verdict": "A",
+  "brand_text": "7-Eleven",
+  "fusion": 0.737,
+  "poi": "B0IKHHFI6A",
+  "poi_name": "7-ELEVEn(迪凯银座店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0J2FU3W28_27.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.433,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0J2FU3W28_28.jpg": {
+  "verdict": "C",
+  "brand_text": "店内食品冷柜",
+  "fusion": 0.328,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0J2FU3W28_29.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品照片",
+  "fusion": 0.235,
+  "poi": "B0J2FU3W28",
+  "poi_name": "罗森便利店(苏州科技大学学术交流中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0J31UIS5I_42.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.698,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0J31UIS5I_43.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.475,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0J31UIS5I_44.jpg": {
+  "verdict": "C",
+  "brand_text": "LAWSON店内货架",
+  "fusion": 0.512,
+  "poi": "B0J31UIS5I",
+  "poi_name": "LAWSON罗森(繁花中心店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0JBZORW9S_11.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.713,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0JBZORW9S_12.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店冷藏货架",
+  "fusion": 0.385,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0JBZORW9S_13.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店食品货架",
+  "fusion": 0.479,
+  "poi": "B0JBZORW9S",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0JGPUHPJK_55.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.6,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市"
+ },
+ "v13_B0JGPUHPJK_56.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.559,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市"
+ },
+ "v13_B0JGPUHPJK_57.jpg": {
+  "verdict": "D",
+  "brand_text": "万家乐超市（非便利店）",
+  "fusion": 0.556,
+  "poi": "B0JGPUHPJK",
+  "poi_name": "东湖区聚合罗森便利店(非连锁)",
+  "brand_query": "罗森便利店",
+  "city": "南昌市"
+ },
+ "v13_B0K16HVJ72_137.jpg": {
+  "verdict": "C",
+  "brand_text": "自助设备",
+  "fusion": 0.364,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0K16HVJ72_138.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.342,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0K16HVJ72_139.jpg": {
+  "verdict": "C",
+  "brand_text": "建筑入口",
+  "fusion": 0.354,
+  "poi": "B0K16HVJ72",
+  "poi_name": "7-11便利店(中国保险大厦店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0K2FUPXP9_158.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.606,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2FUPXP9_159.jpg": {
+  "verdict": "C",
+  "brand_text": "7-ELEVEN室内货架",
+  "fusion": 0.561,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2FUPXP9_160.jpg": {
+  "verdict": "C",
+  "brand_text": "餐饮食品柜台",
+  "fusion": 0.309,
+  "poi": "B0K2FUPXP9",
+  "poi_name": "7-ELEVEn(东吴大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2H4HGMD_83.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.457,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2H4HGMD_84.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料货架",
+  "fusion": 0.335,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2H4HGMD_85.jpg": {
+  "verdict": "C",
+  "brand_text": "烘焙食品展示柜",
+  "fusion": 0.308,
+  "poi": "B0K2H4HGMD",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2L1NUPF_149.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.5,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2L1NUPF_150.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.367,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2L1NUPF_151.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料货架",
+  "fusion": 0.592,
+  "poi": "B0K2L1NUPF",
+  "poi_name": "7-ELEVEn(人才广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2T5ROE1_90.jpg": {
+  "verdict": "C",
+  "brand_text": "烘焙食品展示柜",
+  "fusion": 0.497,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2T5ROE1_91.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.602,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K2T5ROE1_92.jpg": {
+  "verdict": "C",
+  "brand_text": "商品",
+  "fusion": 0.489,
+  "poi": "B0K2T5ROE1",
+  "poi_name": "全家便利店(桐泾北路店)",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K3H6T09I_95.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.378,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K3H6T09I_96.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.665,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0K3H6T09I_97.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.6,
+  "poi": "B0K3H6T09I",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KAZZ8KL1_134.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.289,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0KAZZ8KL1_135.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.722,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0KAZZ8KL1_136.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.589,
+  "poi": "B0KAZZ8KL1",
+  "poi_name": "7-11便利店(南京西路二店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0KDYMSZSA_133.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.759,
+  "poi": "B0KDYMSZSA",
+  "poi_name": "7-11便利店(金钟广场店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0KGCKU40P_71.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品",
+  "fusion": 0.253,
+  "poi": "B0KGCKU40P",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0KGCKU40P_72.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品",
+  "fusion": 0.253,
+  "poi": "B0KGCKU40P",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0KK75IZO5_102.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.703,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KK75IZO5_103.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内入口",
+  "fusion": 0.487,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KK75IZO5_104.jpg": {
+  "verdict": "C",
+  "brand_text": "街景建筑",
+  "fusion": 0.45,
+  "poi": "B0KK75IZO5",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KR7XQSWG_183.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.72,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0KR7XQSWG_184.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.36,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0KR7XQSWG_185.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.379,
+  "poi": "B0KR7XQSWG",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0KU4YZLVR_80.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.72,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KU4YZLVR_81.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料货架",
+  "fusion": 0.309,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KU4YZLVR_82.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.735,
+  "poi": "B0KU4YZLVR",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KU97TPRX_156.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.404,
+  "poi": "B0KU97TPRX",
+  "poi_name": "7-ELEVEn(苏州绿宝广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0KU97TPRX_157.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.646,
+  "poi": "B0KU97TPRX",
+  "poi_name": "7-ELEVEn(苏州绿宝广场店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L059UP0W_73.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料货架",
+  "fusion": 0.662,
+  "poi": "B0L059UP0W",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0L05OUPM9_155.jpg": {
+  "verdict": "C",
+  "brand_text": "商店室内",
+  "fusion": 0.739,
+  "poi": "B0L05OUPM9",
+  "poi_name": "7-ELEVEn(苏州西环路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L09CDR2R_193.jpg": {
+  "verdict": "C",
+  "brand_text": "商品宣传海报",
+  "fusion": 0.526,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0L09CDR2R_194.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.533,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0L09CDR2R_195.jpg": {
+  "verdict": "A",
+  "brand_text": "FamilyMart",
+  "fusion": 0.753,
+  "poi": "B0L09CDR2R",
+  "poi_name": "7-ELEVEn(永盈大厦店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0L0CRZG2B_171.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.56,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L0CRZG2B_172.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.444,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L0CRZG2B_173.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "fusion": 0.643,
+  "poi": "B0L0CRZG2B",
+  "poi_name": "7-ELEVEn(吴商会馆店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L0MB8BPX_196.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.768,
+  "poi": "B0L0MB8BPX",
+  "poi_name": "7-ELEVEn(顺福商务中心店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0L0MB8BPX_197.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.432,
+  "poi": "B0L0MB8BPX",
+  "poi_name": "7-ELEVEn(顺福商务中心店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0L3CGIF9Q_174.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.741,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L3CGIF9Q_175.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.606,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L3CGIF9Q_176.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内通道",
+  "fusion": 0.523,
+  "poi": "B0L3CGIF9Q",
+  "poi_name": "7-ELEVEn(苏州大道西店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L6MLXJWP_152.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.675,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L6MLXJWP_153.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.671,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0L6MLXJWP_154.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.676,
+  "poi": "B0L6MLXJWP",
+  "poi_name": "7-ELEVEn(广济南路地铁站店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LD05FGZ1_143.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内通道",
+  "fusion": 0.591,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LD05FGZ1_144.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.405,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LD05FGZ1_145.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.654,
+  "poi": "B0LD05FGZ1",
+  "poi_name": "7-11便利店(石泉东路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LDUAEL8T_168.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.733,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LDUAEL8T_169.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.411,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LDUAEL8T_170.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.667,
+  "poi": "B0LDUAEL8T",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LDVH4ALC_129.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.773,
+  "poi": "B0LDVH4ALC",
+  "poi_name": "7-11便利店(十六铺二店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LG3U98ML_180.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.712,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LG3U98ML_181.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.631,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LG3U98ML_182.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.675,
+  "poi": "B0LG3U98ML",
+  "poi_name": "7-11便利店(运河郡店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LKA5941C_167.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店冷藏货架",
+  "fusion": 0.492,
+  "poi": "B0LKA5941C",
+  "poi_name": "7-ELEVEn",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKDCNJLZ_164.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.54,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKDCNJLZ_165.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.49,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKDCNJLZ_166.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.407,
+  "poi": "B0LKDCNJLZ",
+  "poi_name": "7-ELEVEn(嘉宝花园店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKPBYAIO_146.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店冷藏货架",
+  "fusion": 0.523,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LKPBYAIO_147.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.71,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LKPBYAIO_148.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.425,
+  "poi": "B0LKPBYAIO",
+  "poi_name": "7-11便利店(徐家汇地铁站店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0LKRM5TXV_37.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店熟食柜台",
+  "fusion": 0.456,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKRM5TXV_38.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWBOX",
+  "fusion": 0.6,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LKRM5TXV_39.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWBOX",
+  "fusion": 0.51,
+  "poi": "B0LKRM5TXV",
+  "poi_name": "LAWSON罗森(苏州临顿路80号店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LR7CJQ6O_117.jpg": {
+  "verdict": "A",
+  "brand_text": "全家 FamilyMart",
+  "fusion": 0.714,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LR7CJQ6O_118.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷藏柜",
+  "fusion": 0.378,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LR7CJQ6O_119.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.607,
+  "poi": "B0LR7CJQ6O",
+  "poi_name": "全家便利店(琮琮路店)",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LRC4FAEP_161.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "fusion": 0.588,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LRC4FAEP_162.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店商品货架",
+  "fusion": 0.425,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LRC4FAEP_163.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店冷藏商品",
+  "fusion": 0.276,
+  "poi": "B0LRC4FAEP",
+  "poi_name": "7-ELEVEn(星海大厦店)",
+  "brand_query": "711便利店",
+  "city": "苏州市"
+ },
+ "v13_B0LUNS1BB1_52.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.581,
+  "poi": "B0LUNS1BB1",
+  "poi_name": "罗森便利店(6507杭州盛世钱塘店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0LUNS1BB1_53.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.617,
+  "poi": "B0LUNS1BB1",
+  "poi_name": "罗森便利店(6507杭州盛世钱塘店)",
+  "brand_query": "罗森便利店",
+  "city": "杭州市"
+ },
+ "v13_B0M1PC567Y_6.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.722,
+  "poi": "B0M1PC567Y",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0M1PC567Y_7.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.729,
+  "poi": "B0M1PC567Y",
+  "poi_name": "罗森便利店",
+  "brand_query": "罗森便利店",
+  "city": "上海市"
+ },
+ "v13_B0M6BAGYVC_142.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.716,
+  "poi": "B0M6BAGYVC",
+  "poi_name": "7-11便利店(中兴路店)",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0M6JXHDA2_45.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.561,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0M6JXHDA2_46.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.38,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0M6JXHDA2_47.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.646,
+  "poi": "B0M6JXHDA2",
+  "poi_name": "LAWSON罗森(苏州采莲路店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MBBUWFTK_88.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.42,
+  "poi": "B0MBBUWFTK",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MBBUWFTK_89.jpg": {
+  "verdict": "C",
+  "brand_text": "手持商品照片",
+  "fusion": 0.27,
+  "poi": "B0MBBUWFTK",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MDAS2VJT_107.jpg": {
+  "verdict": "A",
+  "brand_text": "全家 FamilyMart",
+  "fusion": 0.421,
+  "poi": "B0MDAS2VJT",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0MDLAGOVB_24.jpg": {
+  "verdict": "A",
+  "brand_text": "LAWSON",
+  "fusion": 0.745,
+  "poi": "B0MDLAGOVB",
+  "poi_name": "罗森便利店(丰融巷店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MDZA5RJ7_140.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.725,
+  "poi": "B0MDZA5RJ7",
+  "poi_name": "7-11陕西南路一店",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0MDZA5RJ7_141.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.721,
+  "poi": "B0MDZA5RJ7",
+  "poi_name": "7-11陕西南路一店",
+  "brand_query": "711便利店",
+  "city": "上海市"
+ },
+ "v13_B0MR1ABRQA_198.jpg": {
+  "verdict": "A",
+  "brand_text": "7-ELEVEN",
+  "fusion": 0.746,
+  "poi": "B0MR1ABRQA",
+  "poi_name": "7-11便利店(滨江银泰百货店)",
+  "brand_query": "711便利店",
+  "city": "杭州市"
+ },
+ "v13_B0MRDOB65V_61.jpg": {
+  "verdict": "A",
+  "brand_text": "全家 FamilyMart",
+  "fusion": 0.725,
+  "poi": "B0MRDOB65V",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "上海市"
+ },
+ "v13_B0MRJM546A_114.jpg": {
+  "verdict": "A",
+  "brand_text": "全家",
+  "fusion": 0.72,
+  "poi": "B0MRJM546A",
+  "poi_name": "全家便利店",
+  "brand_query": "全家便利店",
+  "city": "杭州市"
+ },
+ "v13_B0MUFAFU0B_40.jpg": {
+  "verdict": "A",
+  "brand_text": "罗森",
+  "fusion": 0.624,
+  "poi": "B0MUFAFU0B",
+  "poi_name": "LAWSON罗森(苏州县前街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUFAFU0B_41.jpg": {
+  "verdict": "C",
+  "brand_text": "LAWSON STATION（Logo素材）",
+  "fusion": 0.219,
+  "poi": "B0MUFAFU0B",
+  "poi_name": "LAWSON罗森(苏州县前街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUMUWO8G_30.jpg": {
+  "verdict": "A",
+  "brand_text": "罗森",
+  "fusion": 0.485,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUMUWO8G_31.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.694,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUMUWO8G_32.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.69,
+  "poi": "B0MUMUWO8G",
+  "poi_name": "罗森便利店(东平街店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUXN81NE_21.jpg": {
+  "verdict": "C",
+  "brand_text": "罗森咖啡（室内标识）",
+  "fusion": 0.442,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUXN81NE_22.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "fusion": 0.571,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ },
+ "v13_B0MUXN81NE_23.jpg": {
+  "verdict": "A",
+  "brand_text": "罗森",
+  "fusion": 0.728,
+  "poi": "B0MUXN81NE",
+  "poi_name": "罗森便利店(苏州市立医院本部店)",
+  "brand_query": "罗森便利店",
+  "city": "苏州市"
+ }
+}
