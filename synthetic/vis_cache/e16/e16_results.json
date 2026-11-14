@@ -1,0 +1,262 @@
+{
+ "n": 647,
+ "arms": {
+  "det": {
+   "thr0.636": {
+    "P": 0.6253,
+    "R": 0.9648,
+    "F1": 0.7588,
+    "tp": 247,
+    "fp": 148,
+    "fn": 9
+   },
+   "thr0.80": {
+    "P": 0.9027,
+    "R": 0.9062,
+    "F1": 0.9045,
+    "tp": 232,
+    "fp": 25,
+    "fn": 24
+   },
+   "fp_by_type": {
+    "confusable_brand": 85,
+    "render_stock": 42,
+    "same_name_unrelated": 16,
+    "logo": 1,
+    "indoor": 2,
+    "competitor": 2
+   }
+  },
+  "fix": {
+   "thr0.636": {
+    "P": 0.6162,
+    "R": 0.9531,
+    "F1": 0.7485,
+    "tp": 244,
+    "fp": 152,
+    "fn": 12
+   },
+   "thr0.80": {
+    "P": 0.9011,
+    "R": 0.9258,
+    "F1": 0.9133,
+    "tp": 237,
+    "fp": 26,
+    "fn": 19
+   },
+   "fp_by_type": {
+    "confusable_brand": 85,
+    "render_stock": 47,
+    "same_name_unrelated": 15,
+    "logo": 1,
+    "indoor": 2,
+    "competitor": 2
+   }
+  },
+  "e6v3_original": {
+   "thr0.636": {
+    "P": 0.7353,
+    "R": 0.9766,
+    "F1": 0.8389,
+    "tp": 250,
+    "fp": 90,
+    "fn": 6
+   },
+   "thr0.80": {
+    "P": 0.9011,
+    "R": 0.9258,
+    "F1": 0.9133,
+    "tp": 237,
+    "fp": 26,
+    "fn": 19
+   }
+  }
+ },
+ "flips_0636": 23,
+ "flip_detail": [
+  {
+   "image_id": "img_0010",
+   "label": "positive",
+   "neg_type": "",
+   "det": 0.693,
+   "fix": 0.636,
+   "e6v3": 0.804
+  },
+  {
+   "image_id": "img_0012",
+   "label": "positive",
+   "neg_type": "",
+   "det": 0.684,
+   "fix": 0.628,
+   "e6v3": 0.642
+  },
+  {
+   "image_id": "img_0047",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.646,
+   "fix": 0.62,
+   "e6v3": 0.08
+  },
+  {
+   "image_id": "img_0055",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.497,
+   "fix": 0.651,
+   "e6v3": 0.372
+  },
+  {
+   "image_id": "img_0063",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.464,
+   "fix": 0.642,
+   "e6v3": 0.389
+  },
+  {
+   "image_id": "img_0114",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.603,
+   "fix": 0.671,
+   "e6v3": 0.433
+  },
+  {
+   "image_id": "img_0119",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.595,
+   "fix": 0.683,
+   "e6v3": 0.384
+  },
+  {
+   "image_id": "img_0137",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.621,
+   "fix": 0.638,
+   "e6v3": 0.511
+  },
+  {
+   "image_id": "img_0173",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.508,
+   "fix": 0.666,
+   "e6v3": 0.344
+  },
+  {
+   "image_id": "img_0233",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.654,
+   "fix": 0.606,
+   "e6v3": 0.454
+  },
+  {
+   "image_id": "img_0246",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.583,
+   "fix": 0.645,
+   "e6v3": 0.354
+  },
+  {
+   "image_id": "img_0316",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "det": 0.645,
+   "fix": 0.606,
+   "e6v3": 0.472
+  },
+  {
+   "image_id": "img_0333",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.661,
+   "fix": 0.635,
+   "e6v3": 0.343
+  },
+  {
+   "image_id": "img_0351",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.39,
+   "fix": 0.651,
+   "e6v3": 0.391
+  },
+  {
+   "image_id": "img_0368",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.637,
+   "fix": 0.627,
+   "e6v3": 0.368
+  },
+  {
+   "image_id": "img_0369",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.49,
+   "fix": 0.695,
+   "e6v3": 0.384
+  },
+  {
+   "image_id": "img_0370",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.657,
+   "fix": 0.635,
+   "e6v3": 0.394
+  },
+  {
+   "image_id": "img_0444",
+   "label": "negative",
+   "neg_type": "render_stock",
+   "det": 0.618,
+   "fix": 0.672,
+   "e6v3": 0.48
+  },
+  {
+   "image_id": "img_0487",
+   "label": "positive",
+   "neg_type": "",
+   "det": 0.678,
+   "fix": 0.493,
+   "e6v3": 0.726
+  },
+  {
+   "image_id": "img_0871",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "det": 0.529,
+   "fix": 0.665,
+   "e6v3": 0.67
+  },
+  {
+   "image_id": "img_0872",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "det": 0.61,
+   "fix": 0.651,
+   "e6v3": 0.529
+  },
+  {
+   "image_id": "img_0883",
+   "label": "negative",
+   "neg_type": "same_name_unrelated",
+   "det": 0.666,
+   "fix": 0.574,
+   "e6v3": 0.635
+  },
+  {
+   "image_id": "img_0909",
+   "label": "negative",
+   "neg_type": "confusable_brand",
+   "det": 0.786,
+   "fix": 0.604,
+   "e6v3": 0.64
+  }
+ ]
+}
