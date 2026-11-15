@@ -188,7 +188,9 @@ img#prev{max-width:100%;max-height:320px;display:block;margin:16px auto}
 <h3>测试画廊 <span class=mut>点击即识别 · 含目录外样例(应显示 unknown)</span></h3>
 <div id=gal>加载中…</div>
 <style>
-#gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+#gal{margin-top:8px}
+.sec{margin:14px 0 8px;color:#666;font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
 .gcell{cursor:pointer;border:1px solid #ddd;border-radius:8px;overflow:hidden;text-align:center}
 .gcell:hover{border-color:#e60012}
 .gcell img{width:100%;height:100px;object-fit:cover;display:block}
@@ -227,10 +229,10 @@ async function runK(k){
   const zn=items.filter(s=>s.brand==='左邻右舍'), rest=items.filter(s=>s.brand!=='左邻右舍');
   const cell=s=>`<div class="gcell ${s.brand==='目录外'?'out':''}" onclick="runK(${s.k})">
     <img src="/img?k=${s.k}" loading=lazy><div class=gb>${s.brand}</div></div>`;
-  gal.innerHTML=`<div class=mut style=margin:6px 0>—— 左邻右舍专场(测试图 ${zn.length} 张) ——</div>
-    <div style=display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px>${zn.map(cell).join('')}</div>
-    <div class=mut style=margin:12px 0 6px>—— 其他连锁与目录外 ——</div>
-    <div style=display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px>${rest.map(cell).join('')}</div>`;
+  gal.innerHTML=`<div class=sec>—— 左邻右舍专场(测试图 ${zn.length} 张) ——</div>
+    <div class=grid>${zn.map(cell).join('')}</div>
+    <div class=sec>—— 其他连锁与目录外 ——</div>
+    <div class=grid>${rest.map(cell).join('')}</div>`;
 })();
 </script>"""
 
