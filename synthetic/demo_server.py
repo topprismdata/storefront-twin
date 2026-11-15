@@ -44,6 +44,20 @@ for b in brands:
 galX = {b: X[gidx[b]] for b in probes}
 print(f"探针 {len(probes)} 品牌就绪", flush=True)
 
+# ---------- 样例画廊: 每品牌 ≤3 张测试分割图 + 6 张目录外 ----------
+_rng = np.random.RandomState(7)
+SAMPLES = []
+for b in sorted(probes):
+    test_bi = [i for i, r in enumerate(okrows) if r["brand"] == b and i not in set(gidx[b])]
+    if not test_bi:
+        continue
+    for i in _rng.choice(test_bi, min(3, len(test_bi)), replace=False):
+        SAMPLES.append({"k": len(SAMPLES), "brand": b, "idx": int(i), "path": okrows[i]["path"]})
+locs = [i for i, r in enumerate(okrows) if r["brand"] == "local"]
+for i in _rng.choice(locs, min(6, len(locs)), replace=False):
+    SAMPLES.append({"k": len(SAMPLES), "brand": "目录外", "idx": int(i), "path": okrows[i]["path"]})
+print(f"画廊 {len(SAMPLES)} 张", flush=True)
+
 # ---------- 别名表(与 E25 冻结一致) ----------
 ALIAS = {
     "每一天": ["每一天"], "见福": ["见福"], "唐久": ["唐久"], "红旗连锁": ["红旗连锁", "红旗超市", "红旗"],
@@ -166,8 +180,18 @@ img#prev{max-width:100%;max-height:320px;display:block;margin:16px auto}
 <div id=drop>拖一张门头照片到这里, 或点击选择<input type=file id=f accept=image/* hidden></div>
 <img id=prev hidden>
 <div id=out></div>
+<h3>测试画廊 <span class=mut>点击即识别 · 含目录外样例(应显示 unknown)</span></h3>
+<div id=gal>加载中…</div>
+<style>
+#gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.gcell{cursor:pointer;border:1px solid #ddd;border-radius:8px;overflow:hidden;text-align:center}
+.gcell:hover{border-color:#e60012}
+.gcell img{width:100%;height:100px;object-fit:cover;display:block}
+.gcell .gb{font-size:11px;color:#666;padding:3px}
+.gcell.out .gb{color:#b60}
+</style>
 <script>
-const drop=document.getElementById('drop'),f=document.getElementById('f'),out=document.getElementById('out'),prev=document.getElementById('prev');
+const drop=document.getElementById('drop'),f=document.getElementById('f'),out=document.getElementById('out'),prev=document.getElementById('prev'),gal=document.getElementById('gal');
 drop.onclick=()=>f.click();
 drop.ondragover=e=>{e.preventDefault();drop.classList.add('hot')};
 drop.ondragleave=()=>drop.classList.remove('hot');
@@ -177,15 +201,27 @@ async function go(file){
   prev.src=URL.createObjectURL(file);prev.hidden=false;
   out.innerHTML='<p>识别中…</p>';
   const fd=new FormData();fd.append('image',file);
-  const t=Date.now();
   const r=await fetch('/infer',{method:'POST',body:fd});
-  const j=await r.json();
+  render(await r.json());
+}
+function render(j){
   const top=j.top3.map(t=>`<div class=card><div class=mut>探针 ${Math.round(t.score*100)}%</div><b>${t.brand}</b></div>`).join('');
+  const hit=(j.truth?(j.brand===j.truth?'<span style=color:#0a0>✓ 与标注一致</span>':'<span style=color:#c60>标注: '+j.truth+'</span>'):'');
   out.innerHTML=`<div class=row>
-    <div class=card><div class=mut>判决(${j.source})</div><div class=brand>${j.brand}</div></div>
+    <div class=card><div class=mut>判决(${j.source}) ${hit}</div><div class=brand>${j.brand}</div></div>
     ${top}</div>
     <p class=mut>OCR 读到: ${j.ocr.length?j.ocr.map(t=>`「${t}」`).join(' '):'(未读出文字)'} · 耗时 ${j.latency_s}s</p>`;
 }
+async function runK(k){
+  out.innerHTML='<p>识别中…</p>';
+  const r=await fetch('/run?k='+k);
+  render(await r.json());
+}
+(async()=>{
+  const items=await (await fetch('/gallery')).json();
+  gal.innerHTML=items.map(s=>`<div class="gcell ${s.brand==='目录外'?'out':''}" onclick="runK(${s.k})">
+    <img src="/img?k=${s.k}" loading=lazy><div class=gb>${s.brand}</div></div>`).join('');
+})();
 </script>"""
 
 
@@ -201,7 +237,27 @@ class H(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def do_GET(self):
-        self._send(200, PAGE.encode("utf-8"), "text/html; charset=utf-8")
+        if self.path == "/":
+            return self._send(200, PAGE.encode("utf-8"), "text/html; charset=utf-8")
+        if self.path == "/gallery":
+            items = [{"k": s["k"], "brand": s["brand"]} for s in SAMPLES]
+            return self._send(200, json.dumps(items, ensure_ascii=False).encode("utf-8"),
+                              "application/json")
+        m = re.match(r"^/img\?k=(\d+)$", self.path)
+        if m:
+            s = SAMPLES[int(m.group(1))]
+            with open(s["path"], "rb") as f:
+                self._send(200, f.read(), "image/jpeg")
+            return
+        m = re.match(r"^/run\?k=(\d+)$", self.path)
+        if m:
+            s = SAMPLES[int(m.group(1))]
+            pil = Image.open(s["path"]).convert("RGB")
+            out = infer(pil)
+            out["truth"] = s["brand"]
+            return self._send(200, json.dumps(out, ensure_ascii=False).encode("utf-8"),
+                              "application/json")
+        self._send(404, b"{}", "text/plain")
 
     def do_POST(self):
         if self.path != "/infer":
