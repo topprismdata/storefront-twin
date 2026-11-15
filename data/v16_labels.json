@@ -1,0 +1,3838 @@
+{
+ "v16_B03030TETR_251.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B03030TETR",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B03030TETR_252.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店内部货架",
+  "poi": "B03030TETR",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B03030TETR_253.jpg": {
+  "verdict": "A",
+  "brand_text": "Today 今天",
+  "poi": "B03030TETR",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B03030TNL2_265.jpg": {
+  "verdict": "A",
+  "brand_text": "Today 今天",
+  "poi": "B03030TNL2",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B03030TNL2_266.jpg": {
+  "verdict": "A",
+  "brand_text": "today 便利店",
+  "poi": "B03030TNL2",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFF5VCBJ_257.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0FFF5VCBJ",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFF5VCBJ_258.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0FFF5VCBJ",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFF5VCBJ_259.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0FFF5VCBJ",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFFRZR96_261.jpg": {
+  "verdict": "C",
+  "brand_text": "TODAY品牌标志图片，非真实门头",
+  "poi": "B0FFFRZR96",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFFWSIBD_275.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0FFFWSIBD",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFI17Y2J_260.jpg": {
+  "verdict": "A",
+  "brand_text": "Today",
+  "poi": "B0FFI17Y2J",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFIMW9I7_267.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0FFIMW9I7",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFIMW9I7_268.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店内部",
+  "poi": "B0FFIMW9I7",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFIMW9I7_269.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店内部货架",
+  "poi": "B0FFIMW9I7",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFJCSCF3_270.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0FFJCSCF3",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFJCSCF3_271.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0FFJCSCF3",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFJCSCF3_272.jpg": {
+  "verdict": "C",
+  "brand_text": "购物袋及商品",
+  "poi": "B0FFJCSCF3",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0J09SRBUT_273.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0J09SRBUT",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0J09SRBUT_274.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0J09SRBUT",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0JU5Z52S4_254.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0JU5Z52S4",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0JU5Z52S4_255.jpg": {
+  "verdict": "C",
+  "brand_text": "店内促销价目牌及收银区域",
+  "poi": "B0JU5Z52S4",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0JU5Z52S4_256.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0JU5Z52S4",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0KGRXMBJM_249.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0KGRXMBJM",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0KGRXMBJM_250.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0KGRXMBJM",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0L2TB3QEN_262.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0L2TB3QEN",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0L2TB3QEN_263.jpg": {
+  "verdict": "A",
+  "brand_text": "today 今天",
+  "poi": "B0L2TB3QEN",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0L2TB3QEN_264.jpg": {
+  "verdict": "C",
+  "brand_text": "购物车及商品，非门头",
+  "poi": "B0L2TB3QEN",
+  "brand_query": "TODAY便利店",
+  "brand_cat": "TODAY"
+ },
+ "v16_B0FFGNFHWH_359.jpg": {
+  "verdict": "A",
+  "brand_text": "新际宾馆（街景中的其他商户）",
+  "poi": "B0FFGNFHWH",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0FFGNFHWH_360.jpg": {
+  "verdict": "A",
+  "brand_text": "万家乐",
+  "poi": "B0FFGNFHWH",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0FFGPC1YF_361.jpg": {
+  "verdict": "A",
+  "brand_text": "林氏传统特色餐饮",
+  "poi": "B0FFGPC1YF",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0FFH373E6_362.jpg": {
+  "verdict": "A",
+  "brand_text": "万嘉超市",
+  "poi": "B0FFH373E6",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0FFL6AIQU_363.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商铺，招牌文字不清",
+  "poi": "B0FFL6AIQU",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0FFL6L050_358.jpg": {
+  "verdict": "C",
+  "brand_text": "万嘉便利品牌标志图片，非真实门头",
+  "poi": "B0FFL6L050",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0G0Y4KW28_365.jpg": {
+  "verdict": "A",
+  "brand_text": "大凯配套工厂",
+  "poi": "B0G0Y4KW28",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0GKJH0FXR_366.jpg": {
+  "verdict": "A",
+  "brand_text": "万嘉便利",
+  "poi": "B0GKJH0FXR",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0GKVO7Z7O_367.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商铺，品牌文字不清",
+  "poi": "B0GKVO7Z7O",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0HUAH2Z8N_368.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商铺，招牌文字不清",
+  "poi": "B0HUAH2Z8N",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B0I2OSO7MT_364.jpg": {
+  "verdict": "B",
+  "brand_text": "真实商铺门头，招牌文字不够清晰",
+  "poi": "B0I2OSO7MT",
+  "brand_query": "万嘉便利店",
+  "brand_cat": "万嘉"
+ },
+ "v16_B017B01H1W_79.jpg": {
+  "verdict": "C",
+  "brand_text": "丹尼斯品牌标志图片，非真实门头",
+  "poi": "B017B01H1W",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B01H1W_80.jpg": {
+  "verdict": "A",
+  "brand_text": "大凯配套工厂",
+  "poi": "B017B01H1W",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B01H1W_81.jpg": {
+  "verdict": "C",
+  "brand_text": "鞋类商品展示",
+  "poi": "B017B01H1W",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B02VN5_70.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部散装食品区",
+  "poi": "B017B02VN5",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B02VN5_71.jpg": {
+  "verdict": "C",
+  "brand_text": "丹尼斯烟酒服务中心内部",
+  "poi": "B017B02VN5",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B02VN5_72.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯",
+  "poi": "B017B02VN5",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B032TX_67.jpg": {
+  "verdict": "A",
+  "brand_text": "DENNIS 丹尼斯",
+  "poi": "B017B032TX",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B032TX_68.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯百货",
+  "poi": "B017B032TX",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B032TX_69.jpg": {
+  "verdict": "C",
+  "brand_text": "鞋类商品展示",
+  "poi": "B017B032TX",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B0P6JN_90.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部散装食品区",
+  "poi": "B017B0P6JN",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B0P6JN_91.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B017B0P6JN",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B017B0P6JN_92.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B017B0P6JN",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFSJBPH_95.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFFSJBPH",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFSJBPH_96.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门头，丹尼斯蓝底红边招牌局部可见，文字不完整",
+  "poi": "B0FFFSJBPH",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFSJBPH_97.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯鲜超市",
+  "poi": "B0FFFSJBPH",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFWL5BZ_73.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯鲜超市",
+  "poi": "B0FFFWL5BZ",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFWL5BZ_74.jpg": {
+  "verdict": "C",
+  "brand_text": "超市商品陈列",
+  "poi": "B0FFFWL5BZ",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFWL5BZ_75.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部货架",
+  "poi": "B0FFFWL5BZ",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFWMEZZ_85.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFFWMEZZ",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFFWMEZZ_86.jpg": {
+  "verdict": "D",
+  "brand_text": "福满堂（实际招牌）",
+  "poi": "B0FFFWMEZZ",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGC1RMC_76.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGC1RMC",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGC1RMC_77.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGC1RMC",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGC1RMC_78.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGC1RMC",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGZ1RQT_87.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGZ1RQT",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGZ1RQT_88.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGZ1RQT",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0FFGZ1RQT_89.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0FFGZ1RQT",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0L1D7V1GH_93.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0L1D7V1GH",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0L1D7V1GH_94.jpg": {
+  "verdict": "C",
+  "brand_text": "服装店内部",
+  "poi": "B0L1D7V1GH",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0LK0194VK_82.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0LK0194VK",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0LK0194VK_83.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0LK0194VK",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B0LK0194VK_84.jpg": {
+  "verdict": "A",
+  "brand_text": "丹尼斯超市",
+  "poi": "B0LK0194VK",
+  "brand_query": "丹尼斯全日鲜",
+  "brand_cat": "丹尼斯"
+ },
+ "v16_B027700K6B_289.jpg": {
+  "verdict": "A",
+  "brand_text": "周大福",
+  "poi": "B027700K6B",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B027700K6B_290.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品陈列",
+  "poi": "B027700K6B",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B027700K6B_291.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部商品陈列",
+  "poi": "B027700K6B",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFH0V41K_284.jpg": {
+  "verdict": "A",
+  "brand_text": "利群商店",
+  "poi": "B0FFH0V41K",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFH0V41K_285.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺入口，招牌文字不可读",
+  "poi": "B0FFH0V41K",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFJ1UOY2_282.jpg": {
+  "verdict": "A",
+  "brand_text": "利群集团·利群购物中心",
+  "poi": "B0FFJ1UOY2",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFJ1UOY2_283.jpg": {
+  "verdict": "C",
+  "brand_text": "商品包装照片",
+  "poi": "B0FFJ1UOY2",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFK0YDIZ_278.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部商品陈列",
+  "poi": "B0FFK0YDIZ",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFK517XG_279.jpg": {
+  "verdict": "A",
+  "brand_text": "云衣花（服装店）",
+  "poi": "B0FFK517XG",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFK517XG_280.jpg": {
+  "verdict": "A",
+  "brand_text": "芝麻e柜",
+  "poi": "B0FFK517XG",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFK517XG_281.jpg": {
+  "verdict": "A",
+  "brand_text": "芝麻e柜",
+  "poi": "B0FFK517XG",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFMGAV0V_276.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部货架",
+  "poi": "B0FFMGAV0V",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0FFMGAV0V_277.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0FFMGAV0V",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0J1951BCR_286.jpg": {
+  "verdict": "B",
+  "brand_text": "真实商业建筑门面，招牌文字不清",
+  "poi": "B0J1951BCR",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0J1951BCR_287.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0J1951BCR",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B0J1951BCR_288.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部商品陈列",
+  "poi": "B0J1951BCR",
+  "brand_query": "利群超市",
+  "brand_cat": "利群"
+ },
+ "v16_B000A819SN_203.jpg": {
+  "verdict": "A",
+  "brand_text": "BHG Mall（北京华联）",
+  "poi": "B000A819SN",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B000A819SN_204.jpg": {
+  "verdict": "A",
+  "brand_text": "BHG Mall",
+  "poi": "B000A819SN",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B000A819SN_205.jpg": {
+  "verdict": "C",
+  "brand_text": "店内饰品陈列",
+  "poi": "B000A819SN",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B000A85KJZ_209.jpg": {
+  "verdict": "A",
+  "brand_text": "世纪联华超市",
+  "poi": "B000A85KJZ",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B000A85KJZ_210.jpg": {
+  "verdict": "A",
+  "brand_text": "绿色招牌超市（文字不完整）",
+  "poi": "B000A85KJZ",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B000A85KJZ_211.jpg": {
+  "verdict": "B",
+  "brand_text": "真实商铺门头，招牌文字不可清晰辨认",
+  "poi": "B000A85KJZ",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0FFJDGEQV_197.jpg": {
+  "verdict": "C",
+  "brand_text": "BHG Market Place内部",
+  "poi": "B0FFJDGEQV",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0FFJDGEQV_198.jpg": {
+  "verdict": "C",
+  "brand_text": "BHG Market Place内部",
+  "poi": "B0FFJDGEQV",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0FFJF1HR2_212.jpg": {
+  "verdict": "A",
+  "brand_text": "华联超市",
+  "poi": "B0FFJF1HR2",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0FFJF1HR2_213.jpg": {
+  "verdict": "A",
+  "brand_text": "世纪华联超市",
+  "poi": "B0FFJF1HR2",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0FFJF1HR2_214.jpg": {
+  "verdict": "A",
+  "brand_text": "世纪华联超市",
+  "poi": "B0FFJF1HR2",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0G271G688_206.jpg": {
+  "verdict": "A",
+  "brand_text": "KFC 肯德基",
+  "poi": "B0G271G688",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0G271G688_207.jpg": {
+  "verdict": "C",
+  "brand_text": "POP MART 泡泡玛特自动售货机",
+  "poi": "B0G271G688",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0G271G688_208.jpg": {
+  "verdict": "C",
+  "brand_text": "服装店室内",
+  "poi": "B0G271G688",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0K37KMXZ9_199.jpg": {
+  "verdict": "A",
+  "brand_text": "世纪华联超市·水站",
+  "poi": "B0K37KMXZ9",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0K6LCNTE4_200.jpg": {
+  "verdict": "A",
+  "brand_text": "中南…羽毛球馆",
+  "poi": "B0K6LCNTE4",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0K6LCNTE4_201.jpg": {
+  "verdict": "C",
+  "brand_text": "超市室内货架",
+  "poi": "B0K6LCNTE4",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B0K6LCNTE4_202.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜摊位",
+  "poi": "B0K6LCNTE4",
+  "brand_query": "BHG超市",
+  "brand_cat": "北京华联"
+ },
+ "v16_B02000IR2D_115.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B02000IR2D",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B02000IR2D_116.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "poi": "B02000IR2D",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B02000IR2D_117.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B02000IR2D",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B02000IS5N_103.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B02000IS5N",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B02000IS5N_104.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B02000IS5N",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B02000IS5N_105.jpg": {
+  "verdict": "C",
+  "brand_text": "食品展示柜",
+  "poi": "B02000IS5N",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFI08S1W_109.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多 C-STORE",
+  "poi": "B0FFI08S1W",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFI08S1W_110.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0FFI08S1W",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFI08S1W_111.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多便利店 C-STORE",
+  "poi": "B0FFI08S1W",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFJEDMSI_112.jpg": {
+  "verdict": "C",
+  "brand_text": "商品陈列",
+  "poi": "B0FFJEDMSI",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFJEDMSI_113.jpg": {
+  "verdict": "C",
+  "brand_text": "超市室内货架",
+  "poi": "B0FFJEDMSI",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFJEDMSI_114.jpg": {
+  "verdict": "C",
+  "brand_text": "商品展示柜",
+  "poi": "B0FFJEDMSI",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFK1QMQJ_121.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B0FFK1QMQJ",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFLIJMLH_108.jpg": {
+  "verdict": "C",
+  "brand_text": "商业建筑及停车区域，无明确门头",
+  "poi": "B0FFLIJMLH",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFM1765F_106.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B0FFM1765F",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFM1765F_107.jpg": {
+  "verdict": "C",
+  "brand_text": "商品陈列货架",
+  "poi": "B0FFM1765F",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0H3FCATVX_100.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "poi": "B0H3FCATVX",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0H3FCATVX_98.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品陈列",
+  "poi": "B0H3FCATVX",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0H3FCATVX_99.jpg": {
+  "verdict": "B",
+  "brand_text": "真实玻璃门店入口，品牌文字不可读",
+  "poi": "B0H3FCATVX",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0I1VHWJLE_101.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B0I1VHWJLE",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0I1VHWJLE_102.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B0I1VHWJLE",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0I2UPR0I5_122.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多",
+  "poi": "B0I2UPR0I5",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0KGRZGICT_118.jpg": {
+  "verdict": "A",
+  "brand_text": "喜士多 C-STORE",
+  "poi": "B0KGRZGICT",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0KGRZGICT_119.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷藏柜",
+  "poi": "B0KGRZGICT",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0KGRZGICT_120.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架",
+  "poi": "B0KGRZGICT",
+  "brand_query": "喜士多",
+  "brand_cat": "喜士多"
+ },
+ "v16_B0FFHOOIZS_397.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺玻璃门入口，品牌不可读",
+  "poi": "B0FFHOOIZS",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFHOOIZS_398.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内",
+  "poi": "B0FFHOOIZS",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFI25558_395.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商铺，具体招牌不可读",
+  "poi": "B0FFI25558",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFIW868F_399.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0FFIW868F",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFIW868F_400.jpg": {
+  "verdict": "A",
+  "brand_text": "天福",
+  "poi": "B0FFIW868F",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFKME5WR_407.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0FFKME5WR",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFKME5WR_408.jpg": {
+  "verdict": "A",
+  "brand_text": "天福",
+  "poi": "B0FFKME5WR",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0FFKME5WR_409.jpg": {
+  "verdict": "A",
+  "brand_text": "天福",
+  "poi": "B0FFKME5WR",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0G1T7W8EC_404.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0G1T7W8EC",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0G1T7W8EC_405.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0G1T7W8EC",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0G1T7W8EC_406.jpg": {
+  "verdict": "A",
+  "brand_text": "来喜便利店",
+  "poi": "B0G1T7W8EC",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0H3YU7D7D_401.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0H3YU7D7D",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0H3YU7D7D_402.jpg": {
+  "verdict": "A",
+  "brand_text": "天福",
+  "poi": "B0H3YU7D7D",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0H3YU7D7D_403.jpg": {
+  "verdict": "A",
+  "brand_text": "天福",
+  "poi": "B0H3YU7D7D",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B0HU4PJ0LZ_396.jpg": {
+  "verdict": "A",
+  "brand_text": "天福 Tianfu",
+  "poi": "B0HU4PJ0LZ",
+  "brand_query": "天福便利店",
+  "brand_cat": "天福"
+ },
+ "v16_B03017UXTR_3.jpg": {
+  "verdict": "A",
+  "brand_text": "NAIL（美甲店）",
+  "poi": "B03017UXTR",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03017UXTR_4.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹（RAINBOW）",
+  "poi": "B03017UXTR",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03017W4AC_5.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B03017W4AC",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03017W4AC_6.jpg": {
+  "verdict": "C",
+  "brand_text": "蛋糕商品陈列",
+  "poi": "B03017W4AC",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018IHWJ_7.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B03018IHWJ",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018IHWJ_8.jpg": {
+  "verdict": "C",
+  "brand_text": "服装商品陈列",
+  "poi": "B03018IHWJ",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018IHWJ_9.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列",
+  "poi": "B03018IHWJ",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018JI99_0.jpg": {
+  "verdict": "A",
+  "brand_text": "DREAMS-ON（梦田）",
+  "poi": "B03018JI99",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018JI99_1.jpg": {
+  "verdict": "A",
+  "brand_text": "君尚",
+  "poi": "B03018JI99",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B03018JI99_2.jpg": {
+  "verdict": "C",
+  "brand_text": "超市货架室内",
+  "poi": "B03018JI99",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFLK050U_10.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B0FFLK050U",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFLK050U_11.jpg": {
+  "verdict": "C",
+  "brand_text": "鲜花商品陈列",
+  "poi": "B0FFLK050U",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFLK050U_12.jpg": {
+  "verdict": "C",
+  "brand_text": "苹果手机商品照片",
+  "poi": "B0FFLK050U",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0JU1YKHRP_13.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹购物中心",
+  "poi": "B0JU1YKHRP",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0JU1YKHRP_14.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B0JU1YKHRP",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0JU1YKHRP_15.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B0JU1YKHRP",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFIQCQ2N_16.jpg": {
+  "verdict": "B",
+  "brand_text": "商业建筑外立面，品牌文字不可读",
+  "poi": "B0FFIQCQ2N",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFIQCQ2N_17.jpg": {
+  "verdict": "C",
+  "brand_text": "水果蔬菜卖场内部",
+  "poi": "B0FFIQCQ2N",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFIQCQ2N_18.jpg": {
+  "verdict": "C",
+  "brand_text": "商场内部",
+  "poi": "B0FFIQCQ2N",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFI7VHKZ_19.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹百货",
+  "poi": "B0FFI7VHKZ",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFI7VHKZ_20.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边店铺，招牌文字不可读",
+  "poi": "B0FFI7VHKZ",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0HBGZF2K3_22.jpg": {
+  "verdict": "C",
+  "brand_text": "商业综合体效果图",
+  "poi": "B0HBGZF2K3",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0HBGZF2K3_23.jpg": {
+  "verdict": "C",
+  "brand_text": "商业综合体建筑效果图",
+  "poi": "B0HBGZF2K3",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0HBGZF2K3_24.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜商品陈列",
+  "poi": "B0HBGZF2K3",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0L025NT36_27.jpg": {
+  "verdict": "A",
+  "brand_text": "天虹",
+  "poi": "B0L025NT36",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0LRO6UNCA_21.jpg": {
+  "verdict": "C",
+  "brand_text": "室内圣诞树装饰",
+  "poi": "B0LRO6UNCA",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0MUY7QHP2_25.jpg": {
+  "verdict": "C",
+  "brand_text": "鞋类商品陈列",
+  "poi": "B0MUY7QHP2",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0MUY7QHP2_26.jpg": {
+  "verdict": "C",
+  "brand_text": "明璐（MING LU）店内品牌展示",
+  "poi": "B0MUY7QHP2",
+  "brand_query": "天虹超市",
+  "brand_cat": "天虹"
+ },
+ "v16_B0FFITWQND_28.jpg": {
+  "verdict": "A",
+  "brand_text": "好德烟酒",
+  "poi": "B0FFITWQND",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFITWQND_29.jpg": {
+  "verdict": "A",
+  "brand_text": "好德烟酒、轴承五金",
+  "poi": "B0FFITWQND",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0H2MC3S0X_30.jpg": {
+  "verdict": "A",
+  "brand_text": "好德火锅",
+  "poi": "B0H2MC3S0X",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0H2MC3S0X_31.jpg": {
+  "verdict": "B",
+  "brand_text": "真实商业建筑，招牌文字不够清晰",
+  "poi": "B0H2MC3S0X",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0H2MC3S0X_32.jpg": {
+  "verdict": "A",
+  "brand_text": "三好优选",
+  "poi": "B0H2MC3S0X",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFGMXSB7_33.jpg": {
+  "verdict": "A",
+  "brand_text": "好得易便利店",
+  "poi": "B0FFGMXSB7",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFGMXSB7_34.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店货架内部",
+  "poi": "B0FFGMXSB7",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFGMXSB7_35.jpg": {
+  "verdict": "A",
+  "brand_text": "好得易便利店",
+  "poi": "B0FFGMXSB7",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFFOKEZJ_36.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商业门店，招牌文字不可读",
+  "poi": "B0FFFOKEZJ",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFFOKEZJ_37.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店货架内部",
+  "poi": "B0FFFOKEZJ",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0FFFOKEZJ_38.jpg": {
+  "verdict": "A",
+  "brand_text": "好得购便利店",
+  "poi": "B0FFFOKEZJ",
+  "brand_query": "好德便利店",
+  "brand_cat": "好德"
+ },
+ "v16_B0K2XZ2BDO_447.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食量贩",
+  "poi": "B0K2XZ2BDO",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0K2XZ2BDO_448.jpg": {
+  "verdict": "C",
+  "brand_text": "零食促销价格海报",
+  "poi": "B0K2XZ2BDO",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0K2XZ2BDO_449.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品及促销展示",
+  "poi": "B0K2XZ2BDO",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0KDSAQYH6_455.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来品牌零食",
+  "poi": "B0KDSAQYH6",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0J37ZEC8Y_458.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食量贩",
+  "poi": "B0J37ZEC8Y",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0J37ZEC8Y_459.jpg": {
+  "verdict": "C",
+  "brand_text": "超市零食货架内部",
+  "poi": "B0J37ZEC8Y",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0J37ZEC8Y_460.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜及商品货架内部",
+  "poi": "B0J37ZEC8Y",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0K0GSB5T5_462.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来品牌零食",
+  "poi": "B0K0GSB5T5",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0K0GSB5T5_463.jpg": {
+  "verdict": "C",
+  "brand_text": "超市货架内部",
+  "poi": "B0K0GSB5T5",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0K0GSB5T5_464.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来品牌零食",
+  "poi": "B0K0GSB5T5",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0KDSAQYH6_456.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0KDSAQYH6",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0KDSAQYH6_457.jpg": {
+  "verdict": "C",
+  "brand_text": "室内收银台",
+  "poi": "B0KDSAQYH6",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0L3MUL94I_452.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来",
+  "poi": "B0L3MUL94I",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0L3MUL94I_453.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来",
+  "poi": "B0L3MUL94I",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0L3MUL94I_454.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来",
+  "poi": "B0L3MUL94I",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0LDCHPUR3_441.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0LDCHPUR3",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0LDCHPUR3_442.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0LDCHPUR3",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0LDCHPUR3_443.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食",
+  "poi": "B0LDCHPUR3",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MAX1NHWL_465.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食",
+  "poi": "B0MAX1NHWL",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MAX1NHWL_466.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食",
+  "poi": "B0MAX1NHWL",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MD97PUNP_444.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食",
+  "poi": "B0MD97PUNP",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MD97PUNP_445.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食",
+  "poi": "B0MD97PUNP",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MD97PUNP_446.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来",
+  "poi": "B0MD97PUNP",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MGNSPR17_450.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MGNSPR17",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MGNSPR17_451.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MGNSPR17",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MGUYB0N8_436.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MGUYB0N8",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MGUYB0N8_437.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品",
+  "poi": "B0MGUYB0N8",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MGUYB0N8_438.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品包装",
+  "poi": "B0MGUYB0N8",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MU5SSDU0_439.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MU5SSDU0",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MU5SSDU0_440.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MU5SSDU0",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0MUXRAU3O_461.jpg": {
+  "verdict": "A",
+  "brand_text": "好想来零食园",
+  "poi": "B0MUXRAU3O",
+  "brand_query": "好想来零食",
+  "brand_cat": "好想来"
+ },
+ "v16_B0FFI5R31P_299.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0FFI5R31P",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0FFI5R31P_300.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0FFI5R31P",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0FFI5R31P_301.jpg": {
+  "verdict": "C",
+  "brand_text": "商品包装",
+  "poi": "B0FFI5R31P",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0G0HKFZCT_302.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0G0HKFZCT",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0G0HKFZCT_303.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0G0HKFZCT",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0G0HKFZCT_304.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料商品",
+  "poi": "B0G0HKFZCT",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0H64XJFCC_307.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0H64XJFCC",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0H64XJFCC_308.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0H64XJFCC",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0H64XJFCC_309.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0H64XJFCC",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HGF42Q2X_310.jpg": {
+  "verdict": "A",
+  "brand_text": "HotMaxx",
+  "poi": "B0HGF42Q2X",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HGF42Q2X_311.jpg": {
+  "verdict": "C",
+  "brand_text": "熟食商品货架",
+  "poi": "B0HGF42Q2X",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HGF42Q2X_312.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品通道",
+  "poi": "B0HGF42Q2X",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HUA57XZJ_313.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0HUA57XZJ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HUA57XZJ_314.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0HUA57XZJ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0HUA57XZJ_315.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品通道",
+  "poi": "B0HUA57XZJ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0I24CLUYI_296.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0I24CLUYI",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0I24CLUYI_297.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0I24CLUYI",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0I24CLUYI_298.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品通道",
+  "poi": "B0I24CLUYI",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0J0R5II7Y_316.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0J0R5II7Y",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0J0R5II7Y_317.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0J0R5II7Y",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0J135NU0Z_292.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品通道",
+  "poi": "B0J135NU0Z",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0J135NU0Z_293.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0J135NU0Z",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0J135NU0Z_294.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0J135NU0Z",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0JUYHHKOQ_318.jpg": {
+  "verdict": "C",
+  "brand_text": "商品陈列",
+  "poi": "B0JUYHHKOQ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0JUYHHKOQ_319.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0JUYHHKOQ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0JUYHHKOQ_320.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0JUYHHKOQ",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0LGZUUHLR_305.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0LGZUUHLR",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0LGZUUHLR_306.jpg": {
+  "verdict": "C",
+  "brand_text": "室内货架及商品",
+  "poi": "B0LGZUUHLR",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0LR2557Z6_321.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0LR2557Z6",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0LR2557Z6_322.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架特写",
+  "poi": "B0LR2557Z6",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0LR2557Z6_323.jpg": {
+  "verdict": "C",
+  "brand_text": "商品及包装特写",
+  "poi": "B0LR2557Z6",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B0MAUSRSV8_295.jpg": {
+  "verdict": "A",
+  "brand_text": "好特卖 HotMaxx",
+  "poi": "B0MAUSRSV8",
+  "brand_query": "好特卖",
+  "brand_cat": "好特卖"
+ },
+ "v16_B023B06AGQ_333.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B06AGQ",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B06AGQ_334.jpg": {
+  "verdict": "A",
+  "brand_text": "快客（招牌较模糊）",
+  "poi": "B023B06AGQ",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B06AGQ_335.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，招牌文字不可读",
+  "poi": "B023B06AGQ",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B07ZHE_336.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，仅见太阳标识",
+  "poi": "B023B07ZHE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B07ZHE_337.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，文字不可读",
+  "poi": "B023B07ZHE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B07ZHE_338.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，仅见快客标识",
+  "poi": "B023B07ZHE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B082GG_327.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B082GG",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B082GG_328.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺入口，招牌文字不可读",
+  "poi": "B023B082GG",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B082GG_329.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺入口，招牌文字不可读",
+  "poi": "B023B082GG",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B08WWA_351.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺门面，招牌文字不可读",
+  "poi": "B023B08WWA",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B0BFWV_339.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B0BFWV",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B0BFWV_340.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B023B0BFWV",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B0BFWV_341.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品及冰柜",
+  "poi": "B023B0BFWV",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DH8L_330.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B1DH8L",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DH8L_331.jpg": {
+  "verdict": "C",
+  "brand_text": "室内店铺入口及商品",
+  "poi": "B023B1DH8L",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DH8L_332.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B1DH8L",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DNJA_355.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B023B1DNJA",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DNJA_356.jpg": {
+  "verdict": "C",
+  "brand_text": "室内饮料冷柜",
+  "poi": "B023B1DNJA",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B023B1DNJA_357.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B023B1DNJA",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGB282W_324.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店入口，门头文字不可读",
+  "poi": "B0FFGB282W",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGB282W_325.jpg": {
+  "verdict": "C",
+  "brand_text": "室内烘焙商品柜",
+  "poi": "B0FFGB282W",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGB282W_326.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺入口，招牌文字不可读",
+  "poi": "B0FFGB282W",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGBCW6F_352.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B0FFGBCW6F",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGBCW6F_353.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B0FFGBCW6F",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0FFGBCW6F_354.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门头局部，文字不可读",
+  "poi": "B0FFGBCW6F",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0G24PD0FB_345.jpg": {
+  "verdict": "A",
+  "brand_text": "快客",
+  "poi": "B0G24PD0FB",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0G24PD0FB_346.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0G24PD0FB",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0G24PD0FB_347.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0G24PD0FB",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0I2YUTHNF_348.jpg": {
+  "verdict": "C",
+  "brand_text": "室内饮料货架",
+  "poi": "B0I2YUTHNF",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0I2YUTHNF_349.jpg": {
+  "verdict": "C",
+  "brand_text": "室内货架及柜台",
+  "poi": "B0I2YUTHNF",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0I2YUTHNF_350.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0I2YUTHNF",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0JUTCGZRE_342.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0JUTCGZRE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0JUTCGZRE_343.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料商品货架",
+  "poi": "B0JUTCGZRE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0JUTCGZRE_344.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，招牌文字不可读",
+  "poi": "B0JUTCGZRE",
+  "brand_query": "快客便利店",
+  "brand_cat": "快客"
+ },
+ "v16_B0G259WGCR_143.jpg": {
+  "verdict": "C",
+  "brand_text": "室内饮料冷柜",
+  "poi": "B0G259WGCR",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0G259WGCR_144.jpg": {
+  "verdict": "C",
+  "brand_text": "室内柜台及商品",
+  "poi": "B0G259WGCR",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0H3ZOIB03_145.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0H3ZOIB03",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0H3ZOIB03_146.jpg": {
+  "verdict": "C",
+  "brand_text": "熟食商品展示",
+  "poi": "B0H3ZOIB03",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0H61MP4QA_166.jpg": {
+  "verdict": "C",
+  "brand_text": "商场建筑外观，非具体门店门头",
+  "poi": "B0H61MP4QA",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAN5N8IK_159.jpg": {
+  "verdict": "C",
+  "brand_text": "室内便利店货架",
+  "poi": "B0HAN5N8IK",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAN5N8IK_160.jpg": {
+  "verdict": "C",
+  "brand_text": "室内饮料冷柜",
+  "poi": "B0HAN5N8IK",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAN5N8IK_161.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0HAN5N8IK",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAXSKX43_150.jpg": {
+  "verdict": "C",
+  "brand_text": "室内收银及熟食柜",
+  "poi": "B0HAXSKX43",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAXSKX43_151.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0HAXSKX43",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0HAXSKX43_152.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0HAXSKX43",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0ID5RXNO0_155.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0ID5RXNO0",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0ID5RXNO0_156.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0ID5RXNO0",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0ID5RXNO0_157.jpg": {
+  "verdict": "B",
+  "brand_text": "真实临街门店，招牌文字不可读",
+  "poi": "B0ID5RXNO0",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0JA97BB5F_153.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边建筑及底商，品牌文字不可读",
+  "poi": "B0JA97BB5F",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0JA97BB5F_154.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0JA97BB5F",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0JDZ1OVC3_162.jpg": {
+  "verdict": "C",
+  "brand_text": "室内休息区及玻璃店面",
+  "poi": "B0JDZ1OVC3",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0JDZ1OVC3_163.jpg": {
+  "verdict": "C",
+  "brand_text": "街边餐饮区域，非门头",
+  "poi": "B0JDZ1OVC3",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0JDZ1OVC3_164.jpg": {
+  "verdict": "C",
+  "brand_text": "室内休息区及店面",
+  "poi": "B0JDZ1OVC3",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0L0XPKUH9_147.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0L0XPKUH9",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0L0XPKUH9_148.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0L0XPKUH9",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0L0XPKUH9_149.jpg": {
+  "verdict": "C",
+  "brand_text": "车辆及街景，非门头",
+  "poi": "B0L0XPKUH9",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0MAJ73L5A_158.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0MAJ73L5A",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0MD649IAS_165.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0MD649IAS",
+  "brand_query": "悦来悦喜",
+  "brand_cat": "悦来悦喜"
+ },
+ "v16_B0FFFOT5PZ_497.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0FFFOT5PZ",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFFOT5PZ_498.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0FFFOT5PZ",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFFOT5PZ_499.jpg": {
+  "verdict": "A",
+  "brand_text": "悦来悦喜（Happy mart）",
+  "poi": "B0FFFOT5PZ",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFLHKVDH_512.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0FFLHKVDH",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFLHKVDH_513.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0FFLHKVDH",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFLHKVDH_514.jpg": {
+  "verdict": "C",
+  "brand_text": "手持商品照片",
+  "poi": "B0FFLHKVDH",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0G2ORHV48_488.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0G2ORHV48",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0G2ORHV48_489.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0G2ORHV48",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0H6C5XYF2_515.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0H6C5XYF2",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0H6C5XYF2_516.jpg": {
+  "verdict": "B",
+  "brand_text": "远景真实门店，招牌文字不可读",
+  "poi": "B0H6C5XYF2",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HBR96K02_491.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0HBR96K02",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HBR96K02_492.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门头，招牌文字不够清晰",
+  "poi": "B0HBR96K02",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HD25C6S8_506.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0HD25C6S8",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HD25C6S8_507.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0HD25C6S8",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HD25C6S8_508.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0HD25C6S8",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HGTN7ZRT_500.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食；上方另有棋牌咖啡酒馆",
+  "poi": "B0HGTN7ZRT",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HGTN7ZRT_501.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0HGTN7ZRT",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HGTN7ZRT_502.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0HGTN7ZRT",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HUB5E4R7_509.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0HUB5E4R7",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HUB5E4R7_510.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0HUB5E4R7",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0HUB5E4R7_511.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食；右侧天元张春餐饮",
+  "poi": "B0HUB5E4R7",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JDCRX3SC_503.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0JDCRX3SC",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JDCRX3SC_504.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0JDCRX3SC",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JDCRX3SC_505.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0JDCRX3SC",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JUS9T5KA_493.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0JUS9T5KA",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JUS9T5KA_494.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0JUS9T5KA",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0JUS9T5KA_495.jpg": {
+  "verdict": "C",
+  "brand_text": "手持商品照片",
+  "poi": "B0JUS9T5KA",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0LGLDNGPB_496.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0LGLDNGPB",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0M6HD95TL_490.jpg": {
+  "verdict": "C",
+  "brand_text": "购物篮及商品",
+  "poi": "B0M6HD95TL",
+  "brand_query": "戴永红零食",
+  "brand_cat": "戴永红"
+ },
+ "v16_B0FFK10HD9_39.jpg": {
+  "verdict": "B",
+  "brand_text": "远景街边底商，招牌不可读",
+  "poi": "B0FFK10HD9",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFK10HD9_40.jpg": {
+  "verdict": "A",
+  "brand_text": "戴永红零食",
+  "poi": "B0FFK10HD9",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFLA4UVM_62.jpg": {
+  "verdict": "B",
+  "brand_text": "远景街边门店，招牌不可读",
+  "poi": "B0FFLA4UVM",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFLA4UVM_63.jpg": {
+  "verdict": "C",
+  "brand_text": "手持商品照片",
+  "poi": "B0FFLA4UVM",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFLBS52G_42.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0FFLBS52G",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFLBS52G_43.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0FFLBS52G",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFLBS52G_44.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0FFLBS52G",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFM9T6QE_59.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0FFM9T6QE",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFM9T6QE_60.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0FFM9T6QE",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFM9T6QE_61.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店，夜景过暗，招牌不可清晰辨认",
+  "poi": "B0FFM9T6QE",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GKGR9QUM_64.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GKGR9QUM",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GKGR9QUM_65.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GKGR9QUM",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GKGR9QUM_66.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GKGR9QUM",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GRAZ2WEW_56.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GRAZ2WEW",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GRAZ2WEW_57.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GRAZ2WEW",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0GRAZ2WEW_58.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0GRAZ2WEW",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0I1YZ8I02_53.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0I1YZ8I02",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0I1YZ8I02_54.jpg": {
+  "verdict": "C",
+  "brand_text": "手持商品照片，非门头",
+  "poi": "B0I1YZ8I02",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0I1YZ8I02_55.jpg": {
+  "verdict": "C",
+  "brand_text": "建筑外立面及停车车辆，非门头",
+  "poi": "B0I1YZ8I02",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0JAJZ1IC7_45.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0JAJZ1IC7",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0JAJZ1IC7_46.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0JAJZ1IC7",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0JAJZ1IC7_47.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0JAJZ1IC7",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LD9C3VYK_51.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜便利店",
+  "poi": "B0LD9C3VYK",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LD9C3VYK_52.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0LD9C3VYK",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LDABJAPN_48.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0LDABJAPN",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LDABJAPN_49.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0LDABJAPN",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LDABJAPN_50.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0LDABJAPN",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0LRNHKX8B_41.jpg": {
+  "verdict": "A",
+  "brand_text": "新佳宜",
+  "poi": "B0LRNHKX8B",
+  "brand_query": "新佳宜",
+  "brand_cat": "新佳宜"
+ },
+ "v16_B0FFGH3PA8_379.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列，非门头",
+  "poi": "B0FFGH3PA8",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0FFGH3PA8_380.jpg": {
+  "verdict": "C",
+  "brand_text": "便利店室内货架，非门头",
+  "poi": "B0FFGH3PA8",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0FFHOQMUW_384.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边店铺，招牌不可辨认",
+  "poi": "B0FFHOQMUW",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0FFHOQMUW_385.jpg": {
+  "verdict": "C",
+  "brand_text": "食品照片，非门头",
+  "poi": "B0FFHOQMUW",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0FFMD7VRQ_382.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边店铺，招牌不可辨认",
+  "poi": "B0FFMD7VRQ",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0G30BFM7Q_383.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品货架，非门头",
+  "poi": "B0G30BFM7Q",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0H3YC7XWR_381.jpg": {
+  "verdict": "A",
+  "brand_text": "一日便利店",
+  "poi": "B0H3YC7XWR",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0JUOK03EG_372.jpg": {
+  "verdict": "A",
+  "brand_text": "每一天24小时便利店",
+  "poi": "B0JUOK03EG",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0JUOK03EG_373.jpg": {
+  "verdict": "B",
+  "brand_text": "真实建筑入口，门头文字不清",
+  "poi": "B0JUOK03EG",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0LDUSAGSJ_369.jpg": {
+  "verdict": "A",
+  "brand_text": "Everyday Chain 每一天",
+  "poi": "B0LDUSAGSJ",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0LDUSAGSJ_370.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店入口，品牌不可读",
+  "poi": "B0LDUSAGSJ",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0LDUSAGSJ_371.jpg": {
+  "verdict": "A",
+  "brand_text": "一日便利店",
+  "poi": "B0LDUSAGSJ",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0LRPHRHC1_377.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边门店，招牌不可完整辨认",
+  "poi": "B0LRPHRHC1",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0LRPHRHC1_378.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品及花卉陈列，非门头",
+  "poi": "B0LRPHRHC1",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0MUT1LZA9_374.jpg": {
+  "verdict": "A",
+  "brand_text": "Everyday Store 每一天",
+  "poi": "B0MUT1LZA9",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0MUT1LZA9_375.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品展示，非门头",
+  "poi": "B0MUT1LZA9",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0MUT1LZA9_376.jpg": {
+  "verdict": "A",
+  "brand_text": "Everyday 每一天",
+  "poi": "B0MUT1LZA9",
+  "brand_query": "每一天便利店",
+  "brand_cat": "每一天"
+ },
+ "v16_B0FFJ16H1I_419.jpg": {
+  "verdict": "A",
+  "brand_text": "金乡生活",
+  "poi": "B0FFJ16H1I",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFJ16H1I_420.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列，非门头",
+  "poi": "B0FFJ16H1I",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFJRHZRI_417.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生会员店",
+  "poi": "B0FFJRHZRI",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFJRHZRI_418.jpg": {
+  "verdict": "C",
+  "brand_text": "生鲜商品陈列，非门头",
+  "poi": "B0FFJRHZRI",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFK48PYU_423.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0FFK48PYU",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFK48PYU_424.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品货架，非门头",
+  "poi": "B0FFK48PYU",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFK6190B_430.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0FFK6190B",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFK6190B_431.jpg": {
+  "verdict": "C",
+  "brand_text": "鲜花商品陈列，非门头",
+  "poi": "B0FFK6190B",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFKIZQIX_410.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0FFKIZQIX",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFKIZQIX_411.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架，非门头",
+  "poi": "B0FFKIZQIX",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFL1CKOH_421.jpg": {
+  "verdict": "C",
+  "brand_text": "盒马夜宴霓虹灯展示，非门头",
+  "poi": "B0FFL1CKOH",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFL1CKOH_422.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列，非门头",
+  "poi": "B0FFL1CKOH",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFLH9PTQ_432.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0FFLH9PTQ",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFLH9PTQ_433.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列，非门头",
+  "poi": "B0FFLH9PTQ",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0G02U568T_425.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0G02U568T",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0G02U568T_426.jpg": {
+  "verdict": "C",
+  "brand_text": "盒马X会员店货架，非门头",
+  "poi": "B0G02U568T",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0G3TSNVQH_415.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店外立面，蓝色圆形标志可见，文字不清",
+  "poi": "B0G3TSNVQH",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0G3TSNVQH_416.jpg": {
+  "verdict": "C",
+  "brand_text": "商品堆头陈列，非门头",
+  "poi": "B0G3TSNVQH",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0GKNA6PZE_434.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0GKNA6PZE",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0GKNA6PZE_435.jpg": {
+  "verdict": "C",
+  "brand_text": "冷藏商品货架，非门头",
+  "poi": "B0GKNA6PZE",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0J2PR9ACE_412.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0J2PR9ACE",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0J2PR9ACE_413.jpg": {
+  "verdict": "C",
+  "brand_text": "生鲜商品陈列，非门头",
+  "poi": "B0J2PR9ACE",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0J2PR9ACE_414.jpg": {
+  "verdict": "C",
+  "brand_text": "肉类商品陈列，非门头",
+  "poi": "B0J2PR9ACE",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0KU4MQ4AL_427.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0KU4MQ4AL",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0KU4MQ4AL_428.jpg": {
+  "verdict": "A",
+  "brand_text": "盒马鲜生",
+  "poi": "B0KU4MQ4AL",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0KU4MQ4AL_429.jpg": {
+  "verdict": "C",
+  "brand_text": "超市内部场景，非门头",
+  "poi": "B0KU4MQ4AL",
+  "brand_query": "盒马鲜生",
+  "brand_cat": "盒马鲜生"
+ },
+ "v16_B0FFIBP3H3_542.jpg": {
+  "verdict": "C",
+  "brand_text": "散装食品商品陈列，非门头",
+  "poi": "B0FFIBP3H3",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B0FFIBP3H3_543.jpg": {
+  "verdict": "C",
+  "brand_text": "路边熟食摊位，非门头",
+  "poi": "B0FFIBP3H3",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B0FFIBP3H3_544.jpg": {
+  "verdict": "C",
+  "brand_text": "食品商品特写，非门头",
+  "poi": "B0FFIBP3H3",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B0G2SMKUYQ_545.jpg": {
+  "verdict": "A",
+  "brand_text": "良花艺馆、TC Shoes & Bags",
+  "poi": "B0G2SMKUYQ",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B0G2SMKUYQ_546.jpg": {
+  "verdict": "C",
+  "brand_text": "鞋类商品货架，非门头",
+  "poi": "B0G2SMKUYQ",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B0G2SMKUYQ_547.jpg": {
+  "verdict": "C",
+  "brand_text": "服装店室内场景，非门头",
+  "poi": "B0G2SMKUYQ",
+  "brand_query": "糖巢",
+  "brand_cat": "糖巢"
+ },
+ "v16_B023B1DIUD_475.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B023B1DIUD",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFF4AXS9_477.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0FFF4AXS9",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFF4AXS9_478.jpg": {
+  "verdict": "C",
+  "brand_text": "零食货架，非门头",
+  "poi": "B0FFF4AXS9",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFFWQI23_476.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0FFFWQI23",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFI6Z2A7_467.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0FFI6Z2A7",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFI6Z2A7_468.jpg": {
+  "verdict": "C",
+  "brand_text": "零食货架，非门头",
+  "poi": "B0FFI6Z2A7",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0GKG44M59_473.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人（楼上曼蒂酒店）",
+  "poi": "B0GKG44M59",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0JRJAGBOY_484.jpg": {
+  "verdict": "C",
+  "brand_text": "老婆大人品牌Logo图片，非真实门头",
+  "poi": "B0JRJAGBOY",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0JRJAGBOY_485.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0JRJAGBOY",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0K2MSNO41_486.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人量贩零食",
+  "poi": "B0K2MSNO41",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0K2MSNO41_487.jpg": {
+  "verdict": "C",
+  "brand_text": "零食货架，非门头",
+  "poi": "B0K2MSNO41",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0L031EEHK_471.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0L031EEHK",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0L031EEHK_472.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人（楼上曼蒂酒店）",
+  "poi": "B0L031EEHK",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0M1K7RBIT_479.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人量贩零食",
+  "poi": "B0M1K7RBIT",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0M1K7RBIT_480.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0M1K7RBIT",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MDMUYIXG_481.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人量贩零食",
+  "poi": "B0MDMUYIXG",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MDMUYIXG_482.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人",
+  "poi": "B0MDMUYIXG",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MDMUYIXG_483.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品堆头，非门头",
+  "poi": "B0MDMUYIXG",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MRGLMODN_474.jpg": {
+  "verdict": "C",
+  "brand_text": "零食货架，非门头",
+  "poi": "B0MRGLMODN",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MUS5BTET_469.jpg": {
+  "verdict": "A",
+  "brand_text": "老婆大人量贩零食",
+  "poi": "B0MUS5BTET",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0MUS5BTET_470.jpg": {
+  "verdict": "C",
+  "brand_text": "地图街景截图，非门头",
+  "poi": "B0MUS5BTET",
+  "brand_query": "老婆大人",
+  "brand_cat": "老婆大人"
+ },
+ "v16_B0FFFCVUER_535.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0FFFCVUER",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFFCVUER_536.jpg": {
+  "verdict": "B",
+  "brand_text": "真实店铺入口，招牌文字不可读",
+  "poi": "B0FFFCVUER",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFFY7KWL_540.jpg": {
+  "verdict": "C",
+  "brand_text": "室内卖场",
+  "poi": "B0FFFY7KWL",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFFY7KWL_541.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0FFFY7KWL",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFGG72QJ_517.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0FFGG72QJ",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFGG72QJ_518.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0FFGG72QJ",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFGSF7OH_537.jpg": {
+  "verdict": "C",
+  "brand_text": "良品铺子品牌LOGO图",
+  "poi": "B0FFGSF7OH",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFGSF7OH_538.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0FFGSF7OH",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFGSF7OH_539.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0FFGSF7OH",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFHDRQ0M_525.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，招牌文字不清",
+  "poi": "B0FFHDRQ0M",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFHDRQ0M_526.jpg": {
+  "verdict": "C",
+  "brand_text": "商品宣传效果图",
+  "poi": "B0FFHDRQ0M",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFHHH113_521.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0FFHHH113",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFHHH113_522.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，文字不清",
+  "poi": "B0FFHHH113",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0I05MYFMU_531.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0I05MYFMU",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0I05MYFMU_532.jpg": {
+  "verdict": "C",
+  "brand_text": "商品货架",
+  "poi": "B0I05MYFMU",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0I37AQB7A_533.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子",
+  "poi": "B0I37AQB7A",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0I37AQB7A_534.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子",
+  "poi": "B0I37AQB7A",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0J1ZHLO6N_523.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0J1ZHLO6N",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0J1ZHLO6N_524.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0J1ZHLO6N",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JKGZUZ8Z_529.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0JKGZUZ8Z",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JKGZUZ8Z_530.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子",
+  "poi": "B0JKGZUZ8Z",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JRNHZD4V_527.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE；旁边广佳生鲜",
+  "poi": "B0JRNHZD4V",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JRNHZD4V_528.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0JRNHZD4V",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JU3AZKPJ_519.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE",
+  "poi": "B0JU3AZKPJ",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0JU3AZKPJ_520.jpg": {
+  "verdict": "A",
+  "brand_text": "良品铺子 BESTORE（背景门头）",
+  "poi": "B0JU3AZKPJ",
+  "brand_query": "良品铺子",
+  "brand_cat": "良品铺子"
+ },
+ "v16_B0FFH48RWY_135.jpg": {
+  "verdict": "C",
+  "brand_text": "品牌卡通形象LOGO",
+  "poi": "B0FFH48RWY",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFH48RWY_136.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁易购 SUNING.COM",
+  "poi": "B0FFH48RWY",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFH48RWY_137.jpg": {
+  "verdict": "C",
+  "brand_text": "室内场景",
+  "poi": "B0FFH48RWY",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFI2HDQB_126.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁易购",
+  "poi": "B0FFI2HDQB",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFI2HDQB_127.jpg": {
+  "verdict": "A",
+  "brand_text": "洋河蓝色经典友谊食品店",
+  "poi": "B0FFI2HDQB",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFI2HDQB_128.jpg": {
+  "verdict": "A",
+  "brand_text": "洋河蓝色经典友谊食品店",
+  "poi": "B0FFI2HDQB",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFJYZJHU_141.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁易购 SUNING Pro",
+  "poi": "B0FFJYZJHU",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFJYZJHU_142.jpg": {
+  "verdict": "C",
+  "brand_text": "室内设备陈列",
+  "poi": "B0FFJYZJHU",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFK04DN3_132.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0FFK04DN3",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFK04DN3_133.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0FFK04DN3",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0FFK04DN3_134.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，雾气遮挡，文字不清",
+  "poi": "B0FFK04DN3",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0L23S4UGT_140.jpg": {
+  "verdict": "C",
+  "brand_text": "室内场景",
+  "poi": "B0L23S4UGT",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0L3SC36W7_138.jpg": {
+  "verdict": "C",
+  "brand_text": "商场通道",
+  "poi": "B0L3SC36W7",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0L3SC36W7_139.jpg": {
+  "verdict": "C",
+  "brand_text": "室内场景",
+  "poi": "B0L3SC36W7",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0LAXC3OKZ_123.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0LAXC3OKZ",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0LDFAX9KI_129.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0LDFAX9KI",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0LDFAX9KI_130.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0LDFAX9KI",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0LUGLND4G_124.jpg": {
+  "verdict": "C",
+  "brand_text": "室内场景",
+  "poi": "B0LUGLND4G",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0LUGLND4G_125.jpg": {
+  "verdict": "C",
+  "brand_text": "商场通道",
+  "poi": "B0LUGLND4G",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B0MG2N0BLT_131.jpg": {
+  "verdict": "C",
+  "brand_text": "建筑及街景，未见可确认门头",
+  "poi": "B0MG2N0BLT",
+  "brand_query": "苏宁小店",
+  "brand_cat": "苏宁小店"
+ },
+ "v16_B02500S6EP_387.jpg": {
+  "verdict": "B",
+  "brand_text": "真实门店门头，招牌文字不清",
+  "poi": "B02500S6EP",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B02500SXGI_386.jpg": {
+  "verdict": "A",
+  "brand_text": "零食FOOK",
+  "poi": "B02500SXGI",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFF5WEE2_394.jpg": {
+  "verdict": "A",
+  "brand_text": "见福便利店",
+  "poi": "B0FFF5WEE2",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFF6RKQF_388.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品陈列",
+  "poi": "B0FFF6RKQF",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFFY5T4C_393.jpg": {
+  "verdict": "A",
+  "brand_text": "苏宁小店",
+  "poi": "B0FFFY5T4C",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFGJY9VJ_392.jpg": {
+  "verdict": "A",
+  "brand_text": "凡悠便利店",
+  "poi": "B0FFGJY9VJ",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFHJGZUM_389.jpg": {
+  "verdict": "A",
+  "brand_text": "凡悠便利店（NO.6013）",
+  "poi": "B0FFHJGZUM",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFIOKAOV_390.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边商业门店，招牌文字不可辨",
+  "poi": "B0FFIOKAOV",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFIOKAOV_391.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料冷柜，室内商品陈列",
+  "poi": "B0FFIOKAOV",
+  "brand_query": "见福便利店",
+  "brand_cat": "见福"
+ },
+ "v16_B0FFJMGQ2U_188.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列",
+  "poi": "B0FFJMGQ2U",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFJMGQ2U_189.jpg": {
+  "verdict": "C",
+  "brand_text": "生鲜水果蔬菜陈列",
+  "poi": "B0FFJMGQ2U",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFJMGQ2U_190.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列",
+  "poi": "B0FFJMGQ2U",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFK9ND8N_179.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0FFK9ND8N",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFK9ND8N_180.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜商品陈列",
+  "poi": "B0FFK9ND8N",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFK9ND8N_181.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜商品陈列",
+  "poi": "B0FFK9ND8N",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKKJJBL_186.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0FFKKJJBL",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKKJJBL_187.jpg": {
+  "verdict": "B",
+  "brand_text": "街边真实门店远景，招牌不可辨",
+  "poi": "B0FFKKJJBL",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKKN21W_194.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0FFKKN21W",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKKN21W_195.jpg": {
+  "verdict": "C",
+  "brand_text": "水果商品陈列",
+  "poi": "B0FFKKN21W",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKKN21W_196.jpg": {
+  "verdict": "C",
+  "brand_text": "鸡蛋商品陈列",
+  "poi": "B0FFKKN21W",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKZXD0R_182.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0FFKZXD0R",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKZXD0R_183.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜商品陈列",
+  "poi": "B0FFKZXD0R",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0FFKZXD0R_184.jpg": {
+  "verdict": "C",
+  "brand_text": "超市货架商品陈列",
+  "poi": "B0FFKZXD0R",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0G3Z7RU78_167.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品（一件批发）",
+  "poi": "B0G3Z7RU78",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0G3Z7RU78_168.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0G3Z7RU78",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0G3Z7RU78_169.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0G3Z7RU78",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0GUJBMOKP_191.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0GUJBMOKP",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0GUJBMOKP_192.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部（一件批发）",
+  "poi": "B0GUJBMOKP",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0GUJBMOKP_193.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0GUJBMOKP",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0IAVMF119_170.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0IAVMF119",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0IAVMF119_171.jpg": {
+  "verdict": "C",
+  "brand_text": "室内商品货架",
+  "poi": "B0IAVMF119",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0IAVMF119_172.jpg": {
+  "verdict": "C",
+  "brand_text": "室内超市货架",
+  "poi": "B0IAVMF119",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0K3SHK2ZK_173.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0K3SHK2ZK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0K3SHK2ZK_174.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品批发部",
+  "poi": "B0K3SHK2ZK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0K3SHK2ZK_175.jpg": {
+  "verdict": "B",
+  "brand_text": "夜间真实门店，招牌过曝不可辨",
+  "poi": "B0K3SHK2ZK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0LBG54XVK_176.jpg": {
+  "verdict": "A",
+  "brand_text": "谊品生鲜",
+  "poi": "B0LBG54XVK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0LBG54XVK_177.jpg": {
+  "verdict": "C",
+  "brand_text": "鸡蛋商品陈列",
+  "poi": "B0LBG54XVK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0LBG54XVK_178.jpg": {
+  "verdict": "C",
+  "brand_text": "生鲜商品陈列",
+  "poi": "B0LBG54XVK",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0MAG909TH_185.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边门店，招牌文字不可辨",
+  "poi": "B0MAG909TH",
+  "brand_query": "谊品生鲜",
+  "brand_cat": "谊品生鲜"
+ },
+ "v16_B0J0BLVBNL_243.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0J0BLVBNL",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J0BLVBNL_244.jpg": {
+  "verdict": "C",
+  "brand_text": "商品促销陈列",
+  "poi": "B0J0BLVBNL",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J0BLVBNL_245.jpg": {
+  "verdict": "C",
+  "brand_text": "零食有鸣店内商品货架",
+  "poi": "B0J0BLVBNL",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1CMAS29_225.jpg": {
+  "verdict": "C",
+  "brand_text": "鸡蛋商品陈列",
+  "poi": "B0J1CMAS29",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1CMAS29_226.jpg": {
+  "verdict": "C",
+  "brand_text": "蔬菜商品陈列",
+  "poi": "B0J1CMAS29",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1CMAS29_227.jpg": {
+  "verdict": "B",
+  "brand_text": "真实街边门店，招牌文字不可辨",
+  "poi": "B0J1CMAS29",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1UU48ID_234.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0J1UU48ID",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1UU48ID_235.jpg": {
+  "verdict": "C",
+  "brand_text": "商品促销陈列",
+  "poi": "B0J1UU48ID",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J1UU48ID_236.jpg": {
+  "verdict": "C",
+  "brand_text": "零食店内商品货架",
+  "poi": "B0J1UU48ID",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J23ZB5AQ_215.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0J23ZB5AQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J23ZB5AQ_216.jpg": {
+  "verdict": "C",
+  "brand_text": "饮料商品货架",
+  "poi": "B0J23ZB5AQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0J23ZB5AQ_217.jpg": {
+  "verdict": "C",
+  "brand_text": "零食店内货架",
+  "poi": "B0J23ZB5AQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JB2SVPSQ_240.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0JB2SVPSQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JB2SVPSQ_241.jpg": {
+  "verdict": "C",
+  "brand_text": "零食商品货架",
+  "poi": "B0JB2SVPSQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JB2SVPSQ_242.jpg": {
+  "verdict": "C",
+  "brand_text": "门店内部货架，无门头",
+  "poi": "B0JB2SVPSQ",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JDVSLQBS_228.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0JDVSLQBS",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JDVSLQBS_229.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0JDVSLQBS",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0JDVSLQBS_230.jpg": {
+  "verdict": "C",
+  "brand_text": "门店内部通道",
+  "poi": "B0JDVSLQBS",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0K29AC5U9_218.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣（旁侧鑫彦大药房）",
+  "poi": "B0K29AC5U9",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0K29AC5U9_219.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0K29AC5U9",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0K29AC5U9_220.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣（旁侧鑫彦大药房）",
+  "poi": "B0K29AC5U9",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0KD7HVU1V_222.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣批发超市（上方HELLO! 天天批发）",
+  "poi": "B0KD7HVU1V",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0KD7HVU1V_223.jpg": {
+  "verdict": "C",
+  "brand_text": "店内商品货架",
+  "poi": "B0KD7HVU1V",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0KD7HVU1V_224.jpg": {
+  "verdict": "C",
+  "brand_text": "门店内部货架",
+  "poi": "B0KD7HVU1V",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0LRZ9366G_246.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0LRZ9366G",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0LRZ9366G_247.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0LRZ9366G",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0LRZ9366G_248.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0LRZ9366G",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0M1HX55I9_221.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0M1HX55I9",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAPUWMV8_231.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣",
+  "poi": "B0MAPUWMV8",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAPUWMV8_232.jpg": {
+  "verdict": "C",
+  "brand_text": "门店内部货架",
+  "poi": "B0MAPUWMV8",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAPUWMV8_233.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣（上方康庄美地）",
+  "poi": "B0MAPUWMV8",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAV76J5M_237.jpg": {
+  "verdict": "A",
+  "brand_text": "零食有鸣批发超市",
+  "poi": "B0MAV76J5M",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAV76J5M_238.jpg": {
+  "verdict": "C",
+  "brand_text": "商品包装照片",
+  "poi": "B0MAV76J5M",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ },
+ "v16_B0MAV76J5M_239.jpg": {
+  "verdict": "C",
+  "brand_text": "门店内部商品陈列",
+  "poi": "B0MAV76J5M",
+  "brand_query": "零食有鸣",
+  "brand_cat": "零食有鸣"
+ }
+}
