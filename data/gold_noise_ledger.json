@@ -1,0 +1,1169 @@
+{
+ "v13_B00156E4FZ_132.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "招牌文字无法辨清",
+  "old_gold": "7-11",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0K2T5ROE1_91.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "招牌蓝绿色文字模糊",
+  "old_gold": "7-11",
+  "ocr_texts": [
+   "Paaien",
+   "推安"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0L0MB8BPX_197.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-Eleven",
+  "old_gold": "7-11",
+  "ocr_texts": [],
+  "vlm_read": "7-11",
+  "decision": "KEEP_ERROR"
+ },
+ "v13_B0LD05FGZ1_144.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-ELEVEN",
+  "old_gold": "7-11",
+  "ocr_texts": [
+   "红",
+   ""
+  ],
+  "vlm_read": "7-11",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0JAG5GD9D_153.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "商品货架，无门头文字",
+  "old_gold": "TODAY",
+  "ocr_texts": [
+   "清茶"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B01730IIDI_637.jpg": {
+  "vlm_brand": "丹尼斯",
+  "vlm_text": "丹尼斯全日鲜",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "尼斯全日鲜"
+  ],
+  "vlm_read": "丹尼斯",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0FFJCO54H_629.jpg": {
+  "vlm_brand": "丹尼斯",
+  "vlm_text": "丹尼斯全日鲜（DENNIS FRESH MART）",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "丹斯全日"
+  ],
+  "vlm_read": "丹尼斯",
+  "decision": "KEEP_ERROR"
+ },
+ "v12_B0FFGI6FGR_373.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内便利店，招牌文字不完整",
+  "old_gold": "京东便利店",
+  "ocr_texts": [
+   "电"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0L3SN237U_442.jpg": {
+  "vlm_brand": "京东便利店",
+  "vlm_text": "京东便利店",
+  "old_gold": "京东便利店",
+  "ocr_texts": [
+   "果生"
+  ],
+  "vlm_read": "京东便利店",
+  "decision": "KEEP_ERROR"
+ },
+ "v13_B00155QGSN_74.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "绿色横向招牌文字无法辨清",
+  "old_gold": "全家",
+  "ocr_texts": [
+   "文启·优思",
+   "本座二楼",
+   "学四高菌托教",
+   "400-658-8001"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0FFF5VH3A_67.jpg": {
+  "vlm_brand": "全家",
+  "vlm_text": "FamilyMart",
+  "old_gold": "全家",
+  "ocr_texts": [
+   "电",
+   "更民",
+   "东方证券",
+   "E工印"
+  ],
+  "vlm_read": "全家",
+  "decision": "KEEP_ERROR"
+ },
+ "v13_B0FFI0SXZK_126.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "全家福（疑似），无法确认具体品牌",
+  "old_gold": "全家",
+  "ocr_texts": [
+   "全",
+   "中司",
+   "电话2",
+   "woe"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0GKC4QBUS_530.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "绿色夜间灯箱，文字无法确认",
+  "old_gold": "利群",
+  "ocr_texts": [
+   "群便利店"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B000A8XETL_662.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "商场远景，品牌文字无法辨认",
+  "old_gold": "北京华联",
+  "ocr_texts": [
+   "生·："
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFLIQFLN_508.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内商铺，无法确认品牌",
+  "old_gold": "华润万家",
+  "ocr_texts": [
+   "万家导价到！省心更省钱"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFI2JVK7_182.jpg": {
+  "vlm_brand": "其他",
+  "vlm_text": "aPanda",
+  "old_gold": "喜士多",
+  "ocr_texts": [
+   "aPanda"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0L2X9ZD6Z_190.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-Eleven",
+  "old_gold": "喜士多",
+  "ocr_texts": [],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v12_B0FFKOXV9F_173.jpg": {
+  "vlm_brand": "其他",
+  "vlm_text": "美特好超市",
+  "old_gold": "天猫小店",
+  "ocr_texts": [
+   "天容六场",
+   "菜",
+   "湖",
+   "家常菜"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFIIPDAV_90.jpg": {
+  "vlm_brand": "其他",
+  "vlm_text": "重庆小面",
+  "old_gold": "天福",
+  "ocr_texts": [
+   "Happier",
+   "Eeryay！重庆小面",
+   "脆常小炒18年烟庆小汤"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFGXXW61_577.jpg": {
+  "vlm_brand": "永辉",
+  "vlm_text": "永辉超市",
+  "old_gold": "天虹",
+  "ocr_texts": [
+   ""
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFGXXW61_578.jpg": {
+  "vlm_brand": "永辉",
+  "vlm_text": "永辉超市",
+  "old_gold": "天虹",
+  "ocr_texts": [
+   "装电"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFLKNL1F_594.jpg": {
+  "vlm_brand": "天虹",
+  "vlm_text": "天虹",
+  "old_gold": "天虹",
+  "ocr_texts": [
+   "去卸",
+   "微信支付智慧门店"
+  ],
+  "vlm_read": "天虹",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B00155IQJW_330.jpg": {
+  "vlm_brand": "好德",
+  "vlm_text": "好德 alldays",
+  "old_gold": "好德",
+  "ocr_texts": [
+   "仔德allday"
+  ],
+  "vlm_read": "好德",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B00155IQLA_334.jpg": {
+  "vlm_brand": "好德",
+  "vlm_text": "好德 alldays",
+  "old_gold": "好德",
+  "ocr_texts": [
+   "alldays",
+   "alday"
+  ],
+  "vlm_read": "好德",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B00155KJEJ_317.jpg": {
+  "vlm_brand": "好邻居",
+  "vlm_text": "好邻",
+  "old_gold": "好德",
+  "ocr_texts": [
+   "allday"
+  ],
+  "vlm_read": "好邻居",
+  "decision": "EXCL_UNRES"
+ },
+ "v14_B0JKTZ4F0Y_143.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内商品展示，无法确认品牌",
+  "old_gold": "好想来",
+  "ocr_texts": [
+   "B号会员E",
+   "",
+   "中",
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v14_B0MDRAAKE8_161.jpg": {
+  "vlm_brand": "好想来",
+  "vlm_text": "好想来零食乐园",
+  "old_gold": "好想来",
+  "ocr_texts": [
+   "主持",
+   "表演",
+   "快板",
+   "配音"
+  ],
+  "vlm_read": "好想来",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0M6DR7MQY_59.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "夜景门头过远，文字无法确认",
+  "old_gold": "好想来",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v14_B0J2LMZFER_225.jpg": {
+  "vlm_brand": "好特卖",
+  "vlm_text": "好特卖 HotMaxx",
+  "old_gold": "好特卖",
+  "ocr_texts": [
+   " Ha"
+  ],
+  "vlm_read": "好特卖",
+  "decision": "KEEP_ERROR"
+ },
+ "v14_B0KU7HA329_237.jpg": {
+  "vlm_brand": "好特卖",
+  "vlm_text": "好特卖",
+  "old_gold": "好特卖",
+  "ocr_texts": [
+   "陕老板好持"
+  ],
+  "vlm_read": "好特卖",
+  "decision": "KEEP_ERROR"
+ },
+ "c0028_404dfc590d8a.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "疑似效果图，招牌文字无法确认",
+  "old_gold": "左邻右舍",
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFG69XD4_210.jpg": {
+  "vlm_brand": "十足",
+  "vlm_text": "十足",
+  "old_gold": "快客",
+  "ocr_texts": [],
+  "vlm_read": "十足",
+  "decision": "EXCL_UNRES"
+ },
+ "v15_B0G22UVKIX_288.jpg": {
+  "vlm_brand": "悦来悦喜",
+  "vlm_text": "悦来悦喜 Happy mart",
+  "old_gold": "悦来悦喜",
+  "ocr_texts": [
+   "46号",
+   "",
+   "兄来悦真",
+   "24h"
+  ],
+  "vlm_read": "悦来悦喜",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0G22UVKIX_289.jpg": {
+  "vlm_brand": "悦来悦喜",
+  "vlm_text": "悦来悦喜 Happy mart",
+  "old_gold": "悦来悦喜",
+  "ocr_texts": [
+   "美风帽业一热"
+  ],
+  "vlm_read": "悦来悦喜",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0KUV7MI24_401.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "戴永红",
+  "ocr_texts": [
+   "电"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0LBRUD6YR_258.jpg": {
+  "vlm_brand": "新佳宜",
+  "vlm_text": "新佳宜 NEWJOY便利店",
+  "old_gold": "新佳宜",
+  "ocr_texts": [
+   "新主E",
+   "更木小店"
+  ],
+  "vlm_read": "新佳宜",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0LDG5EUDY_268.jpg": {
+  "vlm_brand": "苏宁易购",
+  "vlm_text": "苏宁易购",
+  "old_gold": "新佳宜",
+  "ocr_texts": [
+   "",
+   "悦鲜活99元20瓶.6"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0G0CPS6WB_179.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "罗森",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0H2BSKIMF_292.jpg": {
+  "vlm_brand": "其他品牌",
+  "vlm_text": "源浩便利店",
+  "old_gold": "芙蓉兴盛",
+  "ocr_texts": [
+   "原浩便利店"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0L27MK7CY_140.jpg": {
+  "vlm_brand": "芙蓉兴盛",
+  "vlm_text": "芙蓉兴盛（疑似）",
+  "old_gold": "芙蓉兴盛",
+  "ocr_texts": [
+   "州夫容兴店"
+  ],
+  "vlm_read": "芙蓉兴盛",
+  "decision": "KEEP_ERROR"
+ },
+ "v12_B0FFJ1E67M_163.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "芙蓉兴盛",
+  "ocr_texts": [
+   "美蓉兴",
+   "",
+   "心客户的光名！服务"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0G2C7ARAH_139.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "苏宁小店",
+  "ocr_texts": [
+   "",
+   "店"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0LDJ5W292_122.jpg": {
+  "vlm_brand": "苏宁小店",
+  "vlm_text": "苏宁小店",
+  "old_gold": "苏宁小店",
+  "ocr_texts": [
+   "办宁小皮",
+   ""
+  ],
+  "vlm_read": "苏宁小店",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0LUG7MANA_748.jpg": {
+  "vlm_brand": "谊品生鲜",
+  "vlm_text": "谊品鲜",
+  "old_gold": "谊品生鲜",
+  "ocr_texts": [
+   "宜品",
+   "直品群",
+   "加型热线400-"
+  ],
+  "vlm_read": "谊品生鲜",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0LUG7MANA_750.jpg": {
+  "vlm_brand": "谊品生鲜",
+  "vlm_text": "谊品鲜",
+  "old_gold": "谊品生鲜",
+  "ocr_texts": [
+   "宜品熊"
+  ],
+  "vlm_read": "谊品生鲜",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0J1NCHZNC_2.jpg": {
+  "vlm_brand": "零食很忙",
+  "vlm_text": "零食很忙",
+  "old_gold": "零食很忙",
+  "ocr_texts": [
+   "实食银托"
+  ],
+  "vlm_read": "零食很忙",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0KAFDM2S3_13.jpg": {
+  "vlm_brand": "老婆大人",
+  "vlm_text": "老婆大人（疑似）",
+  "old_gold": "零食很忙",
+  "ocr_texts": [
+   "大零食装",
+   "真果粒",
+   "真果粒",
+   "真果粒"
+  ],
+  "vlm_read": "老婆大人",
+  "decision": "EXCL_UNRES"
+ },
+ "v15_B0L6L1C1D7_444.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0MU744N14_440.jpg": {
+  "vlm_brand": "零食有鸣",
+  "vlm_text": "零食有鸣 批发超市",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [
+   "婴食有心",
+   "找发招市"
+  ],
+  "vlm_read": "零食有鸣",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0MU744N14_441.jpg": {
+  "vlm_brand": "零食有鸣",
+  "vlm_text": "零食有鸣 批发超市",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [
+   "雾食有吧",
+   "批发超市"
+  ],
+  "vlm_read": "零食有鸣",
+  "decision": "KEEP_ERROR"
+ },
+ "v13_B0LKDCNJLZ_166.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内冷柜及商品，未见品牌门头",
+  "old_gold": "7-11",
+  "ocr_texts": [
+   "好烧",
+   "房6研究所"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0FFGC1RMC_77.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "蓝色招牌，文字无法确认",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0FFGZ1RQT_88.jpg": {
+  "vlm_brand": "丹尼斯",
+  "vlm_text": "丹尼斯超市",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "D舟尼斯超市",
+   "DENNIS SUPERMARKE"
+  ],
+  "vlm_read": "丹尼斯",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0L1D7V1GH_93.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "红色门帘，招牌文字无法确认",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "出口",
+   "DEN",
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0KU97TPRX_157.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内商品陈列，无品牌门头",
+  "old_gold": "全家",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0L09CDR2R_195.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内便利店，无法确认",
+  "old_gold": "全家",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v14_B015F15DHF_55.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-ELEVEN",
+  "old_gold": "唐久",
+  "ocr_texts": [
+   "座久便鞋"
+  ],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v14_B0FFIJOCJ9_44.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-ELEVEN",
+  "old_gold": "唐久",
+  "ocr_texts": [],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v12_B0FFKZSSLU_397.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "红色招牌及熊猫图案，文字无法确认",
+  "old_gold": "天猫小店",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0HU4PJ0LZ_396.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "红色椭圆招牌文字无法辨清",
+  "old_gold": "天福",
+  "ocr_texts": [
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0IUUBFQNP_312.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "玻璃门及节日装饰，品牌无法确认",
+  "old_gold": "好德",
+  "ocr_texts": [
+   "Emerry",
+   "Christmas",
+   "hery Christmas",
+   "alldays"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0LDCHPUR3_443.jpg": {
+  "vlm_brand": "好想来",
+  "vlm_text": "好想来 零食",
+  "old_gold": "好想来",
+  "ocr_texts": [
+   "品馨",
+   "好粮来"
+  ],
+  "vlm_read": "好想来",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0JUYHHKOQ_319.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内商品货架，无法确认",
+  "old_gold": "好特卖",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "c0225_a5b5025d0726.jpg": {
+  "vlm_brand": "新佳宜",
+  "vlm_text": "新佳宜便利店 NEWJOY MART",
+  "old_gold": "左邻右舍",
+  "vlm_read": "新佳宜",
+  "decision": "EXCL_UNRES"
+ },
+ "c0303_543b2ea1bc56.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "手机画面，非门头",
+  "old_gold": "左邻右舍",
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0G3LLIYPC_225.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "红色招牌，文字无法确认",
+  "old_gold": "快客",
+  "ocr_texts": [
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0IUHZN37X_221.jpg": {
+  "vlm_brand": "其他",
+  "vlm_text": "快剪、雅琪美容",
+  "old_gold": "快客",
+  "ocr_texts": [
+   "Q-快容",
+   "雅琪美发"
+  ],
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0I1YZ8I02_53.jpg": {
+  "vlm_brand": "新佳宜",
+  "vlm_text": "新佳宜",
+  "old_gold": "新佳宜",
+  "ocr_texts": [
+   ""
+  ],
+  "vlm_read": "新佳宜",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0LDUSAGSJ_369.jpg": {
+  "vlm_brand": "每一天",
+  "vlm_text": "Everyday Chain 每一天",
+  "old_gold": "每一天",
+  "ocr_texts": [
+   "JErudaucnair",
+   "日一太",
+   "现￥3.9",
+   "温霜"
+  ],
+  "vlm_read": "每一天",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0I01CWPSH_707.jpg": {
+  "vlm_brand": "盒马鲜生",
+  "vlm_text": "盒马奥莱 FRESHIPPO OUTLETS",
+  "old_gold": "盒马鲜生",
+  "ocr_texts": [
+   "FRESHIPPO",
+   "奥莱",
+   "OUTLETS"
+  ],
+  "vlm_read": "盒马鲜生",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0IGMD7AI4_371.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "商品展示橱窗，品牌无法确认",
+  "old_gold": "老婆大人",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFG84HD8_354.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内零食货架，无法确认",
+  "old_gold": "良品铺子",
+  "ocr_texts": [
+   "中",
+   "（坚",
+   "广山检"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0FFGO9U70_221.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "美香兴盛（疑似），无法确认品牌身份",
+  "old_gold": "芙蓉兴盛",
+  "ocr_texts": [
+   "空兴",
+   "文综合经营部中国体有彩票"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0IAVMF119_170.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "直品批发部（前两字无法确认）",
+  "old_gold": "谊品生鲜",
+  "ocr_texts": [
+   "批发部",
+   "一件也批发"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0KAHL0P26_20.jpg": {
+  "vlm_brand": "零食很忙",
+  "vlm_text": "零食很忙",
+  "old_gold": "零食很忙",
+  "ocr_texts": [
+   "零食退忙",
+   "食退忙"
+  ],
+  "vlm_read": "零食很忙",
+  "decision": "KEEP_ERROR"
+ },
+ "v15_B0MRTCXZYD_6.jpg": {
+  "vlm_brand": "零食很忙",
+  "vlm_text": "零食很忙（BUSY FOR YOU）",
+  "old_gold": "零食很忙",
+  "ocr_texts": [
+   "中限技",
+   "BUYOU",
+   "",
+   "，8时2天"
+  ],
+  "vlm_read": "零食很忙",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B0MD1ZRZFA_473.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "门头上方文字无法辨清",
+  "old_gold": "三只松鼠",
+  "ocr_texts": [
+   "无湖中御公馆生活馆No.003",
+   "好货不贵个三餐必备"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0MD1ZRZFA_474.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "黄色招牌可见“生活馆”",
+  "old_gold": "三只松鼠",
+  "ocr_texts": [
+   "霸生活馆",
+   "十大必买榜",
+   "新鲜开馆",
+   "福品生活馆"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0I03H0RA7_226.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "未见可辨认的品牌招牌",
+  "old_gold": "中百罗森",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0FFGHOHVR_641.jpg": {
+  "vlm_brand": "丹尼斯",
+  "vlm_text": "DENNIS 丹尼斯",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "坊",
+   "JENNIS",
+   "平尼斯",
+   "8.8."
+  ],
+  "vlm_read": "丹尼斯",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B017B02VN5_72.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "商品陈列，无品牌门头",
+  "old_gold": "丹尼斯",
+  "ocr_texts": [
+   "17.90",
+   "消械"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0H6GC0UV4_270.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "蓝底白字招牌无法准确辨认",
+  "old_gold": "京东便利店",
+  "ocr_texts": [
+   "华夏便利店"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0LRZZ1VTY_441.jpg": {
+  "vlm_brand": "京东便利店",
+  "vlm_text": "京东便利",
+  "old_gold": "京东便利店",
+  "ocr_texts": [
+   "只乐便木",
+   "友节特惠",
+   "全宾海购"
+  ],
+  "vlm_read": "京东便利店",
+  "decision": "KEEP_ERROR"
+ },
+ "v12_B0MBG53GTM_476.jpg": {
+  "vlm_brand": "京东便利店",
+  "vlm_text": "京东便利店",
+  "old_gold": "京东便利店",
+  "ocr_texts": [
+   "中"
+  ],
+  "vlm_read": "京东便利店",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B0FFLJFBIE_611.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "街边商铺招牌无法辨认",
+  "old_gold": "人人乐",
+  "ocr_texts": [
+   "经营：",
+   "手机照片",
+   "快速冲印"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0FFJFIX16_427.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "建筑竖排招牌文字无法确认",
+  "old_gold": "佳乐家",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v13_B0MDAS2VJT_107.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "建筑底部门头文字无法辨清",
+  "old_gold": "全家",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0H6P4NKSH_136.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "可见“超市”，前方品牌文字无法确认",
+  "old_gold": "利群",
+  "ocr_texts": [
+   "利翻",
+   "超市"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B000AAA562_675.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "可读“北京……购物中心”，中间文字无法确认",
+  "old_gold": "北京华联",
+  "ocr_texts": [
+   "北事带联造造总部中会"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0FFKKJM4I_559.jpg": {
+  "vlm_brand": "北国超市",
+  "vlm_text": "北国超市",
+  "old_gold": "北国",
+  "ocr_texts": [
+   "建华城市广场",
+   "负一层美食街",
+   "华玉超市建华"
+  ],
+  "vlm_read": "北国",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B00140U6H5_157.jpg": {
+  "vlm_brand": "华润万家",
+  "vlm_text": "华润万家",
+  "old_gold": "华润万家",
+  "ocr_texts": [
+   "中",
+   "Cango",
+   "电",
+   "电"
+  ],
+  "vlm_read": "华润万家",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B021406K9C_331.jpg": {
+  "vlm_brand": "友客",
+  "vlm_text": "友客 YOUKE",
+  "old_gold": "友客",
+  "ocr_texts": [
+   "SYUKE",
+   "你身边的（24h）便利店"
+  ],
+  "vlm_read": "友客",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B0MGJYB9ZE_320.jpg": {
+  "vlm_brand": "友客",
+  "vlm_text": "友客",
+  "old_gold": "友客",
+  "ocr_texts": [],
+  "vlm_read": "友客",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B0FFFYKHXK_420.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "红黄色横幅文字无法辨清",
+  "old_gold": "合家欢",
+  "ocr_texts": [
+   "千兆宽产",
+   "家欢百树"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0J1BHMNPX_402.jpg": {
+  "vlm_brand": "合家欢",
+  "vlm_text": "合家欢",
+  "old_gold": "合家欢",
+  "ocr_texts": [
+   "来",
+   "豆台家清姐",
+   "新鲜"
+  ],
+  "vlm_read": "合家欢",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B02000IR2D_117.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-Eleven",
+  "old_gold": "喜士多",
+  "ocr_texts": [],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v16_B0JU1YKHRP_15.jpg": {
+  "vlm_brand": "天虹",
+  "vlm_text": "天虹购物中心",
+  "old_gold": "天虹",
+  "ocr_texts": [
+   "天",
+   "INBOW"
+  ],
+  "vlm_read": "天虹",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0J135NU0Z_293.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "室内商品陈列，无品牌门头",
+  "old_gold": "好特卖",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B000A80WCV_264.jpg": {
+  "vlm_brand": "好邻居",
+  "vlm_text": "Convenience 好邻居",
+  "old_gold": "好邻居",
+  "ocr_texts": [
+   "Cm"
+  ],
+  "vlm_read": "好邻居",
+  "decision": "KEEP_ERROR"
+ },
+ "v17_B0G1DLJRF7_279.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "门头文字无法辨清",
+  "old_gold": "好邻居",
+  "ocr_texts": [
+   "果多美",
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "c0560_f04ed1a73b5a.jpg": {
+  "vlm_brand": "每日生鲜",
+  "vlm_text": "每日生鲜超市",
+  "old_gold": "左邻右舍",
+  "vlm_read": null,
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B023B06AGQ_334.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "快客",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0JD5B75HE_280.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "悦来悦喜",
+  "ocr_texts": [
+   "培",
+   ""
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0JD5B75HE_282.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "悦来悦喜",
+  "ocr_texts": [
+   "电"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0HAXSKX43_152.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "悦来悦喜",
+  "ocr_texts": [
+   "田材鑫机电公司总"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0JUS9T5KA_494.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "戴永红",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0MUT1LZA9_376.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "EveryDay",
+  "old_gold": "每一天",
+  "ocr_texts": [
+   "电",
+   "商品"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0FFK48PYU_423.jpg": {
+  "vlm_brand": "盒马鲜生",
+  "vlm_text": "盒马鲜生",
+  "old_gold": "盒马鲜生",
+  "ocr_texts": [
+   "京火暴",
+   "中"
+  ],
+  "vlm_read": "盒马鲜生",
+  "decision": "KEEP_ERROR"
+ },
+ "v14_B0FFLGWLTK_73.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "红旗连锁",
+  "ocr_texts": [
+   "红镇连锁"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v14_B0FFLGWLTK_74.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-Eleven",
+  "old_gold": "红旗连锁",
+  "ocr_texts": [
+   "小事平堂"
+  ],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v12_B0G1RO4D5C_260.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "新力有家",
+  "old_gold": "美宜佳",
+  "ocr_texts": [
+   "新力有家",
+   "24H"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v12_B0LKAB80ND_87.jpg": {
+  "vlm_brand": "美宜佳",
+  "vlm_text": "美宜佳便利店",
+  "old_gold": "美宜佳",
+  "ocr_texts": [
+   "赛谊佳",
+   "更！",
+   "烟草专"
+  ],
+  "vlm_read": "美宜佳",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0M1K7RBIT_480.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "无法确认",
+  "old_gold": "老婆大人",
+  "ocr_texts": [
+   "老疆大人",
+   "："
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v15_B0K3DHKPAX_49.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "零食（后续文字无法确认）",
+  "old_gold": "赵一鸣零食",
+  "ocr_texts": [
+   "零食"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v17_B0FFJKR6MN_347.jpg": {
+  "vlm_brand": "7-Eleven",
+  "vlm_text": "7-Eleven",
+  "old_gold": "金虎",
+  "ocr_texts": [
+   "年"
+  ],
+  "vlm_read": "7-11",
+  "decision": "EXCL_UNRES"
+ },
+ "v17_B0FFJKR6MN_348.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "疑似便利店，招牌文字无法确认",
+  "old_gold": "金虎",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0LRZ9366G_246.jpg": {
+  "vlm_brand": "零食有鸣",
+  "vlm_text": "零食有鸣",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [
+   "基食有",
+   "YUMM",
+   "批爱超市"
+  ],
+  "vlm_read": "零食有鸣",
+  "decision": "KEEP_ERROR"
+ },
+ "v16_B0LRZ9366G_247.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "夜景招牌过曝，无法确认",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [
+   "乌物市"
+  ],
+  "decision": "EXCL_DEAD"
+ },
+ "v16_B0LRZ9366G_248.jpg": {
+  "vlm_brand": "无法确认",
+  "vlm_text": "夜景招牌过曝，无法确认",
+  "old_gold": "零食有鸣",
+  "ocr_texts": [],
+  "decision": "EXCL_DEAD"
+ }
+}
