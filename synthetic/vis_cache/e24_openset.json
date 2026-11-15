@@ -1,0 +1,3182 @@
+[
+ {
+  "gold": "7-11",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.624,
+  "margin": 0.043,
+  "near": 0.5196,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.875,
+  "margin": 0.86,
+  "near": 0.8099,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.234,
+  "margin": 0.22,
+  "near": 0.7249,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.996,
+  "margin": 0.983,
+  "near": 0.8253,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.996,
+  "margin": 0.982,
+  "near": 0.7862,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "p_top1": 0.217,
+  "margin": 0.177,
+  "near": 0.6988,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "p_top1": 0.125,
+  "margin": 0.008,
+  "near": 0.6184,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "text_cand",
+  "p_top1": 0.525,
+  "margin": 0.472,
+  "near": 0.6864,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.956,
+  "margin": 0.819,
+  "near": 0.6646,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.337,
+  "margin": 0.299,
+  "near": 0.5766,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.889,
+  "margin": 0.85,
+  "near": 0.7649,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "TODAY",
+  "pred": "开市客",
+  "source": "text_all",
+  "p_top1": 0.985,
+  "margin": 0.933,
+  "near": 0.7653,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "TODAY",
+  "pred": "TODAY",
+  "source": "text_all",
+  "p_top1": 0.407,
+  "margin": 0.325,
+  "near": 0.6742,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "TODAY",
+  "pred": "TODAY",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.971,
+  "near": 0.7974,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "TODAY",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.035,
+  "margin": 0.021,
+  "near": 0.6066,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.952,
+  "margin": 0.774,
+  "near": 0.8287,
+  "cjk": 11,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.856,
+  "margin": 0.832,
+  "near": 0.7972,
+  "cjk": 7,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.613,
+  "margin": 0.017,
+  "near": 0.8288,
+  "cjk": 21,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.29,
+  "margin": 0.065,
+  "near": 0.7857,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.69,
+  "margin": 0.609,
+  "near": 0.8402,
+  "cjk": 11,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.597,
+  "margin": 0.591,
+  "near": 0.808,
+  "cjk": 9,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.627,
+  "margin": 0.593,
+  "near": 0.8483,
+  "cjk": 17,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.108,
+  "margin": 0.001,
+  "near": 0.8356,
+  "cjk": 13,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.653,
+  "near": 0.7918,
+  "cjk": 19,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.051,
+  "margin": 0.022,
+  "near": 0.791,
+  "cjk": 12,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.181,
+  "near": 0.828,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.999,
+  "margin": 0.001,
+  "near": 0.8159,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.158,
+  "margin": 0.124,
+  "near": 0.7584,
+  "cjk": 6,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.138,
+  "margin": 0.091,
+  "near": 0.835,
+  "cjk": 26,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.173,
+  "margin": 0.158,
+  "near": 0.7192,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.775,
+  "margin": 0.74,
+  "near": 0.7383,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.091,
+  "margin": 0.06,
+  "near": 0.7043,
+  "cjk": 9,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.123,
+  "margin": 0.116,
+  "near": 0.8806,
+  "cjk": 6,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.885,
+  "margin": 0.864,
+  "near": 0.6127,
+  "cjk": 14,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.962,
+  "margin": 0.694,
+  "near": 0.7086,
+  "cjk": 7,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "p_top1": 0.091,
+  "margin": 0.081,
+  "near": 0.6919,
+  "cjk": 17,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.642,
+  "margin": 0.619,
+  "near": 0.732,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.773,
+  "margin": 0.765,
+  "near": 0.6371,
+  "cjk": 13,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.984,
+  "margin": 0.965,
+  "near": 0.7227,
+  "cjk": 5,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.091,
+  "margin": 0.02,
+  "near": 0.621,
+  "cjk": 12,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.841,
+  "margin": 0.825,
+  "near": 0.6922,
+  "cjk": 11,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.979,
+  "margin": 0.575,
+  "near": 0.6765,
+  "cjk": 7,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "全家",
+  "source": "text_all",
+  "p_top1": 0.243,
+  "margin": 0.231,
+  "near": 0.6575,
+  "cjk": 2,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.995,
+  "near": 0.7657,
+  "cjk": 0,
+  "is_local": true
+ },
+ {
+  "gold": "local",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.981,
+  "near": 0.6914,
+  "cjk": 3,
+  "is_local": true
+ },
+ {
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "p_top1": 0.91,
+  "margin": 0.882,
+  "near": 0.834,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_all",
+  "p_top1": 0.051,
+  "margin": 0.027,
+  "near": 0.8152,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "p_top1": 0.847,
+  "margin": 0.616,
+  "near": 0.6639,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "万嘉",
+  "pred": "罗森",
+  "source": "text_all",
+  "p_top1": 0.998,
+  "margin": 0.984,
+  "near": 0.6608,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "p_top1": 0.012,
+  "margin": 0.007,
+  "near": 0.6534,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "丹尼斯",
+  "pred": "利群",
+  "source": "visual_fallback",
+  "p_top1": 0.024,
+  "margin": 0.008,
+  "near": 0.7997,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_all",
+  "p_top1": 0.011,
+  "margin": 0.001,
+  "near": 0.7361,
+  "cjk": 25,
+  "is_local": false
+ },
+ {
+  "gold": "丹尼斯",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "p_top1": 0.103,
+  "margin": 0.016,
+  "near": 0.7519,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "p_top1": 0.994,
+  "margin": 0.77,
+  "near": 0.7133,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.237,
+  "margin": 0.226,
+  "near": 0.8524,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.31,
+  "margin": 0.184,
+  "near": 0.8111,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.761,
+  "margin": 0.638,
+  "near": 0.6856,
+  "cjk": 20,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.985,
+  "margin": 0.862,
+  "near": 0.7212,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.323,
+  "margin": 0.23,
+  "near": 0.7181,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.317,
+  "margin": 0.197,
+  "near": 0.8174,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.98,
+  "near": 0.7032,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.97,
+  "margin": 0.604,
+  "near": 0.7142,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.484,
+  "margin": 0.422,
+  "near": 0.8174,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.887,
+  "margin": 0.87,
+  "near": 0.7689,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.964,
+  "margin": 0.514,
+  "near": 0.8094,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.985,
+  "margin": 0.163,
+  "near": 0.6717,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.949,
+  "margin": 0.945,
+  "near": 0.6771,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "p_top1": 0.085,
+  "margin": 0.08,
+  "near": 0.5252,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "p_top1": 0.928,
+  "margin": 0.067,
+  "near": 0.7482,
+  "cjk": 16,
+  "is_local": false
+ },
+ {
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "p_top1": 0.626,
+  "margin": 0.517,
+  "near": 0.6862,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "p_top1": 0.171,
+  "margin": 0.075,
+  "near": 0.8131,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "p_top1": 0.168,
+  "margin": 0.087,
+  "near": 0.7482,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "p_top1": 0.11,
+  "margin": 0.067,
+  "near": 0.7835,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.815,
+  "margin": 0.746,
+  "near": 0.7971,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "p_top1": 0.014,
+  "margin": 0.002,
+  "near": 0.7143,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.655,
+  "margin": 0.541,
+  "near": 0.7567,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "开市客",
+  "source": "text_all",
+  "p_top1": 0.644,
+  "margin": 0.576,
+  "near": 0.6514,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.979,
+  "near": 0.7848,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.068,
+  "margin": 0.034,
+  "near": 0.7321,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_all",
+  "p_top1": 0.969,
+  "margin": 0.923,
+  "near": 0.7472,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "p_top1": 0.089,
+  "margin": 0.044,
+  "near": 0.7729,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "p_top1": 0.364,
+  "margin": 0.275,
+  "near": 0.7917,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "利群",
+  "pred": "利群",
+  "source": "text_cand",
+  "p_top1": 0.226,
+  "margin": 0.166,
+  "near": 0.6948,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "利群",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.317,
+  "margin": 0.3,
+  "near": 0.601,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "利群",
+  "pred": "利群",
+  "source": "text_all",
+  "p_top1": 0.654,
+  "margin": 0.477,
+  "near": 0.7867,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "北京华联",
+  "pred": "北京华联",
+  "source": "text_all",
+  "p_top1": 0.739,
+  "margin": 0.263,
+  "near": 0.605,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "北京华联",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "p_top1": 0.771,
+  "margin": 0.702,
+  "near": 0.7113,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "北京华联",
+  "pred": "好特卖",
+  "source": "text_all",
+  "p_top1": 0.977,
+  "margin": 0.443,
+  "near": 0.6749,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "p_top1": 0.348,
+  "margin": 0.335,
+  "near": 0.6175,
+  "cjk": 21,
+  "is_local": false
+ },
+ {
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "p_top1": 0.206,
+  "margin": 0.063,
+  "near": 0.6296,
+  "cjk": 26,
+  "is_local": false
+ },
+ {
+  "gold": "华润万家",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "p_top1": 0.656,
+  "margin": 0.588,
+  "near": 0.6847,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "p_top1": 0.009,
+  "margin": 0.002,
+  "near": 0.77,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "唐久",
+  "pred": "唐久",
+  "source": "text_all",
+  "p_top1": 0.382,
+  "margin": 0.041,
+  "near": 0.5842,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "唐久",
+  "pred": "开市客",
+  "source": "text_all",
+  "p_top1": 0.895,
+  "margin": 0.605,
+  "near": 0.7502,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "唐久",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "p_top1": 0.326,
+  "margin": 0.066,
+  "near": 0.7127,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "p_top1": 0.74,
+  "margin": 0.686,
+  "near": 0.68,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "喜士多",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.166,
+  "margin": 0.04,
+  "near": 0.6898,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "喜士多",
+  "pred": "喜士多",
+  "source": "text_cand",
+  "p_top1": 0.782,
+  "margin": 0.767,
+  "near": 0.8141,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "喜士多",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.144,
+  "margin": 0.105,
+  "near": 0.807,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.722,
+  "margin": 0.545,
+  "near": 0.834,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "p_top1": 0.984,
+  "margin": 0.274,
+  "near": 0.8742,
+  "cjk": 15,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "p_top1": 0.665,
+  "margin": 0.072,
+  "near": 0.7708,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_all",
+  "p_top1": 0.106,
+  "margin": 0.048,
+  "near": 0.7682,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "p_top1": 0.557,
+  "margin": 0.388,
+  "near": 0.807,
+  "cjk": 19,
+  "is_local": false
+ },
+ {
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_all",
+  "p_top1": 0.481,
+  "margin": 0.406,
+  "near": 0.7018,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "p_top1": 0.879,
+  "margin": 0.424,
+  "near": 0.623,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "p_top1": 1.0,
+  "margin": 0.98,
+  "near": 0.6604,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "p_top1": 0.094,
+  "margin": 0.051,
+  "near": 0.8175,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "p_top1": 0.149,
+  "margin": 0.14,
+  "near": 0.7054,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "p_top1": 0.107,
+  "margin": 0.055,
+  "near": 0.6602,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.034,
+  "margin": 0.01,
+  "near": 0.7211,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "p_top1": 0.974,
+  "margin": 0.964,
+  "near": 0.6075,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "p_top1": 0.058,
+  "margin": 0.031,
+  "near": 0.5816,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "天虹",
+  "pred": "天虹",
+  "source": "text_cand",
+  "p_top1": 0.897,
+  "margin": 0.573,
+  "near": 0.6795,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "天虹",
+  "pred": "红旗连锁",
+  "source": "visual_fallback",
+  "p_top1": 0.25,
+  "margin": 0.051,
+  "near": 0.6164,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "天虹",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.063,
+  "margin": 0.045,
+  "near": 0.6904,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "天虹",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.438,
+  "margin": 0.141,
+  "near": 0.7504,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "好德",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.06,
+  "margin": 0.015,
+  "near": 0.6699,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "好德",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "p_top1": 0.254,
+  "margin": 0.079,
+  "near": 0.6807,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "好德",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "p_top1": 0.147,
+  "margin": 0.05,
+  "near": 0.6952,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "好德",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.36,
+  "margin": 0.179,
+  "near": 0.6718,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "好德",
+  "pred": "好德",
+  "source": "text_cand",
+  "p_top1": 0.7,
+  "margin": 0.084,
+  "near": 0.7693,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "p_top1": 0.806,
+  "margin": 0.569,
+  "near": 0.8372,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "p_top1": 0.998,
+  "margin": 0.987,
+  "near": 0.8674,
+  "cjk": 21,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.232,
+  "margin": 0.165,
+  "near": 0.6857,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "p_top1": 0.017,
+  "margin": 0.005,
+  "near": 0.7836,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "p_top1": 0.946,
+  "margin": 0.236,
+  "near": 0.7371,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "p_top1": 0.407,
+  "margin": 0.27,
+  "near": 0.8285,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "p_top1": 0.973,
+  "margin": 0.919,
+  "near": 0.8337,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "p_top1": 0.27,
+  "margin": 0.169,
+  "near": 0.7072,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_all",
+  "p_top1": 0.305,
+  "margin": 0.252,
+  "near": 0.7249,
+  "cjk": 23,
+  "is_local": false
+ },
+ {
+  "gold": "好特卖",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.194,
+  "margin": 0.164,
+  "near": 0.7659,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "好特卖",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.244,
+  "margin": 0.211,
+  "near": 0.7957,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "p_top1": 0.042,
+  "margin": 0.015,
+  "near": 0.6588,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "p_top1": 0.173,
+  "margin": 0.013,
+  "near": 0.7052,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.97,
+  "margin": 0.95,
+  "near": 0.7948,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "p_top1": 0.046,
+  "margin": 0.041,
+  "near": 0.6054,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.998,
+  "near": 0.8213,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8682,
+  "cjk": 15,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.998,
+  "near": 0.8897,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.998,
+  "margin": 0.994,
+  "near": 0.8447,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.163,
+  "margin": 0.139,
+  "near": 0.7598,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.997,
+  "margin": 0.996,
+  "near": 0.8437,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.963,
+  "margin": 0.922,
+  "near": 0.8077,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.986,
+  "margin": 0.962,
+  "near": 0.779,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8625,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.992,
+  "margin": 0.591,
+  "near": 0.8157,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.978,
+  "near": 0.8575,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.998,
+  "margin": 0.991,
+  "near": 0.8911,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.988,
+  "near": 0.8609,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.997,
+  "near": 0.8467,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.992,
+  "near": 0.8869,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8908,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.955,
+  "margin": 0.95,
+  "near": 0.8611,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.944,
+  "near": 0.8313,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.996,
+  "near": 0.8445,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.993,
+  "margin": 0.992,
+  "near": 0.8799,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.997,
+  "margin": 0.986,
+  "near": 0.8226,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.975,
+  "margin": 0.9,
+  "near": 0.8091,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.998,
+  "near": 0.8817,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.994,
+  "near": 0.8984,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.987,
+  "near": 0.7977,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.973,
+  "margin": 0.724,
+  "near": 0.73,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.997,
+  "near": 0.8276,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.998,
+  "margin": 0.993,
+  "near": 0.8479,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.998,
+  "near": 0.8831,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.987,
+  "margin": 0.976,
+  "near": 0.8123,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8516,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.981,
+  "margin": 0.957,
+  "near": 0.8554,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.969,
+  "near": 0.8005,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.972,
+  "margin": 0.697,
+  "near": 0.8923,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.888,
+  "near": 0.826,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.993,
+  "near": 0.8899,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.981,
+  "near": 0.8126,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.753,
+  "margin": 0.744,
+  "near": 0.8384,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.969,
+  "margin": 0.966,
+  "near": 0.7931,
+  "cjk": 16,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.985,
+  "near": 0.7398,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.999,
+  "near": 0.891,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8421,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.999,
+  "margin": 0.983,
+  "near": 0.8063,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.928,
+  "near": 0.8353,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.999,
+  "near": 0.9086,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.998,
+  "near": 0.8436,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.991,
+  "margin": 0.986,
+  "near": 0.8162,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.994,
+  "near": 0.8793,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.975,
+  "near": 0.854,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.998,
+  "margin": 0.992,
+  "near": 0.8619,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.995,
+  "near": 0.8627,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.944,
+  "near": 0.8976,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.364,
+  "margin": 0.349,
+  "near": 0.8389,
+  "cjk": 19,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.996,
+  "near": 0.882,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.637,
+  "margin": 0.556,
+  "near": 0.7878,
+  "cjk": 18,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.939,
+  "near": 0.7902,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.997,
+  "margin": 0.992,
+  "near": 0.8065,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.998,
+  "margin": 0.264,
+  "near": 0.7481,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.997,
+  "near": 0.7447,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.852,
+  "margin": 0.794,
+  "near": 0.8431,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.958,
+  "margin": 0.929,
+  "near": 0.7716,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.975,
+  "margin": 0.971,
+  "near": 0.8414,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.44,
+  "margin": 0.256,
+  "near": 0.8309,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.999,
+  "margin": 0.98,
+  "near": 0.8615,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.675,
+  "margin": 0.295,
+  "near": 0.8126,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.997,
+  "margin": 0.788,
+  "near": 0.8356,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.999,
+  "near": 0.8271,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8013,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "p_top1": 0.986,
+  "margin": 0.897,
+  "near": 0.7769,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "开市客",
+  "pred": "开市客",
+  "source": "text_all",
+  "p_top1": 0.252,
+  "margin": 0.175,
+  "near": 0.5216,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "快客",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "p_top1": 0.063,
+  "margin": 0.033,
+  "near": 0.6211,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "快客",
+  "pred": "7-11",
+  "source": "text_all",
+  "p_top1": 0.237,
+  "margin": 0.191,
+  "near": 0.8323,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "p_top1": 0.991,
+  "margin": 0.935,
+  "near": 0.7422,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "悦来悦喜",
+  "pred": "开市客",
+  "source": "text_all",
+  "p_top1": 0.157,
+  "margin": 0.077,
+  "near": 0.7282,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "text_cand",
+  "p_top1": 0.465,
+  "margin": 0.139,
+  "near": 0.7331,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "悦来悦喜",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "p_top1": 0.319,
+  "margin": 0.304,
+  "near": 0.7212,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "悦来悦喜",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.175,
+  "margin": 0.149,
+  "near": 0.7652,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "text_all",
+  "p_top1": 0.581,
+  "margin": 0.45,
+  "near": 0.8154,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback",
+  "p_top1": 0.878,
+  "margin": 0.677,
+  "near": 0.8109,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "text_cand",
+  "p_top1": 0.04,
+  "margin": 0.007,
+  "near": 0.8075,
+  "cjk": 30,
+  "is_local": false
+ },
+ {
+  "gold": "戴永红",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "p_top1": 0.008,
+  "margin": 0.002,
+  "near": 0.808,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_all",
+  "p_top1": 0.027,
+  "margin": 0.004,
+  "near": 0.7414,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "新佳宜",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.237,
+  "margin": 0.08,
+  "near": 0.8383,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "新佳宜",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.966,
+  "margin": 0.099,
+  "near": 0.7444,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "p_top1": 0.15,
+  "margin": 0.098,
+  "near": 0.7677,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "p_top1": 0.073,
+  "margin": 0.06,
+  "near": 0.7327,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "p_top1": 0.362,
+  "margin": 0.35,
+  "near": 0.7899,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "p_top1": 0.117,
+  "margin": 0.06,
+  "near": 0.7207,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "p_top1": 0.803,
+  "margin": 0.782,
+  "near": 0.7817,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "p_top1": 0.521,
+  "margin": 0.455,
+  "near": 0.8233,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "p_top1": 0.385,
+  "margin": 0.333,
+  "near": 0.8101,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "p_top1": 0.277,
+  "margin": 0.171,
+  "near": 0.6966,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.984,
+  "near": 0.7278,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.997,
+  "near": 0.8089,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.95,
+  "near": 0.795,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.995,
+  "near": 0.807,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.964,
+  "near": 0.7096,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "p_top1": 0.207,
+  "margin": 0.167,
+  "near": 0.7074,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.946,
+  "margin": 0.922,
+  "near": 0.7479,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.619,
+  "margin": 0.598,
+  "near": 0.6943,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.466,
+  "margin": 0.063,
+  "near": 0.7126,
+  "cjk": 19,
+  "is_local": false
+ },
+ {
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "p_top1": 0.957,
+  "margin": 0.95,
+  "near": 0.7384,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.031,
+  "margin": 0.003,
+  "near": 0.8072,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.614,
+  "margin": 0.593,
+  "near": 0.8071,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.076,
+  "margin": 0.066,
+  "near": 0.8742,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "p_top1": 0.591,
+  "margin": 0.562,
+  "near": 0.7901,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.159,
+  "margin": 0.146,
+  "near": 0.8093,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 1.0,
+  "margin": 0.472,
+  "near": 0.7292,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.933,
+  "margin": 0.91,
+  "near": 0.7965,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.741,
+  "margin": 0.726,
+  "near": 0.5793,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.358,
+  "margin": 0.298,
+  "near": 0.7267,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.252,
+  "margin": 0.235,
+  "near": 0.837,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.877,
+  "margin": 0.799,
+  "near": 0.8369,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.457,
+  "margin": 0.43,
+  "near": 0.8474,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.386,
+  "margin": 0.212,
+  "near": 0.8321,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.916,
+  "margin": 0.7,
+  "near": 0.8272,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.16,
+  "margin": 0.02,
+  "near": 0.807,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.327,
+  "margin": 0.293,
+  "near": 0.8265,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.035,
+  "margin": 0.032,
+  "near": 0.7593,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "p_top1": 0.161,
+  "margin": 0.15,
+  "near": 0.7956,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.755,
+  "margin": 0.593,
+  "near": 0.7561,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.89,
+  "margin": 0.654,
+  "near": 0.8211,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 0.996,
+  "margin": 0.902,
+  "near": 0.725,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "p_top1": 0.983,
+  "margin": 0.909,
+  "near": 0.6823,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "p_top1": 0.98,
+  "margin": 0.896,
+  "near": 0.7221,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_all",
+  "p_top1": 0.225,
+  "margin": 0.005,
+  "near": 0.7078,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "p_top1": 0.118,
+  "margin": 0.108,
+  "near": 0.7765,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "p_top1": 0.096,
+  "margin": 0.07,
+  "near": 0.812,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "p_top1": 0.056,
+  "margin": 0.017,
+  "near": 0.8367,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "p_top1": 0.994,
+  "margin": 0.953,
+  "near": 0.8147,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.985,
+  "margin": 0.451,
+  "near": 0.8048,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.992,
+  "near": 0.9183,
+  "cjk": 15,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.522,
+  "margin": 0.461,
+  "near": 0.8269,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.352,
+  "margin": 0.176,
+  "near": 0.8097,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 1.0,
+  "margin": 0.931,
+  "near": 0.8291,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.837,
+  "margin": 0.801,
+  "near": 0.8183,
+  "cjk": 2,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.285,
+  "margin": 0.099,
+  "near": 0.7596,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.606,
+  "margin": 0.597,
+  "near": 0.7953,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.98,
+  "near": 0.8103,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.335,
+  "margin": 0.302,
+  "near": 0.7574,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.9,
+  "margin": 0.829,
+  "near": 0.8008,
+  "cjk": 16,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.669,
+  "margin": 0.576,
+  "near": 0.7678,
+  "cjk": 14,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.957,
+  "margin": 0.008,
+  "near": 0.7492,
+  "cjk": 30,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.831,
+  "margin": 0.753,
+  "near": 0.6527,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.997,
+  "margin": 0.363,
+  "near": 0.679,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.917,
+  "near": 0.748,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "p_top1": 0.133,
+  "margin": 0.114,
+  "near": 0.7255,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.999,
+  "margin": 0.99,
+  "near": 0.7676,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_all",
+  "p_top1": 0.063,
+  "margin": 0.04,
+  "near": 0.6293,
+  "cjk": 6,
+  "is_local": false
+ },
+ {
+  "gold": "苏宁小店",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "p_top1": 0.203,
+  "margin": 0.137,
+  "near": 0.5806,
+  "cjk": 1,
+  "is_local": false
+ },
+ {
+  "gold": "苏宁小店",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.943,
+  "margin": 0.893,
+  "near": 0.7458,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_all",
+  "p_top1": 0.454,
+  "margin": 0.438,
+  "near": 0.7989,
+  "cjk": 7,
+  "is_local": false
+ },
+ {
+  "gold": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "p_top1": 0.056,
+  "margin": 0.012,
+  "near": 0.7956,
+  "cjk": 5,
+  "is_local": false
+ },
+ {
+  "gold": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "p_top1": 0.254,
+  "margin": 0.242,
+  "near": 0.8049,
+  "cjk": 11,
+  "is_local": false
+ },
+ {
+  "gold": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_all",
+  "p_top1": 0.199,
+  "margin": 0.137,
+  "near": 0.7401,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_cand",
+  "p_top1": 0.063,
+  "margin": 0.02,
+  "near": 0.6825,
+  "cjk": 17,
+  "is_local": false
+ },
+ {
+  "gold": "谊品生鲜",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "p_top1": 0.03,
+  "margin": 0.012,
+  "near": 0.7537,
+  "cjk": 9,
+  "is_local": false
+ },
+ {
+  "gold": "谊品生鲜",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.02,
+  "margin": 0.012,
+  "near": 0.8071,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "p_top1": 0.728,
+  "margin": 0.693,
+  "near": 0.7113,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "p_top1": 0.78,
+  "margin": 0.024,
+  "near": 0.7966,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "p_top1": 0.975,
+  "margin": 0.622,
+  "near": 0.8252,
+  "cjk": 27,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "p_top1": 0.921,
+  "margin": 0.903,
+  "near": 0.7482,
+  "cjk": 3,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "p_top1": 0.976,
+  "margin": 0.841,
+  "near": 0.8474,
+  "cjk": 22,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "p_top1": 0.981,
+  "margin": 0.904,
+  "near": 0.8111,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "p_top1": 0.618,
+  "margin": 0.582,
+  "near": 0.8145,
+  "cjk": 21,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "p_top1": 0.999,
+  "margin": 0.964,
+  "near": 0.795,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.749,
+  "margin": 0.734,
+  "near": 0.7947,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.191,
+  "margin": 0.164,
+  "near": 0.7889,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "p_top1": 0.37,
+  "margin": 0.355,
+  "near": 0.725,
+  "cjk": 15,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.129,
+  "margin": 0.005,
+  "near": 0.7211,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.183,
+  "margin": 0.14,
+  "near": 0.7688,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "local",
+  "source": "visual_fallback",
+  "p_top1": 0.236,
+  "margin": 0.196,
+  "near": 0.7149,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "p_top1": 0.047,
+  "margin": 0.026,
+  "near": 0.5612,
+  "cjk": 13,
+  "is_local": false
+ },
+ {
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "p_top1": 0.939,
+  "margin": 0.801,
+  "near": 0.8265,
+  "cjk": 12,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "p_top1": 0.231,
+  "margin": 0.127,
+  "near": 0.7987,
+  "cjk": 4,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "p_top1": 0.013,
+  "margin": 0.001,
+  "near": 0.8368,
+  "cjk": 10,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "p_top1": 0.867,
+  "margin": 0.641,
+  "near": 0.6783,
+  "cjk": 0,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "p_top1": 0.472,
+  "margin": 0.436,
+  "near": 0.768,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "p_top1": 0.713,
+  "margin": 0.413,
+  "near": 0.816,
+  "cjk": 18,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "p_top1": 0.137,
+  "margin": 0.048,
+  "near": 0.8281,
+  "cjk": 8,
+  "is_local": false
+ },
+ {
+  "gold": "零食有鸣",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "p_top1": 0.034,
+  "margin": 0.004,
+  "near": 0.7541,
+  "cjk": 8,
+  "is_local": false
+ }
+]
