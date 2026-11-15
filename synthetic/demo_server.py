@@ -64,6 +64,43 @@ for i in _rng.choice(locs, min(6, len(locs)), replace=False):
 print(f"画廊 {len(SAMPLES)} 张 (左邻右舍专场 {min(12, len(zn_test))})", flush=True)
 
 # ---------- 别名表(与 E25 冻结一致) ----------
+# ---------- 目录外知名品牌别名(OCR 命中直答"非目录", 不做视觉瞎猜) ----------
+FOREIGN = [
+    ("瑞幸咖啡", ["LUCKIN", "瑞幸"]),
+    ("库迪咖啡", ["COTTI", "库迪"]),
+    ("蜜雪冰城", ["MIXUE", "蜜雪冰城"]),
+    ("茶百道", ["茶百道", "CHAPANDA"]),
+    ("钱大妈", ["钱大妈"]),
+    ("生鲜传奇", ["生鲜传奇"]),
+    ("易捷", ["易捷", "EASYJOY", "EASYJOY"]),
+    ("昆仑好客", ["昆仑好客", "USMART"]),
+    ("Today便利店", ["TODAY"]),
+    ("36524便利店", ["36524"]),
+    ("可的", ["可的"]),
+    ("麦当劳", ["麦当劳", "MCDONALDS", "MCDONALD"]),
+    ("肯德基", ["肯德基", "KFC"]),
+    ("星巴克", ["星巴克", "STARBUCKS", "STARBUCK"]),
+    ("华莱士", ["华莱士"]),
+    ("汉堡王", ["汉堡王", "BURGERKING"]),
+    ("德克士", ["德克士", "DICOS"]),
+    ("正新鸡排", ["正新鸡排", "正新"]),
+    ("绝味鸭脖", ["绝味"]),
+    ("煌上煌", ["煌上煌"]),
+    ("来伊份", ["来伊份"]),
+    ("百果园", ["百果园"]),
+    ("喜茶", ["喜茶", "HEYTEA"]),
+    ("奈雪的茶", ["奈雪", "NAYUKI"]),
+    ("古茗", ["古茗"]),
+    ("沪上阿姨", ["沪上阿姨"]),
+    ("书亦烧仙草", ["书亦"]),
+    ("益禾堂", ["益禾堂"]),
+    ("一鸣真鲜奶吧", ["一鸣"]),
+    ("沙县小吃", ["沙县小吃"]),
+    ("老乡鸡", ["老乡鸡"]),
+    ("康师傅", ["康师傅"]),
+    ("统一", ["统一"]),
+]
+
 ALIAS = {
     "每一天": ["每一天"], "见福": ["见福"], "唐久": ["唐久"], "红旗连锁": ["红旗连锁", "红旗超市", "红旗"],
     "零食很忙": ["零食很忙"], "赵一鸣零食": ["赵一鸣", "赵一鸣省钱超市"], "好想来": ["好想来"],
@@ -139,6 +176,12 @@ def confirm(cands, texts):
     if scored:
         scored.sort(key=lambda kv: -kv[1])
         return scored[0][0], "text_all"
+    joined = "".join(tn)
+    for disp, als in FOREIGN:
+        for a in als:
+            na = re.sub(r"\s+", "", a).upper()
+            if na and na in joined:
+                return "非目录·" + disp, "text_foreign"
     return cands[0], "visual_fallback"
 
 
@@ -157,9 +200,10 @@ def infer(pil):
     cjk = sum(1 for t in texts for ch in t if "\u4e00" <= ch <= "\u9fff")
     unknown = False
     if source == "visual_fallback":
-        if cjk >= 4:               # 有可读文字但目录别名全不匹配 → 非目录品牌
+        latin_word = any(re.search(r"[A-Z]{4,}", t.upper()) for t in texts)
+        if cjk >= 4 or latin_word:   # 有可读文字但目录别名全不匹配 → 非目录品牌
             unknown = True
-        elif margin < 0.02:        # 探针分不开 → 不猜
+        elif margin < 0.02:          # 探针分不开 → 不猜
             unknown = True
     return {
         "brand": "unknown" if unknown else pred,
