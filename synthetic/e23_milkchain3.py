@@ -83,6 +83,11 @@ for lab_file, img_dir in (("data/v14_labels.json", "data/images_v14_milkchain"),
     for f, v in lab.items():
         if v.get("verdict") != "A" or f in have:
             continue
+        # 自证规则: A 判决但读出的品牌文字与目标品牌不符(前2字都不沾) → 标签不可信, 剔除
+        cat = v.get("brand_cat") or v.get("brand_query") or ""
+        bt = (v.get("brand_text") or "").replace(" ", "")
+        if cat and bt and bt[:2] != cat[:2] and cat[:2] not in bt:
+            continue
         p = ROOT / img_dir / f
         if not p.exists():
             continue
@@ -98,7 +103,7 @@ for lab_file, img_dir in (("data/v14_labels.json", "data/images_v14_milkchain"),
             pass
 Vc, Vd = e8.l2(np.stack(Vc)), e8.l2(np.stack(Vd))
 print(f"总行 {len(okrows)} (含新增 {n_new})", flush=True)
-np.savez(ROOT / "synthetic/vis_cache/e23_feats.npz", Vc=Vc, Vd=Vd, rows=np.array(okrows, dtype=object))
+np.savez(ROOT / "synthetic/vis_cache/e23b_feats.npz", Vc=Vc, Vd=Vd, rows=np.array(okrows, dtype=object))
 
 brands = sorted(set(r["brand"] for r in okrows))
 rng = np.random.RandomState(0)
@@ -211,4 +216,4 @@ print("判决来源:", dict(collections.Counter(o["source"] for o in known)))
 print(f"{'品牌':<10} {'n':>4} {'acc':>6}")
 for b, (c, n) in sorted(per.items(), key=lambda kv: -kv[1][1]):
     print(f"{b:<10} {n:>4} {c/n:>6.1%}")
-json.dump(out, open(ROOT / "synthetic/vis_cache/e23_results.json", "w"), ensure_ascii=False, indent=1)
+json.dump(out, open(ROOT / "synthetic/vis_cache/e23b_results.json", "w"), ensure_ascii=False, indent=1)
