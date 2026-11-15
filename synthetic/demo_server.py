@@ -44,10 +44,15 @@ for b in brands:
 galX = {b: X[gidx[b]] for b in probes}
 print(f"探针 {len(probes)} 品牌就绪", flush=True)
 
-# ---------- 样例画廊: 每品牌 ≤3 张测试分割图 + 6 张目录外 ----------
+# ---------- 样例画廊: 左邻右舍专场 12 张(测试分割)置顶 + 每品牌 ≤3 张 + 6 张目录外 ----------
 _rng = np.random.RandomState(7)
 SAMPLES = []
+zn_test = [i for i, r in enumerate(okrows) if r["brand"] == "左邻右舍" and i not in set(gidx["左邻右舍"])]
+for i in _rng.choice(zn_test, min(12, len(zn_test)), replace=False):
+    SAMPLES.append({"k": len(SAMPLES), "brand": "左邻右舍", "idx": int(i), "path": okrows[i]["path"]})
 for b in sorted(probes):
+    if b == "左邻右舍":
+        continue
     test_bi = [i for i, r in enumerate(okrows) if r["brand"] == b and i not in set(gidx[b])]
     if not test_bi:
         continue
@@ -56,7 +61,7 @@ for b in sorted(probes):
 locs = [i for i, r in enumerate(okrows) if r["brand"] == "local"]
 for i in _rng.choice(locs, min(6, len(locs)), replace=False):
     SAMPLES.append({"k": len(SAMPLES), "brand": "目录外", "idx": int(i), "path": okrows[i]["path"]})
-print(f"画廊 {len(SAMPLES)} 张", flush=True)
+print(f"画廊 {len(SAMPLES)} 张 (左邻右舍专场 {min(12, len(zn_test))})", flush=True)
 
 # ---------- 别名表(与 E25 冻结一致) ----------
 ALIAS = {
@@ -219,8 +224,13 @@ async function runK(k){
 }
 (async()=>{
   const items=await (await fetch('/gallery')).json();
-  gal.innerHTML=items.map(s=>`<div class="gcell ${s.brand==='目录外'?'out':''}" onclick="runK(${s.k})">
-    <img src="/img?k=${s.k}" loading=lazy><div class=gb>${s.brand}</div></div>`).join('');
+  const zn=items.filter(s=>s.brand==='左邻右舍'), rest=items.filter(s=>s.brand!=='左邻右舍');
+  const cell=s=>`<div class="gcell ${s.brand==='目录外'?'out':''}" onclick="runK(${s.k})">
+    <img src="/img?k=${s.k}" loading=lazy><div class=gb>${s.brand}</div></div>`;
+  gal.innerHTML=`<div class=mut style=margin:6px 0>—— 左邻右舍专场(测试图 ${zn.length} 张) ——</div>
+    <div style=display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px>${zn.map(cell).join('')}</div>
+    <div class=mut style=margin:12px 0 6px>—— 其他连锁与目录外 ——</div>
+    <div style=display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px>${rest.map(cell).join('')}</div>`;
 })();
 </script>"""
 
