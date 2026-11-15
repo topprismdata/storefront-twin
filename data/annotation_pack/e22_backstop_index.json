@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "id": "S0N01",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B00156E4FZ_132.jpg",
+   "gold": "7-11"
+  },
+  {
+   "id": "S0N02",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0K2T5ROE1_91.jpg",
+   "gold": "7-11"
+  },
+  {
+   "id": "S0N03",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0L0MB8BPX_197.jpg",
+   "gold": "7-11"
+  },
+  {
+   "id": "S0N04",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0LD05FGZ1_144.jpg",
+   "gold": "7-11"
+  },
+  {
+   "id": "S0N05",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0JAG5GD9D_153.jpg",
+   "gold": "TODAY"
+  },
+  {
+   "id": "S0N06",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B01730IIDI_637.jpg",
+   "gold": "丹尼斯"
+  },
+  {
+   "id": "S0N07",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFJCO54H_629.jpg",
+   "gold": "丹尼斯"
+  },
+  {
+   "id": "S0N08",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFGI6FGR_373.jpg",
+   "gold": "京东便利店"
+  },
+  {
+   "id": "S0N09",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L3SN237U_442.jpg",
+   "gold": "京东便利店"
+  },
+  {
+   "id": "S0N10",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B00155QGSN_74.jpg",
+   "gold": "全家"
+  },
+  {
+   "id": "S0N11",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFF5VH3A_67.jpg",
+   "gold": "全家"
+  },
+  {
+   "id": "S0N12",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFI0SXZK_126.jpg",
+   "gold": "全家"
+  },
+  {
+   "id": "S0N13",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0GKC4QBUS_530.jpg",
+   "gold": "利群"
+  },
+  {
+   "id": "S0N14",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B000A8XETL_662.jpg",
+   "gold": "北京华联"
+  },
+  {
+   "id": "S0N15",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFLIQFLN_508.jpg",
+   "gold": "华润万家"
+  },
+  {
+   "id": "S0N16",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFI2JVK7_182.jpg",
+   "gold": "喜士多"
+  },
+  {
+   "id": "S0N17",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0L2X9ZD6Z_190.jpg",
+   "gold": "喜士多"
+  },
+  {
+   "id": "S0N18",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFKOXV9F_173.jpg",
+   "gold": "天猫小店"
+  },
+  {
+   "id": "S1N01",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFIIPDAV_90.jpg",
+   "gold": "天福"
+  },
+  {
+   "id": "S1N02",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFGXXW61_577.jpg",
+   "gold": "天虹"
+  },
+  {
+   "id": "S1N03",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFGXXW61_578.jpg",
+   "gold": "天虹"
+  },
+  {
+   "id": "S1N04",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFLKNL1F_594.jpg",
+   "gold": "天虹"
+  },
+  {
+   "id": "S1N05",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B00155IQJW_330.jpg",
+   "gold": "好德"
+  },
+  {
+   "id": "S1N06",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B00155IQLA_334.jpg",
+   "gold": "好德"
+  },
+  {
+   "id": "S1N07",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B00155KJEJ_317.jpg",
+   "gold": "好德"
+  },
+  {
+   "id": "S1N08",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0JKTZ4F0Y_143.jpg",
+   "gold": "好想来"
+  },
+  {
+   "id": "S1N09",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0MDRAAKE8_161.jpg",
+   "gold": "好想来"
+  },
+  {
+   "id": "S1N10",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0M6DR7MQY_59.jpg",
+   "gold": "好想来"
+  },
+  {
+   "id": "S1N11",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0J2LMZFER_225.jpg",
+   "gold": "好特卖"
+  },
+  {
+   "id": "S1N12",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0KU7HA329_237.jpg",
+   "gold": "好特卖"
+  },
+  {
+   "id": "S1N13",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/c0028_404dfc590d8a.jpg",
+   "gold": "左邻右舍"
+  },
+  {
+   "id": "S1N14",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFG69XD4_210.jpg",
+   "gold": "快客"
+  },
+  {
+   "id": "S1N15",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0G22UVKIX_288.jpg",
+   "gold": "悦来悦喜"
+  },
+  {
+   "id": "S1N16",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0G22UVKIX_289.jpg",
+   "gold": "悦来悦喜"
+  },
+  {
+   "id": "S1N17",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0KUV7MI24_401.jpg",
+   "gold": "戴永红"
+  },
+  {
+   "id": "S1N18",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LBRUD6YR_258.jpg",
+   "gold": "新佳宜"
+  },
+  {
+   "id": "S2N01",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LDG5EUDY_268.jpg",
+   "gold": "新佳宜"
+  },
+  {
+   "id": "S2N02",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0G0CPS6WB_179.jpg",
+   "gold": "罗森"
+  },
+  {
+   "id": "S2N03",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0H2BSKIMF_292.jpg",
+   "gold": "芙蓉兴盛"
+  },
+  {
+   "id": "S2N04",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L27MK7CY_140.jpg",
+   "gold": "芙蓉兴盛"
+  },
+  {
+   "id": "S2N05",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFJ1E67M_163.jpg",
+   "gold": "芙蓉兴盛"
+  },
+  {
+   "id": "S2N06",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0G2C7ARAH_139.jpg",
+   "gold": "苏宁小店"
+  },
+  {
+   "id": "S2N07",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LDJ5W292_122.jpg",
+   "gold": "苏宁小店"
+  },
+  {
+   "id": "S2N08",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LUG7MANA_748.jpg",
+   "gold": "谊品生鲜"
+  },
+  {
+   "id": "S2N09",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LUG7MANA_750.jpg",
+   "gold": "谊品生鲜"
+  },
+  {
+   "id": "S2N10",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0J1NCHZNC_2.jpg",
+   "gold": "零食很忙"
+  },
+  {
+   "id": "S2N11",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0KAFDM2S3_13.jpg",
+   "gold": "零食很忙"
+  },
+  {
+   "id": "S2N12",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0L6L1C1D7_444.jpg",
+   "gold": "零食有鸣"
+  },
+  {
+   "id": "S2N13",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0MU744N14_440.jpg",
+   "gold": "零食有鸣"
+  },
+  {
+   "id": "S2N14",
+   "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0MU744N14_441.jpg",
+   "gold": "零食有鸣"
+  }
+ ]
+}

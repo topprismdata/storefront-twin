@@ -1,0 +1,4486 @@
+[
+ {
+  "file": "v13_B00156E4FZ_132.jpg",
+  "gold": "7-11",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.624,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0G3390VAS_123.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [
+   "MAGNUN",
+   "奥利澳"
+  ],
+  "p_top1": 0.875,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0K2T5ROE1_91.jpg",
+  "gold": "7-11",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "Paaien",
+   "推安"
+  ],
+  "p_top1": 0.234,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0KDYMSZSA_133.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.996,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0L0MB8BPX_196.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.996,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0L0MB8BPX_197.jpg",
+  "gold": "7-11",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.217,
+  "pred_vision": "喜士多",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LD05FGZ1_144.jpg",
+  "gold": "7-11",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "texts": [
+   "红",
+   ""
+  ],
+  "p_top1": 0.125,
+  "pred_vision": "唐久",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LD05FGZ1_145.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "text_cand",
+  "texts": [
+   "-ELEVEn",
+   "CEET",
+   ""
+  ],
+  "p_top1": 0.525,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LKDCNJLZ_164.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.956,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LKDCNJLZ_166.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [
+   "好烧",
+   "房6研究所"
+  ],
+  "p_top1": 0.337,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0M6BAGYVC_142.jpg",
+  "gold": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [
+   ""
+  ],
+  "p_top1": 0.889,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFKOO5LN_164.jpg",
+  "gold": "TODAY",
+  "pred": "开市客",
+  "source": "text_all",
+  "texts": [
+   "Codau",
+   "4块9"
+  ],
+  "p_top1": 0.985,
+  "pred_vision": "TODAY",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B0FFKVYCHC_150.jpg",
+  "gold": "TODAY",
+  "pred": "TODAY",
+  "source": "text_all",
+  "texts": [
+   "Today",
+   "小佩宠物"
+  ],
+  "p_top1": 0.407,
+  "pred_vision": "天猫小店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JAG5GD9D_152.jpg",
+  "gold": "TODAY",
+  "pred": "TODAY",
+  "source": "text_cand",
+  "texts": [
+   "todau",
+   "todo"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "TODAY",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JAG5GD9D_153.jpg",
+  "gold": "TODAY",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [
+   "清茶"
+  ],
+  "p_top1": 0.035,
+  "pred_vision": "7-11",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFJN9V6B_3.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "南昌",
+   "美宜佳",
+   "三明治",
+   "本店有"
+  ],
+  "p_top1": 0.952,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0FFL3ULMO_283.jpg",
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "m易美",
+   "智利庭",
+   "",
+   "棒冰"
+  ],
+  "p_top1": 0.856,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGGCUDX_255.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "168便利店",
+   "纯粮",
+   "纯粮固态发酵白酒",
+   "纯粮固态发酵白酒"
+  ],
+  "p_top1": 0.613,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L1OZNJK9_249.jpg",
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "学邻便利店"
+  ],
+  "p_top1": 0.29,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFL3ULMO_284.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "EM",
+   "易美",
+   "便利店",
+   "照相打字复印"
+  ],
+  "p_top1": 0.69,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0GK7R1VDN_366.jpg",
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "你的",
+   "更利店",
+   "need",
+   "解放路店"
+  ],
+  "p_top1": 0.597,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0JR2AE0JY_304.jpg",
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "古井有领·年份原装",
+   "承接",
+   "美邻便利店酒席"
+  ],
+  "p_top1": 0.627,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHLZUZR_252.jpg",
+  "gold": "local",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "昌市浩宝园",
+   "OT啥",
+   "花物",
+   "便利店"
+  ],
+  "p_top1": 0.108,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGIU7VP_343.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "牛河蓝色经典",
+   "南宗便利店",
+   "地址：畅达街45号电话：82284880"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFL3ULMO_282.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "礼",
+   "易美",
+   "便利店",
+   "照相打字复印"
+  ],
+  "p_top1": 0.051,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGBY7W6_273.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "郑发便利店"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGBY7W6_274.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "部发便利店"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKPGOUC_268.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "新刀有家",
+   "可口"
+  ],
+  "p_top1": 0.158,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0JR2AE0JY_306.jpg",
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "吉海有码·年粉原家",
+   "水果批发行",
+   "美邻便利店座",
+   "品南无味"
+  ],
+  "p_top1": 0.138,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFL9URIM_355.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "美好值利店"
+  ],
+  "p_top1": 0.173,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L1OZNJK9_251.jpg",
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "学邻便利店"
+  ],
+  "p_top1": 0.775,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGIU7VP_341.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "体育彩票",
+   "南宗便利店"
+  ],
+  "p_top1": 0.091,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MACOX8DC_11.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳（便利店"
+  ],
+  "p_top1": 0.123,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0MRUSL80V_15.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "荆花园社区卫生服务站",
+   "黄",
+   "美宜佳"
+  ],
+  "p_top1": 0.885,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0FFLH4CCD_148.jpg",
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "S",
+   "芙蓉兴盛",
+   "轰大鱼",
+   ""
+  ],
+  "p_top1": 0.962,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0FFIF8WFO_207.jpg",
+  "gold": "local",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "texts": [
+   "建通养生",
+   "创盛生命不能当儿图",
+   "芙蓉超市"
+  ],
+  "p_top1": 0.091,
+  "pred_vision": "丹尼斯",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0I6HA4XK8_198.jpg",
+  "gold": "local",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "建民大药店"
+  ],
+  "p_top1": 0.642,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0IDYMV6CB_417.jpg",
+  "gold": "local",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京喜便利",
+   "京东荔下社区生态店",
+   "011001"
+  ],
+  "p_top1": 0.773,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0FFL2RKOR_436.jpg",
+  "gold": "local",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利厂"
+  ],
+  "p_top1": 0.984,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0L1OZNJK9_250.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "欢迎光临",
+   "便利店",
+   "食饮料文具"
+  ],
+  "p_top1": 0.091,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0KDNGRFXR_326.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "烟酒副食",
+   "便利店",
+   "旧用百货"
+  ],
+  "p_top1": 0.841,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKPDQBN_241.jpg",
+  "gold": "local",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "路佳公寓超市美"
+  ],
+  "p_top1": 0.979,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155IWDK_60.jpg",
+  "gold": "local",
+  "pred": "全家",
+  "source": "text_all",
+  "texts": [
+   "全家Familyin"
+  ],
+  "p_top1": 0.243,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v13_B0LKRM5TXV_38.jpg",
+  "gold": "local",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "T.AWSON"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v13_B0LKRM5TXV_39.jpg",
+  "gold": "local",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWBON",
+   "便利店",
+   "A"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B024F04B9G_229.jpg",
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "texts": [
+   "茶业万嘉便利",
+   "JNT:STEA2",
+   "万嘉便利万嘉便利"
+  ],
+  "p_top1": 0.91,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHBANHT_228.jpg",
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_all",
+  "texts": [
+   "四“万嘉便",
+   "235"
+  ],
+  "p_top1": 0.051,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHDX83U_241.jpg",
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "texts": [
+   "万嘉便天"
+  ],
+  "p_top1": 0.847,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHDX83U_242.jpg",
+  "gold": "万嘉",
+  "pred": "罗森",
+  "source": "text_all",
+  "texts": [
+   "万",
+   "xlacmaij"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B0J6RRU0YR_238.jpg",
+  "gold": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "texts": [
+   "万嘉便利",
+   "MOCC",
+   ""
+  ],
+  "p_top1": 0.012,
+  "pred_vision": "万嘉",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B01730IIDI_637.jpg",
+  "gold": "丹尼斯",
+  "pred": "利群",
+  "source": "visual_fallback",
+  "texts": [
+   "尼斯全日鲜"
+  ],
+  "p_top1": 0.024,
+  "pred_vision": "利群",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFJCO54H_627.jpg",
+  "gold": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_all",
+  "texts": [
+   "药房",
+   "中原路多注村分丹尼斯全日的",
+   "万景#景游",
+   "DENNISFER全日鲜"
+  ],
+  "p_top1": 0.011,
+  "pred_vision": "悦来悦喜",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFJCO54H_629.jpg",
+  "gold": "丹尼斯",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "texts": [
+   "丹斯全日"
+  ],
+  "p_top1": 0.103,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0L63Z5KWR_647.jpg",
+  "gold": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "texts": [
+   "华山店",
+   "丹尼斯"
+  ],
+  "p_top1": 0.994,
+  "pred_vision": "丹尼斯",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0KAJC4R8H_468.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "利丰路店",
+   "京东便利店",
+   "报权店：1016215341"
+  ],
+  "p_top1": 0.237,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MU67V87M_418.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店",
+   "授权店：1048801506"
+  ],
+  "p_top1": 0.31,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L26DEB53_472.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "文一路店",
+   "京东便利店",
+   "限公司",
+   "1896宋江印小商品币场"
+  ],
+  "p_top1": 0.761,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LA76L5RQ_308.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店",
+   "快递",
+   "EXPRESS",
+   "20"
+  ],
+  "p_top1": 0.985,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MD5ZW267_433.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店"
+  ],
+  "p_top1": 0.323,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGI6FGR_373.jpg",
+  "gold": "京东便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [
+   "电"
+  ],
+  "p_top1": 0.317,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LA76L5RQ_309.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LA76L5RQ_310.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店",
+   "世快递",
+   "EXPRESS"
+  ],
+  "p_top1": 0.97,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKJMHB9_314.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "景川便利",
+   "京东便利店1002",
+   "京东"
+  ],
+  "p_top1": 0.484,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MR3O46EQ_427.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店",
+   "上饶吾悦店",
+   "要权店：1049"
+  ],
+  "p_top1": 0.887,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MD5ZW267_431.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店",
+   "上饶师院店",
+   "授权店：1046047542"
+  ],
+  "p_top1": 0.964,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MRF1UTG7_458.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "东东便利店"
+  ],
+  "p_top1": 0.985,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L3SN237U_442.jpg",
+  "gold": "京东便利店",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "果生"
+  ],
+  "p_top1": 0.949,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0J3292A17_457.jpg",
+  "gold": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "texts": [
+   "京东便利店"
+  ],
+  "p_top1": 0.085,
+  "pred_vision": "悦来悦喜",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B000A7KZNT_603.jpg",
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "texts": [
+   "患豊堂铜锅涮肉4",
+   "欠宜坊烤鸭店4",
+   "京客隆"
+  ],
+  "p_top1": 0.928,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B000A845C5_605.jpg",
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "texts": [
+   "原客隆",
+   "JINGKELONG"
+  ],
+  "p_top1": 0.626,
+  "pred_vision": "京客隆",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B000AA2159_609.jpg",
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "texts": [
+   "华安店",
+   "京客隆",
+   "JINGKELONG SUPERMARKET",
+   "袁记云饺"
+  ],
+  "p_top1": 0.171,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFFH9BR2_615.jpg",
+  "gold": "京客隆",
+  "pred": "京客隆",
+  "source": "text_cand",
+  "texts": [
+   "京客隆厂",
+   "三里屯店",
+   "JKL·Supermarket"
+  ],
+  "p_top1": 0.168,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155HNI4_69.jpg",
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "texts": [
+   "全家Faml",
+   "美好片刻",
+   "值得一杯湃客"
+  ],
+  "p_top1": 0.11,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155QGSN_74.jpg",
+  "gold": "全家",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "文启·优思",
+   "本座二楼",
+   "学四高菌托教",
+   "400-658-8001"
+  ],
+  "p_top1": 0.815,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFF5VH3A_67.jpg",
+  "gold": "全家",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "texts": [
+   "电",
+   "更民",
+   "东方证券",
+   "E工印"
+  ],
+  "p_top1": 0.014,
+  "pred_vision": "好德",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFH5PNUM_86.jpg",
+  "gold": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [
+   "全"
+  ],
+  "p_top1": 0.655,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFHCOL86_120.jpg",
+  "gold": "全家",
+  "pred": "开市客",
+  "source": "text_all",
+  "texts": [
+   "S",
+   "香烟"
+  ],
+  "p_top1": 0.644,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v13_B0FFI0M8A4_124.jpg",
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "texts": [
+   ".Famm"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFI0SXZK_126.jpg",
+  "gold": "全家",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "全",
+   "中司",
+   "电话2",
+   "woe"
+  ],
+  "p_top1": 0.068,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFI0SXZK_127.jpg",
+  "gold": "全家",
+  "pred": "见福",
+  "source": "text_all",
+  "texts": [
+   "中全福",
+   "全家福便利店"
+  ],
+  "p_top1": 0.969,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v13_B0KU4YZLVR_80.jpg",
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "texts": [
+   "Ce",
+   "运来全家"
+  ],
+  "p_top1": 0.089,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0MRJM546A_114.jpg",
+  "gold": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "texts": [
+   "全家FamlyMert",
+   "",
+   "部兄弟牛肉面"
+  ],
+  "p_top1": 0.364,
+  "pred_vision": "全家",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0G0NUXQ93_534.jpg",
+  "gold": "利群",
+  "pred": "利群",
+  "source": "text_cand",
+  "texts": [
+   "利群便利馆",
+   "小酒"
+  ],
+  "p_top1": 0.226,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0GKC4QBUS_530.jpg",
+  "gold": "利群",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "群便利店"
+  ],
+  "p_top1": 0.317,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JBX4QF08_521.jpg",
+  "gold": "利群",
+  "pred": "利群",
+  "source": "text_all",
+  "texts": [
+   "利群生活超市",
+   "",
+   "领生值爽"
+  ],
+  "p_top1": 0.654,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B000A8XETL_661.jpg",
+  "gold": "北京华联",
+  "pred": "北京华联",
+  "source": "text_all",
+  "texts": [
+   "生·活·超·市",
+   "BHG",
+   "LIFESTYLE MARKET",
+   "欢迎光临"
+  ],
+  "p_top1": 0.739,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B000A8XETL_662.jpg",
+  "gold": "北京华联",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "texts": [
+   "生·："
+  ],
+  "p_top1": 0.771,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFFAI76D_667.jpg",
+  "gold": "北京华联",
+  "pred": "好特卖",
+  "source": "text_all",
+  "texts": [
+   "BHG",
+   "Ma",
+   "中京华联网物中心"
+  ],
+  "p_top1": 0.977,
+  "pred_vision": "天虹",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B0FFFFKGW9_502.jpg",
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "texts": [
+   "长沙粉面小吃",
+   "欢迎光临",
+   "华润万家",
+   "美好生活在万家"
+  ],
+  "p_top1": 0.348,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFFFKGW9_503.jpg",
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "texts": [
+   "ENTRANCE",
+   "美好生活在万家",
+   "大迎光尚临华润万家",
+   "万家进社区 服务千万家"
+  ],
+  "p_top1": 0.206,
+  "pred_vision": "谊品生鲜",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFLIQFLN_508.jpg",
+  "gold": "华润万家",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "texts": [
+   "万家导价到！省心更省钱"
+  ],
+  "p_top1": 0.656,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0K2OC44CP_493.jpg",
+  "gold": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "texts": [
+   "som",
+   "华润万家",
+   "华润万家",
+   "Vanguard"
+  ],
+  "p_top1": 0.009,
+  "pred_vision": "苏宁小店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B015F0I7A4_51.jpg",
+  "gold": "唐久",
+  "pred": "唐久",
+  "source": "text_all",
+  "texts": [
+   "唐久便利"
+  ],
+  "p_top1": 0.382,
+  "pred_vision": "喜士多",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFGD8MHE_49.jpg",
+  "gold": "唐久",
+  "pred": "开市客",
+  "source": "text_all",
+  "texts": [
+   "早餐供应630",
+   "S"
+  ],
+  "p_top1": 0.895,
+  "pred_vision": "唐久",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v14_B0FFIJOCJ9_44.jpg",
+  "gold": "唐久",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.326,
+  "pred_vision": "唐久",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHFGVH2_187.jpg",
+  "gold": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.74,
+  "pred_vision": "喜士多",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFI2JVK7_182.jpg",
+  "gold": "喜士多",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [
+   "aPanda"
+  ],
+  "p_top1": 0.166,
+  "pred_vision": "全家",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFM184NF_180.jpg",
+  "gold": "喜士多",
+  "pred": "喜士多",
+  "source": "text_cand",
+  "texts": [
+   "C-STORE 便利店",
+   "喜士多",
+   "OT"
+  ],
+  "p_top1": 0.782,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0L2X9ZD6Z_190.jpg",
+  "gold": "喜士多",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.144,
+  "pred_vision": "全家",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKOXV9F_173.jpg",
+  "gold": "天猫小店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "天容六场",
+   "菜",
+   "湖",
+   "家常菜"
+  ],
+  "p_top1": 0.722,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFMCWAW1_394.jpg",
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "texts": [
+   "天猫小店|强鑫便利店",
+   "中国体育彩票"
+  ],
+  "p_top1": 0.984,
+  "pred_vision": "天猫小店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKSYI27_381.jpg",
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "texts": [
+   "天猫小店|联破兔超市",
+   "烟酒"
+  ],
+  "p_top1": 0.665,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKSYI27_382.jpg",
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_all",
+  "texts": [
+   "日瑜伽馆",
+   "天猫小店|兔超市"
+  ],
+  "p_top1": 0.106,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFL7B33A_400.jpg",
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "texts": [
+   "天猫小店",
+   "直优超市",
+   "授权电作：NO3",
+   "可口可乐"
+  ],
+  "p_top1": 0.557,
+  "pred_vision": "天猫小店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFIYRE6D_399.jpg",
+  "gold": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_all",
+  "texts": [
+   "天猫小店／蒸民路超市"
+  ],
+  "p_top1": 0.481,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHJH49R_105.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "texts": [
+   "天福Tianfu",
+   "盾"
+  ],
+  "p_top1": 0.879,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHJH49R_106.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "texts": [
+   "天福Tianfu"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFHJH49R_107.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "texts": [
+   "天福",
+   "Tianfu"
+  ],
+  "p_top1": 0.094,
+  "pred_vision": "天福",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFI9HK5J_113.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "texts": [
+   "天福"
+  ],
+  "p_top1": 0.149,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFIIPDAV_89.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "texts": [
+   "汇一",
+   "人",
+   "天福Tianfu"
+  ],
+  "p_top1": 0.107,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFIIPDAV_90.jpg",
+  "gold": "天福",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "Happier",
+   "Eeryay！重庆小面",
+   "脆常小炒18年烟庆小汤"
+  ],
+  "p_top1": 0.034,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFIIPDAV_91.jpg",
+  "gold": "天福",
+  "pred": "天福",
+  "source": "text_all",
+  "texts": [
+   "王WT",
+   "EyeryDay",
+   "快餐小炒 火锅",
+   "天福"
+  ],
+  "p_top1": 0.974,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B02F38PABP_588.jpg",
+  "gold": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "texts": [
+   "Bow天I"
+  ],
+  "p_top1": 0.058,
+  "pred_vision": "天虹",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B02F38PABP_589.jpg",
+  "gold": "天虹",
+  "pred": "天虹",
+  "source": "text_cand",
+  "texts": [
+   "天虹",
+   "RAINBOW"
+  ],
+  "p_top1": 0.897,
+  "pred_vision": "天虹",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFGXXW61_577.jpg",
+  "gold": "天虹",
+  "pred": "红旗连锁",
+  "source": "visual_fallback",
+  "texts": [
+   ""
+  ],
+  "p_top1": 0.25,
+  "pred_vision": "红旗连锁",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFGXXW61_578.jpg",
+  "gold": "天虹",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "装电"
+  ],
+  "p_top1": 0.063,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFLKNL1F_594.jpg",
+  "gold": "天虹",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "去卸",
+   "微信支付智慧门店"
+  ],
+  "p_top1": 0.438,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B00155IQJW_330.jpg",
+  "gold": "好德",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [
+   "仔德allday"
+  ],
+  "p_top1": 0.06,
+  "pred_vision": "全家",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B00155IQLA_334.jpg",
+  "gold": "好德",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "texts": [
+   "alldays",
+   "alday"
+  ],
+  "p_top1": 0.254,
+  "pred_vision": "快客",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B00155KJEJ_316.jpg",
+  "gold": "好德",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.147,
+  "pred_vision": "好德",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B00155KJEJ_317.jpg",
+  "gold": "好德",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "allday"
+  ],
+  "p_top1": 0.36,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B00156PWB0_328.jpg",
+  "gold": "好德",
+  "pred": "好德",
+  "source": "text_cand",
+  "texts": [
+   "好德",
+   "CO快"
+  ],
+  "p_top1": 0.7,
+  "pred_vision": "快客",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0J0V7W74R_155.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "texts": [
+   "品牌",
+   "杰光",
+   "零食",
+   "品牌零"
+  ],
+  "p_top1": 0.806,
+  "pred_vision": "好想来",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0JKTZ4F0Y_142.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "texts": [
+   "又子想莱",
+   "品牌",
+   "零食",
+   "中"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "好想来",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0JKTZ4F0Y_143.jpg",
+  "gold": "好想来",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "B号会员E",
+   "",
+   "中",
+   ""
+  ],
+  "p_top1": 0.232,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MDRAAKE8_161.jpg",
+  "gold": "好想来",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "texts": [
+   "主持",
+   "表演",
+   "快板",
+   "配音"
+  ],
+  "p_top1": 0.017,
+  "pred_vision": "京东便利店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MUJURMW5_152.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "texts": [
+   "好好想来",
+   "即将开业",
+   "敬请期待"
+  ],
+  "p_top1": 0.946,
+  "pred_vision": "京东便利店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JK27X868_83.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "texts": [
+   "好想来"
+  ],
+  "p_top1": 0.407,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0M6DR7MQY_58.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "texts": [
+   "好想来",
+   "家门口的零食乐回"
+  ],
+  "p_top1": 0.973,
+  "pred_vision": "好想来",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0M6DR7MQY_59.jpg",
+  "gold": "好想来",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.27,
+  "pred_vision": "京客隆",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MU7Z4TOU_73.jpg",
+  "gold": "好想来",
+  "pred": "好想来",
+  "source": "text_all",
+  "texts": [
+   "贴膜修复",
+   "汽车服务中心",
+   "哆好想来繁食",
+   "康颜采耳"
+  ],
+  "p_top1": 0.305,
+  "pred_vision": "丹尼斯",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0J2LMZFER_225.jpg",
+  "gold": "好特卖",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [
+   " Ha"
+  ],
+  "p_top1": 0.194,
+  "pred_vision": "7-11",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0KU7HA329_237.jpg",
+  "gold": "好特卖",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "陕老板好持"
+  ],
+  "p_top1": 0.244,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0J3O5UW5D_544.jpg",
+  "gold": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "texts": [
+   "aiS山姆会员商店",
+   "入口 Entrance"
+  ],
+  "p_top1": 0.042,
+  "pred_vision": "丹尼斯",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JDXOH9P6_556.jpg",
+  "gold": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "texts": [
+   "山姆会员商店"
+  ],
+  "p_top1": 0.173,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0005",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 0.97,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0037",
+  "gold": "左邻右舍",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "texts": [
+   "泥图零食"
+  ],
+  "p_top1": 0.046,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0602",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0606",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "粥小笼包水饺",
+   "左邻·右舍",
+   "酸辣粉 砂锅"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0609",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0613",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "邻石全"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0617",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "P?石舍"
+  ],
+  "p_top1": 0.163,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0618",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍",
+   "2万家更报",
+   "招合作伙伴！"
+  ],
+  "p_top1": 0.997,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0624",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻。石舍",
+   "Gode",
+   "烟酒副食百货",
+   "烟酒副食"
+  ],
+  "p_top1": 0.963,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0629",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 0.986,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0633",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "DciNeighbors亲",
+   "24小时"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0634",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "科配色",
+   "左邻?右舍"
+  ],
+  "p_top1": 0.992,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0637",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?石舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0639",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "左邻?右舍",
+   "纯手"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0640",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0642",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "oodNeighbors亲如-"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0644",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "F邻石"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0645",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "部石全"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0648",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "生美容",
+   "左邻右舍",
+   "便利店"
+  ],
+  "p_top1": 0.955,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0653",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0654",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻石舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0656",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 0.993,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0658",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 0.997,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0659",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "社区超市",
+   "",
+   "左邻?右舍"
+  ],
+  "p_top1": 0.975,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0660",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍",
+   "",
+   ""
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0665",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0668",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "万",
+   ""
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0676",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "OA",
+   "GoodNeighbors亲如一家"
+  ],
+  "p_top1": 0.973,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0677",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0679",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "F邻·右全",
+   "Good Neighbors 亲如一家"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0681",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0684",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "YTSHUH",
+   "饭荘",
+   "左邻右舍"
+  ],
+  "p_top1": 0.987,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0689",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "崔优",
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0690",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 0.981,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0691",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0696",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "",
+   "大州手",
+   "HOWWA"
+  ],
+  "p_top1": 0.972,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0697",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·石舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0702",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍",
+   "店开业",
+   "店开业"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0706",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0711",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "石金"
+  ],
+  "p_top1": 0.753,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0714",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍",
+   "荣鑫烟酒",
+   "至店咨询 联系电话187969627"
+  ],
+  "p_top1": 0.969,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0718",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0721",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0727",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0728",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "斤邻石舍"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0729",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "吃",
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0775",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0778",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0780",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍"
+  ],
+  "p_top1": 0.991,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0783",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0791",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0795",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "No.3666"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0798",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍",
+   "左邻右舍超市试营业"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0799",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "丘邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0800",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "空邻·右舍",
+   "中物1",
+   ""
+  ],
+  "p_top1": 0.364,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0801",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0802",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "邻?右舍",
+   "000000o0",
+   "NO.16809小蓝正职溪岸店"
+  ],
+  "p_top1": 0.637,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0807",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?石舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0814",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍"
+  ],
+  "p_top1": 0.997,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0819",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "邻?右舍",
+   "长虹空调车工品"
+  ],
+  "p_top1": 0.998,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0823",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍",
+   "24"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0826",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "广场",
+   "左邻?右舍",
+   "医保定点",
+   "NOwwAExpress"
+  ],
+  "p_top1": 0.852,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0829",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "全插座",
+   "金工具",
+   "左邻?石舍",
+   "18152138133"
+  ],
+  "p_top1": 0.958,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0830",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "行",
+   "左邻?石舍",
+   "2516615",
+   "S"
+  ],
+  "p_top1": 0.975,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0839",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "NO.0309洋口店"
+  ],
+  "p_top1": 0.44,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0840",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "邻?右全"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0842",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "中都·石名"
+  ],
+  "p_top1": 0.675,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0845",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻?右舍",
+   "配体控通化"
+  ],
+  "p_top1": 0.997,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0849",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍",
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0853",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻·右舍"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "img_0854",
+  "gold": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "texts": [
+   "左邻右舍"
+  ],
+  "p_top1": 0.986,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFKR6LZC_560.jpg",
+  "gold": "开市客",
+  "pred": "开市客",
+  "source": "text_all",
+  "texts": [
+   "COSTCE"
+  ],
+  "p_top1": 0.252,
+  "pred_vision": "京客隆",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFG69XD4_210.jpg",
+  "gold": "快客",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.063,
+  "pred_vision": "好德",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0K351OVWS_226.jpg",
+  "gold": "快客",
+  "pred": "7-11",
+  "source": "text_all",
+  "texts": [
+   "E",
+   "",
+   "湘潭辅子",
+   "圣站"
+  ],
+  "p_top1": 0.237,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B0FFIKUV9R_295.jpg",
+  "gold": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "texts": [
+   "电器",
+   "中印象",
+   "利店",
+   ""
+  ],
+  "p_top1": 0.991,
+  "pred_vision": "悦来悦喜",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFL9RRQ4_309.jpg",
+  "gold": "悦来悦喜",
+  "pred": "开市客",
+  "source": "text_all",
+  "texts": [
+   "S",
+   "中",
+   "",
+   ""
+  ],
+  "p_top1": 0.157,
+  "pred_vision": "利群",
+  "is_new": true,
+  "gold_disputed": true
+ },
+ {
+  "file": "v15_B0FFM3VXE0_285.jpg",
+  "gold": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "text_cand",
+  "texts": [
+   "悦来悦喜"
+  ],
+  "p_top1": 0.465,
+  "pred_vision": "悦来悦喜",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0G22UVKIX_288.jpg",
+  "gold": "悦来悦喜",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "texts": [
+   "46号",
+   "",
+   "兄来悦真",
+   "24h"
+  ],
+  "p_top1": 0.319,
+  "pred_vision": "全家",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0G22UVKIX_289.jpg",
+  "gold": "悦来悦喜",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "美风帽业一热"
+  ],
+  "p_top1": 0.175,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JA1ZLZP0_403.jpg",
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "text_all",
+  "texts": [
+   "墅",
+   "戴永红",
+   "低吃小贵",
+   "真的制味"
+  ],
+  "p_top1": 0.581,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JK2ZU8YD_391.jpg",
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback",
+  "texts": [
+   "翼水便木"
+  ],
+  "p_top1": 0.878,
+  "pred_vision": "戴永红",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0KUV7MI24_400.jpg",
+  "gold": "戴永红",
+  "pred": "戴永红",
+  "source": "text_cand",
+  "texts": [
+   "平价打印社",
+   "打印复印证件快照照片冲洗",
+   "戴永红",
+   "始于"
+  ],
+  "p_top1": 0.04,
+  "pred_vision": "红旗连锁",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0KUV7MI24_401.jpg",
+  "gold": "戴永红",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "texts": [
+   "电"
+  ],
+  "p_top1": 0.008,
+  "pred_vision": "零食有鸣",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0JUDMXYVQ_255.jpg",
+  "gold": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_all",
+  "texts": [
+   "锦利",
+   "NEWJOY",
+   "新佳宜",
+   "便利店"
+  ],
+  "p_top1": 0.027,
+  "pred_vision": "好德",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LBRUD6YR_258.jpg",
+  "gold": "新佳宜",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "新主E",
+   "更木小店"
+  ],
+  "p_top1": 0.237,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LDG5EUDY_268.jpg",
+  "gold": "新佳宜",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "悦鲜活99元20瓶.6"
+  ],
+  "p_top1": 0.966,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFHJB1M3_219.jpg",
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "texts": [
+   "选球场三楼",
+   "盒马鲜牛久",
+   "盒马鲜生"
+  ],
+  "p_top1": 0.15,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0KAMA3IX8_216.jpg",
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "texts": [
+   "食马鲜生"
+  ],
+  "p_top1": 0.073,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0KR4MYJK3_204.jpg",
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "texts": [
+   "食马鲜生"
+  ],
+  "p_top1": 0.362,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0LUUHQ2QK_198.jpg",
+  "gold": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "texts": [
+   "蔓马鲜生",
+   "收银区"
+  ],
+  "p_top1": 0.117,
+  "pred_vision": "京东便利店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B001C8P4LQ_85.jpg",
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "texts": [
+   "红旗连锁",
+   "Hong Qi Chain"
+  ],
+  "p_top1": 0.803,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFH2C18B_64.jpg",
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "texts": [
+   "红旗连锁",
+   "Hong Qi Chain",
+   "公交充"
+  ],
+  "p_top1": 0.521,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFMHTRYU_56.jpg",
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "texts": [
+   "江旗连锁"
+  ],
+  "p_top1": 0.385,
+  "pred_vision": "红旗连锁",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFMHTRYU_57.jpg",
+  "gold": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "红旗连锁",
+   "红旗连锁",
+   "Hong Qi Chain"
+  ],
+  "p_top1": 0.277,
+  "pred_vision": "红旗连锁",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155HOE9_14.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWSON"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155QGF5_0.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWSON",
+   "便利店"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155QGF5_1.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWSON",
+   "LAWBON"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B00155QGF5_2.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWSONE",
+   "LAWSON"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0FFM9K87I_33.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LAWSON",
+   "便利店"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0G0CPS6WB_179.jpg",
+  "gold": "罗森",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.207,
+  "pred_vision": "7-11",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0J31UIS5I_42.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "更利店",
+   "ATNSOE",
+   "LAWSON",
+   "STATION"
+  ],
+  "p_top1": 0.946,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LUNS1BB1_52.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "云境·轻",
+   "",
+   "LAWSON",
+   "LONO0家李营美"
+  ],
+  "p_top1": 0.619,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0LUNS1BB1_53.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "云境·轻",
+   "美耳位果医",
+   "LAWSON",
+   "营姿美衣批应添业"
+  ],
+  "p_top1": 0.466,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v13_B0MUFAFU0B_40.jpg",
+  "gold": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "texts": [
+   "LASONE"
+  ],
+  "p_top1": 0.957,
+  "pred_vision": "罗森",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L06BMLQI_105.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.031,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0JDL7PX44_81.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "便利店",
+   "美宜佳"
+  ],
+  "p_top1": 0.614,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0MUD5IUH3_102.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜售"
+  ],
+  "p_top1": 0.076,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHGOB4R_132.jpg",
+  "gold": "美宜佳",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "texts": [
+   "英泰兴盛有理利店"
+  ],
+  "p_top1": 0.591,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0L16LTDFR_0.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.159,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0JUMSC1J0_96.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "美自用"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0GUZOJRGB_64.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "",
+   "温相馆",
+   "美宜佳"
+  ],
+  "p_top1": 0.933,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L16LTDFR_1.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.741,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LDFBTLGH_67.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.358,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0GUZOJRGB_63.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.252,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LAXS4C5E_90.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜信",
+   "便利店"
+  ],
+  "p_top1": 0.877,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0I0550ZFV_47.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "B",
+   "美宜佳",
+   "烟酒"
+  ],
+  "p_top1": 0.457,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L6U15DKH_5.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳厂",
+   "S"
+  ],
+  "p_top1": 0.386,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L6MUUWWP_73.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "美宜佳",
+   "便利店"
+  ],
+  "p_top1": 0.916,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0I0550ZFV_48.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "烟酒"
+  ],
+  "p_top1": 0.16,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFJZI3LI_53.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "美宜信"
+  ],
+  "p_top1": 0.327,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L6MUUWWP_74.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "大药房",
+   "美宜佳",
+   "便利店",
+   "美宜佳"
+  ],
+  "p_top1": 0.035,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0I6HA4XK8_199.jpg",
+  "gold": "美宜佳",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "texts": [
+   "国小",
+   "",
+   "",
+   ""
+  ],
+  "p_top1": 0.161,
+  "pred_vision": "赵一鸣零食",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0LKAD84M2_24.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ],
+  "p_top1": 0.755,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L6MUUWWP_72.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ],
+  "p_top1": 0.89,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHVDOAY_50.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "美宜佳"
+  ],
+  "p_top1": 0.996,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L2CBH7J8_20.jpg",
+  "gold": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "texts": [
+   "黄哈公考教育2027级7月8号",
+   "",
+   "美宜佳"
+  ],
+  "p_top1": 0.983,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFLMI0TX_365.jpg",
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "texts": [
+   "老婆大"
+  ],
+  "p_top1": 0.98,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0J14U0GVB_377.jpg",
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_all",
+  "texts": [
+   "广婆大人"
+  ],
+  "p_top1": 0.225,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0L01DG0CI_363.jpg",
+  "gold": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "texts": [
+   "好划算",
+   "音婆大人",
+   "@年货"
+  ],
+  "p_top1": 0.118,
+  "pred_vision": "老婆大人",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFGD8KTW_348.jpg",
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "texts": [
+   "美品铺",
+   "",
+   "层质量把关"
+  ],
+  "p_top1": 0.096,
+  "pred_vision": "良品铺子",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFG6XOR4_343.jpg",
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "texts": [
+   "良品铺子",
+   "BESTORE"
+  ],
+  "p_top1": 0.056,
+  "pred_vision": "良品铺子",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFGUC6BO_346.jpg",
+  "gold": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "texts": [
+   "食品铺子",
+   "",
+   "BESTORE",
+   ""
+  ],
+  "p_top1": 0.994,
+  "pred_vision": "良品铺子",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0H2BSKIMF_292.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "原浩便利店"
+  ],
+  "p_top1": 0.985,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0LKSBGWGQ_121.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "美宜佳",
+   "蒋关良",
+   "非造传条咸菜肉丝面"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "美宜佳",
+  "is_new": false,
+  "gold_disputed": true
+ },
+ {
+  "file": "v12_B0FFKOXV9F_171.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "OYO",
+   "锅贴芙蓉兴盛",
+   "湖南米"
+  ],
+  "p_top1": 0.522,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHFAGSM_217.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛",
+   "超市便利店"
+  ],
+  "p_top1": 0.352,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0G225UHLY_174.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛",
+   "便利超市",
+   "金"
+  ],
+  "p_top1": 1.0,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0G39NLGLG_182.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "蓉兴"
+  ],
+  "p_top1": 0.837,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFJ1E67M_162.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛"
+  ],
+  "p_top1": 0.285,
+  "pred_vision": "左邻右舍",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHKEYIE_185.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "城市部",
+   "芙蓉兴盛",
+   "全",
+   "[址：www.jjcsb]"
+  ],
+  "p_top1": 0.606,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGHREQ2_154.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0L27MK7CY_140.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "州夫容兴店"
+  ],
+  "p_top1": 0.335,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFKOYGNJ_209.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛",
+   "客户光临",
+   "超市内有香烟，饮料，"
+  ],
+  "p_top1": 0.9,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHQNYFD_215.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙容兴盛连锁",
+   "便利超市",
+   "超市",
+   "怡赢"
+  ],
+  "p_top1": 0.669,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0G2O6C4M2_150.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "李宁穿线站 芙蓉兴盛",
+   "批发分零售、李、尼克斯、威多、川的、鞋、球包、绒、平",
+   "加热线：40-11001830793294"
+  ],
+  "p_top1": 0.957,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFHSMLEZ_225.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙容兴盛"
+  ],
+  "p_top1": 0.831,
+  "pred_vision": "京东便利店",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0G225UHLY_175.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴",
+   "饭店",
+   "S"
+  ],
+  "p_top1": 0.997,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFGHREQ2_155.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "蓝芙蓉兴盛",
+   "18787482229 18213951110"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFLH805G_159.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "texts": [
+   "芙蓉兴盛",
+   "陕赣专业修",
+   ""
+  ],
+  "p_top1": 0.133,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v12_B0FFJ1E67M_163.jpg",
+  "gold": "芙蓉兴盛",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "美蓉兴",
+   "",
+   "心客户的光名！服务"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "local",
+  "is_new": false,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFL5QHSE_119.jpg",
+  "gold": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_all",
+  "texts": [
+   "苏宁小店",
+   "招租"
+  ],
+  "p_top1": 0.063,
+  "pred_vision": "全家",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0G2C7ARAH_139.jpg",
+  "gold": "苏宁小店",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "texts": [
+   "",
+   "店"
+  ],
+  "p_top1": 0.203,
+  "pred_vision": "京东便利店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LDJ5W292_122.jpg",
+  "gold": "苏宁小店",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "办宁小皮",
+   ""
+  ],
+  "p_top1": 0.943,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LDJ5W292_123.jpg",
+  "gold": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_all",
+  "texts": [
+   "苏宁小店和成天"
+  ],
+  "p_top1": 0.454,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFKSEOKN_25.jpg",
+  "gold": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "texts": [
+   "见福便利店",
+   "FOOK"
+  ],
+  "p_top1": 0.056,
+  "pred_vision": "天猫小店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFLOXQIO_32.jpg",
+  "gold": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "texts": [
+   "见福便利店",
+   "FOOK",
+   "源森",
+   ""
+  ],
+  "p_top1": 0.254,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFGI1VHA_741.jpg",
+  "gold": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_all",
+  "texts": [
+   "多谊品生鲜",
+   "谊品生"
+  ],
+  "p_top1": 0.199,
+  "pred_vision": "京东便利店",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0FFL0CTBN_754.jpg",
+  "gold": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_cand",
+  "texts": [
+   "宜品生鲜",
+   "宜品生鲜",
+   "新鲜不隔夜",
+   "大头卤菜"
+  ],
+  "p_top1": 0.063,
+  "pred_vision": "悦来悦喜",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LUG7MANA_748.jpg",
+  "gold": "谊品生鲜",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "texts": [
+   "宜品",
+   "直品群",
+   "加型热线400-"
+  ],
+  "p_top1": 0.03,
+  "pred_vision": "零食有鸣",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0LUG7MANA_750.jpg",
+  "gold": "谊品生鲜",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "宜品熊"
+  ],
+  "p_top1": 0.02,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0K2JZ60AX_133.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "（一鸣零食"
+  ],
+  "p_top1": 0.728,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0K315LBJ5_108.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "爱米丽",
+   "",
+   "赛路真便宣",
+   "一鸣零食"
+  ],
+  "p_top1": 0.78,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0KRYST02B_116.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "蔡路真便宜 超值超省超好",
+   "X一鸣零食",
+   "一鸣零套",
+   "省钱"
+  ],
+  "p_top1": 0.975,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0L0S9KSFZ_139.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "赵一唱"
+  ],
+  "p_top1": 0.921,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MRGLN4LE_114.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "走这一旋",
+   "省钱",
+   "超市",
+   "开业特惠8.8限时2天"
+  ],
+  "p_top1": 0.976,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MRGLN4LE_115.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "中",
+   "赵一鸣",
+   ""
+  ],
+  "p_top1": 0.981,
+  "pred_vision": "赵一鸣零食",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MDDZLLS8_44.jpg",
+  "gold": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "texts": [
+   "省钱",
+   "教一吗",
+   "超市",
+   "开业特惠8.8限时2天"
+  ],
+  "p_top1": 0.618,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0FFLICY05_90.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "texts": [
+   "梦食退城",
+   "BUSY FOR YOU",
+   "生活不忙零食很优"
+  ],
+  "p_top1": 0.999,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MUZS75D0_91.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "零食银代",
+   "零食退托"
+  ],
+  "p_top1": 0.749,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MUZS75D0_93.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "需食退托"
+  ],
+  "p_top1": 0.191,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MRDS98E7_102.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "texts": [
+   "",
+   "零食很忙",
+   "开业特惠8.8限时2天",
+   "加会员联"
+  ],
+  "p_top1": 0.37,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MRP7JAFV_106.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "零食退行"
+  ],
+  "p_top1": 0.129,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v14_B0MRP7JAFV_107.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "零食退试",
+   "BURVOU"
+  ],
+  "p_top1": 0.183,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0J1NCHZNC_2.jpg",
+  "gold": "零食很忙",
+  "pred": "local",
+  "source": "visual_fallback",
+  "texts": [
+   "实食银托"
+  ],
+  "p_top1": 0.236,
+  "pred_vision": "local",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0KAFDM2S3_13.jpg",
+  "gold": "零食很忙",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "texts": [
+   "大零食装",
+   "真果粒",
+   "真果粒",
+   "真果粒"
+  ],
+  "p_top1": 0.047,
+  "pred_vision": "盒马鲜生",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MGLGMIL5_17.jpg",
+  "gold": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback",
+  "texts": [
+   "BUSY",
+   "零食浪化FORYOU",
+   "百款爆品",
+   "天天特价"
+  ],
+  "p_top1": 0.939,
+  "pred_vision": "零食很忙",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0KUMA4BCJ_424.jpg",
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "visual_fallback",
+  "texts": [
+   "客食有品",
+   "YUMMY",
+   "SNACI"
+  ],
+  "p_top1": 0.231,
+  "pred_vision": "零食有鸣",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0L6L1C1D7_442.jpg",
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "texts": [
+   "销",
+   "你和",
+   "零食有鸣",
+   "废超市"
+  ],
+  "p_top1": 0.013,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0L6L1C1D7_444.jpg",
+  "gold": "零食有鸣",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "texts": [],
+  "p_top1": 0.867,
+  "pred_vision": "美宜佳",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MASCGYQV_418.jpg",
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "texts": [
+   "折扣便利零食有吗"
+  ],
+  "p_top1": 0.472,
+  "pred_vision": "零食有鸣",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MU744N14_439.jpg",
+  "gold": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "texts": [
+   "食有鸣",
+   "批发超市",
+   "一件也是批发价！",
+   "批发超市"
+  ],
+  "p_top1": 0.713,
+  "pred_vision": "零食有鸣",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MU744N14_440.jpg",
+  "gold": "零食有鸣",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "texts": [
+   "婴食有心",
+   "找发招市"
+  ],
+  "p_top1": 0.137,
+  "pred_vision": "左邻右舍",
+  "is_new": true,
+  "gold_disputed": false
+ },
+ {
+  "file": "v15_B0MU744N14_441.jpg",
+  "gold": "零食有鸣",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "texts": [
+   "雾食有吧",
+   "批发超市"
+  ],
+  "p_top1": 0.034,
+  "pred_vision": "芙蓉兴盛",
+  "is_new": true,
+  "gold_disputed": false
+ }
+]

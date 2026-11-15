@@ -1,0 +1,10 @@
+{
+ "strict": 0.8989169675090253,
+ "adjusted": 0.996,
+ "new_strict": 0.8583333333333333,
+ "old_strict": 0.9299363057324841,
+ "vlm_fixed": 22,
+ "vlm_disputes": 27,
+ "catalog_brands": 33,
+ "n_known": 277
+}
