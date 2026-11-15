@@ -1,0 +1,8 @@
+{
+ "strict": 0.925531914893617,
+ "adjusted": 0.9405405405405406,
+ "new_strict": 0.9,
+ "old_strict": 0.930379746835443,
+ "vlm_fixed": 5,
+ "gold_noise_total": 22
+}
