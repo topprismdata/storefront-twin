@@ -1,0 +1,3398 @@
+[
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "戴永红",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "京客隆",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "喜士多",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "天虹",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "天虹",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "苏宁小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "text_cand"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "良品铺子",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "喜士多",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "京东便利店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "罗森",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "京东便利店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "天福",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "京东便利店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "天猫小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "中百",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "天福",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "合家欢",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "苏宁小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "万嘉",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "山姆",
+  "source": "text_all"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "利群",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "天福",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "快客",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "好特卖",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "合家欢",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "新佳宜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "快客",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "苏宁小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "天福",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "万嘉",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "唐久",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "好德",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "舞东风",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "老婆大人",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "喜士多",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "中百",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "舞东风",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "中百",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "好德",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "每一天",
+  "pred": "每一天",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "京东便利店",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "友客",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "利群",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "合家欢",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "见福",
+  "pred": "见福",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "零食有鸣",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "中百罗森",
+  "pred": "罗森",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "八点半",
+  "pred": "八点半",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "京东便利店",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "三只松鼠",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "友客",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "7-11",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "美宜佳",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "利群",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "利群",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京客隆",
+  "pred": "京客隆",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "恰货铺子",
+  "pred": "恰货铺子",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "北国",
+  "pred": "unknown",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "天福",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "唐久",
+  "source": "text_all"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ },
+ {
+  "set": "zuo",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand"
+ }
+]

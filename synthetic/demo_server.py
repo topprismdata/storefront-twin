@@ -42,7 +42,13 @@ for b in brands:
     if y.sum() >= 5:
         probes[b] = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xg, y)
 galX = {b: X[gidx[b]] for b in probes}
+gal_named = [i for b in brands if b != "local" for i in gidx[b]]
+GALC = e8.l2(Vc[gal_named])
 print(f"探针 {len(probes)} 品牌就绪", flush=True)
+
+# S1 OOD 头: gallery(CLIP) 最大相似度阈值, 校准自已知q1+品牌留出(s1_ood_experiment.py 策略B)
+S1_THR = float(np.load(ROOT / "synthetic/vis_cache/s1_ood_head_B_known_q1.npz")["thr"][0])
+print(f"S1 OOD 头就绪 (thr={S1_THR:.3f})", flush=True)
 
 # ---------- 样例画廊: 左邻右舍专场 12 张(测试分割)置顶 + 每品牌 ≤3 张 + 6 张目录外 ----------
 _rng = np.random.RandomState(7)
@@ -195,6 +201,7 @@ def infer(pil):
     ss = {b: float(probes[b].predict_proba(gsc.transform(q))[0, 1]) for b in probes}
     top = sorted(ss.items(), key=lambda kv: -kv[1])[:3]
     margin = top[0][1] - top[1][1]
+    gsim = float((e8.l2(vec_c[None]) @ GALC.T).max())
     import cv2
     arr = np.asarray(pil.convert("RGB"))[:, :, ::-1].copy()
     texts = [rec_crop(arr, bx) for bx in merge_lines(det_boxes(arr))]
@@ -202,10 +209,11 @@ def infer(pil):
     cjk = sum(1 for t in texts for ch in t if "\u4e00" <= ch <= "\u9fff")
     unknown = False
     if source == "visual_fallback":
-        latin_word = any(re.search(r"[A-Z]{4,}", t.upper()) for t in texts)
-        if cjk >= 4 or latin_word:   # 有可读文字但目录别名全不匹配 → 非目录品牌
+        if gsim < S1_THR:          # S1: 与目录 gallery 不像 → 诚实拒答(品牌留出校准)
             unknown = True
-        elif margin < 0.02:          # 探针分不开 → 不猜
+        elif cjk >= 4 and gsim < 0.65:   # 可读文字不匹配 + 相似度边缘 → 弱证据拒答
+            unknown = True
+        elif margin < 0.02:        # 探针分不开 → 不猜
             unknown = True
     return {
         "brand": "unknown" if unknown else pred,
