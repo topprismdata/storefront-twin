@@ -1,0 +1,352 @@
+[
+ {
+  "file": "v18_B0MBTZAZ8G_6.jpg",
+  "truth": "瑞幸咖啡",
+  "pred": "戴永红",
+  "source": "visual_fallback",
+  "ocr": [
+   "CENTURY",
+   "uckin coff",
+   "瑞幸咖啡"
+  ],
+  "top3": [
+   {
+    "brand": "戴永红",
+    "score": 0.204
+   },
+   {
+    "brand": "友客",
+    "score": 0.032
+   },
+   {
+    "brand": "好邻居",
+    "score": 0.03
+   }
+  ],
+  "margin": 0.172
+ },
+ {
+  "file": "v18_B0L0LU9PBK_12.jpg",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin c ffee"
+  ],
+  "top3": [
+   {
+    "brand": "7-11",
+    "score": 0.086
+   },
+   {
+    "brand": "盒马鲜生",
+    "score": 0.057
+   },
+   {
+    "brand": "好德",
+    "score": 0.037
+   }
+  ],
+  "margin": 0.029
+ },
+ {
+  "file": "v18_B0MRYHQ0PP_29.jpg",
+  "truth": "瑞幸咖啡",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin coffee"
+  ],
+  "top3": [
+   {
+    "brand": "天虹",
+    "score": 0.531
+   },
+   {
+    "brand": "盒马鲜生",
+    "score": 0.358
+   },
+   {
+    "brand": "苏宁小店",
+    "score": 0.038
+   }
+  ],
+  "margin": 0.173
+ },
+ {
+  "file": "v18_B0LUOZI0MJ_39.jpg",
+  "truth": "库迪咖啡",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   "电馆",
+   ""
+  ],
+  "top3": [
+   {
+    "brand": "好想来",
+    "score": 0.341
+   },
+   {
+    "brand": "喜士多",
+    "score": 0.018
+   },
+   {
+    "brand": "良品铺子",
+    "score": 0.009
+   }
+  ],
+  "margin": 0.323
+ },
+ {
+  "file": "v18_B0FFKT720L_64.jpg",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "top3": [
+   {
+    "brand": "美宜佳",
+    "score": 0.999
+   },
+   {
+    "brand": "谊品生鲜",
+    "score": 0.059
+   },
+   {
+    "brand": "零食有鸣",
+    "score": 0.052
+   }
+  ],
+  "margin": 0.94
+ },
+ {
+  "file": "v18_B0FFKT720L_65.jpg",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "好想来"
+  ],
+  "top3": [
+   {
+    "brand": "好想来",
+    "score": 0.988
+   },
+   {
+    "brand": "万嘉",
+    "score": 0.051
+   },
+   {
+    "brand": "天猫小店",
+    "score": 0.045
+   }
+  ],
+  "margin": 0.937
+ },
+ {
+  "file": "v18_B0I1RC6I6U_90.jpg",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "中",
+   "刺激",
+   "快乐加",
+   "蜜雪冰城",
+   "美宜佳"
+  ],
+  "top3": [
+   {
+    "brand": "好想来",
+    "score": 0.611
+   },
+   {
+    "brand": "美宜佳",
+    "score": 0.537
+   },
+   {
+    "brand": "快客",
+    "score": 0.003
+   }
+  ],
+  "margin": 0.075
+ },
+ {
+  "file": "v18_B0M14L2E9X_148.jpg",
+  "truth": "生鲜传奇",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "停生鲜传奇"
+  ],
+  "top3": [
+   {
+    "brand": "良品铺子",
+    "score": 0.05
+   },
+   {
+    "brand": "美宜佳",
+    "score": 0.038
+   },
+   {
+    "brand": "零食有鸣",
+    "score": 0.017
+   }
+  ],
+  "margin": 0.013
+ },
+ {
+  "file": "v18_B001C8NUHI_174.jpg",
+  "truth": "易捷便利店",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷便利店",
+   "茶百道ChaPanda"
+  ],
+  "top3": [
+   {
+    "brand": "喜士多",
+    "score": 0.07
+   },
+   {
+    "brand": "左邻右舍",
+    "score": 0.016
+   },
+   {
+    "brand": "京客隆",
+    "score": 0.002
+   }
+  ],
+  "margin": 0.054
+ },
+ {
+  "file": "v18_B0H2CSUB4N_181.jpg",
+  "truth": "昆仑好客",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "Samie"
+  ],
+  "top3": [
+   {
+    "brand": "美宜佳",
+    "score": 0.987
+   },
+   {
+    "brand": "快客",
+    "score": 0.592
+   },
+   {
+    "brand": "万嘉",
+    "score": 0.194
+   }
+  ],
+  "margin": 0.395
+ },
+ {
+  "file": "v18_B01370VY92_200.jpg",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   "便利店"
+  ],
+  "top3": [
+   {
+    "brand": "左邻右舍",
+    "score": 0.999
+   },
+   {
+    "brand": "喜士多",
+    "score": 0.004
+   },
+   {
+    "brand": "盒马鲜生",
+    "score": 0.002
+   }
+  ],
+  "margin": 0.995
+ },
+ {
+  "file": "v18_B0FFHEC0SS_205.jpg",
+  "truth": "36524便利店",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "Mart",
+   ""
+  ],
+  "top3": [
+   {
+    "brand": "7-11",
+    "score": 0.991
+   },
+   {
+    "brand": "零食有鸣",
+    "score": 0.019
+   },
+   {
+    "brand": "全家",
+    "score": 0.014
+   }
+  ],
+  "margin": 0.972
+ },
+ {
+  "file": "v18_B01370VY5H_222.jpg",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "6524",
+   "夏利店"
+  ],
+  "top3": [
+   {
+    "brand": "左邻右舍",
+    "score": 0.994
+   },
+   {
+    "brand": "快客",
+    "score": 0.287
+   },
+   {
+    "brand": "新佳宜",
+    "score": 0.039
+   }
+  ],
+  "margin": 0.708
+ },
+ {
+  "file": "v18_B00155KR6T_255.jpg",
+  "truth": "可的便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "ocr": [
+   "全房和工",
+   "芙蓉鹅"
+  ],
+  "top3": [
+   {
+    "brand": "零食有鸣",
+    "score": 0.14
+   },
+   {
+    "brand": "戴永红",
+    "score": 0.076
+   },
+   {
+    "brand": "谊品生鲜",
+    "score": 0.015
+   }
+  ],
+  "margin": 0.064
+ }
+]

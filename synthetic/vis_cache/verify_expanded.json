@@ -1,0 +1,2796 @@
+{
+ "genuine": [
+  {
+   "truth": "人人乐",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "华冠",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "恰货铺子",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食很忙",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "舞东风",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "中百",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "人人乐",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食很忙",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好德",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "北国",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "三江",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "天虹",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好邻居",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "佳乐家",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "老婆大人",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "快客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天福",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "舞东风",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏宁小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "老婆大人",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "苏宁小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华冠",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "戴永红",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "老婆大人",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "戴永红",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天福",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "喜士多",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好想来",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华冠",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合家欢",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "中百罗森",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "舞东风",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食很忙",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "北京华联",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "万嘉",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "唐久",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "三江",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "快客",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "利群",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好德",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "悦来悦喜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "戴永红",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "人人乐",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合力超市",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食很忙",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好特卖",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天福",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好想来",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合力超市",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "舞东风",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "快客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好德",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "快客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合家欢",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "金虎",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "友客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "北京华联",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "京客隆",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "苏宁小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "中百",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好特卖",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "喜士多",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "金虎",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好特卖",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合力超市",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "悦来悦喜",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天虹",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好想来",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "戴永红",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京东便利店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "佳乐家",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "利群",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "舞东风",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "友客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天福",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好邻居",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "合家欢",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "快客",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京客隆",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "红旗连锁",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天虹",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "中百",
+   "verdict": "UNSURE"
+  },
+  {
+   "truth": "好邻居",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好德",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "山姆",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "京客隆",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华润万家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "喜士多",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食有鸣",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "大商",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "老婆大人",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "红旗连锁",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "华冠",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "苏宁小店",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "金虎",
+   "verdict": "NO_TEMPLATE"
+  },
+  {
+   "truth": "合家欢",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "丹尼斯",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "美宜佳",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "良品铺子",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "好想来",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "零食很忙",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "天猫小店",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "左邻右舍",
+   "verdict": "VERIFIED"
+  }
+ ],
+ "impostor": [
+  {
+   "truth": "人人乐",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华冠",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "恰货铺子",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食很忙",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "舞东风",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "中百",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "人人乐",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食很忙",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好德",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "北国",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "三江",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天虹",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好邻居",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "佳乐家",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "老婆大人",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "快客",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天福",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "舞东风",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏宁小店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "老婆大人",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏宁小店",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "全家",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华冠",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "老婆大人",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天福",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "喜士多",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好想来",
+   "claim": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华冠",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合家欢",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "中百罗森",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "舞东风",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食很忙",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "北京华联",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "万嘉",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "唐久",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "三江",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "快客",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好德",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "悦来悦喜",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "人人乐",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合力超市",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食很忙",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好特卖",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天福",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好想来",
+   "claim": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合力超市",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "舞东风",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "快客",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好德",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "盒马鲜生",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "快客",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合家欢",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "金虎",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "全家",
+   "claim": "7-11",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "友客",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "北京华联",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京客隆",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏宁小店",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "中百",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好特卖",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "喜士多",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "金虎",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好特卖",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合力超市",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "悦来悦喜",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天虹",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好想来",
+   "claim": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "戴永红",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京东便利店",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "谊品生鲜",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "喜士多",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "佳乐家",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "利群",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "舞东风",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "友客",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天福",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好邻居",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合家欢",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "快客",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "赵一鸣零食",
+   "claim": "好想来",
+   "verdict": "VERIFIED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京客隆",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏果便利",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "红旗连锁",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天虹",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "中百",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好邻居",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好德",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "山姆",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "7-11",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "京客隆",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华润万家",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "喜士多",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食有鸣",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "罗森",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "大商",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好想来",
+   "claim": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "老婆大人",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "红旗连锁",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "华冠",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "新佳宜",
+   "claim": "全家",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "苏宁小店",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "金虎",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "合家欢",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "丹尼斯",
+   "claim": "罗森",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "美宜佳",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "芙蓉兴盛",
+   "claim": "好想来",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "良品铺子",
+   "claim": "喜士多",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "好想来",
+   "claim": "赵一鸣零食",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "零食很忙",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "天猫小店",
+   "claim": "7-11",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  },
+  {
+   "truth": "左邻右舍",
+   "claim": "美宜佳",
+   "verdict": "REJECTED"
+  }
+ ]
+}

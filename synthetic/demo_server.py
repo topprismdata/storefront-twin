@@ -166,7 +166,7 @@ ALIAS = {
     "戴永红": ["戴永红"], "新佳宜": ["新佳宜"], "良品铺子": ["良品铺子", "良品"],
     "老婆大人": ["老婆大人"], "谊品生鲜": ["谊品生鲜", "谊品"], "利群": ["利群"],
     "山姆": ["山姆", "SAM", "SAMS"], "华润万家": ["华润万家", "华润"], "开市客": ["开市客", "COSTCO"],
-    "左邻右舍": ["左邻", "右舍"], "美宜佳": ["美宜佳"], "芙蓉兴盛": ["芙蓉兴盛", "芙蓉", "兴盛"],
+    "左邻右舍": ["左邻右舍", "左邻·右舍", "左邻", "右舍"], "美宜佳": ["美宜佳"], "芙蓉兴盛": ["芙蓉兴盛", "芙蓉", "兴盛"],
     "京东便利店": ["京东"], "天猫小店": ["天猫"], "便利蜂": ["便利蜂"], "十足": ["十足"],
     "罗森": ["罗森", "LAWSON"], "7-11": ["7-ELEVEN", "711"], "全家": ["全家", "FAMILYMART"],
     "中百罗森": ["中百罗森"], "苏果便利": ["苏果", "苏果便利", "苏果超市"], "好邻居": ["好邻居"],
@@ -187,18 +187,25 @@ def confirm(cands, texts):
         na = re.sub(r"\s+", "", a).upper()
         if not na:
             return False
-        if na in "".join(tn):
-            return True
+        is_lat = all(ord(c) < 256 for c in na)
+        # 基础包含: CJK 子串有效(双字别名必须整行, 防碎片命中); 拉丁 len>=5 才允许子串
+        if any(na in t for t in tn if t):
+            if is_lat:
+                if len(na) >= 5 or any(t == na for t in tn):
+                    return True
+            else:
+                return True
         if strict_only:
             return False  # text_all(非候选)路径只允许整词, 防通用前缀误吃
         if len(na) >= 3 and na[:2] not in STOP and any(na[:2] in t for t in tn):
-            return True
-        if len(na) >= 5 and all(ord(c) < 256 for c in na):
-            if any(na in t or t in na for t in tn if t):
+            return True  # 候选路径保持前缀2模糊(探针已入围, 为 OCR 错字容错)
+        if len(na) >= 5 and is_lat:
+            if any(na in t or (len(t) >= 5 and len(t) >= 0.5 * len(na) and t in na)
+                   for t in tn if t):  # F1: 短片段不得包含进长别名(防 Mart⊂FAMILYMART)
                 return True
             import difflib
             return any(difflib.SequenceMatcher(None, na, t).ratio() >= 0.75 for t in tn if len(t) >= 5)
-        if len(na) >= 4 and any(ord(c) > 255 for c in na):
+        if len(na) >= 4 and not is_lat:
             tail, head = na[1:], na[:-1]
             return any(tail in t or head in t for t in tn)
         return False
@@ -221,6 +228,16 @@ def confirm(cands, texts):
 
     scored = [(b, best_len_strict(ALIAS[b])) for b in ALIAS]
     scored = [(b, L) for b, L in scored if L]
+    # F3 多品牌证据冲突: OCR 整词命中 ≥2 个不同目录品牌(同框招牌/广告牌) → 证据歧义, 诚实拒答
+    strong_brands = {b for b, L in scored if L >= 3}
+    for disp, als in FOREIGN:
+        for a in als:
+            na = re.sub(r"\s+", "", a).upper()
+            if na and len(na) >= 3 and na in "".join(tn):
+                strong_brands.add("F:" + disp)
+                break
+    if len(strong_brands) >= 2:
+        return "__conflict__", "text_conflict"
     cand_set = set(cands)
     cand_hits = [(b, best_len(ALIAS[b])) for b in ALIAS if b in cand_set]
     cand_hits = [(b, L) for b, L in cand_hits if L]
@@ -260,7 +277,9 @@ def infer(pil):
     pred, source = confirm([b for b, _ in top], texts)
     cjk = sum(1 for t in texts for ch in t if "\u4e00" <= ch <= "\u9fff")
     unknown = False
-    if source == "visual_fallback":
+    if pred == "__conflict__":     # F3: 多品牌证据冲突 → 拒答
+        pred, unknown = "unknown", True
+    elif source == "visual_fallback":
         if none_p > top[0][1]:     # S2: 负类探针赢过所有品牌探针 → 诚实拒答
             unknown = True
         elif gsim < S1_THR:        # S1: 与目录 gallery 不像 → 诚实拒答(品牌留出校准)
