@@ -72,9 +72,8 @@ FOREIGN = [
     ("茶百道", ["茶百道", "CHAPANDA"]),
     ("钱大妈", ["钱大妈"]),
     ("生鲜传奇", ["生鲜传奇"]),
-    ("易捷", ["易捷", "EASYJOY", "EASYJOY"]),
+    ("易捷", ["EASYJOY", "易捷"]),
     ("昆仑好客", ["昆仑好客", "USMART"]),
-    ("Today便利店", ["TODAY"]),
     ("36524便利店", ["36524"]),
     ("可的", ["可的"]),
     ("麦当劳", ["麦当劳", "MCDONALDS", "MCDONALD"]),
@@ -97,8 +96,6 @@ FOREIGN = [
     ("一鸣真鲜奶吧", ["一鸣"]),
     ("沙县小吃", ["沙县小吃"]),
     ("老乡鸡", ["老乡鸡"]),
-    ("康师傅", ["康师傅"]),
-    ("统一", ["统一"]),
 ]
 
 ALIAS = {
@@ -180,8 +177,13 @@ def confirm(cands, texts):
     for disp, als in FOREIGN:
         for a in als:
             na = re.sub(r"\s+", "", a).upper()
-            if na and na in joined:
-                return "非目录·" + disp, "text_foreign"
+            if not na or na not in joined:
+                continue
+            # 短别名(CJK≤2 或 latin≤3)必须是独立整行, 防广告/货架文字子串误触发
+            if len(na) <= 2 or (len(na) <= 3 and all(ord(c) < 256 for c in na)):
+                if not any(re.sub(r"\s+", "", t).upper() == na for t in tn):
+                    continue
+            return "非目录·" + disp, "text_foreign"
     return cands[0], "visual_fallback"
 
 

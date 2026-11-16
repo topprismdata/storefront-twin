@@ -1,0 +1,4917 @@
+[
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "ZSIGA",
+   "KCKNHAN"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin coffee",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckin coffee",
+   "CENTURY21",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "CENTURY",
+   "uckin coff",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "CENTURY21",
+   "uckincoffe",
+   "清幸自"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Luckin coffe"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "营业时间",
+   "D：00-21:",
+   "0:0-20:00"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin co fee "
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin c ffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "中",
+   "uckin coffe"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   "与友瑞"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "kin coffee Butterbear",
+   "ButterDan",
+   "蓄油2周年"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Xluckin coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin coffee耐城"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "wucki so",
+   "uckin coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uekin coffee",
+   "粥铺",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin coffee 耐啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Luckin coffee",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckincoffee",
+   "瑞幸啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电话"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "苏宁小店",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "喝乳酸"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin coffee",
+   "瑞幸咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "天",
+   "S",
+   "Ckin coffe"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckin coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "wm",
+   "MX",
+   "咖啡X茶饮"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Ce"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "otti Coffee",
+   "年迪咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "cotu",
+   "cotfee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   "电馆",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "大望",
+   "食尚",
+   "那毛味咖"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "军迪",
+   "cotti Coffee",
+   "刀"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蜜德",
+   "",
+   "Coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "Coffe",
+   "车福"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "A"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "Coti Cofe",
+   "京烟莓"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "可以喝的慕斯蛋糕",
+   "云顶幕斯系列上新"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "B啦A8",
+   "CottiCoffee",
+   "品和A梦"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "库迪咖啡",
+   "S"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "AN FONG YUE",
+   "AN丝冻奶茶",
+   "富芳园"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "COFFEE",
+   "OTTI COFFEE"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Cottee",
+   "车迪发",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "军迪咖啡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "宝迪",
+   "offeeToogn",
+   "Cotti Coffee"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "CO",
+   "COFFEE"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "圣丽小斤"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "88",
+   "大稿"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "5s"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "生活超蜜雪冰城何书套牛肉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "好想来"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "牛肉面",
+   "蜜雪冰城"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S",
+   "S"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "雪冰城"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "圣雪水坊"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "雪冰城",
+   "御膳",
+   "椒盐香豆腐又炸鸡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "奉打鲜"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "24.9元",
+   "雪主搅拌材"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "上  ",
+   "中"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "无的茶层",
+   "",
+   "这片茶园被本王承包啦"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "全",
+   "你爱我?我爱你蜜雪冰城甜蜜"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "新品"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "￥8"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "",
+   "黑桃皇后酒店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "q"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "cIey",
+   "苏枝波咖",
+   "扫码点餐"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蚤雪冰城",
+   "SINCE1997·冰淇淋与茶",
+   "满杯百香果"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "满杯百香果"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "中",
+   "刺激",
+   "快乐加"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "地道湘菜馆",
+   "小吃"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新品",
+   "质么0么",
+   "吃过都会号"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "中"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "多蜜雪冰城",
+   "我"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "荣百道ChaPand"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "茶百道ChaPanda"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "美36"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "chabaidac",
+   "深百道",
+   "ZHI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "乐米麻薯",
+   "软糯留香",
+   "以稀有禾米（源自野生谷种培育）为原料"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "饿久身主",
+   "",
+   "荔技冰新"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "茶百道ChaPanda"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "百道Cha",
+   "百道Cha"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "金百运"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "荣胜老记一H绿",
+   "四川特产"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "ODBOWL",
+   "特汁"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蜜雪！",
+   "火烤五花",
+   "茶百1CnaPanoe"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "大德路",
+   "76"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "本12-28元",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "宝大妈",
+   "不卖隔夜肉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "钱大妈",
+   "钱大妈不卖隔夜肉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "激素宝宝放心吃",
+   "",
+   "上"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "我大"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "美",
+   "钱大妈不现技面"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "不卖隔夜肉",
+   "钱大妈"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "顺务",
+   "颈颐养健",
+   "棋牌馆"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "今特",
+   "今特"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "大",
+   "NO.9587",
+   "勾炎"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "选超市",
+   "我大妈",
+   "饺苑"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "我大妈",
+   "",
+   "不卖隔反因"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美大婷",
+   "515",
+   "不卖隔夜肉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "真靓店",
+   "",
+   "主营"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "隔夜肉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "不卖隔夜肉",
+   "钱大妈"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "天猫小店",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "不志"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "钱大妈",
+   "不卖隔衣肉",
+   "高值有礼 系殖购尊包"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新鲜来自",
+   "全程0-4°C冷链配送",
+   "0-4°C"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "自习室",
+   "播音",
+   "生鲜"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "鲜污吉"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "生鲜"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "全鲜传真"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "超级折扣",
+   "云南蓝莓125g18+"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "生鲜传奇"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "停生鲜传奇"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "其牌俱乐部",
+   "可来随打随走",
+   "生鲜贵真"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中金全传奇",
+   "加小鲜店",
+   "买最全的菜，定更低的价"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "王鲜传具"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "生鲜传车",
+   "艺料技部"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "小区门口的好菜市",
+   "1元省"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "小区门口更好的菜市场"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷",
+   "便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "便利店",
+   "易捷"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "天福",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷",
+   "",
+   "ERSyJOy便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "化",
+   "SERGOPEC"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "我为您的事业加油您给我的生",
+   "EASYLJoy",
+   "便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "定点加油站"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "易捷",
+   "便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中国石化SINOPEC",
+   "中国石"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷便利店",
+   "茶百道ChaPanda"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "易捷便利店",
+   "ChuPinda"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "usmile",
+   "昆仑好客",
+   "中国石油天然气股母有限公司"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Ismile",
+   "显伦好图"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "Samie"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客",
+   "989592"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "9592",
+   "昆仑好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmite",
+   "社合轻"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "国石油",
+   "uSmile",
+   "昆仑好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中国石油"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmile",
+   "灵仑好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Lusnile",
+   "品企#",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客",
+   "arcare"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S",
+   "CcarCare",
+   "8"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmile",
+   "昆公好客"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "永木南山店",
+   "24",
+   "便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "洗洛亚装馆"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   "便利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "6524"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "饼"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   "斤欣活"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "Mart",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "合家欢",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新征程",
+   "纯生奶"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "街二饭店",
+   "554"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "524",
+   "逸程酒店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   "1"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "联牛排板面"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "购卡要",
+   "20元",
+   "5张"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": [
+   "5引"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "苏宁小店",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新精起氧",
+   "",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "公休闲会馆",
+   "4永时营业",
+   "1654"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "你的时",
+   "",
+   "Xing兴"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "ocr": [
+   "16524"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "24",
+   "65",
+   "美"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "6524",
+   "夏利店"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "XDD悦莱悦美",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可萌",
+   "KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "有发",
+   "S",
+   "品味"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可的KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KEDL"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "红烧",
+   "可的",
+   "2点小时营"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KED"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KIEDA"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新鲜活力畅享健康"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可的KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI",
+   ""
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [
+   "可",
+   "KED",
+   "广"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "折扣添营养",
+   "10元"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "BIG",
+   "BAG",
+   "大食桶"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "禁蔡先车"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可",
+   "KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "悦鲜活",
+   "况鲜活",
+   "越鲜活"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KEDI"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可B",
+   "KEDI",
+   "725"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI",
+   "黄焖鸡"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "丽莎",
+   "美食"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "丽沙美容",
+   "沙县美食"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "a艾伦司",
+   "安伦司小酒馆",
+   "若亚烟酒商行可"
+  ]
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "ocr": [
+   "全房和工",
+   "芙蓉鹅"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_cand",
+  "ocr": [
+   "中百超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "品牌",
+   "零食",
+   "好想聚"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "text_cand",
+  "ocr": [
+   "喜士多C-STORE"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "每一天",
+  "pred": "每一天",
+  "source": "text_all",
+  "ocr": [
+   "verydayStore每一大",
+   "不色惠水就民",
+   "EverycdayCh"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "超市",
+   "一京东旗下自营店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "盒马鲜生",
+   "）果玩"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "好持卖HotMax",
+   "美妆护肤精品零食·酒水饮料宠物零食玩具盲盒·冷饮冻品"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "舞东区"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好居",
+   "进强便利"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电",
+   "S",
+   "S"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_all",
+  "ocr": [
+   "中司",
+   "万嘉便机",
+   "各水 面 小"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "九江湖阳轮胎总经物",
+   "京东便利店",
+   "阳号高道轮指班框社"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "HELLY",
+   "零食有鸣",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳厂",
+   "S"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "发客YOUKE",
+   "古润大昊发买"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "广婆大人"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_cand",
+  "ocr": [
+   "好邻居",
+   "连锁便利",
+   "阜成门南公共汽车站"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "Q-快客"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "印理记账",
+   "最商变便",
+   "咨质办理"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "suning ProaAmr"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美蓉兴基详",
+   "专"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛",
+   "便利超市",
+   "加盟热线400-6611-001"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "芙蓉兴盛超市",
+   "烟酒副食"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand",
+  "ocr": [
+   "IGR",
+   "合力超市",
+   "合力商业集团旗下品牌"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "电"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "好想莱",
+   "全鑫猛火料"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "群便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "ocr": [
+   "真爱纸",
+   "多托育中心",
+   "丹尼斯超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "央婆大人",
+   "大人",
+   "家的等"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "空邻·右舍",
+   "中物1"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all",
+  "ocr": [
+   "金虎便利"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "省钱",
+   "教一吗",
+   "超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand",
+  "ocr": [
+   "新佳宜",
+   "连锁便利店",
+   "酒乘直营店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "针角便利店",
+   "鱼烤"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "九江麦号店",
+   "加权话：102515477",
+   "京东便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "合家欢",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "我马鲜生",
+   "鸿鲜花Flower"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand",
+  "ocr": [
+   "苏宁小店便利店",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "SE"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店／蒸民路超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中都·石名"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍",
+   "便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "蔓马鲜生"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "ocr": [
+   "见福便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "",
+   "温相馆",
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "货真价实诚信经营",
+   "芙蓉兴盛超市",
+   "经营范围：香烟 酒水 饮料 副食品 日用品"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_all",
+  "ocr": [
+   "中百超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   ".Famm"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "良品铺子",
+   "BESTORE"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S",
+   "香烟"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "蔡路真便宜 超值超省超好",
+   "X一鸣零食",
+   "一鸣零套"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "text_cand",
+  "ocr": [
+   "戴永】！",
+   "始于",
+   "1996"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|仙霞超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "超市便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "利丰路店",
+   "京东便利店",
+   "报权店：1016215341"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍",
+   "荣鑫烟酒",
+   "至店咨询 联系电话187969627"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜",
+   "M.Y.J",
+   "中国体育彩票"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "E",
+   "",
+   "湘潭辅子"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "良品铺子BESTORE",
+   "o"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "超修SPA 荣号",
+   "Cho",
+   "24h"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "只乐便木",
+   "友节特惠",
+   "全宾海购"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "中百罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "中百罗森",
+   "L-cafe"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "喜十灸"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "周年",
+   "值送好“礼",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "坊",
+   "JENNIS",
+   "平尼斯"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "万家导价到！省心更省钱"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "24小时"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_all",
+  "ocr": [
+   "生活超",
+   "谊品生鲜"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好烧",
+   "房6研究所"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "广场",
+   "左邻?右舍",
+   "医保定点"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMar"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜佳",
+   "黄令"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "大药房",
+   "美宜佳",
+   "便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "品牌",
+   "好想来",
+   "零食"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "手工大包理粥",
+   "真烧包",
+   "传"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "生美容",
+   "左邻右舍",
+   "便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "永清街店062",
+   "中里生美",
+   "超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "盒马鲜生",
+   "会员店",
+   "营业e时间g Hours"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "text_cand",
+  "ocr": [
+   "-ELEVEN"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "电",
+   "赵一鸣零食"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "ocr": [
+   "电",
+   "电",
+   "生活不忙零食很忙"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "翼水便木"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "老婆大人",
+   "宁菜场店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "省钱",
+   "教一吗",
+   "超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "24hl模",
+   "四个朋友",
+   "暖江"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand",
+  "ocr": [
+   "欢迎光临",
+   "华润方家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "ocr": [
+   "四“万嘉便",
+   "235"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "好"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "万",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "老婆大"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "莹",
+   "烤鸭",
+   "冷冻"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "ocr": [
+   "零食很忙BUSYFOR YOU图西",
+   "江西！我们很便宜"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "八点半",
+  "pred": "八点半",
+  "source": "text_all",
+  "ocr": [
+   "勇闯天涯",
+   "现杀烤鱼烧烤",
+   "八点半烤鱼坊"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMar",
+   "KIREALON"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "188868"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "·石全",
+   "GoodNeghbor亲如一家",
+   "No.0062"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|军军超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "北事带联造造总部中会"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "走这一旋",
+   "省钱",
+   "超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美",
+   "木木",
+   "护眼"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "中兴盛"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "蓉兴盛超",
+   "许可证号：33010112",
+   "S"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "伟",
+   "左邻·右舍一",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand",
+  "ocr": [
+   "超市",
+   "新",
+   "冷领鲜"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand",
+  "ocr": [
+   "苏果便利"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "邻?右舍",
+   "长虹空调车工品"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand",
+  "ocr": [
+   "合力超市",
+   "SUPRMART会力南业联国限卡品校",
+   "惠民生鲜"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "aiS山姆会员商店",
+   "入口 Entrance"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "快客",
+   "QUIK"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "天福",
+   "Tianfu"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "Q",
+   "快宅"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "佳乐家Famil"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMart",
+   "串密电品"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "社区超市",
+   "",
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "舞东风",
+   "星瑞仁家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "尼斯全日鲜"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢",
+   "生活馆"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "阳鲜来粉",
+   "舞东风",
+   "LBUDOnCFEnC"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "三只松鼠",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "无湖中御公馆生活馆No.003",
+   "好货不贵个三餐必备"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舌",
+   "便利店",
+   "干净卫生品质放心"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand",
+  "ocr": [
+   "连锁便利店",
+   "新佳宜",
+   "NEWJOYMART"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "快客",
+   "Q"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛超市",
+   "佰·地产"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "零食退托"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "洗鞋",
+   "3688"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电",
+   "更民",
+   "东方证券"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "中全福",
+   "全家福便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜佳",
+   "主营"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "马鲜生",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·石舍",
+   "早餐",
+   "包子、豆寨"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新主E",
+   "更木小店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "友客",
+  "source": "text_cand",
+  "ocr": [
+   "友客",
+   "youke"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "这一爬",
+   "育钱"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "巴湾大人",
+   "家的零",
+   "有爱"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "F邻石"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "余干店",
+   "京东便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "7-11",
+  "source": "text_cand",
+  "ocr": [
+   "LEVEN",
+   "上线啦",
+   "南昌拌粉"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "好特实HotMax&宝家折扣店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_all",
+  "ocr": [
+   "好邻居",
+   "连锁便利",
+   "图文快印"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好邻食",
+   "便利应",
+   "寿衣寿"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "ocr": [
+   "红旗连锁",
+   "Qichain",
+   "Hong"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍",
+   "店开业",
+   "店开业"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|强鑫便利店",
+   "中国体育彩票"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛便利店",
+   "全"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "家门口的零食乐园",
+   "",
+   "好想来紫"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [
+   "自品生"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "利群",
+  "source": "text_all",
+  "ocr": [
+   "利群商店",
+   "日用百货送13563195252"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美容",
+   "中国体育彩票"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "前我爱我家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "部石全"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "ocr": [
+   "红旗连锁",
+   "Hong Qi Chain"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand",
+  "ocr": [
+   "苏宁小店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "中",
+   "中佳乐家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "红",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_all",
+  "ocr": [
+   "好想来"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON",
+   "便利店",
+   "LAWSON"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "ocr": [
+   "ENTRANCE",
+   "美好生活在万家",
+   "大迎光尚临华润万家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "氧",
+   "品铺子",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand",
+  "ocr": [
+   "超市",
+   "冷颈鲜",
+   "华冠"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "Cango",
+   "电"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "服务站",
+   "",
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "经持卖6otMax",
+   "好持卖HotMax",
+   "好特卖"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "ocr": [
+   "药房",
+   "中原路多注村分丹尼斯全日的",
+   "万景#景游"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": []
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand",
+  "ocr": [
+   "苏果便利"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "Q",
+   "快客"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": [
+   "电司"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京客隆",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "原客隆",
+   "JINGKELONG"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "云境·轻",
+   "美耳位果医",
+   "LAWSON"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|丹丹超市",
+   "天猫小店丹丹超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "蓝色经典",
+   "全国连锁便利超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "零食有鸣",
+   "实有"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "入口",
+   "Entrance",
+   "山姆会员商店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜信"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "FUFVEI",
+   "满17减60"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福Tianfu",
+   "盾"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   "中"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "禦",
+   "好淇米"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "海鲜菜",
+   "美宜佳美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "走赵一呜",
+   "省"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "S",
+   "T佳乐家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|长途便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "恰货铺子",
+  "pred": "恰货铺子",
+  "source": "text_all",
+  "ocr": [
+   "口",
+   "恰货铺子",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "来喜",
+   "Happymar"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "text_cand",
+  "ocr": [
+   "悦来业"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "姐烧烧",
+   "迎常来小馆",
+   "合"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all",
+  "ocr": [
+   "金虎便利"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "e.FarailyMare",
+   ""
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "地区一鸣"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand",
+  "ocr": [
+   "长沙粉面小吃",
+   "欢迎光临",
+   "华润万家"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "北国",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "建华城市广场",
+   "负一层美食街",
+   "华玉超市建华"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "天頭",
+   "RAINBOW",
+   "盛香亭"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "text_cand",
+  "ocr": [
+   "轴承五金",
+   "好德烟酒",
+   "珊"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "鑫彦大",
+   "零食有鸣爱超市"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙容兴盛"
+  ]
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "老疆大人",
+   "："
+  ]
+ }
+]

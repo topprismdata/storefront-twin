@@ -1,0 +1,5929 @@
+[
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.023,
+  "path": "v18_B0KDSYVQHY_0.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.003,
+  "path": "v18_B0KDSYVQHY_1.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.166,
+  "path": "v18_B0KDSYVQHY_2.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "ZSIGA",
+   "KCKNHAN"
+  ],
+  "margin": 0.043,
+  "path": "v18_B0KKRDNXET_3.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "uckin coffee",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.067,
+  "path": "v18_B0KKRDNXET_4.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckin coffee",
+   "CENTURY21",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.007,
+  "path": "v18_B0MBTZAZ8G_5.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "CENTURY",
+   "uckin coff",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.172,
+  "path": "v18_B0MBTZAZ8G_6.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "CENTURY21",
+   "uckincoffe",
+   "清幸自"
+  ],
+  "margin": 0.01,
+  "path": "v18_B0MBTZAZ8G_7.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Luckin coffe"
+  ],
+  "margin": 0.116,
+  "path": "v18_B0LDYHYY0S_8.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.015,
+  "path": "v18_B0LDYHYY0S_9.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "营业时间",
+   "D：00-21:",
+   "0:0-20:00"
+  ],
+  "margin": 0.002,
+  "path": "v18_B0MUFRHKEZ_10.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin co fee "
+  ],
+  "margin": 0.012,
+  "path": "v18_B0L0LU9PBK_11.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin c ffee"
+  ],
+  "margin": 0.029,
+  "path": "v18_B0L0LU9PBK_12.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "中",
+   "uckin coffe"
+  ],
+  "margin": 0.002,
+  "path": "v18_B0MGFM4QKE_13.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   "与友瑞"
+  ],
+  "margin": 0.053,
+  "path": "v18_B0MGFM4QKE_14.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "kin coffee Butterbear",
+   "ButterDan",
+   "蓄油2周年"
+  ],
+  "margin": 0.064,
+  "path": "v18_B0MGFM4QKE_15.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Xluckin coffee"
+  ],
+  "margin": 0.656,
+  "path": "v18_B0K0CZ90YU_16.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin coffee耐城"
+  ],
+  "margin": 0.016,
+  "path": "v18_B0K0CZ90YU_17.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "wucki so",
+   "uckin coffee"
+  ],
+  "margin": 0.916,
+  "path": "v18_B0MBSSE2G5_18.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "uekin coffee",
+   "粥铺",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.035,
+  "path": "v18_B0MBSSE2G5_19.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "瑞幸",
+   "uckin coffee 耐啡"
+  ],
+  "margin": 0.002,
+  "path": "v18_B0M6MLWPLV_20.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Luckin coffee",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.011,
+  "path": "v18_B0MATDWENI_21.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckincoffee",
+   "瑞幸啡"
+  ],
+  "margin": 0.013,
+  "path": "v18_B0MATDWENI_22.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电话"
+  ],
+  "margin": 0.001,
+  "path": "v18_B0MATDWENI_23.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "苏宁小店",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.024,
+  "path": "v18_B0K6040A3M_24.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.545,
+  "path": "v18_B0K6040A3M_25.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "喝乳酸"
+  ],
+  "margin": 0.972,
+  "path": "v18_B0LGPZ7NBT_26.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "uckin coffee",
+   "瑞幸咖啡"
+  ],
+  "margin": 0.046,
+  "path": "v18_B0LGPZ7NBT_27.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.211,
+  "path": "v18_B0JU3YW3R7_28.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uckin coffee"
+  ],
+  "margin": 0.173,
+  "path": "v18_B0MRYHQ0PP_29.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "天",
+   "S",
+   "Ckin coffe"
+  ],
+  "margin": 0.907,
+  "path": "v18_B0MRYHQ0PP_30.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "非目录·瑞幸咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "luckin coffee"
+  ],
+  "margin": 0.007,
+  "path": "v18_B0MRYHQ0PP_31.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.808,
+  "path": "v18_B0IKU7BMXU_32.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "wm",
+   "MX",
+   "咖啡X茶饮"
+  ],
+  "margin": 0.043,
+  "path": "v18_B0IKU7BMXU_33.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.077,
+  "path": "v18_B0LKXAJJFL_34.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "瑞幸咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Ce"
+  ],
+  "margin": 0.012,
+  "path": "v18_B0LKXAJJFL_35.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "otti Coffee",
+   "年迪咖啡"
+  ],
+  "margin": 0.012,
+  "path": "v18_B0MRXCLAB2_36.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "cotu",
+   "cotfee"
+  ],
+  "margin": 0.068,
+  "path": "v18_B0LUOZI0MJ_37.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.868,
+  "path": "v18_B0LUOZI0MJ_38.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   "电馆",
+   ""
+  ],
+  "margin": 0.323,
+  "path": "v18_B0LUOZI0MJ_39.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.227,
+  "path": "v18_B0K1CHEKCU_40.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "大望",
+   "食尚",
+   "那毛味咖"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0K1CHEKCU_41.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "军迪",
+   "cotti Coffee",
+   "刀"
+  ],
+  "margin": 0.568,
+  "path": "v18_B0MRNU7T2S_42.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蜜德",
+   "",
+   "Coffee"
+  ],
+  "margin": 0.036,
+  "path": "v18_B0MRNU7T2S_43.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "Coffe",
+   "车福"
+  ],
+  "margin": 0.025,
+  "path": "v18_B0MRNU7T2S_44.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "A"
+  ],
+  "margin": 0.71,
+  "path": "v18_B0L16BQ314_45.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "Coti Cofe",
+   "京烟莓"
+  ],
+  "margin": 0.613,
+  "path": "v18_B0L16BQ314_46.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "可以喝的慕斯蛋糕",
+   "云顶幕斯系列上新"
+  ],
+  "margin": 0.281,
+  "path": "v18_B0JAPR43NB_47.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "B啦A8",
+   "CottiCoffee",
+   "品和A梦"
+  ],
+  "margin": 0.594,
+  "path": "v18_B0JAPR43NB_48.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "库迪咖啡",
+   "S"
+  ],
+  "margin": 0.2,
+  "path": "v18_B0L2LUOTGP_49.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "AN FONG YUE",
+   "AN丝冻奶茶",
+   "富芳园"
+  ],
+  "margin": 0.011,
+  "path": "v18_B0L2LUOTGP_50.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "COFFEE",
+   "OTTI COFFEE"
+  ],
+  "margin": 0.934,
+  "path": "v18_B0LRAA0OKK_51.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Cottee",
+   "车迪发",
+   ""
+  ],
+  "margin": 0.017,
+  "path": "v18_B0LRAA0OKK_52.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.586,
+  "path": "v18_B0KK2A640G_53.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   ""
+  ],
+  "margin": 0.25,
+  "path": "v18_B0L1BSYUVX_54.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "Cotti Coffee",
+   "军迪咖啡"
+  ],
+  "margin": 0.16,
+  "path": "v18_B0L1BSYUVX_55.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.422,
+  "path": "v18_B0L3CLJVPU_56.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "非目录·库迪咖啡",
+  "source": "text_foreign",
+  "ocr": [
+   "宝迪",
+   "offeeToogn",
+   "Cotti Coffee"
+  ],
+  "margin": 0.787,
+  "path": "v18_B0L3CLJVPU_57.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "库迪咖啡",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "CO",
+   "COFFEE"
+  ],
+  "margin": 0.173,
+  "path": "v18_B0JDBA4I0N_58.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "圣丽小斤"
+  ],
+  "margin": 0.694,
+  "path": "v18_B017319P45_59.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "88",
+   "大稿"
+  ],
+  "margin": 0.764,
+  "path": "v18_B017319P45_60.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "5s"
+  ],
+  "margin": 0.217,
+  "path": "v18_B0FFIKZQCR_61.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "生活超蜜雪冰城何书套牛肉"
+  ],
+  "margin": 0.013,
+  "path": "v18_B0M16GLZO1_62.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.683,
+  "path": "v18_B0FFI9V3HP_63.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.94,
+  "path": "v18_B0FFKT720L_64.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "好想来"
+  ],
+  "margin": 0.937,
+  "path": "v18_B0FFKT720L_65.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ],
+  "margin": 0.767,
+  "path": "v18_B0KUX7XHCL_66.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "牛肉面",
+   "蜜雪冰城"
+  ],
+  "margin": 0.375,
+  "path": "v18_B0KUX7XHCL_67.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S",
+   "S"
+  ],
+  "margin": 0.012,
+  "path": "v18_B0IDHDKV7E_68.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "雪冰城"
+  ],
+  "margin": 0.2,
+  "path": "v18_B0L0DDN2YB_69.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "圣雪水坊"
+  ],
+  "margin": 0.003,
+  "path": "v18_B0L0DDN2YB_70.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   ""
+  ],
+  "margin": 0.361,
+  "path": "v18_B0FFMDOOFC_71.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "雪冰城",
+   "御膳",
+   "椒盐香豆腐又炸鸡"
+  ],
+  "margin": 0.011,
+  "path": "v18_B0FFMDOOFC_72.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.859,
+  "path": "v18_B0FFL7MJ0A_73.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "奉打鲜"
+  ],
+  "margin": 0.059,
+  "path": "v18_B0HBAAMOZF_74.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "24.9元",
+   "雪主搅拌材"
+  ],
+  "margin": 0.46,
+  "path": "v18_B0KRR5QZ29_75.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "上  ",
+   "中"
+  ],
+  "margin": 0.018,
+  "path": "v18_B0KRR5QZ29_76.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "无的茶层",
+   "",
+   "这片茶园被本王承包啦"
+  ],
+  "margin": 0.188,
+  "path": "v18_B0KRR5QZ29_77.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.056,
+  "path": "v18_B0LD9NYB8S_78.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "全",
+   "你爱我?我爱你蜜雪冰城甜蜜"
+  ],
+  "margin": 0.0,
+  "path": "v18_B0LD9NYB8S_79.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "新品"
+  ],
+  "margin": 0.19,
+  "path": "v18_B0K1GHXAVM_80.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "￥8"
+  ],
+  "margin": 0.537,
+  "path": "v18_B0K1GHXAVM_81.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.806,
+  "path": "v18_B0MBSSE27O_82.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "",
+   "黑桃皇后酒店"
+  ],
+  "margin": 0.343,
+  "path": "v18_B0MBSSE27O_83.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "良品铺子",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.572,
+  "path": "v18_B0MBSSE27O_84.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "q"
+  ],
+  "margin": 0.127,
+  "path": "v18_B0L2RON2ZR_85.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "cIey",
+   "苏枝波咖",
+   "扫码点餐"
+  ],
+  "margin": 0.308,
+  "path": "v18_B0L2RON2ZR_86.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蚤雪冰城",
+   "SINCE1997·冰淇淋与茶",
+   "满杯百香果"
+  ],
+  "margin": 0.711,
+  "path": "v18_B0ID6KQCRQ_87.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "满杯百香果"
+  ],
+  "margin": 0.476,
+  "path": "v18_B0ID6KQCRQ_88.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.469,
+  "path": "v18_B0ID6KQCRQ_89.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "中",
+   "刺激",
+   "快乐加"
+  ],
+  "margin": 0.075,
+  "path": "v18_B0I1RC6I6U_90.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S"
+  ],
+  "margin": 0.612,
+  "path": "v18_B0K3JHBMLX_91.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.688,
+  "path": "v18_B0K3JHBMLX_92.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.029,
+  "path": "v18_B0MDTSC4XJ_93.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "蜜雪冰城",
+   "地道湘菜馆",
+   "小吃"
+  ],
+  "margin": 0.166,
+  "path": "v18_B0MDTSC4XJ_94.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新品",
+   "质么0么",
+   "吃过都会号"
+  ],
+  "margin": 0.483,
+  "path": "v18_B0MDTSC4XJ_95.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.017,
+  "path": "v18_B0H05UGCDH_96.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "中"
+  ],
+  "margin": 0.863,
+  "path": "v18_B0I3P5ERTA_97.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "蜜雪冰城",
+  "pred": "非目录·蜜雪冰城",
+  "source": "text_foreign",
+  "ocr": [
+   "多蜜雪冰城",
+   "我"
+  ],
+  "margin": 0.022,
+  "path": "v18_B0I3P5ERTA_98.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "荣百道ChaPand"
+  ],
+  "margin": 0.074,
+  "path": "v18_B0M67AWH25_99.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "茶百道ChaPanda"
+  ],
+  "margin": 0.594,
+  "path": "v18_B0M67AWH25_100.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "美36"
+  ],
+  "margin": 0.495,
+  "path": "v18_B0M67AWH25_101.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "chabaidac",
+   "深百道",
+   "ZHI"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0FFJKKPDM_102.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "乐米麻薯",
+   "软糯留香",
+   "以稀有禾米（源自野生谷种培育）为原料"
+  ],
+  "margin": 0.108,
+  "path": "v18_B0FFJKKPDM_103.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "饿久身主",
+   "",
+   "荔技冰新"
+  ],
+  "margin": 0.199,
+  "path": "v18_B0LRV5K7MJ_104.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "茶百道ChaPanda"
+  ],
+  "margin": 0.571,
+  "path": "v18_B0LRV5K7MJ_105.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.285,
+  "path": "v18_B0FFK21TYC_106.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "百道Cha",
+   "百道Cha"
+  ],
+  "margin": 0.034,
+  "path": "v18_B0FFK21TYC_107.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "金百运"
+  ],
+  "margin": 0.565,
+  "path": "v18_B0K37BPJAU_108.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "荣胜老记一H绿",
+   "四川特产"
+  ],
+  "margin": 0.179,
+  "path": "v18_B0K37BPJAU_109.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "ODBOWL",
+   "特汁"
+  ],
+  "margin": 0.438,
+  "path": "v18_B0KDKRL971_110.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "茶百道",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "蜜雪！",
+   "火烤五花",
+   "茶百1CnaPanoe"
+  ],
+  "margin": 0.95,
+  "path": "v18_B0KDKRL971_111.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "大德路",
+   "76"
+  ],
+  "margin": 0.799,
+  "path": "v18_B0G2M104RJ_112.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "本12-28元",
+   ""
+  ],
+  "margin": 0.016,
+  "path": "v18_B0G2M104RJ_113.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "宝大妈",
+   "不卖隔夜肉"
+  ],
+  "margin": 0.149,
+  "path": "v18_B0FFL7UXZP_114.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.095,
+  "path": "v18_B0FFL7UXZP_115.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "钱大妈",
+   "钱大妈不卖隔夜肉"
+  ],
+  "margin": 0.228,
+  "path": "v18_B0FFIPF5R2_116.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "激素宝宝放心吃",
+   "",
+   "上"
+  ],
+  "margin": 0.065,
+  "path": "v18_B0FFIPF5R2_117.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "我大"
+  ],
+  "margin": 0.127,
+  "path": "v18_B0IKMZDGUM_118.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "美",
+   "钱大妈不现技面"
+  ],
+  "margin": 0.121,
+  "path": "v18_B0IKMZDGUM_119.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "不卖隔夜肉",
+   "钱大妈"
+  ],
+  "margin": 0.137,
+  "path": "v18_B0FFGF777F_120.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.471,
+  "path": "v18_B0FFGF777F_121.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "顺务",
+   "颈颐养健",
+   "棋牌馆"
+  ],
+  "margin": 0.485,
+  "path": "v18_B0FFHOFJ01_122.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "今特",
+   "今特"
+  ],
+  "margin": 0.032,
+  "path": "v18_B0FFHOFJ01_123.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "大",
+   "NO.9587",
+   "勾炎"
+  ],
+  "margin": 0.121,
+  "path": "v18_B0KRRUOUSG_124.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "选超市",
+   "我大妈",
+   "饺苑"
+  ],
+  "margin": 0.038,
+  "path": "v18_B0KRRUOUSG_125.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "我大妈",
+   "",
+   "不卖隔反因"
+  ],
+  "margin": 0.079,
+  "path": "v18_B0FFL7ETLR_126.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美大婷",
+   "515",
+   "不卖隔夜肉"
+  ],
+  "margin": 0.012,
+  "path": "v18_B0FFL7ETLR_127.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "真靓店",
+   "",
+   "主营"
+  ],
+  "margin": 0.064,
+  "path": "v18_B0FFIKQAY6_128.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "隔夜肉"
+  ],
+  "margin": 0.159,
+  "path": "v18_B0FFIKQAY6_129.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "不卖隔夜肉",
+   "钱大妈"
+  ],
+  "margin": 0.761,
+  "path": "v18_B0FFI7P0EX_130.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   ""
+  ],
+  "margin": 0.617,
+  "path": "v18_B0FFI7P0EX_131.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "天猫小店",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "不志"
+  ],
+  "margin": 0.06,
+  "path": "v18_B0FFKPZ0WP_132.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.143,
+  "path": "v18_B0FFKPZ0WP_133.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "非目录·钱大妈",
+  "source": "text_foreign",
+  "ocr": [
+   "钱大妈",
+   "不卖隔衣肉",
+   "高值有礼 系殖购尊包"
+  ],
+  "margin": 0.062,
+  "path": "v18_B0FFIK55ZX_134.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "钱大妈",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新鲜来自",
+   "全程0-4°C冷链配送",
+   "0-4°C"
+  ],
+  "margin": 0.18,
+  "path": "v18_B0FFIK55ZX_135.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "自习室",
+   "播音",
+   "生鲜"
+  ],
+  "margin": 0.008,
+  "path": "v18_B0J2SS7HNA_136.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.181,
+  "path": "v18_B0J2SS7HNA_137.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "鲜污吉"
+  ],
+  "margin": 0.207,
+  "path": "v18_B0FFI9UNW9_138.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "生鲜"
+  ],
+  "margin": 0.147,
+  "path": "v18_B0FFI9UNW9_139.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.065,
+  "path": "v18_B0FFI9UNW9_140.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "全鲜传真"
+  ],
+  "margin": 0.109,
+  "path": "v18_B0KD1K44KC_141.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "盒马鲜生",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.939,
+  "path": "v18_B0KD1K44KC_142.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "超级折扣",
+   "云南蓝莓125g18+"
+  ],
+  "margin": 0.437,
+  "path": "v18_B0KD1K44KC_143.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "生鲜传奇"
+  ],
+  "margin": 0.006,
+  "path": "v18_B0FFMHVG1N_144.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.129,
+  "path": "v18_B0FFMHVG1N_145.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇"
+  ],
+  "margin": 0.156,
+  "path": "v18_B0G37Y88PX_146.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇"
+  ],
+  "margin": 0.028,
+  "path": "v18_B0G04M80Z4_147.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "停生鲜传奇"
+  ],
+  "margin": 0.013,
+  "path": "v18_B0M14L2E9X_148.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.094,
+  "path": "v18_B0M14L2E9X_149.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.125,
+  "path": "v18_B0M14L2E9X_150.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "其牌俱乐部",
+   "可来随打随走",
+   "生鲜贵真"
+  ],
+  "margin": 0.174,
+  "path": "v18_B0FFJGH1QF_151.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中金全传奇",
+   "加小鲜店",
+   "买最全的菜，定更低的价"
+  ],
+  "margin": 0.123,
+  "path": "v18_B0FFJGH1QF_152.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "王鲜传具"
+  ],
+  "margin": 0.004,
+  "path": "v18_B0K3HYLU38_153.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "生鲜传车",
+   "艺料技部"
+  ],
+  "margin": 0.356,
+  "path": "v18_B0K3HYLU38_154.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "小区门口的好菜市",
+   "1元省"
+  ],
+  "margin": 0.008,
+  "path": "v18_B0FFJBC9ZW_155.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "非目录·生鲜传奇",
+  "source": "text_foreign",
+  "ocr": [
+   "生鲜传奇",
+   "小区门口更好的菜市场"
+  ],
+  "margin": 0.004,
+  "path": "v18_B0G37Z7FZ2_156.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "生鲜传奇",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.229,
+  "path": "v18_B0G37Z7FZ2_157.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.036,
+  "path": "v18_B0MGALFNNJ_158.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷",
+   "便利店"
+  ],
+  "margin": 0.199,
+  "path": "v18_B001C7YIR6_159.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "便利店",
+   "易捷"
+  ],
+  "margin": 0.017,
+  "path": "v18_B001C8O5CN_160.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "天福",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.71,
+  "path": "v18_B001C8O5CN_161.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷",
+   "",
+   "ERSyJOy便利店"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0IBU7G8KP_162.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.196,
+  "path": "v18_B0IBU7G8KP_163.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "化",
+   "SERGOPEC"
+  ],
+  "margin": 0.002,
+  "path": "v18_B001C7YC2A_164.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.018,
+  "path": "v18_B001C7YC2A_165.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "我为您的事业加油您给我的生",
+   "EASYLJoy",
+   "便利店"
+  ],
+  "margin": 0.053,
+  "path": "v18_B0FFF2L3FS_166.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "定点加油站"
+  ],
+  "margin": 0.312,
+  "path": "v18_B0FFF2L3FS_167.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.034,
+  "path": "v18_B0FFG7IY1N_168.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "",
+   "易捷",
+   "便利店"
+  ],
+  "margin": 0.207,
+  "path": "v18_B0FFGBJ5RO_169.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中国石化SINOPEC",
+   "中国石"
+  ],
+  "margin": 0.018,
+  "path": "v18_B0FFGBJ5RO_170.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.04,
+  "path": "v18_B0FFG7IVFJ_171.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.363,
+  "path": "v18_B0GU4RV4HV_172.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷"
+  ],
+  "margin": 0.061,
+  "path": "v18_B001C8NUHI_173.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·茶百道",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷便利店",
+   "茶百道ChaPanda"
+  ],
+  "margin": 0.054,
+  "path": "v18_B001C8NUHI_174.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "易捷便利店",
+  "pred": "非目录·易捷",
+  "source": "text_foreign",
+  "ocr": [
+   "易捷便利店",
+   "ChuPinda"
+  ],
+  "margin": 0.149,
+  "path": "v18_B001C8NUHI_175.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "usmile",
+   "昆仑好客",
+   "中国石油天然气股母有限公司"
+  ],
+  "margin": 0.08,
+  "path": "v18_B0FFF2XSW1_176.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客"
+  ],
+  "margin": 0.307,
+  "path": "v18_B0FFF2XSW1_177.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.011,
+  "path": "v18_B0FFF2XSW1_178.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Ismile",
+   "显伦好图"
+  ],
+  "margin": 0.67,
+  "path": "v18_B0GKVS4I95_179.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.772,
+  "path": "v18_B0GKVS4I95_180.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "Samie"
+  ],
+  "margin": 0.395,
+  "path": "v18_B0H2CSUB4N_181.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客",
+   "989592"
+  ],
+  "margin": 0.014,
+  "path": "v18_B0H2CSUB4N_182.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "9592",
+   "昆仑好客"
+  ],
+  "margin": 0.024,
+  "path": "v18_B0J6PU46RJ_183.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmite",
+   "社合轻"
+  ],
+  "margin": 0.01,
+  "path": "v18_B0FFK1V1J8_184.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "国石油",
+   "uSmile",
+   "昆仑好客"
+  ],
+  "margin": 0.516,
+  "path": "v18_B0FFK1V1J8_185.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.01,
+  "path": "v18_B0L1ZHM9V1_186.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中国石油"
+  ],
+  "margin": 0.245,
+  "path": "v18_B0L1ZHM9V1_187.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.398,
+  "path": "v18_B0L1ZHM9V1_188.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmile",
+   "灵仑好客"
+  ],
+  "margin": 0.346,
+  "path": "v18_B0L0F97P89_189.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "Lusnile",
+   "品企#",
+   ""
+  ],
+  "margin": 0.254,
+  "path": "v18_B001D08Q4V_190.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客",
+   "arcare"
+  ],
+  "margin": 0.2,
+  "path": "v18_B001D0VXLR_191.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S",
+   "CcarCare",
+   "8"
+  ],
+  "margin": 0.225,
+  "path": "v18_B001D0VXLR_192.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.015,
+  "path": "v18_B001D0VXLR_193.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "非目录·昆仑好客",
+  "source": "text_foreign",
+  "ocr": [
+   "uSmile",
+   "昆仑好客"
+  ],
+  "margin": 0.142,
+  "path": "v18_B0L2B5JOOE_194.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电"
+  ],
+  "margin": 0.015,
+  "path": "v18_B0L2B5JOOE_195.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "昆仑好客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "uSmile",
+   "昆公好客"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0IR213DED_196.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "永木南山店",
+   "24",
+   "便利店"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0FFGRQDAK_197.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.04,
+  "path": "v18_B0FFGRQDAK_198.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "洗洛亚装馆"
+  ],
+  "margin": 0.303,
+  "path": "v18_B0FFGRQDAK_199.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   "便利店"
+  ],
+  "margin": 0.995,
+  "path": "v18_B01370VY92_200.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "6524"
+  ],
+  "margin": 0.47,
+  "path": "v18_B01370VY92_201.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "饼"
+  ],
+  "margin": 0.046,
+  "path": "v18_B01370VY92_202.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "",
+   "斤欣活"
+  ],
+  "margin": 0.378,
+  "path": "v18_B0FFHEC0SS_203.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ],
+  "margin": 0.016,
+  "path": "v18_B0FFHEC0SS_204.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "Mart",
+   ""
+  ],
+  "margin": 0.972,
+  "path": "v18_B0FFHEC0SS_205.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "合家欢",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.135,
+  "path": "v18_B0LGPGH7DQ_206.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新征程",
+   "纯生奶"
+  ],
+  "margin": 0.822,
+  "path": "v18_B0LGPGH7DQ_207.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "街二饭店",
+   "554"
+  ],
+  "margin": 0.017,
+  "path": "v18_B0FFLCZH72_208.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "524",
+   "逸程酒店"
+  ],
+  "margin": 0.017,
+  "path": "v18_B0FFLCZH72_209.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "京客隆",
+  "source": "visual_fallback",
+  "ocr": [
+   "1"
+  ],
+  "margin": 0.022,
+  "path": "v18_B0FFJKYPUZ_210.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "联牛排板面"
+  ],
+  "margin": 0.466,
+  "path": "v18_B0FFJKYPUZ_211.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "购卡要",
+   "20元",
+   "5张"
+  ],
+  "margin": 0.192,
+  "path": "v18_B0FFG8UV3P_212.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": [
+   "5引"
+  ],
+  "margin": 0.09,
+  "path": "v18_B0FFG8UV3P_213.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.153,
+  "path": "v18_B0FFG8UV3P_214.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "苏宁小店",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.376,
+  "path": "v18_B0FFLDZ2MF_215.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.136,
+  "path": "v18_B0FFLDZ2MF_216.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新精起氧",
+   "",
+   ""
+  ],
+  "margin": 0.034,
+  "path": "v18_B0FFLDZ2MF_217.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "公休闲会馆",
+   "4永时营业",
+   "1654"
+  ],
+  "margin": 0.353,
+  "path": "v18_B0FFIFHZP7_218.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "你的时",
+   "",
+   "Xing兴"
+  ],
+  "margin": 0.041,
+  "path": "v18_B0FFIFHZP7_219.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "唐久",
+  "source": "visual_fallback",
+  "ocr": [
+   "16524"
+  ],
+  "margin": 0.115,
+  "path": "v18_B0KA7N1N7R_220.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "24",
+   "65",
+   "美"
+  ],
+  "margin": 0.356,
+  "path": "v18_B01370VY5H_221.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "6524",
+   "夏利店"
+  ],
+  "margin": 0.708,
+  "path": "v18_B01370VY5H_222.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "XDD悦莱悦美",
+   ""
+  ],
+  "margin": 0.321,
+  "path": "v18_B01370VY5H_223.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.102,
+  "path": "v18_B0FFMG41M1_224.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "36524便利店",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.021,
+  "path": "v18_B0FFMG41M1_225.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.36,
+  "path": "v18_B00154DSKG_226.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可萌",
+   "KEDI"
+  ],
+  "margin": 0.152,
+  "path": "v18_B00154DSKG_227.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "有发",
+   "S",
+   "品味"
+  ],
+  "margin": 0.055,
+  "path": "v18_B00154DSKG_228.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI"
+  ],
+  "margin": 0.162,
+  "path": "v18_B00155FXAT_229.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的KEDI"
+  ],
+  "margin": 0.087,
+  "path": "v18_B00155FXAT_230.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KEDL"
+  ],
+  "margin": 0.446,
+  "path": "v18_B00155FXAT_231.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "红烧",
+   "可的",
+   "2点小时营"
+  ],
+  "margin": 0.111,
+  "path": "v18_B00154DSLS_232.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.178,
+  "path": "v18_B00154DSLS_233.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KED"
+  ],
+  "margin": 0.04,
+  "path": "v18_B00154DSLK_234.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KIEDA"
+  ],
+  "margin": 0.226,
+  "path": "v18_B00154DSLK_235.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "悦来悦喜",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.737,
+  "path": "v18_B00154DSLK_236.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.319,
+  "path": "v18_B00155AE88_237.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新鲜活力畅享健康"
+  ],
+  "margin": 0.161,
+  "path": "v18_B00155AE88_238.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的KEDI"
+  ],
+  "margin": 0.032,
+  "path": "v18_B00155AE88_239.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI",
+   ""
+  ],
+  "margin": 0.037,
+  "path": "v18_B00154DAY9_240.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [
+   "可",
+   "KED",
+   "广"
+  ],
+  "margin": 0.12,
+  "path": "v18_B001557DJM_241.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "折扣添营养",
+   "10元"
+  ],
+  "margin": 0.106,
+  "path": "v18_B001557DJM_242.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "BIG",
+   "BAG",
+   "大食桶"
+  ],
+  "margin": 0.347,
+  "path": "v18_B001557DJM_243.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI"
+  ],
+  "margin": 0.171,
+  "path": "v18_B0I11Y5OKV_244.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "禁蔡先车"
+  ],
+  "margin": 0.005,
+  "path": "v18_B0I11Y5OKV_245.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的"
+  ],
+  "margin": 0.028,
+  "path": "v18_B00155FXAG_246.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可",
+   "KEDI"
+  ],
+  "margin": 0.22,
+  "path": "v18_B00155FXAG_247.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "悦鲜活",
+   "况鲜活",
+   "越鲜活"
+  ],
+  "margin": 0.005,
+  "path": "v18_B00155FXAG_248.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "KEDI"
+  ],
+  "margin": 0.018,
+  "path": "v18_B00155KT9C_249.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "可B",
+   "KEDI",
+   "725"
+  ],
+  "margin": 0.034,
+  "path": "v18_B00155KT9C_250.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "KEDI",
+   "黄焖鸡"
+  ],
+  "margin": 0.008,
+  "path": "v18_B0FFGTF44P_251.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "丽莎",
+   "美食"
+  ],
+  "margin": 0.094,
+  "path": "v18_B0FFGTF44P_252.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "非目录·可的",
+  "source": "text_foreign",
+  "ocr": [
+   "可的",
+   "丽沙美容",
+   "沙县美食"
+  ],
+  "margin": 0.787,
+  "path": "v18_B0FFGTF44P_253.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "a艾伦司",
+   "安伦司小酒馆",
+   "若亚烟酒商行可"
+  ],
+  "margin": 0.127,
+  "path": "v18_B00155KR6T_254.jpg"
+ },
+ {
+  "set": "v18",
+  "truth": "可的便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_all",
+  "ocr": [
+   "全房和工",
+   "芙蓉鹅"
+  ],
+  "margin": 0.064,
+  "path": "v18_B00155KR6T_255.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福",
+   ""
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFIW868F_399.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_cand",
+  "ocr": [
+   "中百超市"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B001B09SO1_496.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "品牌",
+   "零食",
+   "好想聚"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0K0GSB5T5_464.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "text_cand",
+  "ocr": [
+   "喜士多C-STORE"
+  ],
+  "margin": 0.556,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0KGRZGICT_118.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "每一天",
+  "pred": "每一天",
+  "source": "text_all",
+  "ocr": [
+   "verydayStore每一大",
+   "不色惠水就民",
+   "EverycdayCh"
+  ],
+  "margin": 0.002,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MUT1LZA9_374.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "超市",
+   "一京东旗下自营店"
+  ],
+  "margin": 0.439,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFKWGD0Y_651.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2633_950150e34a44.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_4103_fce83e84967f.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "盒马鲜生",
+   "）果玩"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0GKNA6PZE_434.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "好持卖HotMax",
+   "美妆护肤精品零食·酒水饮料宠物零食玩具盲盒·冷饮冻品"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0H64XJFCC_309.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "舞东区"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0J1JBFTPA_378.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好居",
+   "进强便利"
+  ],
+  "margin": 0.981,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B000A7BG77_270.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.934,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2615_9097bca6ebb8.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFKZSSLU_397.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电",
+   "S",
+   "S"
+  ],
+  "margin": 0.001,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B000A819SN_203.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_all",
+  "ocr": [
+   "中司",
+   "万嘉便机",
+   "各水 面 小"
+  ],
+  "margin": 0.122,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFGGZQ96_243.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.972,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0MRDOB65V_61.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "九江湖阳轮胎总经物",
+   "京东便利店",
+   "阳号高道轮指班框社"
+  ],
+  "margin": 0.088,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LRZZ1VTY_440.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "HELLY",
+   "零食有鸣",
+   ""
+  ],
+  "margin": 0.978,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0J0BLVBNL_243.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.976,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B00190AM8I_249.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳厂",
+   "S"
+  ],
+  "margin": 0.975,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L6U15DKH_5.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "发客YOUKE",
+   "古润大昊发买"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFHG917T_333.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "广婆大人"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0J14U0GVB_377.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFIW868F_400.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_cand",
+  "ocr": [
+   "好邻居",
+   "连锁便利",
+   "阜成门南公共汽车站"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B000A8UMH0_289.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.999,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0154_8e2cc1ac672d.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "Q-快客"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFKTDYV7_61.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "印理记账",
+   "最商变便",
+   "咨质办理"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0K2ADZFKP_69.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "suning ProaAmr"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFJYZJHU_141.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美蓉兴基详",
+   "专"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFF4L8KY_189.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛",
+   "便利超市",
+   "加盟热线400-6611-001"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFIMHO9S_213.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "芙蓉兴盛超市",
+   "烟酒副食"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFKSP6DD_195.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_4501_e1dd07c06e13.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4865.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand",
+  "ocr": [
+   "IGR",
+   "合力超市",
+   "合力商业集团旗下品牌"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFHLD95I_662.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "visual_fallback",
+  "ocr": [
+   "电"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFGI6FGR_373.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "好想莱",
+   "全鑫猛火料"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0KDSAQYH6_455.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "群便利店"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0GKC4QBUS_530.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "ocr": [
+   "真爱纸",
+   "多托育中心",
+   "丹尼斯超市"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFGC1RMC_76.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "visual_fallback",
+  "ocr": [
+   "S"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFGT64FP_165.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_3444_451c89fe737f.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "央婆大人",
+   "大人",
+   "家的等"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MDMUYIXG_481.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "空邻·右舍",
+   "中物1"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5158.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all",
+  "ocr": [
+   "金虎便利"
+  ],
+  "margin": 0.0,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0HKKYG0P4_342.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "省钱",
+   "教一吗",
+   "超市"
+  ],
+  "margin": 0.617,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0LKHRQNHG_132.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand",
+  "ocr": [
+   "新佳宜",
+   "连锁便利店",
+   "酒乘直营店"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0GKGR9QUM_65.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "针角便利店",
+   "鱼烤"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0I6JU21LJ_288.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_all",
+  "ocr": [
+   "九江麦号店",
+   "加权话：102515477",
+   "京东便利店"
+  ],
+  "margin": 0.01,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LRZZ1VTY_439.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "合家欢",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.048,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0HU4PJ0LZ_396.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "我马鲜生",
+   "鸿鲜花Flower"
+  ],
+  "margin": 0.691,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0KKZ1PDIY_201.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand",
+  "ocr": [
+   "苏宁小店便利店",
+   ""
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0L21BT0H3_144.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "SE"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0KU3H8HVD_9.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店／蒸民路超市"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFIYRE6D_399.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中都·石名"
+  ],
+  "margin": 0.974,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4976.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0JUUSO3AO_635.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舍",
+   "便利店"
+  ],
+  "margin": 0.973,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5843.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "蔓马鲜生"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0KU4MQ4AL_427.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "见福",
+  "pred": "见福",
+  "source": "text_all",
+  "ocr": [
+   "见福便利店"
+  ],
+  "margin": 0.006,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0FFLO3VOX_36.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "",
+   "温相馆",
+   "美宜佳"
+  ],
+  "margin": 0.001,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0GUZOJRGB_64.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "货真价实诚信经营",
+   "芙蓉兴盛超市",
+   "经营范围：香烟 酒水 饮料 副食品 日用品"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHHT95V_233.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "中百",
+  "source": "text_all",
+  "ocr": [
+   "中百超市"
+  ],
+  "margin": 0.022,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFHDYFPG_505.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   ".Famm"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFI0M8A4_124.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "良品铺子",
+   "BESTORE"
+  ],
+  "margin": 0.068,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFG6XOR4_343.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "S",
+   "香烟"
+  ],
+  "margin": 0.007,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFHCOL86_120.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "蔡路真便宜 超值超省超好",
+   "X一鸣零食",
+   "一鸣零套"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0KRYST02B_116.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "text_cand",
+  "ocr": [
+   "戴永】！",
+   "始于",
+   "1996"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0L6ASWU9C_388.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|仙霞超市"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0HGSS2545_383.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "超市便利店"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHFAGSM_217.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "利丰路店",
+   "京东便利店",
+   "报权店：1016215341"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0KAJC4R8H_468.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c325.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍",
+   "荣鑫烟酒",
+   "至店咨询 联系电话187969627"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c716.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜",
+   "M.Y.J",
+   "中国体育彩票"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0G3MSVGLR_42.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MD97PUNP_445.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "E",
+   "",
+   "湘潭辅子"
+  ],
+  "margin": 0.312,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0K351OVWS_226.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "良品铺子BESTORE",
+   "o"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFG84HD8_353.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "超修SPA 荣号",
+   "Cho",
+   "24h"
+  ],
+  "margin": 0.044,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0K3DHKPAX_48.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "只乐便木",
+   "友节特惠",
+   "全宾海购"
+  ],
+  "margin": 0.064,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LRZZ1VTY_441.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "中百罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "中百罗森",
+   "L-cafe"
+  ],
+  "margin": 0.016,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0MU1S1Q94_230.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ],
+  "margin": 0.919,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_3244_943f8cc6f539.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0MRRR31SP_151.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [
+   "喜十灸"
+  ],
+  "margin": 0.969,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFHW5Q11_193.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "周年",
+   "值送好“礼",
+   ""
+  ],
+  "margin": 0.565,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0I3T7HLQO_180.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "坊",
+   "JENNIS",
+   "平尼斯"
+  ],
+  "margin": 0.001,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFGHOHVR_641.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "万家导价到！省心更省钱"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFLIQFLN_508.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "24小时"
+  ],
+  "margin": 0.98,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0IA9ZM7OB_38.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "text_all",
+  "ocr": [
+   "生活超",
+   "谊品生鲜"
+  ],
+  "margin": 0.24,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFG0F19J_735.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON"
+  ],
+  "margin": 0.274,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0IGV52VKP_35.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好烧",
+   "房6研究所"
+  ],
+  "margin": 0.391,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0LKDCNJLZ_166.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "广场",
+   "左邻?右舍",
+   "医保定点"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4483.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMar"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B00155IWDK_59.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜佳",
+   "黄令"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0MRUSL80V_14.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "大药房",
+   "美宜佳",
+   "便利店"
+  ],
+  "margin": 0.393,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L6MUUWWP_74.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "品牌",
+   "好想来",
+   "零食"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0K0GSB5T5_462.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "手工大包理粥",
+   "真烧包",
+   "传"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0JA97BB5F_154.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "生美容",
+   "左邻右舍",
+   "便利店"
+  ],
+  "margin": 0.92,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2208_9234a48f598b.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "中百",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "永清街店062",
+   "中里生美",
+   "超市"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B001B06GI9_490.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_3973_b9fecb249360.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "赵一鸣零食",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.113,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B02000IR2D_117.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "盒马鲜生",
+   "会员店",
+   "营业e时间g Hours"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFJRHZRI_417.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2993_e31b7d80418d.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "text_cand",
+  "ocr": [
+   "-ELEVEN"
+  ],
+  "margin": 0.933,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0L6MLXJWP_154.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "电",
+   "赵一鸣零食"
+  ],
+  "margin": 0.827,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0K3DHKPAX_47.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "ocr": [
+   "电",
+   "电",
+   "生活不忙零食很忙"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0J2BAS43B_38.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "翼水便木"
+  ],
+  "margin": 0.978,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0JK2ZU8YD_391.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0IBY5WHWD_4.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "老婆大人",
+   "宁菜场店"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0IGMD7AI4_370.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "省钱",
+   "教一吗",
+   "超市"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0MDDZLLS8_44.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c268.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "24hl模",
+   "四个朋友",
+   "暖江"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0HGRMNMMS_124.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand",
+  "ocr": [
+   "欢迎光临",
+   "华润方家"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0J25STSK6_169.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "万嘉",
+  "pred": "万嘉",
+  "source": "text_cand",
+  "ocr": [
+   "四“万嘉便",
+   "235"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFHBANHT_228.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳",
+   "好"
+  ],
+  "margin": 0.979,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0K3Y5EO5X_119.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c26.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "万",
+   ""
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_3391_3745a2270d32.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "老婆大"
+  ],
+  "margin": 0.967,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFLMI0TX_365.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "莹",
+   "烤鸭",
+   "冷冻"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFKYV7AO_659.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "零食很忙",
+  "source": "text_cand",
+  "ocr": [
+   "零食很忙BUSYFOR YOU图西",
+   "江西！我们很便宜"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0I3YUKWIH_44.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "八点半",
+  "pred": "八点半",
+  "source": "text_all",
+  "ocr": [
+   "勇闯天涯",
+   "现杀烤鱼烧烤",
+   "八点半烤鱼坊"
+  ],
+  "margin": 0.002,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0I3KZ8CHJ_314.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMar",
+   "KIREALON"
+  ],
+  "margin": 0.946,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B00155IHPB_76.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "188868"
+  ],
+  "margin": 0.92,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0ID2SEBC8_126.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "·石全",
+   "GoodNeghbor亲如一家",
+   "No.0062"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/seed_P-02_09_6e33c3c77e.png"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c365.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   ""
+  ],
+  "margin": 0.97,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFGC1RMC_78.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4843.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|军军超市"
+  ],
+  "margin": 0.97,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LGPBH5VI_385.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0IADZTR28_423.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "北京华联",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "北事带联造造总部中会"
+  ],
+  "margin": 0.386,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B000AAA562_675.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "走这一旋",
+   "省钱",
+   "超市"
+  ],
+  "margin": 0.983,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0MRGLN4LE_114.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美",
+   "木木",
+   "护眼"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0L1HUX5RM_406.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "中兴盛"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B03170S1MK_145.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "蓉兴盛超",
+   "许可证号：33010112",
+   "S"
+  ],
+  "margin": 0.195,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFH4URPS_243.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛超市"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFG6EH0X_200.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "伟",
+   "左邻·右舍一",
+   ""
+  ],
+  "margin": 0.168,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c380.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand",
+  "ocr": [
+   "超市",
+   "新",
+   "冷领鲜"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B000A87XGG_638.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand",
+  "ocr": [
+   "苏果便利"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0KA6SLNWS_252.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "邻?右舍",
+   "长虹空调车工品"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c6730.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合力超市",
+  "pred": "合力超市",
+  "source": "text_cand",
+  "ocr": [
+   "合力超市",
+   "SUPRMART会力南业联国限卡品校",
+   "惠民生鲜"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFKURCOJ_674.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "aiS山姆会员商店",
+   "入口 Entrance"
+  ],
+  "margin": 0.001,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0J3O5UW5D_544.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0G3LLIYPC_224.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "快客",
+   "QUIK"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFHNNWHA_64.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "天福",
+   "Tianfu"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFKME5WR_407.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0L09CDR2R_195.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "visual_fallback",
+  "ocr": [
+   "Q",
+   "快宅"
+  ],
+  "margin": 0.819,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFGBCW6F_352.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "佳乐家Famil"
+  ],
+  "margin": 0.0,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFITNS6E_437.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "全家FamilyMart",
+   "串密电品"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0LR7CJQ6O_117.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "社区超市",
+   "",
+   "左邻?右舍"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2201_df47ccefdc2b.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "舞东风",
+   "星瑞仁家"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFGFKWUL_381.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images/amap2_3e96c242ef10_c8e9ed87.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "尼斯全日鲜"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B01730IIDI_637.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4649.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢",
+   "生活馆"
+  ],
+  "margin": 0.98,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0IADZTR28_424.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4949.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.999,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_0774_6d49d2de929d.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "舞东风",
+  "pred": "舞东风",
+  "source": "text_cand",
+  "ocr": [
+   "阳鲜来粉",
+   "舞东风",
+   "LBUDOnCFEnC"
+  ],
+  "margin": 0.171,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0HU67361G_377.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "三只松鼠",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "无湖中御公馆生活馆No.003",
+   "好货不贵个三餐必备"
+  ],
+  "margin": 0.015,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0MD1ZRZFA_473.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?石舌",
+   "便利店",
+   "干净卫生品质放心"
+  ],
+  "margin": 0.976,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2439_14f60565e3a4.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "新佳宜",
+  "source": "text_cand",
+  "ocr": [
+   "连锁便利店",
+   "新佳宜",
+   "NEWJOYMART"
+  ],
+  "margin": 0.968,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFIUMQMW_261.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "快客",
+   "Q"
+  ],
+  "margin": 0.739,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B023B1DH8L_332.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "合家欢",
+  "source": "text_cand",
+  "ocr": [
+   "合家欢"
+  ],
+  "margin": 0.083,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B03018QNGO_418.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛超市",
+   "佰·地产"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFI727T7_236.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食很忙",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "零食退托"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0K32HCICI_22.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "洗鞋",
+   "3688"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0J2HM7ZZL_147.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "电",
+   "更民",
+   "东方证券"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFF5VH3A_67.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "中全福",
+   "全家福便利店"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0FFI0SXZK_127.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜佳",
+   "主营"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0G27OH1F2_37.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "盒马鲜生",
+  "pred": "盒马鲜生",
+  "source": "text_cand",
+  "ocr": [
+   "马鲜生",
+   ""
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0J2PR9ACE_412.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻?右舍"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5125.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·石舍",
+   "早餐",
+   "包子、豆寨"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c5187.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "新佳宜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "新主E",
+   "更木小店"
+  ],
+  "margin": 0.735,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0LBRUD6YR_258.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻右舍"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c4501.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "友客",
+  "source": "text_cand",
+  "ocr": [
+   "友客",
+   "youke"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFJXPCB2_335.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "戴永红",
+  "pred": "戴永红",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "S",
+   ""
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0G2ORHV48_489.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "",
+   "这一爬",
+   "育钱"
+  ],
+  "margin": 0.98,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0LDSR3NAE_138.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "老婆大人",
+  "source": "text_cand",
+  "ocr": [
+   "巴湾大人",
+   "家的零",
+   "有爱"
+  ],
+  "margin": 0.005,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MUS5BTET_469.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "F邻石"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_3959_14d8f4146aeb.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "余干店",
+   "京东便利店"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L6X74IRA_437.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "7-11",
+  "source": "text_cand",
+  "ocr": [
+   "LEVEN",
+   "上线啦",
+   "南昌拌粉"
+  ],
+  "margin": 0.028,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0KU97TPRX_156.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "好特实HotMax&宝家折扣店"
+  ],
+  "margin": 0.99,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0LR2557Z6_321.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "好邻居",
+  "source": "text_all",
+  "ocr": [
+   "好邻居",
+   "连锁便利",
+   "图文快印"
+  ],
+  "margin": 0.095,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0G1DLJRF7_278.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好邻居",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "好邻食",
+   "便利应",
+   "寿衣寿"
+  ],
+  "margin": 0.049,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B000A7C0JK_275.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_all",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ],
+  "margin": 0.421,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L6MUUWWP_72.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "ocr": [
+   "红旗连锁",
+   "Qichain",
+   "Hong"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B001C8N6CD_70.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c298.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "text_cand",
+  "ocr": [
+   "左邻·右舍",
+   "店开业",
+   "店开业"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/c272.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|强鑫便利店",
+   "中国体育彩票"
+  ],
+  "margin": 0.058,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFMCWAW1_394.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛便利店",
+   "全"
+  ],
+  "margin": 0.967,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFFGUKT4_246.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_cand",
+  "ocr": [
+   "家门口的零食乐园",
+   "",
+   "好想来紫"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0MRBM9TQ2_148.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "谊品生鲜",
+  "pred": "谊品生鲜",
+  "source": "visual_fallback",
+  "ocr": [
+   "自品生"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFI9UO2S_743.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "利群",
+  "pred": "利群",
+  "source": "text_all",
+  "ocr": [
+   "利群商店",
+   "日用百货送13563195252"
+  ],
+  "margin": 0.601,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFH0V41K_284.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "美容",
+   "中国体育彩票"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0G3MSVGLR_43.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙蓉兴盛",
+   "前我爱我家"
+  ],
+  "margin": 0.855,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0HGHC850X_138.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "左邻右舍",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [
+   "部石全"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v4/v4_2739_88dc43104809.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "红旗连锁",
+  "pred": "红旗连锁",
+  "source": "text_cand",
+  "ocr": [
+   "红旗连锁",
+   "Hong Qi Chain"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v14_milkchain/v14_B0FFK2V3D5_76.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏宁小店",
+  "pred": "苏宁小店",
+  "source": "text_cand",
+  "ocr": [
+   "苏宁小店"
+  ],
+  "margin": 0.98,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0LDFAX9KI_130.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "中",
+   "中佳乐家"
+  ],
+  "margin": 0.115,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B02180IXBU_431.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "7-11",
+  "source": "visual_fallback",
+  "ocr": [
+   "红",
+   ""
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0LD05FGZ1_144.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ],
+  "margin": 0.998,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0JRHDFBGS_421.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "好想来",
+  "source": "text_all",
+  "ocr": [
+   "好想来"
+  ],
+  "margin": 0.004,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0JK27X868_83.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "LAWSON",
+   "便利店",
+   "LAWSON"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0M6JXHDA2_45.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "喜士多",
+  "pred": "喜士多",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0I1VHWJLE_101.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_all",
+  "ocr": [
+   "ENTRANCE",
+   "美好生活在万家",
+   "大迎光尚临华润万家"
+  ],
+  "margin": 0.314,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFFFKGW9_503.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "良品铺子",
+  "pred": "良品铺子",
+  "source": "text_cand",
+  "ocr": [
+   "氧",
+   "品铺子",
+   ""
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFGG72QJ_518.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华冠",
+  "pred": "华冠",
+  "source": "text_cand",
+  "ocr": [
+   "超市",
+   "冷颈鲜",
+   "华冠"
+  ],
+  "margin": 0.278,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFGS9T39_630.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.018,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0MDAS2VJT_107.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "中",
+   "Cango",
+   "电"
+  ],
+  "margin": 0.425,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B00140U6H5_157.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LDFBTLGH_67.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "服务站",
+   "",
+   "美宜佳"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0MRUSL80V_13.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好特卖",
+  "pred": "好特卖",
+  "source": "text_cand",
+  "ocr": [
+   "经持卖6otMax",
+   "好持卖HotMax",
+   "好特卖"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0H64XJFCC_307.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.858,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B00155KJEJ_316.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "丹尼斯",
+  "pred": "丹尼斯",
+  "source": "text_cand",
+  "ocr": [
+   "药房",
+   "中原路多注村分丹尼斯全日的",
+   "万景#景游"
+  ],
+  "margin": 0.169,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFJCO54H_627.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "美蓉兴盛",
+   ""
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L6ARUJ2T_157.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0L16LTDFR_0.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "友客",
+  "pred": "左邻右舍",
+  "source": "visual_fallback",
+  "ocr": [],
+  "margin": 0.082,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0MGJYB9ZE_320.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "苏果便利",
+  "pred": "苏果便利",
+  "source": "text_cand",
+  "ocr": [
+   "苏果便利"
+  ],
+  "margin": 0.975,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0KA6SLNWS_251.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ],
+  "margin": 0.975,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0M6N7FO58_448.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "快客",
+  "pred": "快客",
+  "source": "text_cand",
+  "ocr": [
+   "Q",
+   "快客"
+  ],
+  "margin": 0.867,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B023B1DH8L_330.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "visual_fallback",
+  "ocr": [
+   "电司"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHBGB84_190.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京客隆",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "原客隆",
+   "JINGKELONG"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B000A845C5_605.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "罗森",
+  "pred": "罗森",
+  "source": "text_cand",
+  "ocr": [
+   "云境·轻",
+   "美耳位果医",
+   "LAWSON"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0LUNS1BB1_53.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|丹丹超市",
+   "天猫小店丹丹超市"
+  ],
+  "margin": 0.984,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFKKK36L_390.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "蓝色经典",
+   "全国连锁便利超市"
+  ],
+  "margin": 0.869,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHQESJ5_151.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "零食有鸣",
+   "实有"
+  ],
+  "margin": 0.988,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MAV76J5M_237.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "山姆",
+  "pred": "山姆",
+  "source": "text_all",
+  "ocr": [
+   "入口",
+   "Entrance",
+   "山姆会员商店"
+  ],
+  "margin": 0.013,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0HDRBRL22_550.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "",
+   "美宜信"
+  ],
+  "margin": 0.476,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFJZI3LI_53.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "7-11",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "FUFVEI",
+   "满17减60"
+  ],
+  "margin": 0.985,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0L3CGIF9Q_174.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天福",
+  "pred": "天福",
+  "source": "text_cand",
+  "ocr": [
+   "天福Tianfu",
+   "盾"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFHJH49R_105.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "天虹",
+  "source": "visual_fallback",
+  "ocr": [
+   ""
+  ],
+  "margin": 0.833,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B02F38SJID_600.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "好想来",
+  "source": "visual_fallback",
+  "ocr": [
+   "中"
+  ],
+  "margin": 0.527,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0MBG53GTM_476.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好想来",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "禦",
+   "好淇米"
+  ],
+  "margin": 0.997,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0MUXRAU3O_461.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "海鲜菜",
+   "美宜佳美宜佳"
+  ],
+  "margin": 0.991,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0G0BN0N8M_25.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "赵一鸣零食",
+  "source": "text_cand",
+  "ocr": [
+   "走赵一呜",
+   "省"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0J22SWPC0_31.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "佳乐家",
+  "pred": "佳乐家",
+  "source": "text_all",
+  "ocr": [
+   "S",
+   "T佳乐家"
+  ],
+  "margin": 0.006,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B02180J08P_428.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天猫小店",
+  "pred": "天猫小店",
+  "source": "text_cand",
+  "ocr": [
+   "天猫小店|长途便利店"
+  ],
+  "margin": 0.982,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0G229UEUV_403.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "恰货铺子",
+  "pred": "恰货铺子",
+  "source": "text_all",
+  "ocr": [
+   "口",
+   "恰货铺子",
+   ""
+  ],
+  "margin": 0.005,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFH6IJ4K_485.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "来喜",
+   "Happymar"
+  ],
+  "margin": 0.996,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0MRKR4E6F_302.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "悦来悦喜",
+  "pred": "悦来悦喜",
+  "source": "text_cand",
+  "ocr": [
+   "悦来业"
+  ],
+  "margin": 0.987,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0HAXZLJR1_300.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "京东便利店",
+  "pred": "京东便利店",
+  "source": "text_cand",
+  "ocr": [
+   "京东便利店"
+  ],
+  "margin": 0.01,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0MBG53GTM_474.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "合家欢",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "姐烧烧",
+   "迎常来小馆",
+   "合"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0H1F7G00R_405.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "便利店",
+   "美宜佳",
+   "美宜佳"
+  ],
+  "margin": 0.993,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0LKAD84M2_24.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "美宜佳",
+  "pred": "美宜佳",
+  "source": "text_cand",
+  "ocr": [
+   "美宜佳"
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHVDOAY_50.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "金虎",
+  "pred": "金虎",
+  "source": "text_all",
+  "ocr": [
+   "金虎便利"
+  ],
+  "margin": 0.114,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFLGJVZP_362.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "全家",
+  "pred": "全家",
+  "source": "text_cand",
+  "ocr": [
+   "e.FarailyMare",
+   ""
+  ],
+  "margin": 0.994,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v13_natl/v13_B0I1PNGMMJ_64.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "赵一鸣零食",
+  "pred": "非目录·一鸣真鲜奶吧",
+  "source": "text_foreign",
+  "ocr": [
+   "地区一鸣"
+  ],
+  "margin": 0.986,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0I2MAC9K8_35.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "华润万家",
+  "pred": "华润万家",
+  "source": "text_cand",
+  "ocr": [
+   "长沙粉面小吃",
+   "欢迎光临",
+   "华润万家"
+  ],
+  "margin": 0.008,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v15_milkchain2/v15_B0FFFFKGW9_502.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "北国",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "建华城市广场",
+   "负一层美食街",
+   "华玉超市建华"
+  ],
+  "margin": 0.009,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v17_milkchain4/v17_B0FFKKJM4I_559.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "天虹",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "天頭",
+   "RAINBOW",
+   "盛香亭"
+  ],
+  "margin": 0.995,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B03017UXTR_4.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "好德",
+  "pred": "好德",
+  "source": "text_cand",
+  "ocr": [
+   "轴承五金",
+   "好德烟酒",
+   "珊"
+  ],
+  "margin": 0.989,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0FFITWQND_29.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "零食有鸣",
+  "pred": "零食有鸣",
+  "source": "text_cand",
+  "ocr": [
+   "鑫彦大",
+   "零食有鸣爱超市"
+  ],
+  "margin": 0.968,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0K29AC5U9_218.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "芙蓉兴盛",
+  "pred": "芙蓉兴盛",
+  "source": "text_cand",
+  "ocr": [
+   "芙容兴盛"
+  ],
+  "margin": 0.992,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v12_confusable/v12_B0FFHSMLEZ_225.jpg"
+ },
+ {
+  "set": "cat",
+  "truth": "老婆大人",
+  "pred": "unknown",
+  "source": "visual_fallback",
+  "ocr": [
+   "老疆大人",
+   "："
+  ],
+  "margin": 0.126,
+  "path": "/Users/mac/chatgpt-harvest/6af41562/data/images_v16_milkchain3/v16_B0M1K7RBIT_480.jpg"
+ }
+]
