@@ -52,6 +52,35 @@ yn = np.array([0] * len(Xg) + [1] * (len(X18neg) + len(Xloc)))
 none_probe = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xn, yn)
 print(f"S2 负例探针就绪 (负样本 {len(X18neg)}+{len(Xloc)})", flush=True)
 
+# ---------- 验证模式(人脸识别1:1范式): 每品牌阈值 = 自品牌非gallery门店分50%校准 q2% ----------
+from collections import defaultdict
+_vstore = defaultdict(list)
+for i in range(len(okrows)):
+    b = okrows[i]["brand"]
+    if b != "local" and i not in set(gidx[b]):
+        _vstore[okrows[i]["poi"]].append(i)
+VT = {}
+_rng2 = np.random.RandomState(2)
+for b in probes:
+    rows_b = [i for s in _vstore for i in _vstore[s] if okrows[i]["brand"] == b]
+    if len(rows_b) < 4:
+        continue
+    sts = sorted(set(okrows[i]["poi"] for i in rows_b))
+    _rng2.shuffle(sts)
+    cal_rows = [i for s in sts[:max(1, len(sts) // 2)] for i in _vstore[s]]
+    if not cal_rows:
+        continue
+    sc = probes[b].predict_proba(gsc.transform(X[cal_rows]))[:, 1]
+    genuine_thr = float(np.quantile(sc, 0.02))  # 目标 TAR 98%
+    # 冒充者分布: 其他品牌测试行对本探针的分数, q98 → 目标 FAR 2%
+    imp_rows = [i for s in _vstore for i in _vstore[s] if okrows[i]["brand"] != b]
+    if imp_rows:
+        sc_imp = probes[b].predict_proba(gsc.transform(X[imp_rows]))[:, 1]
+        VT[b] = max(genuine_thr, float(np.quantile(sc_imp, 0.98)))
+    else:
+        VT[b] = genuine_thr
+print(f"验证阈值就绪 ({len(VT)} 品牌)", flush=True)
+
 galX = {b: X[gidx[b]] for b in probes}
 gal_named = [i for b in brands if b != "local" for i in gidx[b]]
 GALC = e8.l2(Vc[gal_named])
@@ -237,6 +266,44 @@ def infer(pil):
     }
 
 
+def verify(pil, claim):
+    """1:1 验证(人脸识别范式): 只回答"是不是宣称的品牌", 不做 42 选 1。"""
+    t0 = time.time()
+    vec_c = ECC.embed_pil([pil])[0]
+    vec_d = EDD.embed_pil([pil])[0]
+    q = np.hstack([e8.l2(vec_c[None]), e8.l2(vec_d[None])])
+    import cv2
+    arr = np.asarray(pil.convert("RGB"))[:, :, ::-1].copy()
+    texts = [rec_crop(arr, bx) for bx in merge_lines(det_boxes(arr))]
+    if claim not in probes:
+        return {"verdict": "NO_TEMPLATE", "claim": claim, "score": None, "thr": None,
+                "ocr": texts[:6], "latency_s": round(time.time() - t0, 2),
+                "note": "目录外品牌, 无模板库, 无法验证"}
+    score = float(probes[claim].predict_proba(gsc.transform(q))[0, 1])
+    thr = VT.get(claim)
+    # 文字佐证: 读到该品牌别名 → 加分证据
+    alias_hit = any(a in "".join(t.upper() for t in texts) for a in ALIAS.get(claim, []))
+    if thr is not None:
+        verdict = "VERIFIED" if (score >= thr and not_alias_conflict(texts, claim)) else "REJECTED"
+    else:
+        verdict = "UNSURE"
+    return {"verdict": verdict, "claim": claim, "score": round(score, 3), "thr": thr,
+            "alias_hit": alias_hit, "ocr": texts[:6], "latency_s": round(time.time() - t0, 2)}
+
+
+def not_alias_conflict(texts, claim):
+    """读到了明确的其他目录品牌别名 → 即使探针分高也拒绝(防挂错招牌/邻居招牌)。"""
+    joined = "".join(t.upper() for t in texts)
+    for b, als in ALIAS.items():
+        if b == claim:
+            continue
+        for a in als:
+            na = re.sub(r"\s+", "", a).upper()
+            if len(na) >= 4 and na in joined:
+                return False
+    return True
+
+
 PAGE = """<!doctype html><html lang=zh><meta charset=utf-8>
 <title>门头品牌识别 demo</title>
 <style>
@@ -253,6 +320,10 @@ img#prev{max-width:100%;max-height:320px;display:block;margin:16px auto}
 <div id=drop>拖一张门头照片到这里, 或点击选择<input type=file id=f accept=image/* hidden></div>
 <img id=prev hidden>
 <div id=out></div>
+<h3>验证模式 <span class=mut>人脸识别 1:1 范式 — 你宣称品牌, 系统只答是/否</span></h3>
+<div class=row style=margin:8px 0>
+  <select id=claim style="padding:8px;font-size:14px"><option value="">— 选择要验证的品牌 —</option></select>
+</div>
 <h3>测试画廊 <span class=mut>点击即识别 · 含目录外样例(应显示 unknown)</span></h3>
 <div id=gal>加载中…</div>
 <style>
@@ -274,10 +345,26 @@ drop.ondrop=e=>{e.preventDefault();drop.classList.remove('hot');if(e.dataTransfe
 f.onchange=()=>{if(f.files[0])go(f.files[0])};
 async function go(file){
   prev.src=URL.createObjectURL(file);prev.hidden=false;
-  out.innerHTML='<p>识别中…</p>';
-  const fd=new FormData();fd.append('image',file);
-  const r=await fetch('/infer',{method:'POST',body:fd});
-  render(await r.json());
+  const c=document.getElementById('claim').value;
+  if(c){
+    out.innerHTML=`<p>验证中(宣称: ${c})…</p>`;
+    const fd=new FormData();fd.append('image',file);fd.append('claim',c);
+    renderV(await (await fetch('/verify',{method:'POST',body:fd})).json());
+  }else{
+    out.innerHTML='<p>识别中…</p>';
+    const fd=new FormData();fd.append('image',file);
+    render(await (await fetch('/infer',{method:'POST',body:fd})).json());
+  }
+}
+function renderV(j){
+  const ok=j.verdict==='VERIFIED', no=j.verdict==='REJECTED';
+  const col=ok?'#0a0':(no?'#c00':'#b60');
+  out.innerHTML=`<div class=row>
+    <div class=card><div class=mut>验证判决(宣称: ${j.claim})</div>
+      <div class=brand style=color:${col}>${j.verdict==='VERIFIED'?'✓ 通过':(no?'✗ 拒绝':'? 无法验证')}</div>
+      <div class=mut>探针分 ${j.score??'—'} / 阈值 ${j.thr??'—'} ${j.alias_hit?'· 招牌文字佐证':''}</div></div></div>
+    ${j.note?`<p class=mut>${j.note}</p>`:''}
+    <p class=mut>OCR 读到: ${j.ocr.length?j.ocr.map(t=>`「${t}」`).join(' '):'(未读出文字)'} · 耗时 ${j.latency_s}s</p>`;
 }
 function render(j){
   const top=j.top3.map(t=>`<div class=card><div class=mut>探针 ${Math.round(t.score*100)}%</div><b>${t.brand}</b></div>`).join('');
@@ -301,6 +388,11 @@ async function runK(k){
     <div class=grid>${zn.map(cell).join('')}</div>
     <div class=sec>—— 其他连锁与目录外 ——</div>
     <div class=grid>${rest.map(cell).join('')}</div>`;
+  // 验证模式品牌下拉(画廊里出现过的品牌)
+  const sel=document.getElementById('claim');
+  [...new Set(items.map(s=>s.brand).filter(b=>b!=='目录外'))].sort().forEach(b=>{
+    const o=document.createElement('option');o.value=b;o.textContent=b;sel.appendChild(o);
+  });
 })();
 </script>"""
 
@@ -340,17 +432,22 @@ class H(BaseHTTPRequestHandler):
         self._send(404, b"{}", "text/plain")
 
     def do_POST(self):
-        if self.path != "/infer":
+        if self.path not in ("/infer", "/verify"):
             return self._send(404, b"{}", "application/json")
         length = int(self.headers.get("Content-Length", 0))
         data = self.rfile.read(length)
-        # multipart: 取第一个文件段
+        # multipart: 取第一个文件段 + 可选 claim 字段
         m = re.search(rb"\r\n\r\n(.*?)\r\n--", data, re.S)
         if not m:
             return self._send(400, json.dumps({"error": "no image"}).encode(), "application/json")
+        mc = re.search(rb'name="claim"\r\n\r\n(.*?)\r\n--', data, re.S)
+        claim = mc.group(1).decode("utf-8", "ignore").strip() if mc else ""
         try:
             pil = Image.open(io.BytesIO(m.group(1))).convert("RGB")
-            out = infer(pil)
+            if self.path == "/verify" and claim:
+                out = verify(pil, claim)
+            else:
+                out = infer(pil)
             self._send(200, json.dumps(out, ensure_ascii=False).encode("utf-8"), "application/json")
         except Exception as e:
             self._send(500, json.dumps({"error": str(e)}).encode(), "application/json")
