@@ -92,7 +92,6 @@ for b in probes:
         VT[b] = genuine_thr
 print(f"验证阈值就绪 ({len(VT)} 品牌)", flush=True)
 
-galX = {b: X[gidx[b]] for b in probes}
 gal_named = [i for b in brands if b != "local" for i in gidx[b]]
 GALC = e8.l2(Vc[gal_named])
 print(f"探针 {len(probes)} 品牌就绪", flush=True)
