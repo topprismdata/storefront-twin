@@ -47,10 +47,17 @@ neg18_mask = np.array([b not in ("瑞幸咖啡", "库迪咖啡") for b in
 z18 = np.load(ROOT / "synthetic/vis_cache/v18_feats.npz", allow_pickle=True)
 X18neg = gsc.transform(np.hstack([e8.l2(z18["Vc"][neg18_mask]), e8.l2(z18["Vd"][neg18_mask])]))
 Xloc = X[gidx["local"]]
-Xn = np.vstack([Xg, X18neg, Xloc])
-yn = np.array([0] * len(Xg) + [1] * (len(X18neg) + len(Xloc)))
+# S3 合成 lookalike 硬负例(咖啡/茶饮/快餐/生鲜 14 范式, 全部为负, 瑞幸/库迪范式也在内——
+# 它们是渲染图, 不是真实照片, 治理上 synthetic_train_only)
+negs_extra = [X18neg, Xloc]
+_v3f = ROOT / "synthetic/vis_cache/v3_feats.npz"
+if _v3f.exists():
+    z3 = np.load(_v3f, allow_pickle=True)
+    negs_extra.append(gsc.transform(np.hstack([e8.l2(z3["Vc"]), e8.l2(z3["Vd"])])))
+Xn = np.vstack([Xg] + negs_extra)
+yn = np.array([0] * len(Xg) + [1] * (len(Xn) - len(Xg)))
 none_probe = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xn, yn)
-print(f"S2 负例探针就绪 (负样本 {len(X18neg)}+{len(Xloc)})", flush=True)
+print(f"S2 负例探针就绪 (负样本 {len(Xn) - len(Xg)})", flush=True)
 
 # ---------- 验证模式(人脸识别1:1范式): 每品牌阈值 = 自品牌非gallery门店分50%校准 q2% ----------
 from collections import defaultdict
