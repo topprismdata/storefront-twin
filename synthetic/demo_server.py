@@ -41,6 +41,17 @@ for b in brands:
     y = np.array([1 if g == b else 0 for g in gbrands])
     if y.sum() >= 5:
         probes[b] = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xg, y)
+# S2 负例探针: 显式"都不是"类(v18校准品牌 + local), 瑞幸/库迪留出验证泛化
+neg18_mask = np.array([b not in ("瑞幸咖啡", "库迪咖啡") for b in
+                       np.load(ROOT / "synthetic/vis_cache/v18_feats.npz", allow_pickle=True)["brands"]])
+z18 = np.load(ROOT / "synthetic/vis_cache/v18_feats.npz", allow_pickle=True)
+X18neg = gsc.transform(np.hstack([e8.l2(z18["Vc"][neg18_mask]), e8.l2(z18["Vd"][neg18_mask])]))
+Xloc = X[gidx["local"]]
+Xn = np.vstack([Xg, X18neg, Xloc])
+yn = np.array([0] * len(Xg) + [1] * (len(X18neg) + len(Xloc)))
+none_probe = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xn, yn)
+print(f"S2 负例探针就绪 (负样本 {len(X18neg)}+{len(Xloc)})", flush=True)
+
 galX = {b: X[gidx[b]] for b in probes}
 gal_named = [i for b in brands if b != "local" for i in gidx[b]]
 GALC = e8.l2(Vc[gal_named])
@@ -201,6 +212,7 @@ def infer(pil):
     ss = {b: float(probes[b].predict_proba(gsc.transform(q))[0, 1]) for b in probes}
     top = sorted(ss.items(), key=lambda kv: -kv[1])[:3]
     margin = top[0][1] - top[1][1]
+    none_p = float(none_probe.predict_proba(gsc.transform(q))[0, 1])
     gsim = float((e8.l2(vec_c[None]) @ GALC.T).max())
     import cv2
     arr = np.asarray(pil.convert("RGB"))[:, :, ::-1].copy()
@@ -209,7 +221,9 @@ def infer(pil):
     cjk = sum(1 for t in texts for ch in t if "\u4e00" <= ch <= "\u9fff")
     unknown = False
     if source == "visual_fallback":
-        if gsim < S1_THR:          # S1: 与目录 gallery 不像 → 诚实拒答(品牌留出校准)
+        if none_p > top[0][1]:     # S2: 负类探针赢过所有品牌探针 → 诚实拒答
+            unknown = True
+        elif gsim < S1_THR:        # S1: 与目录 gallery 不像 → 诚实拒答(品牌留出校准)
             unknown = True
         elif cjk >= 4 and gsim < 0.65:   # 可读文字不匹配 + 相似度边缘 → 弱证据拒答
             unknown = True
