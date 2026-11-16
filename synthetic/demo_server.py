@@ -54,6 +54,10 @@ _v3f = ROOT / "synthetic/vis_cache/v3_feats.npz"
 if _v3f.exists():
     z3 = np.load(_v3f, allow_pickle=True)
     negs_extra.append(gsc.transform(np.hstack([e8.l2(z3["Vc"]), e8.l2(z3["Vd"])])))
+_v19f = ROOT / "synthetic/vis_cache/v19_feats.npz"
+if _v19f.exists():
+    z19 = np.load(_v19f, allow_pickle=True)
+    negs_extra.append(gsc.transform(np.hstack([e8.l2(z19["Vc"]), e8.l2(z19["Vd"])])))
 Xn = np.vstack([Xg] + negs_extra)
 yn = np.array([0] * len(Xg) + [1] * (len(Xn) - len(Xg)))
 none_probe = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xn, yn)
